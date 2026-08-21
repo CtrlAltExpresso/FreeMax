@@ -1,1816 +1,287 @@
-# FreeMax - Complete Book List
-
-Bangladesh Diploma Engineering pass books organized by BTEB Probidhan 2022 course structure.
-
-## 0. Aerospace Aircraft Maintenance Technology ✈️
-
-### Semester 1
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-- Basic Aerodynamics — ❌ (coming soon)
-
-### Semester 2
-- Engineering Drawing — ❌ (coming soon)
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics-II — ❌ (coming soon)
-- Aircraft Structure & Repair — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Aircraft Materials — ❌ (coming soon)
-- Principles of Gas Turbine Engine — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Aircraft Fuel and Fire Protection — ❌ (coming soon)
-- Aircraft Pneumatic & Ice-Rain — ❌ (coming soon)
-- Aircraft Hardware — ❌ (coming soon)
-- Aircraft Hydraulic & Flight Controls — ❌ (coming soon)
-- Aircraft Gas Turbine Engine — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Gas Turbine Engine Starting and — ❌ (coming soon)
-- Aircraft Landing Gear — ❌ (coming soon)
-- Airconditioning and Pressurization — ❌ (coming soon)
-- Aircraft Propellers — ❌ (coming soon)
-- Helicopter Aerodynamics and — ❌ (coming soon)
-- Aircraft Digital Technique — ❌ (coming soon)
-
-### Semester 6
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Aircraft Equipment and Furnishing — ❌ (coming soon)
-- Helicopter Controls and Systems — ❌ (coming soon)
-- Engineering Ethics — ❌ (coming soon)
-- Aircraft Instrument System — ❌ (coming soon)
-- Aircraft Electrical Power — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Aviation Legislation-Framework — ❌ (coming soon)
-- Air Navigation Orders — ❌ (coming soon)
-- Aircraft Maintenance Practices — ❌ (coming soon)
-- Human Factors — ❌ (coming soon)
-- Aircraft Cabin & Information System — ❌ (coming soon)
-- Safety Management system and — ❌ (coming soon)
-
-## 1. Architecture Technology 🏛️
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life Skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemistry — ❌ (coming soon)
-- Creativity and Concept Development — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Architectural Design-I — ❌ (coming soon)
-- Civil Engineering Metarials — ❌ (coming soon)
-- Computer Office Application — ❌ (coming soon)
-
-### Semester 3
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Architectural Design-II — ❌ (coming soon)
-- Architectural Graphics — ❌ (coming soon)
-- Working Drawing-I — ❌ (coming soon)
-- Climatology — ❌ (coming soon)
-- Computer Aided Drawing -I — ❌ (coming soon)
-
-### Semester 4
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Architectural Design-III — ❌ (coming soon)
-- History of Architecture-I — ❌ (coming soon)
-- Working Drawing -II — ❌ (coming soon)
-- Computer Aided Drawing -II — ❌ (coming soon)
-- Basic Construction Process — ❌ (coming soon)
-- Basic Estimating & Costing — ✅ [PDF: Basic Estimating & Costing.pdf]
-
-### Semester 5
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Architectural Design-IV — ❌ (coming soon)
-- History of Architecture-II — ❌ (coming soon)
-- Model Making — ❌ (coming soon)
-- Presentation and Visual Technique — ❌ (coming soon)
-- Structural Mechanics — ✅ [PDF: Structural Mechanics.pdf]
-- Water Supply and Sanitary Engineering — ❌ (coming soon)
-
-### Semester 6
-- Industrial Management — ❌ (coming soon)
-- Architectural Design-V — ❌ (coming soon)
-- Computer Rendering and Animation-I — ❌ (coming soon)
-- Landscape Design — ❌ (coming soon)
-- Modern Architecture — ❌ (coming soon)
-- Interior Design -I — ❌ (coming soon)
-- Design of Structure-I — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Architectural Project — ❌ (coming soon)
-- Computer Rendering and Animation-II — ❌ (coming soon)
-- Urban Planning — ❌ (coming soon)
-- Professional Practice — ❌ (coming soon)
-- Interior Design -II — ❌ (coming soon)
-- Basic Surveying — ❌ (coming soon)
-
-## 2. Automobile Technology 🚗
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Automobile Fundamentals — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physical Education & Life Skills — ❌ (coming soon)
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics-II — ❌ (coming soon)
-- Automotive Engine System-I — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Automotive Engine System-II — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Machine Shop Practice I — ✅ [PDF: Machine Shop Practice I.pdf]
-- Mechanical Engineering Materials — ✅ [PDF: Mechanical Engineering Materials.pdf]
-- Computer Office Application — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Automotive Body Building — ❌ (coming soon)
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-- Metallurgy — ✅ [PDF: Metallurgy.pdf]
-- Engineering Thermodynamics — ✅ [PDF: Engineering Mechanics.pdf]
-- Fuels & Lubricants — ✅ [PDF: Fuels & Lubricants.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Automobile Air- Conditioning — ❌ (coming soon)
-- Advance Automotive Mechanisms — ❌ (coming soon)
-- Fluid Mechanics & Machineries — ✅ [PDF: Fluid Mechanics & Machineries.pdf]
-- Mechanical Estimating & Costing — ✅ [PDF: Mechanical Estimating & Costing.pdf]
-- Advanced Welding-I — ✅ [PDF: Advanced Welding-I.pdf]
-- Manufacturing Process — ✅ [PDF: Manufacturing Process.pdf]
-
-### Semester 6
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Engine Overhauling & Inspection — ❌ (coming soon)
-- Suspension, Brake, Steering & — ❌ (coming soon)
-- Specialized Vehicles, Two & Three — ❌ (coming soon)
-- Foundry & Pattern Making — ✅ [PDF: Foundry & Pattern Making.pdf]
-- Strength of Materials — ❌ (coming soon)
-- Mechanical Measurement & — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Automotive Electrical, Electronics — ❌ (coming soon)
-- Automotive Testing & Emission — ❌ (coming soon)
-- Shop Equipment, Service Station — ❌ (coming soon)
-- Automobile Engineering Project — ❌ (coming soon)
-- Design of Machine Elements — ❌ (coming soon)
-- Mechatronics & PLC — ✅ [PDF: Mechatronics & PLC.pdf]
-
-## 3. Avionics Aircraft Maintenance Technology 🛰️
-
-### Semester 1
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-- Basic Aerodynamics — ❌ (coming soon)
-
-### Semester 2
-- Engineering Drawing — ❌ (coming soon)
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics-II — ❌ (coming soon)
-- Aircraft Structure & Repair — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Aircraft Materials — ❌ (coming soon)
-- Aircraft DC Power System — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Aircraft Hardware — ❌ (coming soon)
-- Aircraft AC Power — ❌ (coming soon)
-- Aircraft Radio and Radar — ❌ (coming soon)
-- Aircraft Communication System — ❌ (coming soon)
-- Aircraft System I — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Turbine Engine Principles and — ❌ (coming soon)
-- Aircraft Electronics — ❌ (coming soon)
-- Aircraft System- II — ❌ (coming soon)
-- Aircraft Navigation System — ❌ (coming soon)
-- Aircraft Instrument System — ❌ (coming soon)
-- Aircraft Digital Technique — ❌ (coming soon)
-
-### Semester 6
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Engineering Ethics — ❌ (coming soon)
-- Aircraft Autopilot System — ❌ (coming soon)
-- Electronics Instrument System — ❌ (coming soon)
-- Aircraft Electrical Power — ❌ (coming soon)
-- Propulsion — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Aviation Legislation-Framework — ❌ (coming soon)
-- Air Navigation Orders — ❌ (coming soon)
-- Aircraft Maintenance Practices — ❌ (coming soon)
-- Human Factors — ❌ (coming soon)
-- Aircraft Cabin & Information — ❌ (coming soon)
-- Safety Management system and — ❌ (coming soon)
-
-## 4. Ceramics Technology 🏺
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skill — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemesitry — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Geological Engineering — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-- Ceramic Model Making — ❌ (coming soon)
-- Ceramic Engineering Metarials-1 — ❌ (coming soon)
-
-### Semester 3
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Model and Mould Fabrication-1 — ❌ (coming soon)
-- Ceramic Engineering Metarials-2 — ❌ (coming soon)
-- Ceramic Plants and Equipment — ❌ (coming soon)
-
-### Semester 4
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Ceramic Test and Calculation — ❌ (coming soon)
-- Ceramic Engineering Chemistry — ❌ (coming soon)
-- Refractories — ❌ (coming soon)
-- Model and Mould Fabrication-2 — ❌ (coming soon)
-- Ceramic Body Preparation — ❌ (coming soon)
-- Accounting — ✅ [PDF: Accounting.pdf]
-
-### Semester 5
-- Heavy Clay Products — ❌ (coming soon)
-- White Wares — ❌ (coming soon)
-- Ceramic Instrumentation and Process Control — ❌ (coming soon)
-- Ceramic Fabrication and Drying — ❌ (coming soon)
-- Cement Manufacturing — ❌ (coming soon)
-- Fuels and Combustion — ❌ (coming soon)
-- Industrial Management — ❌ (coming soon)
-
-### Semester 6
-- Tiles and Sanitary Wares — ❌ (coming soon)
-- Drier, Kiln and Furnace — ❌ (coming soon)
-- Ceramic Quality Control — ❌ (coming soon)
-- Ceramic Glaze and Colour — ❌ (coming soon)
-- Ceramic Decoration and Printing — ❌ (coming soon)
-- Graphic Design — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Principle of Marketing — ❌ (coming soon)
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Ceramic Engineering Project — ❌ (coming soon)
-- Advanced Ceramic Products — ❌ (coming soon)
-- Kiln, Furnace Design and Construction — ❌ (coming soon)
-- Glass Manufacturing — ❌ (coming soon)
-- CAD & CAM — ❌ (coming soon)
-
-## 5. Chemical Technology 🧪
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skill — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemistry — ❌ (coming soon)
-- Chemical Engineering — ❌ (coming soon)
-- Safety in Chemical Industry — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Basic Stoichiometry — ❌ (coming soon)
-- Chemical Engineering Drawing — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Chemical Engineering Operation-I — ❌ (coming soon)
-- Industrial Chemistry — ❌ (coming soon)
-- Chemical Engineering Materials — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 4
-- Businees Communication — ❌ (coming soon)
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Chemical Engineering Operation-II — ❌ (coming soon)
-- Chemical Process Industries-I — ❌ (coming soon)
-- Oil, Fats & Waxes — ❌ (coming soon)
-- Analytical Chemistry — ❌ (coming soon)
-- Computer Office Application — ❌ (coming soon)
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Chemical Engineering Operation-III — ❌ (coming soon)
-- Chemical Process Industries-II — ❌ (coming soon)
-- Water Treatment Technology — ❌ (coming soon)
-- Industrial Instrumentation & — ❌ (coming soon)
-- Refrigeration & Cold Storage — ❌ (coming soon)
-- Industrial Production Engineering — ❌ (coming soon)
-
-### Semester 6
-- Princple of Marketing — ❌ (coming soon)
-- Chemical Engineering Operation-IV — ❌ (coming soon)
-- Chemical Process Industries-III — ❌ (coming soon)
-- Petroleum & Petrochemicals — ❌ (coming soon)
-- Industrial Stoichiometry & — ❌ (coming soon)
-- Instrumental Methods of Analysis — ❌ (coming soon)
-- Jute & Textile Technology — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Chemical Engineering Operation-V — ❌ (coming soon)
-- Chemical Process Industries-IV — ❌ (coming soon)
-- Natural Gas & Fertilizer — ❌ (coming soon)
-- Plastic & Polymer Technology — ❌ (coming soon)
-- Corrosion Technology — ❌ (coming soon)
-- Chemical Engineering Project — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-## 6. Civil (Wood) Technology 🪵
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemistry — ❌ (coming soon)
-- Civil Engineering Materials — ✅ [PDF: Civil Engineering Materials.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physical Education & Life skills — ❌ (coming soon)
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Civil Engineering Drawing — ✅ [PDF: Civil Engineering Drawing.pdf]
-- Wood Workshop Practice — ✅ [PDF: Wood Workshop Practice.pdf]
-- Basic Electronics — ❌ (coming soon)
-
-### Semester 3
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Structural Mechanics — ✅ [PDF: Structural Mechanics.pdf]
-- Surveying-I — ✅ [PDF: Surveying-I.pdf]
-- Construction Process-I — ✅ [PDF: Construction Process-I.pdf]
-- Computer Office Application — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Construction Process-II — ❌ (coming soon)
-- Estimating & Costing-I — ❌ (coming soon)
-- Civil CAD-I — ✅ [PDF: Civil CAD-I.pdf]
-- Surveying-II — ✅ [PDF: Surveying-II.pdf]
-- Geotechnical Engineering — ✅ [PDF: Geotechnical Engineering.pdf]
-- Wood Engineering Machanics — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Foundation Engineering — ❌ (coming soon)
-- Theory of Structure — ✅ [PDF: Theory of Structure.pdf]
-- Water Supply Engineering — ✅ [PDF: Water Supply Engineering.pdf]
-- Design & Drawing of Furniture — ❌ (coming soon)
-- Wood Working Machine-I — ❌ (coming soon)
-- Wood CAD & CAM — ❌ (coming soon)
-
-### Semester 6
-- Transportation Engineering-I — ❌ (coming soon)
-- Design of Structure-I — ❌ (coming soon)
-- Hydraulics — ✅ [PDF: Hydraulics.pdf]
-- Wood Working Machine-II — ❌ (coming soon)
-- Wood Processing — ❌ (coming soon)
-- Wood Finishing — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Sanitary Engineering — ✅ [PDF: Sanitary Engineering.pdf]
-- Transportation Engineering-II — ❌ (coming soon)
-- Design of Structure-II — ✅ [PDF: Design of Structure-II.pdf]
-- Estimating & Costing-II — ✅ [PDF: Estimating & Costing-II.pdf]
-- Wood Working Project — ❌ (coming soon)
-- Furniture Fitting & Assembly — ❌ (coming soon)
-
-## 7. Civil Technology 🏗️
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemistry — ❌ (coming soon)
-- Civil Engineering Metarials — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physical Education & Life Skills — ❌ (coming soon)
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Civil Engineering Drawing — ✅ [PDF: Civil Engineering Drawing.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 3
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Structural Mechanics — ✅ [PDF: Structural Mechanics.pdf]
-- Surveying-I — ✅ [PDF: Surveying-I.pdf]
-- Construction Process-I — ✅ [PDF: Construction Process-I.pdf]
-- Computer Office Application — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Construction Process-II — ❌ (coming soon)
-- Estimating & Costing-I — ❌ (coming soon)
-- Civil CAD-I — ✅ [PDF: Civil CAD-I.pdf]
-- Surveying-II — ✅ [PDF: Surveying-II.pdf]
-- Geotechnical Engineering — ✅ [PDF: Geotechnical Engineering.pdf]
-- Hydrology — ✅ [PDF: Hydrology.pdf]
-- Wood Workshop Practice — ✅ [PDF: Wood Workshop Practice.pdf]
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Foundation Engineering — ❌ (coming soon)
-- Civil CAD-II — ✅ [PDF: Civil CAD-II.pdf]
-- Surveying-III — ✅ [PDF: Surveying-III.pdf]
-- Theory of Structure — ✅ [PDF: Theory of Structure.pdf]
-- Water Supply Engineering — ✅ [PDF: Water Supply Engineering.pdf]
-- Hydraulics — ✅ [PDF: Hydraulics.pdf]
-
-### Semester 6
-- Water Resources Engineering — ❌ (coming soon)
-- Advance Surveying — ❌ (coming soon)
-- Transportation Engineering-I — ❌ (coming soon)
-- Design of Structure-I — ❌ (coming soon)
-- Steel Structures — ❌ (coming soon)
-- Advanced Construction — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Principle of Marketing — ❌ (coming soon)
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Civil Engineering Project — ❌ (coming soon)
-- Sanitary Engineering — ✅ [PDF: Sanitary Engineering.pdf]
-- Transportation Engineering-II — ❌ (coming soon)
-- Design of Structure-II — ✅ [PDF: Design of Structure-II.pdf]
-- Estimating & Costing-II — ✅ [PDF: Estimating & Costing-II.pdf]
-- Construction Management & — ❌ (coming soon)
-
-## 8. Computer Science & Technology 💻
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physical Education & Life skills — ❌ (coming soon)
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Python Programming — ✅ [PDF: Python Programming.pdf]
-- Computer Graphics Design-I — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Application Development Using Python — ✅ [PDF: Application Development Using Python.pdf]
-- Computer Graphics Design-II — ❌ (coming soon)
-- IT Support Services — ✅ [PDF: IT Support Services.pdf]
-- Digital Electronics-I — ✅ [PDF: Digital Electronics-I.pdf]
-
-### Semester 4
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Java Programming — ✅ [PDF: Java Programming.pdf]
-- Data Structure & Algorithm — ✅ [PDF: Data Structure & Algorithm.pdf]
-- Computer Peripherals & Interfacing — ✅ [PDF: Computer Peripherals & Interfacing.pdf]
-- Web Design & Development-I — ❌ (coming soon)
-- Digital Electronics-II — ✅ [PDF: Digital Electronics-II.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 5
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Application Development Using Java — ❌ (coming soon)
-- Web Design & Development-II — ✅ [PDF: Web Design & Development-II.pdf]
-- Computer Architecture & — ✅ [PDF: Computer Architecture & Microprocessor.pdf]
-- Data Communication — ✅ [PDF: Data Communication.pdf]
-- Operating System — ✅ [PDF: Operating System.pdf]
-- Project Work-I — ❌ (coming soon)
-
-### Semester 6
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Industrial Management — ❌ (coming soon)
-- Database Management System — ❌ (coming soon)
-- Computer Networking — ❌ (coming soon)
-- Sensor & IoT System — ❌ (coming soon)
-- Microcontroller Based System Design & — ❌ (coming soon)
-- Surveillance Security System — ❌ (coming soon)
-- Web Development Project — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Digital Marketing Technique — ❌ (coming soon)
-- Network Administration & Services — ✅ [PDF: Network Administration & Services.pdf]
-- Cyber Security & Ethics — ✅ [PDF: Cyber Security & Ethics.pdf]
-- Apps Development Project — ✅ [PDF: Apps Development Project.pdf]
-- Multimedia & Animation — ✅ [PDF: Multimedia & Animation.pdf]
-- Project Work-II — ❌ (coming soon)
-
-## 9. Construction Technology 🏗️
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemistry — ❌ (coming soon)
-- Civil Engineering Materials — ✅ [PDF: Civil Engineering Materials.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physical Education & Life Skills — ❌ (coming soon)
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Civil Engineering Drawing — ✅ [PDF: Civil Engineering Drawing.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 3
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Structural Mechanics — ✅ [PDF: Structural Mechanics.pdf]
-- Surveying-I — ✅ [PDF: Surveying-I.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Construction Methodology-I — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Estimating & Costing-I — ❌ (coming soon)
-- Civil CAD-I — ✅ [PDF: Civil CAD-I.pdf]
-- Surveying-II — ✅ [PDF: Surveying-II.pdf]
-- Geotechnical Engineering — ✅ [PDF: Geotechnical Engineering.pdf]
-- Hydrology — ✅ [PDF: Hydrology.pdf]
-- Construction Methodology-II — ❌ (coming soon)
-- Construction Safety — ❌ (coming soon)
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Foundation Engineering — ❌ (coming soon)
-- Civil CAD-II — ✅ [PDF: Civil CAD-II.pdf]
-- Surveying-III — ✅ [PDF: Surveying-III.pdf]
-- Theory of Structure — ✅ [PDF: Theory of Structure.pdf]
-- Water Supply Engineering — ✅ [PDF: Water Supply Engineering.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 6
-- Hydraulics — ✅ [PDF: Hydraulics.pdf]
-- Water Resources Engineering — ❌ (coming soon)
-- Transportation Engineering-I — ❌ (coming soon)
-- Design of Structure-I — ❌ (coming soon)
-- Advanced Construction — ❌ (coming soon)
-- Building Facilities & Law — ❌ (coming soon)
-- Steel Structures — ❌ (coming soon)
-
-### Semester 7
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Sanitary Engineering — ✅ [PDF: Sanitary Engineering.pdf]
-- Transportation Engineering-II — ❌ (coming soon)
-- Design of Structure-II — ✅ [PDF: Design of Structure-II.pdf]
-- Estimating & Costing-II — ✅ [PDF: Estimating & Costing-II.pdf]
-- Construction Management & Documentation — ✅ [PDF: Construction Management & Documentation.pdf]
-- Construction Engineering Project — ✅ [PDF: Construction Management & Documentation.pdf]
-
-## 10. Electrical Technology 💡
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skill — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Electrical Engineering Materials — ✅ [PDF: Electrical Engineering Materials.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Electrical Circuits-I — ✅ [PDF: Electrical Circuits-I.pdf]
-- Electrical Engineering Drawing — ✅ [PDF: Electrical Circuits-I.pdf]
-- Basic Electronics — ❌ (coming soon)
-
-### Semester 3
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Chemistry — ❌ (coming soon)
-- Computer Office Applications — ❌ (coming soon)
-- Electrical Circuits-II — ✅ [PDF: Electrical Circuits-II.pdf]
-- Electrical Appliances — ✅ [PDF: Electrical Circuits-II.pdf]
-- Industrial Electronics — ✅ [PDF: Industrial Electronics.pdf]
-
-### Semester 4
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Electrical Installation,Planning — ❌ (coming soon)
-- DC Machine — ✅ [PDF: DC Machine.pdf]
-- Electrical Engineering Project-I — ❌ (coming soon)
-- Digital Electronics — ✅ [PDF: Digital Electronics.pdf]
-- Applied Mechanics — ❌ (coming soon)
-
-### Semester 5
-- Principle of Marketing — ❌ (coming soon)
-- Industrial Management — ❌ (coming soon)
-- Generation of Electrical Power — ❌ (coming soon)
-- Electrical & Electronic — ❌ (coming soon)
-- Testing and Maintannance of — ✅ [PDF: Testing and Maintannance of Electrical Equipments.pdf]
-- Electrical Engineering Project-II — ❌ (coming soon)
-- Microprocessor & — ❌ (coming soon)
-
-### Semester 6
-- Progamming in C — ❌ (coming soon)
-- AC Machine-I — ❌ (coming soon)
-- Transmission and Distribution of — ❌ (coming soon)
-- Electrical & Electronic — ❌ (coming soon)
-- Communication Engineering — ✅ [PDF: Communication Engineering.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- AC Machine-II — ❌ (coming soon)
-- Transmission and Distribution of — ❌ (coming soon)
-- Switch Gear and Protection — ✅ [PDF: Switch Gear and Protection.pdf]
-- Electrical Engineering Project-III — ❌ (coming soon)
-- Automation Engineering & PLC — ✅ [PDF: Automation Engineering & PLC.pdf]
-
-## 11. Electromedical Technology 🩺
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Human Anatomy and Physiology — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Electrical Circuits-I — ✅ [PDF: Electrical Circuits-I.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Basic Biomedical Engineering — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Electrical Circuits-II — ✅ [PDF: Electrical Circuits-II.pdf]
-- Medical transducer and Sensors — ❌ (coming soon)
-- Operating Room Equipment — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Electrical Installation,Planning and — ✅ [PDF: Electrical & Electronic Measurements-I.pdf]
-- DC Machine — ✅ [PDF: DC Machine.pdf]
-- Electrical & Electronic Measurements-I — ✅ [PDF: Electrical & Electronic Measurements-I.pdf]
-- Digital Electronics — ✅ [PDF: Digital Electronics.pdf]
-- Dental Equipment — ❌ (coming soon)
-- Anesthesia and Respiratory Equipment — ❌ (coming soon)
-
-### Semester 5
-- Principle of Marketing — ❌ (coming soon)
-- Industrial Management — ❌ (coming soon)
-- Programming in C — ✅ [PDF: Programming in C.pdf]
-- AC Machine-I — ❌ (coming soon)
-- Electrical & Electronic Measurements-II — ❌ (coming soon)
-- Radiology and Imaging Equipment — ❌ (coming soon)
-- Fibre Optics and Laser in Medical Field — ❌ (coming soon)
-- Physiotherapy and Rehabilitation Devices — ❌ (coming soon)
-
-### Semester 6
-- Transmission and Distribution of Electrical — ✅ [PDF: Transmission and Distribution of Electrical Power.pdf]
-- AC Machine-II — ❌ (coming soon)
-- Diagonestic and Laboratory Equipment — ❌ (coming soon)
-- Microprocesor and Biomedical Application — ❌ (coming soon)
-- Testing and Maintenance Biomedical — ❌ (coming soon)
-- CAD in Biomedical Engineering — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Switch Gear and Protection — ✅ [PDF: Switch Gear and Protection.pdf]
-- Advance Biomedical Equiment — ❌ (coming soon)
-- ICU and CCU Equipment — ❌ (coming soon)
-- Biomedical Engineering Project — ❌ (coming soon)
-- Medical Physics and Nuclear — ❌ (coming soon)
-
-## 12. Electronics Technology 🔬
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Electronics — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physical Education & Life — ❌ (coming soon)
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Electrical Circuits-I — ✅ [PDF: Electrical Circuits-I.pdf]
-- Electronic Devices and — ❌ (coming soon)
-
-### Semester 3
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Electrical Circuits-II — ✅ [PDF: Electrical Circuits-II.pdf]
-- Digital Electronics -I — ❌ (coming soon)
-- Power Electronics — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Installation,Planning and — ❌ (coming soon)
-- DC Machine — ✅ [PDF: DC Machine.pdf]
-- Digital Electronics -II — ❌ (coming soon)
-- Communication Engineering — ✅ [PDF: Communication Engineering.pdf]
-- Networks, Filters and — ✅ [PDF: Networks, Filters and Transmission lines.pdf]
-- Electronic servicing — ❌ (coming soon)
-
-### Semester 5
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Industrial Management — ❌ (coming soon)
-- Programming in C — ✅ [PDF: Programming in C.pdf]
-- Generation of Electrical Power — ❌ (coming soon)
-- Electrical & Electronic — ❌ (coming soon)
-- Television Engineering — ✅ [PDF: Television Engineering.pdf]
-- Electronic Appliances — ✅ [PDF: Electronic Appliances.pdf]
-- Bio-Medical Instruments — ✅ [PDF: Bio-Medical Instruments.pdf]
-
-### Semester 6
-- AC Machine-I — ❌ (coming soon)
-- Transmission and Distribution — ✅ [PDF: Transmission and Distribution of Eectrical Power.pdf]
-- Electrical & Electronic — ❌ (coming soon)
-- TV Studio and Broadcasting — ❌ (coming soon)
-- Microcontroller and — ❌ (coming soon)
-- PCB Design and Prototyping — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Innovation & — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- AC Machine-II — ❌ (coming soon)
-- Industrial Automation and — ✅ [PDF: Industrial Automation and PLC.pdf]
-- Control System and Robotics — ✅ [PDF: Control System and Robotics.pdf]
-- Electronic Project — ❌ (coming soon)
-
-## 13. Environmental Technology 🌱
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemistry — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Environmental Engineering — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Civil Engineering Drawing — ✅ [PDF: Civil Engineering Drawing.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-
-### Semester 3
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Civil Engineering Metarials — ❌ (coming soon)
-- Surveying-I — ✅ [PDF: Surveying-I.pdf]
-- Construction Process-I — ✅ [PDF: Construction Process-I.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-- Water Quality Engineering — ❌ (coming soon)
-
-### Semester 4
-- Physical Education & Life skills Development — ❌ (coming soon)
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Structural Mechanics — ✅ [PDF: Structural Mechanics.pdf]
-- Estimating & Costing-I — ❌ (coming soon)
-- Civil CAD-I — ✅ [PDF: Civil CAD-I.pdf]
-- Surveying-II — ✅ [PDF: Surveying-II.pdf]
-- Geotechnical Engineering — ✅ [PDF: Geotechnical Engineering.pdf]
-- Environmental Chemistry — ❌ (coming soon)
-
-### Semester 5
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Construction Process-II — ❌ (coming soon)
-- Theory of Structure — ✅ [PDF: Theory of Structure.pdf]
-- Water Supply Engineering — ✅ [PDF: Water Supply Engineering.pdf]
-- Water and Waste Water Engineering — ❌ (coming soon)
-- Environmental Microbiology — ❌ (coming soon)
-- Geographic Information System (GIS) & — ❌ (coming soon)
-
-### Semester 6
-- Industrial Management — ❌ (coming soon)
-- Hydraulics — ✅ [PDF: Hydraulics.pdf]
-- Transportation Engineering-I — ❌ (coming soon)
-- Design of Structure-I — ❌ (coming soon)
-- Environmental Impact Assessment (EIA) & — ❌ (coming soon)
-- Air Pollution & Control Engineering — ❌ (coming soon)
-- Environmenatl Auditing — ❌ (coming soon)
-- Health, Safety & Environment (HSE) — ❌ (coming soon)
-
-### Semester 7
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Sanitary Engineering — ✅ [PDF: Sanitary Engineering.pdf]
-- Estimating & Costing-II — ✅ [PDF: Estimating & Costing-II.pdf]
-- Construction Management & Documentation — ✅ [PDF: Construction Management & Documentation.pdf]
-- Energy & Environmental Engineering — ❌ (coming soon)
-- Solid and Hazardous Waste Engineering — ❌ (coming soon)
-- Climate Change and Adaptability — ❌ (coming soon)
-
-## 14. Food Technology 🍔
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemistry — ❌ (coming soon)
-- Food Engineering Fundamentals — ❌ (coming soon)
-- Food Safety & Hygiene — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Food Science & Nutrition — ❌ (coming soon)
-- Food Plant Layout & Design — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer office Application — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Catering Management — ❌ (coming soon)
-- Food Industrial Chemistry — ❌ (coming soon)
-
-### Semester 4
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Food Microbiology-I — ❌ (coming soon)
-- Food Preservation-I — ❌ (coming soon)
-- Food Chemistry — ❌ (coming soon)
-- Food Packaging — ❌ (coming soon)
-- Dairy Products — ❌ (coming soon)
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Refrigeration & Cold Storage — ❌ (coming soon)
-- Food Microbiology-II — ❌ (coming soon)
-- Food Preservation-II — ❌ (coming soon)
-- Food Biotechnology — ❌ (coming soon)
-- Food & Beverage Products — ❌ (coming soon)
-- Food Industrial Instrumentation & — ❌ (coming soon)
-
-### Semester 6
-- Industrial Stoichiometry & — ❌ (coming soon)
-- Instrumental Methods of Analysis — ❌ (coming soon)
-- Food Engineering Operation-I — ❌ (coming soon)
-- Food Process Industries-I — ❌ (coming soon)
-- Bakery Products — ❌ (coming soon)
-- Food Adulteration & Toxicology — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Food Engineering Operation-II — ❌ (coming soon)
-- Food Process Industries-II — ❌ (coming soon)
-- Food Quality Control & Assurance — ❌ (coming soon)
-- Confectionery Products — ❌ (coming soon)
-- Food Analysis — ❌ (coming soon)
-- Food Engineering Project — ❌ (coming soon)
-
-## 15. Footwear Technology 👟
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Physical Education & Life skills — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Footwear Engineering Fundamentals — ❌ (coming soon)
-- Materials Science and Engineering — ❌ (coming soon)
-- Mechanical Engineering Fundamentals — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Computer Office Appilication — ❌ (coming soon)
-- Footwear Manufacturing - I — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-- Footwear Manufacturing - II — ❌ (coming soon)
-- Tanning and Footwear Materials — ❌ (coming soon)
-- Leather Manufacturing - I — ❌ (coming soon)
-- Corpoarte Scocial Responcibilies — ❌ (coming soon)
-- Footwear Design - I — ❌ (coming soon)
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Footwear Manufacturing - III — ❌ (coming soon)
-- Footwear Design - II — ❌ (coming soon)
-- Physical Testing - I — ❌ (coming soon)
-- Leather Products Manufacturing — ❌ (coming soon)
-- Chemical Testing — ❌ (coming soon)
-- Leather Manufacturing - II — ❌ (coming soon)
-
-### Semester 6
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Principle of Marketing — ❌ (coming soon)
-- Footwear Manufacturing - IV — ❌ (coming soon)
-- CAD and CAM For Footwear — ❌ (coming soon)
-- Physical Testing - II — ❌ (coming soon)
-- Supply Chain Management — ❌ (coming soon)
-- Manufacturing Machineries — ❌ (coming soon)
-- Automation in Footwear Industry — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Production Planning for Footwear — ❌ (coming soon)
-- International Trade and Finance — ❌ (coming soon)
-- Merchandiging — ❌ (coming soon)
-- Footwear Engineering Project — ❌ (coming soon)
-- Quality Control and Assurence — ❌ (coming soon)
-- Solid Waste Management — ❌ (coming soon)
-
-## 16. Glass Technology 🪟
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Chemesitry — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Glass engineering materials‐I — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physical Education & Life skill — ❌ (coming soon)
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Glass Engineering Materials‐II — ❌ (coming soon)
-
-### Semester 3
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-- Glass Mould & Die‐I — ❌ (coming soon)
-- Glass Plants & Equipment — ❌ (coming soon)
-- Preparation of Glass Raw Materials — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Automation Engineering & PLC — ✅ [PDF: Automation Engineering & PLC.pdf]
-- Glass Engineering Chemistry — ❌ (coming soon)
-- Glass Mould & Die ‐II — ❌ (coming soon)
-- Glass Fabrication ‐I — ❌ (coming soon)
-- Fuels and Combustion — ❌ (coming soon)
-- Graphics Design — ❌ (coming soon)
-
-### Semester 5
-- Principle of Marketing — ❌ (coming soon)
-- Industrial Management — ❌ (coming soon)
-- CAD & CAM — ❌ (coming soon)
-- Cement Manufacturing — ❌ (coming soon)
-- Glass Melting Furnace — ❌ (coming soon)
-- Glass Fabrication‐II — ❌ (coming soon)
-- Ceramic Manufracturing‐I — ❌ (coming soon)
-
-### Semester 6
-- Refractories — ❌ (coming soon)
-- Ceramic Manufacturing‐II — ❌ (coming soon)
-- Heat Transfer & Thermodynamics — ❌ (coming soon)
-- Glass Quality Control‐I — ❌ (coming soon)
-- Glass Products‐I — ❌ (coming soon)
-- Glass Industrial Safety — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Glass Products‐II — ❌ (coming soon)
-- Glass Quality Control‐II — ❌ (coming soon)
-- Glass Decoration & Printing — ❌ (coming soon)
-- Glass House Instrumentation — ❌ (coming soon)
-- Furnace Design & Construction — ❌ (coming soon)
-- Glass Engineering Project — ❌ (coming soon)
-
-## 17. Graphic Design Technology 🎨
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-- Printing Basics — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Offset Machine Operation — ❌ (coming soon)
-
-### Semester 3
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Graphic Materials — ❌ (coming soon)
-- Graphic Design-I — ❌ (coming soon)
-- Basic Photography — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-- Screen Printing — ❌ (coming soon)
-- Safety and Maintainance — ❌ (coming soon)
-- Image Carrier Preparation — ❌ (coming soon)
-- Graphic Design-II — ❌ (coming soon)
-- Video and Sound Editing — ❌ (coming soon)
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Digital Design & Printing — ❌ (coming soon)
-- Advertising Design — ❌ (coming soon)
-- Fabric Design — ❌ (coming soon)
-- Design & Editing — ❌ (coming soon)
-- Packaging Design-I — ❌ (coming soon)
-- Graphic Design-III — ❌ (coming soon)
-
-### Semester 6
-- Principle of Marketing — ❌ (coming soon)
-- Printing Costing & Estimating — ❌ (coming soon)
-- Desktop Publishing — ❌ (coming soon)
-- Web Design & Development — ❌ (coming soon)
-- Graphic Design-IV — ❌ (coming soon)
-- Image Manipulation — ❌ (coming soon)
-- Graphic Professional Practice-I — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Animation — ❌ (coming soon)
-- Packaging Design-II — ❌ (coming soon)
-- Advanced Digital Photography — ❌ (coming soon)
-- Graphic Design-V — ❌ (coming soon)
-- Graphic Communication — ❌ (coming soon)
-- Graphic Professional Practice-II — ❌ (coming soon)
-
-## 18. Marine Technology 🚢
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Machine Shop Practice I — ✅ [PDF: Machine Shop Practice I.pdf]
-- General Ship Knowledge — ❌ (coming soon)
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Machine Shop Practice II — ✅ [PDF: Machine Shop Practice II.pdf]
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-- Engineering Thermodynamics — ✅ [PDF: Engineering Mechanics.pdf]
-- Marine IC Engine-I — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Metallurgy — ✅ [PDF: Metallurgy.pdf]
-- Fluid Mechanics & Hydraulic — ❌ (coming soon)
-- Marine IC Engine- II — ❌ (coming soon)
-- Naval Architecture — ❌ (coming soon)
-- Welding — ❌ (coming soon)
-- Computer Office Appilication — ❌ (coming soon)
-
-### Semester 5
-- Marine Auxiliary Systems — ❌ (coming soon)
-- Unknown_27952 — ❌ (coming soon)
-- Marine Fuels & Lubricants — ❌ (coming soon)
-- Marine IC Engine Operation & — ❌ (coming soon)
-- Basic Safety & Security — ❌ (coming soon)
-- Maritime Laws — ❌ (coming soon)
-- Machine Drawing — ❌ (coming soon)
-- Ship Construction & Repair — ❌ (coming soon)
-- Industrial Management — ❌ (coming soon)
-- Strength of Materials — ❌ (coming soon)
-- CAD & CAM — ❌ (coming soon)
-- Power System Protection — ❌ (coming soon)
-- Marine Electrical Installation & — ❌ (coming soon)
-- Shipboard Deck machinery, Out- — ❌ (coming soon)
-- Marine Propulsion & Steering — ❌ (coming soon)
-- Marine Enviromental Science — ❌ (coming soon)
-- Principles of Marketing — ❌ (coming soon)
-- Innovation & Entrepreneurship — ❌ (coming soon)
-- Leadership & Professional Ethics — ❌ (coming soon)
-- Advanced Machine Drawing — ❌ (coming soon)
-- Marine IC Engine Overhauling and — ❌ (coming soon)
-- Career Guideline in Maritime Sector — ❌ (coming soon)
-- RAC Cycles & Components — ❌ (coming soon)
-- Applied Heat — ❌ (coming soon)
-- Control Engineering & Mechatronics — ❌ (coming soon)
-- Presentation on Industrial — ❌ (coming soon)
-
-## 19. Mechanical Technology ⚙️
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life Skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-- Machine Shop Practice I — ✅ [PDF: Machine Shop Practice I.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Mechanical Engineering Drawing — ✅ [PDF: Mechanical Engineering Drawing.pdf]
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Mechanical Engineering Materials — ✅ [PDF: Mechanical Engineering Materials.pdf]
-- Machine Shop Practice-II — ❌ (coming soon)
-- RAC Cycles and Components — ✅ [PDF: RAC Cycles and Components.pdf]
-- Computer Office Application — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-- Machine Shop Practice III — ✅ [PDF: Machine Shop Practice III.pdf]
-- Metallurgy — ✅ [PDF: Metallurgy.pdf]
-- Engineering Thermodynamics — ✅ [PDF: Engineering Mechanics.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Fluid Mechanics & Machineries — ✅ [PDF: Fluid Mechanics & Machineries.pdf]
-- Mechanical Estimating & Costing — ✅ [PDF: Mechanical Estimating & Costing.pdf]
-- Advanced Welding-I — ✅ [PDF: Advanced Welding-I.pdf]
-- Foundry & Pattern Making — ✅ [PDF: Foundry & Pattern Making.pdf]
-- Manufacturing Process — ✅ [PDF: Manufacturing Process.pdf]
-- Progamming in C — ❌ (coming soon)
-
-### Semester 6
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Automobile Fundamentals — ❌ (coming soon)
-- Strength of Materials — ❌ (coming soon)
-- Mechanical Measurement & Metrology — ❌ (coming soon)
-- CAD & CAM — ❌ (coming soon)
-- Advanced Welding-II — ❌ (coming soon)
-- Plant Engineering & Maintainance — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Design of Machine Elements — ❌ (coming soon)
-- Tool Design — ✅ [PDF: Tool Design.pdf]
-- Heat Treatment of Metal — ✅ [PDF: Heat Treatment of Metal.pdf]
-- Mechanical Engineering Project — ❌ (coming soon)
-- Production Planning & Control — ✅ [PDF: Production Planning & Control.pdf]
-- Mechatronics & PLC — ✅ [PDF: Mechatronics & PLC.pdf]
-
-## 20. Mechatronics Technology 🤖
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Physical Education & Life Skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics-II — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Machine Shop Practice I — ✅ [PDF: Machine Shop Practice I.pdf]
-- Mechanical Engineering Drawing — ✅ [PDF: Mechanical Engineering Drawing.pdf]
-
-### Semester 3
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Electronic Devices & Circuits — ✅ [PDF: Electronic Devices & Circuits.pdf]
-- Mechanical Engineering Materials — ✅ [PDF: Mechanical Engineering Materials.pdf]
-- Basic Mechatronics — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Progamming in C — ❌ (coming soon)
-- Machine Shop Practice II — ✅ [PDF: Machine Shop Practice II.pdf]
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-- Engineering Thermodynamics — ✅ [PDF: Engineering Mechanics.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-- Electrical Circuits & Machine — ❌ (coming soon)
-
-### Semester 5
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Industrial Management — ❌ (coming soon)
-- Digital Electronics — ✅ [PDF: Digital Electronics.pdf]
-- Fluid Mechanics & Machineries — ✅ [PDF: Fluid Mechanics & Machineries.pdf]
-- Manufacturing Process — ✅ [PDF: Manufacturing Process.pdf]
-- Power Plant Enginnering — ❌ (coming soon)
-- Programmable Logic Controller — ❌ (coming soon)
-
-### Semester 6
-- Industrial Electronics — ✅ [PDF: Industrial Electronics.pdf]
-- Strength of Materials — ❌ (coming soon)
-- Mechanical Measurement & — ❌ (coming soon)
-- CAD & CAM — ❌ (coming soon)
-- Microprocessor & Microcontroller — ❌ (coming soon)
-- Instrumentation & Control System — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Design of Machine Elements — ❌ (coming soon)
-- Production Planning & Control — ✅ [PDF: Production Planning & Control.pdf]
-- Hybride & Electric Vehicle — ❌ (coming soon)
-- Mechatronics Engineering Project — ❌ (coming soon)
-- Industrial Automation System — ❌ (coming soon)
-- Networks & Communications — ❌ (coming soon)
-
-## 21. Power Technology ⚡
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physical Education & Life — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Power Engineering Fundmental — ✅ [PDF: Power Engineering Fundmental.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-- Power Equipment Management — ✅ [PDF: Power Equipment Management & Safety.pdf]
-- Computer Office Application — ❌ (coming soon)
-
-### Semester 3
-- Physics-II — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Machine Shop Practice- I — ❌ (coming soon)
-- Engineering Thermodynamics — ✅ [PDF: Engineering Thermodynamics.pdf]
-- RAC Cycles & Components — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-- Metallurgy — ✅ [PDF: Metallurgy.pdf]
-- IC Engine Details — ❌ (coming soon)
-- Fuels & Lubricants — ✅ [PDF: Fuels & Lubricants.pdf]
-- Suspention, Brake, Steering & — ❌ (coming soon)
-- Progamming in C — ❌ (coming soon)
-
-### Semester 5
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Industrial Management — ❌ (coming soon)
-- Automotive Body Building — ❌ (coming soon)
-- Fluid Mechanics & — ✅ [PDF: Fluid Mechanics & Machineries.pdf]
-- Advanced Welding-I — ✅ [PDF: Advanced Welding-I.pdf]
-- Electricity,Electronics & — ❌ (coming soon)
-- Power Plant Enginnering — ❌ (coming soon)
-
-### Semester 6
-- Transmission and Distribution — ✅ [PDF: Transmission and Distribution of Electrical Power.pdf]
-- Strength of Materials — ❌ (coming soon)
-- Mechanical Measurement & — ❌ (coming soon)
-- Plant Engineering & — ❌ (coming soon)
-- Engine Overhauling, Inspection — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-
-### Semester 7
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Design of Machine Elements — ❌ (coming soon)
-- Heat Treatment of Metal — ✅ [PDF: Heat Treatment of Metal.pdf]
-- Operation,Estimating & — ❌ (coming soon)
-- Hybrid & Electric Vehicle — ❌ (coming soon)
-- Power Engineering Project — ❌ (coming soon)
-
-## 22. Printing Technology 🖨️
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-- Printing Basics — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Offset Machine Operation — ❌ (coming soon)
-
-### Semester 3
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Graphic Materials — ❌ (coming soon)
-- Graphic Design-I — ❌ (coming soon)
-- Basic Photography — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-- Screen Printing — ❌ (coming soon)
-- Safety and Maintainance — ❌ (coming soon)
-- Image Carrier Preparation — ❌ (coming soon)
-- Graphic Design-II — ❌ (coming soon)
-- Video and Sound Editing — ❌ (coming soon)
-
-### Semester 5
-- Industrial Management — ❌ (coming soon)
-- Flexo & Can Printing — ❌ (coming soon)
-- Color Printing-I — ❌ (coming soon)
-- Printing Quality Control — ❌ (coming soon)
-- Ink & Paper — ❌ (coming soon)
-- Digital Design & Printing — ❌ (coming soon)
-- Graphics Design-III — ❌ (coming soon)
-
-### Semester 6
-- Principle of Marketing — ❌ (coming soon)
-- Printing Costing & Estimating — ❌ (coming soon)
-- Color Printing -II — ❌ (coming soon)
-- Printing Professional Practice -I — ❌ (coming soon)
-- Gravure Printing — ❌ (coming soon)
-- Packaging Design-I — ❌ (coming soon)
-- Image Manipulation — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Advanced Printing — ❌ (coming soon)
-- Trouble Shooting Management in — ❌ (coming soon)
-- Print Finishing — ❌ (coming soon)
-- Printing Professional Practice -II — ❌ (coming soon)
-- Packaging Design-II — ❌ (coming soon)
-- Graphic Communication — ❌ (coming soon)
-
-## 23. RAC Technology ❄️
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Workshop Practice — ❌ (coming soon)
-- RAC Fundamental — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Physical Education & Life skills — ❌ (coming soon)
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Mechanical Engineering Drawing — ✅ [PDF: Mechanical Engineering Drawing.pdf]
-- Mechanical Engineering Materials — ✅ [PDF: Mechanical Engineering Drawing.pdf]
-
-### Semester 3
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Automobile Fundamentals — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Engineering Thermodynamics — ✅ [PDF: Engineering Thermodynamics.pdf]
-- RAC Cycles & Components — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Machine Shop Practice I — ✅ [PDF: Machine Shop Practice I.pdf]
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-- Circuits and Electrical Machine in RAC — ❌ (coming soon)
-- Transport RAC — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-- Computer Office Application — ❌ (coming soon)
-
-### Semester 5
-- Principle of Marketing — ❌ (coming soon)
-- Metallurgy — ✅ [PDF: Metallurgy.pdf]
-- Fluid Mechanics & Machineries — ✅ [PDF: Fluid Mechanics & Machineries.pdf]
-- Mechanical Estimating & Costing — ✅ [PDF: Mechanical Estimating & Costing.pdf]
-- Heating Ventilation & Air Conditioning — ❌ (coming soon)
-- Commercial & Industrial RAC — ❌ (coming soon)
-- Progamming in C — ❌ (coming soon)
-
-### Semester 6
-- Industrial Management — ❌ (coming soon)
-- Manufacturing Process — ✅ [PDF: Manufacturing Process.pdf]
-- Strength of Materials — ❌ (coming soon)
-- CAD & CAM — ❌ (coming soon)
-- Plant Engineering & Maintainance — ❌ (coming soon)
-- Cooling &Heating Load Calculation — ❌ (coming soon)
-- RAC Plant Installation Maintenance & — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Production Planning & Control — ✅ [PDF: Production Planning & Control.pdf]
-- RAC System Analysis — ❌ (coming soon)
-- RAC Project — ❌ (coming soon)
-- Advance RAC — ❌ (coming soon)
-- RAC for Food Preservation — ❌ (coming soon)
-- Mechatronics & PLC — ✅ [PDF: Mechatronics & PLC.pdf]
-
-## 24. Shipbuilding Technology 🛠️
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla -I — ❌ (coming soon)
-- English -I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basic Workshop Practice — ❌ (coming soon)
-
-### Semester 2
-- Bangla-II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Chemistry — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Basic Electronics — ❌ (coming soon)
-- Machine Shop Practice I — ✅ [PDF: Machine Shop Practice I.pdf]
-- General Ship Knowledge — ❌ (coming soon)
-
-### Semester 3
-- Physical Education & Life skill — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Machine Shop Practice II — ✅ [PDF: Machine Shop Practice II.pdf]
-- Engineering Mechanics — ✅ [PDF: Engineering Mechanics.pdf]
-- Engineering Thermodynamics — ✅ [PDF: Engineering Mechanics.pdf]
-- Marine IC Engine-I — ❌ (coming soon)
-- Machine Drawing — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Metallurgy — ✅ [PDF: Metallurgy.pdf]
-- Strength of Materials — ❌ (coming soon)
-- Marine IC Engine-II — ❌ (coming soon)
-- Naval Architecture — ❌ (coming soon)
-- Welding — ❌ (coming soon)
-- Computer Office Appilication — ❌ (coming soon)
-
-### Semester 5
-- Marine Auxiliary Systems — ❌ (coming soon)
-- Marine Fuels & Lubricants — ❌ (coming soon)
-- Basic Safety & Security — ❌ (coming soon)
-- Maritime Laws — ❌ (coming soon)
-- Shipbuilding Drawing — ❌ (coming soon)
-- Shipyard Practice — ❌ (coming soon)
-- Ship Construction & Repair — ❌ (coming soon)
-
-### Semester 6
-- Industrial Management — ❌ (coming soon)
-- CAD & CAM — ❌ (coming soon)
-- Marine Electrical Installation & — ❌ (coming soon)
-- Shipboard Deck machinery, Out-fittings — ❌ (coming soon)
-- Marine Propulsion & Steering System — ❌ (coming soon)
-- Marine Enviromental Science — ❌ (coming soon)
-- Ship Design — ❌ (coming soon)
-- Advanced Welding — ❌ (coming soon)
-- Estimating & Costing in Shipbuilding — ❌ (coming soon)
-
-### Semester 7
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Fluid Mechanics & Hydraulic Machinery — ❌ (coming soon)
-- Marine Boiler & Steam Engineering — ❌ (coming soon)
-- Marine IC Engine Operation & — ❌ (coming soon)
-- Leadership & Professional Ethics — ❌ (coming soon)
-- Career Guideline in Maritime Sector — ❌ (coming soon)
-- RAC Cycles & Components — ❌ (coming soon)
-- Control Engineering & Mechatronics — ❌ (coming soon)
-
-## 25. Surveying Technology 📐
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics -I — ✅ [PDF: Physics -I.pdf]
-- Civil Engineering Materials — ✅ [PDF: Civil Engineering Materials.pdf]
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English -II — ❌ (coming soon)
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Basic Electronics — ❌ (coming soon)
-- Basic Surveying — ❌ (coming soon)
-
-### Semester 3
-- Chemistry — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Statistics — ❌ (coming soon)
-- Basic Construction Process — ❌ (coming soon)
-- Leveling — ❌ (coming soon)
-- Survey CAD — ❌ (coming soon)
-- Geography of Bangladesh — ❌ (coming soon)
-- Geodetic Surveying — ❌ (coming soon)
-
-### Semester 4
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Structural Mechanics — ✅ [PDF: Structural Mechanics.pdf]
-- Basic Estimating & Costing — ✅ [PDF: Basic Estimating & Costing.pdf]
-- Aerial Photography and — ❌ (coming soon)
-- Fundamentals of GIS — ❌ (coming soon)
-- Advanced Surveying-I — ❌ (coming soon)
-- Digital Cartography — ❌ (coming soon)
-
-### Semester 5
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Theory of Structure — ✅ [PDF: Theory of Structure.pdf]
-- Python Programming — ✅ [PDF: Python Programming.pdf]
-- Advanced GIS — ❌ (coming soon)
-- Hydraulics & Hydrology — ❌ (coming soon)
-- Advanced Surveying-II — ❌ (coming soon)
-- Land Laws of Bangladesh — ❌ (coming soon)
-- Environmental Studies — ❌ (coming soon)
-
-### Semester 6
-- Industrial Management — ❌ (coming soon)
-- Transportation Engineering-I — ❌ (coming soon)
-- Design of Structure-I — ❌ (coming soon)
-- Principles of Topographic Survey — ❌ (coming soon)
-- Application of Python — ❌ (coming soon)
-- Hydrographic Surveying — ❌ (coming soon)
-- Survey Project-I — ❌ (coming soon)
-- Preapartion and Maintainces of — ❌ (coming soon)
-
-### Semester 7
-- Principles of Marketing — ✅ [PDF: Principles of Marketing.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- Transportation Enggineering-II — ❌ (coming soon)
-- Design of Structure -II — ❌ (coming soon)
-- Mine Surveying — ❌ (coming soon)
-- Survey Project-II — ❌ (coming soon)
-- Remote Sensing — ❌ (coming soon)
-- Construction Mangement — ❌ (coming soon)
-
-## 26. Telecommunication Technology 📶
-
-### Semester 1
-- Engineering Drawing — ❌ (coming soon)
-- Bangla-I — ✅ [PDF: Bangla-I.pdf]
-- English-I — ❌ (coming soon)
-- Mathematics -I — ✅ [PDF: Mathematics -I.pdf]
-- Physics-I — ❌ (coming soon)
-- Basic Electricity — ✅ [PDF: Basic Electricity.pdf]
-- Basics of Telecommunication — ❌ (coming soon)
-
-### Semester 2
-- Bangla -II — ✅ [PDF: Bangla-II.pdf]
-- English-II — ✅ [PDF: English-II.pdf]
-- Social Science — ✅ [PDF: Social Science.pdf]
-- Physical Education & Life skills — ❌ (coming soon)
-- Mathematics-II — ✅ [PDF: Mathematics-II.pdf]
-- Physics -II — ✅ [PDF: Physics -II.pdf]
-- Electrical Circuits-I — ✅ [PDF: Electrical Circuits-I.pdf]
-- Basic Electronics — ❌ (coming soon)
-
-### Semester 3
-- Chemistry — ❌ (coming soon)
-- Mathematics-III — ✅ [PDF: Mathematics-III.pdf]
-- Computer Office Application — ❌ (coming soon)
-- Electrical Circuits-II — ✅ [PDF: Electrical Circuits-II.pdf]
-- Electronic Devices and Circuits — ❌ (coming soon)
-- Telecom Workshop and Outside — ❌ (coming soon)
-
-### Semester 4
-- Accounting — ✅ [PDF: Accounting.pdf]
-- Progamming in C — ❌ (coming soon)
-- Electrical Installation,Planning — ✅ [PDF: Electrical Installation,Planning and Estimating.pdf]
-- Digital Electronics — ✅ [PDF: Digital Electronics.pdf]
-- Radio and TV Engineering — ❌ (coming soon)
-- IT Support and IoT Basics — ❌ (coming soon)
-- Data Communications and — ❌ (coming soon)
-
-### Semester 5
-- Principle of Marketing — ❌ (coming soon)
-- Industrial Management — ❌ (coming soon)
-- DC Machine — ✅ [PDF: DC Machine.pdf]
-- Generation of Electrical Power — ❌ (coming soon)
-- Electrical & Electronic — ✅ [PDF: Electrical & Electronic Measurements-I.pdf]
-- Microprocessor & — ✅ [PDF: Microprocessor & Microcontroller.pdf]
-- Multimedia and Webpage — ❌ (coming soon)
-
-### Semester 6
-- AC Machine-I — ❌ (coming soon)
-- Electrical & Electronic — ❌ (coming soon)
-- Transmission and Distribution — ❌ (coming soon)
-- Environmental Studies — ✅ [PDF: Environmental Studies.pdf]
-- Wireless and Mobile — ❌ (coming soon)
-- Signals and Switching System — ❌ (coming soon)
-
-### Semester 7
-- Business Communication — ✅ [PDF: Business Communication.pdf]
-- Innovation & Entrepreneurship — ✅ [PDF: Innovation & Entrepreneurship.pdf]
-- AC Machine-II — ❌ (coming soon)
-- Switch Gear and Protection — ✅ [PDF: Switch Gear and Protection.pdf]
-- Microwave Engineering and — ❌ (coming soon)
-- Optical Fiber Communication — ❌ (coming soon)
-- Satellite Communication and — ❌ (coming soon)
+# FreeMax Book List
+
+Total PDFs in repo: 1554
+
+## Technologies
+
+### Aerospace Aircraft Maintenance Technology ✈️ (13 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 3 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 2 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 1 PDFs
+
+### Architecture Technology 🏛️ (31 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 19 PDFs
+- Semester 3: 1 PDFs
+- Semester 4: 3 PDFs
+- Semester 5: 2 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 2 PDFs
+
+### Automobile Technology 🚗 (36 PDFs)
+
+- Semester 1: 4 PDFs
+- Semester 2: 3 PDFs
+- Semester 3: 4 PDFs
+- Semester 4: 6 PDFs
+- Semester 5: 4 PDFs
+- Semester 6: 3 PDFs
+- Semester 7: 2 PDFs
+- Semester_3: 10 PDFs
+
+### Avionics Aircraft Maintenance Technology 🛰️ (13 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 3 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 2 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 1 PDFs
+
+### Ceramics Technology 🏺 (13 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 4 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 2 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 1 PDFs
+
+### Chemical Technology 🧪 (25 PDFs)
+
+- Semester 1: 2 PDFs
+- Semester 2: 4 PDFs
+- Semester 3: 15 PDFs
+- Semester 4: 2 PDFs
+- Semester 7: 2 PDFs
+
+### Civil (Wood) Technology 🪵 (29 PDFs)
+
+- Semester 1: 5 PDFs
+- Semester 2: 6 PDFs
+- Semester 3: 5 PDFs
+- Semester 4: 4 PDFs
+- Semester 5: 2 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 5 PDFs
+
+### Civil Technology 🏗️ (194 PDFs)
+
+- Semester 1: 6 PDFs
+- Semester 2: 20 PDFs
+- Semester 3: 5 PDFs
+- Semester 4: 6 PDFs
+- Semester 5: 5 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 4 PDFs
+- Semester_3: 29 PDFs
+- Semester_4: 39 PDFs
+- Semester_5: 26 PDFs
+- Semester_7: 53 PDFs
+
+### Computer Science & Technology 💻 (319 PDFs)
+
+- Semester 1: 102 PDFs
+- Semester 2: 18 PDFs
+- Semester 3: 19 PDFs
+- Semester 4: 6 PDFs
+- Semester 5: 5 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 5 PDFs
+- Semester_1: 10 PDFs
+- Semester_2: 12 PDFs
+- Semester_3: 39 PDFs
+- Semester_4: 33 PDFs
+- Semester_5: 33 PDFs
+- Semester_7: 36 PDFs
+
+### Construction Technology 🏗️ (41 PDFs)
+
+- Semester 1: 5 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 4 PDFs
+- Semester 4: 5 PDFs
+- Semester 5: 5 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 6 PDFs
+- Semester_7: 10 PDFs
+
+### Electrical Technology 💡 (262 PDFs)
+
+- Semester 1: 43 PDFs
+- Semester 2: 6 PDFs
+- Semester 3: 4 PDFs
+- Semester 4: 4 PDFs
+- Semester 5: 1 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 4 PDFs
+- Semester_1: 28 PDFs
+- Semester_2: 28 PDFs
+- Semester_3: 14 PDFs
+- Semester_4: 39 PDFs
+- Semester_5: 33 PDFs
+- Semester_6: 10 PDFs
+- Semester_7: 46 PDFs
+
+### Electromedical Technology 🩺 (21 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 3 PDFs
+- Semester 4: 4 PDFs
+- Semester 5: 1 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 3 PDFs
+
+### Electronics Technology 🔬 (99 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 3 PDFs
+- Semester 4: 4 PDFs
+- Semester 5: 5 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 5 PDFs
+- Semester_2: 15 PDFs
+- Semester_3: 10 PDFs
+- Semester_4: 9 PDFs
+- Semester_7: 38 PDFs
+
+### Environmental Technology 🌱 (26 PDFs)
+
+- Semester 1: 4 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 3 PDFs
+- Semester 4: 5 PDFs
+- Semester 5: 3 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 5 PDFs
+
+### Food Technology 🍔 (15 PDFs)
+
+- Semester 1: 2 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 3 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 2 PDFs
+
+### Footwear Technology 👟 (61 PDFs)
+
+- Semester 1: 51 PDFs
+- Semester 2: 4 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 2 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 1 PDFs
+
+### Glass Technology 🪟 (14 PDFs)
+
+- Semester 1: 4 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 1 PDFs
+- Semester 4: 2 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 1 PDFs
+
+### Graphic Design Technology 🎨 (13 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 2 PDFs
+- Semester 7: 1 PDFs
+
+### Marine Technology 🚢 (17 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 5 PDFs
+- Semester 4: 2 PDFs
+- Semester 7: 2 PDFs
+
+### Mechanical Technology ⚙️ (145 PDFs)
+
+- Semester 1: 4 PDFs
+- Semester 2: 6 PDFs
+- Semester 3: 5 PDFs
+- Semester 4: 6 PDFs
+- Semester 5: 5 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 5 PDFs
+- Semester_1: 5 PDFs
+- Semester_3: 5 PDFs
+- Semester_4: 15 PDFs
+- Semester_5: 50 PDFs
+- Semester_7: 38 PDFs
+
+### Mechatronics Technology 🤖 (52 PDFs)
+
+- Semester 1: 4 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 5 PDFs
+- Semester 4: 5 PDFs
+- Semester 5: 15 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 2 PDFs
+- Semester_7: 15 PDFs
+
+### Power Technology ⚡ (24 PDFs)
+
+- Semester 1: 5 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 4 PDFs
+- Semester 5: 3 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 3 PDFs
+
+### Printing Technology 🖨️ (13 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 2 PDFs
+- Semester 7: 1 PDFs
+
+### RAC Technology ❄️ (24 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 6 PDFs
+- Semester 3: 4 PDFs
+- Semester 4: 4 PDFs
+- Semester 5: 3 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 3 PDFs
+
+### Shipbuilding Technology 🛠️ (15 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 4 PDFs
+- Semester 4: 2 PDFs
+- Semester 7: 1 PDFs
+
+### Surveying Technology 📐 (18 PDFs)
+
+- Semester 1: 6 PDFs
+- Semester 2: 3 PDFs
+- Semester 3: 1 PDFs
+- Semester 4: 3 PDFs
+- Semester 5: 3 PDFs
+- Semester 7: 2 PDFs
+
+### Telecommunication Technology 📶 (21 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 6 PDFs
+- Semester 3: 2 PDFs
+- Semester 4: 3 PDFs
+- Semester 5: 3 PDFs
+- Semester 6: 1 PDFs
+- Semester 7: 3 PDFs
