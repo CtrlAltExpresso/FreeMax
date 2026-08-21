@@ -1,36 +1,34 @@
 # FreeMax Book List
 
-Total PDFs in repo: 1296
+Total PDFs in repo: 727
+### Aerospace Aircraft Maintenance Technology ✈️ (36 PDFs)
 
-
-### Aerospace Aircraft Maintenance Technology ✈️ (13 PDFs)
-
-- Semester 1: 3 PDFs
+- Semester 1: 20 PDFs
 - Semester 2: 3 PDFs
-- Semester 3: 2 PDFs
-- Semester 4: 2 PDFs
-- Semester 6: 2 PDFs
-- Semester 7: 1 PDFs
-
-### Architecture Technology 🏛️ (18 PDFs)
-
-- Semester 1: 3 PDFs
-- Semester 2: 6 PDFs
-- Semester 3: 1 PDFs
-- Semester 4: 3 PDFs
-- Semester 5: 2 PDFs
-- Semester 6: 1 PDFs
+- Semester 3: 3 PDFs
+- Semester 4: 4 PDFs
+- Semester 6: 4 PDFs
 - Semester 7: 2 PDFs
 
-### Automobile Technology 🚗 (36 PDFs)
+### Architecture Technology 🏛️ (32 PDFs)
+
+- Semester 1: 3 PDFs
+- Semester 2: 7 PDFs
+- Semester 3: 1 PDFs
+- Semester 4: 8 PDFs
+- Semester 5: 4 PDFs
+- Semester 6: 3 PDFs
+- Semester 7: 6 PDFs
+
+### Automobile Technology 🚗 (44 PDFs)
 
 - Semester 1: 4 PDFs
 - Semester 2: 3 PDFs
-- Semester 3: 14 PDFs
-- Semester 4: 6 PDFs
-- Semester 5: 4 PDFs
-- Semester 6: 3 PDFs
-- Semester 7: 2 PDFs
+- Semester 3: 10 PDFs
+- Semester 4: 10 PDFs
+- Semester 5: 10 PDFs
+- Semester 6: 4 PDFs
+- Semester 7: 3 PDFs
 
 ### Avionics Aircraft Maintenance Technology 🛰️ (13 PDFs)
 
@@ -40,6 +38,10 @@ Total PDFs in repo: 1296
 - Semester 4: 2 PDFs
 - Semester 6: 2 PDFs
 - Semester 7: 1 PDFs
+
+### Cadastral Topographic Survey & Land Information Technology 🗺️ (5 PDFs)
+
+- Semester 5: 5 PDFs
 
 ### Ceramics Technology 🏺 (13 PDFs)
 
@@ -68,27 +70,27 @@ Total PDFs in repo: 1296
 - Semester 6: 2 PDFs
 - Semester 7: 5 PDFs
 
-### Civil Technology 🏗️ (180 PDFs)
+### Civil Technology 🏗️ (54 PDFs)
 
 - Semester 1: 5 PDFs
-- Semester 2: 7 PDFs
-- Semester 3: 34 PDFs
-- Semester 4: 45 PDFs
-- Semester 5: 31 PDFs
+- Semester 2: 8 PDFs
+- Semester 3: 8 PDFs
+- Semester 4: 14 PDFs
+- Semester 5: 9 PDFs
 - Semester 6: 1 PDFs
-- Semester 7: 57 PDFs
+- Semester 7: 9 PDFs
 
-### Computer Science & Technology 💻 (194 PDFs)
+### Computer Science & Technology 💻 (55 PDFs)
 
-- Semester 1: 14 PDFs
-- Semester 2: 16 PDFs
-- Semester 3: 45 PDFs
-- Semester 4: 39 PDFs
-- Semester 5: 38 PDFs
+- Semester 1: 5 PDFs
+- Semester 2: 5 PDFs
+- Semester 3: 16 PDFs
+- Semester 4: 11 PDFs
+- Semester 5: 8 PDFs
 - Semester 6: 1 PDFs
-- Semester 7: 41 PDFs
+- Semester 7: 9 PDFs
 
-### Construction Technology 🏗️ (41 PDFs)
+### Construction Technology 🏗️ (32 PDFs)
 
 - Semester 1: 5 PDFs
 - Semester 2: 5 PDFs
@@ -96,37 +98,37 @@ Total PDFs in repo: 1296
 - Semester 4: 5 PDFs
 - Semester 5: 5 PDFs
 - Semester 6: 1 PDFs
-- Semester 7: 16 PDFs
+- Semester 7: 7 PDFs
 
-### Electrical Technology 💡 (224 PDFs)
+### Electrical Technology 💡 (50 PDFs)
 
-- Semester 1: 34 PDFs
-- Semester 2: 34 PDFs
-- Semester 3: 18 PDFs
-- Semester 4: 43 PDFs
-- Semester 5: 34 PDFs
-- Semester 6: 12 PDFs
-- Semester 7: 49 PDFs
+- Semester 1: 9 PDFs
+- Semester 2: 11 PDFs
+- Semester 3: 6 PDFs
+- Semester 4: 7 PDFs
+- Semester 5: 5 PDFs
+- Semester 6: 4 PDFs
+- Semester 7: 8 PDFs
 
-### Electromedical Technology 🩺 (21 PDFs)
+### Electromedical Technology 🩺 (23 PDFs)
 
 - Semester 1: 3 PDFs
 - Semester 2: 5 PDFs
 - Semester 3: 3 PDFs
 - Semester 4: 4 PDFs
-- Semester 5: 1 PDFs
-- Semester 6: 2 PDFs
+- Semester 5: 2 PDFs
+- Semester 6: 3 PDFs
 - Semester 7: 3 PDFs
 
-### Electronics Technology 🔬 (99 PDFs)
+### Electronics Technology 🔬 (37 PDFs)
 
 - Semester 1: 3 PDFs
-- Semester 2: 20 PDFs
-- Semester 3: 13 PDFs
-- Semester 4: 13 PDFs
-- Semester 5: 5 PDFs
+- Semester 2: 6 PDFs
+- Semester 3: 4 PDFs
+- Semester 4: 6 PDFs
+- Semester 5: 8 PDFs
 - Semester 6: 2 PDFs
-- Semester 7: 43 PDFs
+- Semester 7: 8 PDFs
 
 ### Environmental Technology 🌱 (26 PDFs)
 
@@ -173,38 +175,38 @@ Total PDFs in repo: 1296
 - Semester 4: 2 PDFs
 - Semester 7: 1 PDFs
 
-### Marine Technology 🚢 (17 PDFs)
+### Marine Technology 🚢 (18 PDFs)
 
 - Semester 1: 3 PDFs
 - Semester 2: 5 PDFs
 - Semester 3: 5 PDFs
 - Semester 4: 2 PDFs
-- Semester 7: 2 PDFs
+- Semester 7: 3 PDFs
 
-### Mechanical Technology ⚙️ (145 PDFs)
+### Mechanical Technology ⚙️ (44 PDFs)
 
-- Semester 1: 9 PDFs
-- Semester 2: 6 PDFs
-- Semester 3: 10 PDFs
-- Semester 4: 21 PDFs
-- Semester 5: 55 PDFs
+- Semester 1: 5 PDFs
+- Semester 2: 7 PDFs
+- Semester 3: 6 PDFs
+- Semester 4: 8 PDFs
+- Semester 5: 9 PDFs
 - Semester 6: 1 PDFs
-- Semester 7: 43 PDFs
+- Semester 7: 8 PDFs
 
-### Mechatronics Technology 🤖 (42 PDFs)
+### Mechatronics Technology 🤖 (29 PDFs)
 
 - Semester 1: 4 PDFs
 - Semester 2: 5 PDFs
 - Semester 3: 5 PDFs
 - Semester 4: 5 PDFs
 - Semester 5: 5 PDFs
-- Semester 6: 1 PDFs
-- Semester 7: 17 PDFs
+- Semester 6: 2 PDFs
+- Semester 7: 3 PDFs
 
-### Power Technology ⚡ (24 PDFs)
+### Power Technology ⚡ (26 PDFs)
 
-- Semester 1: 5 PDFs
-- Semester 2: 5 PDFs
+- Semester 1: 6 PDFs
+- Semester 2: 6 PDFs
 - Semester 3: 2 PDFs
 - Semester 4: 4 PDFs
 - Semester 5: 3 PDFs
@@ -255,6 +257,3 @@ Total PDFs in repo: 1296
 - Semester 5: 3 PDFs
 - Semester 6: 1 PDFs
 - Semester 7: 3 PDFs
-
----
-*Generated: 2026-08-21*
