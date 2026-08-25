@@ -4,10 +4,12 @@
 
 **Complete Pass Book library for Bangladeshi Diploma Engineering students**
 
-93 pass books across **28 technologies**, organized exactly like the Softmax Learning app
-(**Technology → Semester → Subject**), plus a full write-up of how they were collected.
+**93 pass books** + **42,468 YouTube lecture videos** across **28 technologies** and
+**34 departments**, organized exactly like the Softmax Learning app
+(**Department → Semester → Subject → Videos**), plus a full write-up of how they were collected.
 
 [![Books](https://img.shields.io/badge/books-93-16a34a?style=flat-square)](#-catalog)
+[![Videos](https://img.shields.io/badge/videos-42%2C468-f59e0b?style=flat-square)](#-video-links)
 [![Technologies](https://img.shields.io/badge/technologies-28-0f172a?style=flat-square)](#-catalog)
 [![Made for students](https://img.shields.io/badge/made%20for-students-64748b?style=flat-square)](#)
 
@@ -51,9 +53,10 @@ don't have a pass book yet (shown as "coming soon" in the app).
 The master syllabus is [`full_book_list.md`](full_book_list.md) — every technology, semester,
 subject, and PDF. You can also browse:
 
-| Folder | PDFs |
+| Folder | Contents |
 |---|---|
 | `Books/` | All 93 pass books, organized by technology → semester |
+| `Videos/` | 42,468 YouTube lecture links — browsable HTML page organized by department → semester → subject |
 | `Extras/` | 12 bonus books not in the pass-book catalog (Clean Code, Programming, etc.) |
 | `docs/` | How the books were collected + how to do it yourself |
 
@@ -62,6 +65,8 @@ subject, and PDF. You can also browse:
 - **93 unique PDFs** (the complete set referenced in `full_book_list.md`)
 - **527 placements** across all 28 technologies' semesters
 - **12 bonus PDFs** in `Extras/`
+- **42,468 lecture videos** organized into 205 subjects across 34 departments (8 semesters)
+- **8,232 hours** of video content total
 - Every PDF verified with `pdfinfo` (page counts correct, files open cleanly)
 
 ## 🧭 How it's organized
@@ -75,6 +80,41 @@ repo: Books/3. Civil Technology 🏗️/Semester_5/Water Supply Engineering.pdf
 ```
 
 If you're a student, just find your technology, your semester, and read.
+
+## 🎬 Video Links
+
+`Videos/video_links_organized.html` is a self-contained, dark-themed HTML page with
+**42,468 clickable YouTube lecture links** scraped from the Softmax app's video metadata API.
+
+Open it directly in your browser — no server needed:
+
+```
+# locally
+open Videos/video_links_organized.html
+
+# or on GitHub Pages / any static host
+```
+
+**What's inside:**
+- **34 departments** (Civil Technology, Electrical Technology, CS & Tech, etc.)
+- **8 semesters** per department (1st through 7th + special)
+- **205 subjects** matched to their official course structure
+- Each video shows: order number, title, duration (mm:ss), and a direct YouTube link
+- Real-time search across all videos
+- Sidebar navigation for quick jump to any department/semester/subject
+
+**Stats:**
+| Metric | Count |
+|---|---|
+| Departments | 34 |
+| Semesters | 8 |
+| Subjects | 205 |
+| Matched videos | 37,480 |
+| Uncategorized videos | 4,988 |
+| Total | 42,468 |
+
+> **Note:** ~2% of links may be private/unlisted and require Softmax app access to watch.
+> ~4% may be broken (deleted/moved). The rest are publicly accessible YouTube links.
 
 ## 🔎 How this data was collected
 
