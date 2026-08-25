@@ -2,15 +2,15 @@
 
 # 📚 FreeMax
 
-**Complete Pass Book library for Bangladeshi Diploma Engineering students**
+**Complete Pass Book library + YouTube lecture video index for Bangladeshi Diploma Engineering students**
 
-**93 pass books** + **42,468 YouTube lecture videos** across **28 technologies** and
+**628 pass book PDFs** + **42,468 YouTube lecture videos** across **28 technologies** and
 **34 departments**, organized exactly like the Softmax Learning app
-(**Department → Semester → Subject → Videos**), plus a full write-up of how they were collected.
+(**Technology → Semester → Subject**), plus a full write-up of how they were collected.
 
-[![Books](https://img.shields.io/badge/books-93-16a34a?style=flat-square)](#-catalog)
-[![Videos](https://img.shields.io/badge/videos-42%2C468-f59e0b?style=flat-square)](#-video-links)
+[![Books](https://img.shields.io/badge/books-628-16a34a?style=flat-square)](#-catalog)
 [![Technologies](https://img.shields.io/badge/technologies-28-0f172a?style=flat-square)](#-catalog)
+[![Videos](https://img.shields.io/badge/videos-42%2C468-f59e0b?style=flat-square)](#-video-links)
 [![Made for students](https://img.shields.io/badge/made%20for-students-64748b?style=flat-square)](#)
 
 </div>
@@ -28,25 +28,24 @@ re-organized into a clean, browsable structure:
 ```
 Books/
 ├── 0. Architecture 🏛️/
-│   ├── Semester_1/
+│   ├── Semester 1/
 │   │   ├── Bangla-I.pdf
 │   │   ├── Mathematics -I.pdf
 │   │   └── Basic Electricity.pdf
-│   ├── Semester_2/
+│   ├── Semester 2/
 │   └── ...
 ├── 1. Automobile Technology 🚗/
-│   ├── Semester_1/
+│   ├── Semester 1/
 │   └── ...
 └── 27. Footwear Technology 👟/
 ```
 
-Each technology contains `Semester_1` … `Semester_7` folders. Every **✅** subject in
+Each technology contains `Semester 1` … `Semester 7` folders. Every **✅** subject in
 [`full_book_list.md`](full_book_list.md) has its PDF in the matching folder. Subjects marked **❌**
 don't have a pass book yet (shown as "coming soon" in the app).
 
-> **Note on duplicates:** one physical PDF (e.g. *Bangla-I*, *Social Science*) appears in many
-> technologies' curricula. Only one real file is stored per PDF; the other locations are
-> **symlinks** to it, so the repo stays small (~600 MB) instead of 3.4 GB.
+> **Note on duplicates:** The same PDF (e.g. *Bangla-I*, *Social Science*) appears in many
+> technologies' curricula. Each copy is stored independently, so the repo is ~3.7 GB.
 
 ## 📊 Catalog
 
@@ -55,18 +54,17 @@ subject, and PDF. You can also browse:
 
 | Folder | Contents |
 |---|---|
-| `Books/` | All 93 pass books, organized by technology → semester |
-| `Videos/` | 42,468 YouTube lecture links — browsable HTML page organized by department → semester → subject |
-| `Extras/` | 12 bonus books not in the pass-book catalog (Clean Code, Programming, etc.) |
-| `docs/` | How the books were collected + how to do it yourself |
+| `Books/` | All 628 pass book PDFs, organized by technology → semester |
+| `Videos/` | 42,468 YouTube lecture links — markdown files organized by department → course → subject |
+| `Extras/` | 12 bonus PDFs not in the pass-book catalog (Clean Code, Programming, etc.) |
+| `docs/` | How the books + videos were collected, plus full API documentation |
 
 ### Quick facts
 
-- **93 unique PDFs** (the complete set referenced in `full_book_list.md`)
-- **527 placements** across all 28 technologies' semesters
+- **628 pass book PDFs** across 28 technologies (many duplicated across technologies)
+- **122 unique book titles** (deduplicated by filename)
 - **12 bonus PDFs** in `Extras/`
-- **42,468 lecture videos** organized into 205 subjects across 34 departments (8 semesters)
-- **8,232 hours** of video content total
+- **42,468 lecture videos** organized into 165 subject files across 34 departments
 - Every PDF verified with `pdfinfo` (page counts correct, files open cleanly)
 
 ## 🧭 How it's organized
@@ -83,32 +81,35 @@ If you're a student, just find your technology, your semester, and read.
 
 ## 🎬 Video Links
 
-`Videos/video_links_organized.html` is a self-contained, dark-themed HTML page with
-**42,468 clickable YouTube lecture links** scraped from the Softmax app's video metadata API.
-
-Open it directly in your browser — no server needed:
+`Videos/` contains **165 markdown files** with **42,468 clickable YouTube lecture links** scraped
+from the Softmax app's video metadata API, organized to match the app's course hierarchy:
 
 ```
-# locally
-open Videos/video_links_organized.html
-
-# or on GitHub Pages / any static host
+Videos/
+├── 💻 COMPUTER SCIENCE & TECHNOLOGY/
+│   ├── Semester 4/
+│   │   ├── Data Structure and Algorithm (Update).md
+│   │   └── Java Programming (Update).md
+│   └── Semester 6/
+│       ├── Database Management System.md
+│       └── ...
+├── 🏗️ Civil Technology (SAE)/
+│   ├── Civil SAE/          ← job-pattern questions
+│   ├── PSC Pattern/        ← PSC exam pattern
+│   └── MIST Pattern/
+├── ⚡ Electrical Technology (SAE)/
+│   └── General (Job)/      ← Bangla, English, Math, GK
+└── ...
 ```
 
-**What's inside:**
-- **34 departments** (Civil Technology, Electrical Technology, CS & Tech, etc.)
-- **8 semesters** per department (1st through 7th + special)
-- **205 subjects** matched to their official course structure
-- Each video shows: order number, title, duration (mm:ss), and a direct YouTube link
-- Real-time search across all videos
-- Sidebar navigation for quick jump to any department/semester/subject
+Each `.md` file is a table of videos with title, duration, and clickable `[Watch](YouTube URL)` links.
 
 **Stats:**
 | Metric | Count |
 |---|---|
 | Departments | 34 |
-| Semesters | 8 |
-| Subjects | 205 |
+| Courses (folders) | 40+ |
+| Subject files | 165 |
 | Matched videos | 37,480 |
 | Uncategorized videos | 4,988 |
 | Total | 42,468 |
@@ -118,24 +119,24 @@ open Videos/video_links_organized.html
 
 ## 🔎 How this data was collected
 
-This wasn't scraped from some random site — the PDFs come from the **Softmax Learning app's own
-API** (the same files the app streams to paying users), downloaded with an authenticated session
-and reassembled chapter-by-chapter into complete books.
+The PDFs and video links come from the **Softmax Learning app's own API** — the same data the
+app streams to paying users. Everything was downloaded with an authenticated session and
+reorganized into this clean structure.
 
-The full, step-by-step process is documented in **[`docs/RETRIEVAL_PROCESS.md`](docs/RETRIEVAL_PROCESS.md)**,
+The full process is documented in **[`docs/RETRIEVAL_PROCESS.md`](docs/RETRIEVAL_PROCESS.md)**,
 including:
 
 - How the app's API was mapped (the `.env` endpoint table)
 - How authentication works (`X-APP-KEY`, OTP flow)
-- The exact request → response flow that returns each book's chapters
+- The exact request → response flow for books and videos
 - How chapters were stitched into single PDFs and verified
-- Why **one book chapter is missing** and what to do about it
+- How 42,468 video metadata records were fetched and matched to subjects
 
 ## 🧑‍💻 Do it yourself
 
-Want to pull these yourself, re-run the pipeline, or check for newly added books?
+Want to pull these yourself, re-run the pipeline, or check for newly added books/videos?
 See **[`docs/HOW_TO_DO_IT_YOURSELF.md`](docs/HOW_TO_DO_IT_YOURSELF.md)** — a copy-paste guide with
-the exact API calls and a script outline.
+the exact API calls, scripts, and full step-by-step instructions.
 
 ## ⚖️ Disclaimer
 
