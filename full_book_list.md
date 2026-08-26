@@ -1,7 +1,7 @@
 # FreeMax Book List
 
-Total PDFs in repo: 626
-### Aerospace Aircraft Maintenance Technology ✈️ (23 PDFs)
+Total PDFs in repo: 614
+### Aerospace Aircraft Maintenance Technology ✈️ (19 PDFs)
 
 - Semester 1: 13 PDFs
 - Semester 2: 3 PDFs
@@ -70,7 +70,7 @@ Total PDFs in repo: 626
 - Semester 6: 2 PDFs
 - Semester 7: 5 PDFs
 
-### Civil Technology 🏗️ (39 PDFs)
+### Civil Technology 🏗️ (37 PDFs)
 
 - Semester 1: 5 PDFs
 - Semester 2: 6 PDFs
@@ -80,7 +80,7 @@ Total PDFs in repo: 626
 - Semester 6: 1 PDFs
 - Semester 7: 7 PDFs
 
-### Computer Science & Technology 💻 (34 PDFs)
+### Computer Science & Technology 💻 (33 PDFs)
 
 - Semester 1: 5 PDFs
 - Semester 2: 4 PDFs
@@ -100,7 +100,7 @@ Total PDFs in repo: 626
 - Semester 6: 1 PDFs
 - Semester 7: 6 PDFs
 
-### Electrical Technology 💡 (37 PDFs)
+### Electrical Technology 💡 (35 PDFs)
 
 - Semester 1: 6 PDFs
 - Semester 2: 9 PDFs
@@ -149,7 +149,7 @@ Total PDFs in repo: 626
 - Semester 6: 1 PDFs
 - Semester 7: 2 PDFs
 
-### Footwear Technology 👟 (14 PDFs)
+### Footwear Technology 👟 (13 PDFs)
 
 - Semester 1: 4 PDFs
 - Semester 2: 4 PDFs
@@ -183,7 +183,7 @@ Total PDFs in repo: 626
 - Semester 4: 2 PDFs
 - Semester 7: 3 PDFs
 
-### Mechanical Technology ⚙️ (35 PDFs)
+### Mechanical Technology ⚙️ (33 PDFs)
 
 - Semester 1: 5 PDFs
 - Semester 2: 6 PDFs
