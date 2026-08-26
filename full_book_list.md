@@ -1,7 +1,6 @@
 # FreeMax Book List
 
-Total PDFs in repo: 628
-Total PDFs in repo: 628
+Total PDFs in repo: 626
 ### Aerospace Aircraft Maintenance Technology ✈️ (23 PDFs)
 
 - Semester 1: 13 PDFs
@@ -81,11 +80,11 @@ Total PDFs in repo: 628
 - Semester 6: 1 PDFs
 - Semester 7: 7 PDFs
 
-### Computer Science & Technology 💻 (36 PDFs)
+### Computer Science & Technology 💻 (34 PDFs)
 
 - Semester 1: 5 PDFs
 - Semester 2: 4 PDFs
-- Semester 3: 8 PDFs
+- Semester 3: 6 PDFs
 - Semester 4: 8 PDFs
 - Semester 5: 5 PDFs
 - Semester 6: 1 PDFs
