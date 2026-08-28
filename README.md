@@ -56,6 +56,7 @@ subject, and PDF. You can also browse:
 |---|---|
 | `Books/` | All 717 pass book PDFs, organized by technology → semester |
 | `Videos/` | 42,468 YouTube lecture links — markdown files organized by department → course → subject |
+| `QuestionBanks/` | 74 question-bank PDFs merged by subject (BTEB diploma question papers) |
 | `docs/` | How the books + videos were collected, plus full API documentation |
 
 ### Quick facts
@@ -63,6 +64,7 @@ subject, and PDF. You can also browse:
 - **717 pass book PDFs** across 35 technologies (many duplicated across technologies)
 - **4,500+ MB** of educational content
 - **42,468 lecture videos** organized into 165 subject files across 34 departments
+- **74 question-bank PDFs** merged by subject (BTEB diploma question papers)
 - Every PDF verified with `pdfinfo` (page counts correct, files open cleanly)
 
 ## 🧭 How it's organized
@@ -114,6 +116,25 @@ Each `.md` file is a table of videos with title, duration, and clickable `[Watch
 
 > **Note:** ~2% of links may be private/unlisted and require Softmax app access to watch.
 > ~4% may be broken (deleted/moved). The rest are publicly accessible YouTube links.
+
+## 📝 Question Banks
+
+`QuestionBanks/` holds **74 BTEB diploma question-bank PDFs**, each merged by subject across
+institutes and years (689 exam-paper pages total). Unlike `Books/`, these are standalone subject
+question papers rather than pass books, so they live in a flat subject-keyed folder:
+
+```
+QuestionBanks/
+├── Mathematics 3.pdf
+├── Java Application Development.pdf
+├── Computer Architecture and Microprocessor.pdf
+├── Basic Electronics.pdf
+└── ... (74 subjects)
+```
+
+Every file is named for its subject in plain English (e.g. *Mathematics 3*, *Physics 1*,
+*Electrical Circuit 2*). They came from the same Softmax app API as the pass books and videos
+(`web/question-banks` endpoint), and were merged from 433 individual per-institute papers.
 
 ## 🔎 How this data was collected
 
