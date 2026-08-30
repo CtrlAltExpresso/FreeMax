@@ -4,11 +4,11 @@
 
 **Complete Pass Book library + YouTube lecture video index for Bangladeshi Diploma Engineering students**
 
-**717 pass book PDFs** + **42,468 YouTube lecture videos** across **35 technologies** and
+**646 pass book PDFs** + **42,468 YouTube lecture videos** across **35 technologies** and
 **34 departments**, organized exactly like the Softmax Learning app
 (**Technology → Semester → Subject**), plus a full write-up of how they were collected.
 
-[![Books](https://img.shields.io/badge/books-717-16a34a?style=flat-square)](#-catalog)
+[![Books](https://img.shields.io/badge/books-646-16a34a?style=flat-square)](#-catalog)
 [![Technologies](https://img.shields.io/badge/technologies-35-0f172a?style=flat-square)](#-catalog)
 [![Videos](https://img.shields.io/badge/videos-42%2C468-f59e0b?style=flat-square)](#-video-links)
 [![Made for students](https://img.shields.io/badge/made%20for-students-64748b?style=flat-square)](#)
@@ -45,7 +45,7 @@ Each technology contains `Semester 1` … `Semester 7` folders. Every **✅** su
 don't have a pass book yet (shown as "coming soon" in the app).
 
 > **Note on duplicates:** The same PDF (e.g. *Bangla-I*, *Social Science*) appears in many
-> technologies' curricula. Each copy is stored independently, so the repo is ~4.5 GB.
+> technologies' curricula. Each copy is stored independently, so the repo is ~4.3 GB.
 
 ## 📊 Catalog
 
@@ -54,15 +54,15 @@ subject, and PDF. You can also browse:
 
 | Folder | Contents |
 |---|---|
-| `Books/` | All 717 pass book PDFs, organized by technology → semester |
+| `Books/` | All 646 pass book PDFs, organized by technology → semester |
 | `Videos/` | 42,468 YouTube lecture links — markdown files organized by department → course → subject |
 | `QuestionBanks/` | 74 question-bank PDFs merged by subject (BTEB diploma question papers) |
 | `docs/` | How the books + videos were collected, plus full API documentation |
 
 ### Quick facts
 
-- **717 pass book PDFs** across 35 technologies (many duplicated across technologies)
-- **4,500+ MB** of educational content
+- **646 pass book PDFs** across 35 technologies (many duplicated across technologies)
+- **4,300+ MB** of educational content
 - **42,468 lecture videos** organized into 165 subject files across 34 departments
 - **74 question-bank PDFs** merged by subject (BTEB diploma question papers)
 - Every PDF verified with `pdfinfo` (page counts correct, files open cleanly)
