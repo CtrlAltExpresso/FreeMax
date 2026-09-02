@@ -4,12 +4,12 @@
 
 **Complete Pass Book library + YouTube lecture video index for Bangladeshi Diploma Engineering students**
 
-**646 pass book PDFs** + **42,468 YouTube lecture videos** across **35 technologies** and
-**34 departments**, organized exactly like the Softmax Learning app
+**628 pass book PDFs** + **42,468 YouTube lecture videos** across **28 technologies**,
+organized to match the official BTEB course structure from `a.txt`
 (**Technology → Semester → Subject**), plus a full write-up of how they were collected.
 
-[![Books](https://img.shields.io/badge/books-646-16a34a?style=flat-square)](#-catalog)
-[![Technologies](https://img.shields.io/badge/technologies-35-0f172a?style=flat-square)](#-catalog)
+[![Books](https://img.shields.io/badge/books-628-16a34a?style=flat-square)](#-catalog)
+[![Technologies](https://img.shields.io/badge/technologies-28-0f172a?style=flat-square)](#-catalog)
 [![Videos](https://img.shields.io/badge/videos-42%2C468-f59e0b?style=flat-square)](#-video-links)
 [![Made for students](https://img.shields.io/badge/made%20for-students-64748b?style=flat-square)](#)
 
@@ -23,26 +23,26 @@ Every semester, polytechnic students across Bangladesh buy **Pass Books** (প�
 question-answer guidebooks that cover the full BTEB diploma syllabus subject by subject.
 
 This repository collects **all of the pass books available inside the Softmax Learning app**,
-re-organized into a clean, browsable structure:
+re-organized into a clean, browsable structure that matches the official BTEB course structure:
 
 ```
 Books/
-├── 0. Architecture 🏛️/
+├── Architecture Technology 🏛️/
 │   ├── Semester 1/
 │   │   ├── Bangla-I.pdf
 │   │   ├── Mathematics -I.pdf
 │   │   └── Basic Electricity.pdf
 │   ├── Semester 2/
 │   └── ...
-├── 1. Automobile Technology 🚗/
+├── Automobile Technology 🚗/
 │   ├── Semester 1/
 │   └── ...
-└── 27. Footwear Technology 👟/
+└── ... (28 technologies total)
 ```
 
-Each technology contains `Semester 1` … `Semester 7` folders. Every **✅** subject in
-[`full_book_list.md`](full_book_list.md) has its PDF in the matching folder. Subjects marked **❌**
-don't have a pass book yet (shown as "coming soon" in the app).
+Each technology contains `Semester 1` … `Semester 7` folders. The semester assignments are
+verified against the official BTEB course structure (`a.txt`). Subjects marked **❌** in the
+course structure don't have a pass book yet (shown as "coming soon" in the app).
 
 > **Note on duplicates:** The same PDF (e.g. *Bangla-I*, *Social Science*) appears in many
 > technologies' curricula. Each copy is stored independently, so the repo is ~4.3 GB.
@@ -54,14 +54,15 @@ subject, and PDF. You can also browse:
 
 | Folder | Contents |
 |---|---|
-| `Books/` | All 646 pass book PDFs, organized by technology → semester |
+| `Books/` | 628 pass book PDFs, organized by technology → semester (matches BTEB syllabus) |
+| `Extras/` | 46 extra PDFs not matched to the BTEB syllabus (general CS books, duplicates, etc.) |
 | `Videos/` | 42,468 YouTube lecture links — markdown files organized by department → course → subject |
 | `QuestionBanks/` | 74 question-bank PDFs merged by subject (BTEB diploma question papers) |
 | `docs/` | How the books + videos were collected, plus full API documentation |
 
 ### Quick facts
 
-- **646 pass book PDFs** across 35 technologies (many duplicated across technologies)
+- **628 pass book PDFs** across 28 technologies, organized to match the official BTEB course structure
 - **4,300+ MB** of educational content
 - **42,468 lecture videos** organized into 165 subject files across 34 departments
 - **74 question-bank PDFs** merged by subject (BTEB diploma question papers)
@@ -69,12 +70,12 @@ subject, and PDF. You can also browse:
 
 ## 🧭 How it's organized
 
-The layout mirrors the Softmax Learning app exactly, so whatever you see in the app maps 1:1 to a
-file here:
+The layout mirrors the official BTEB course structure, so whatever semester a subject belongs in
+maps 1:1 to a file here:
 
 ```
-app:  My Books → 3. Civil Technology → Semester 5 → Water Supply Engineering
-repo: Books/3. Civil Technology 🏗️/Semester_5/Water Supply Engineering.pdf
+BTEB:  Civil Technology → Semester 5 → Water Supply Engineering
+repo: Books/Civil Technology 🏗️/Semester 5/Water Supply Engineering.pdf
 ```
 
 If you're a student, just find your technology, your semester, and read.
@@ -141,6 +142,10 @@ Every file is named for its subject in plain English (e.g. *Mathematics 3*, *Phy
 The PDFs and video links come from the **Softmax Learning app's own API** — the same data the
 app streams to paying users. Everything was downloaded with an authenticated session and
 reorganized into this clean structure.
+
+The semester assignments were verified against the **official BTEB course structure** (`a.txt`),
+which lists every department, semester, subject code, and subject name for the Diploma in
+Engineering program. 18 PDFs that didn't match any BTEB subject were moved to `Extras/`.
 
 The full process is documented in **[`docs/RETRIEVAL_PROCESS.md`](docs/RETRIEVAL_PROCESS.md)**,
 including:
