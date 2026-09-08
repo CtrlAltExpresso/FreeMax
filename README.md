@@ -4,13 +4,13 @@
 
 **Complete Pass Book library + YouTube lecture video index for Bangladeshi Diploma Engineering students**
 
-**628 pass book PDFs** + **42,468 YouTube lecture videos** across **28 technologies**,
+**628 pass book PDFs** + **42,482 YouTube lecture videos** across **28 technologies**,
 organized to match the official BTEB course structure from `a.txt`
 (**Technology → Semester → Subject**), plus a full write-up of how they were collected.
 
 [![Books](https://img.shields.io/badge/books-628-16a34a?style=flat-square)](#-catalog)
 [![Technologies](https://img.shields.io/badge/technologies-28-0f172a?style=flat-square)](#-catalog)
-[![Videos](https://img.shields.io/badge/videos-42%2C468-f59e0b?style=flat-square)](#-video-links)
+[![Videos](https://img.shields.io/badge/videos-42%2C482-f59e0b?style=flat-square)](#-video-links)
 [![Made for students](https://img.shields.io/badge/made%20for-students-64748b?style=flat-square)](#)
 
 </div>
@@ -56,7 +56,7 @@ subject, and PDF. You can also browse:
 |---|---|
 | `Books/` | 628 pass book PDFs, organized by technology → semester (matches BTEB syllabus) |
 | `Extras/` | 46 extra PDFs not matched to the BTEB syllabus (general CS books, duplicates, etc.) |
-| `Videos/` | 42,468 YouTube lecture links — markdown files organized by department → course → subject |
+| `Videos/` | 42,482 YouTube lecture links — markdown files organized by BTEB department → semester → subject |
 | `QuestionBanks/` | 74 question-bank PDFs merged by subject (BTEB diploma question papers) |
 | `docs/` | How the books + videos were collected, plus full API documentation |
 
@@ -64,7 +64,7 @@ subject, and PDF. You can also browse:
 
 - **628 pass book PDFs** across 28 technologies, organized to match the official BTEB course structure
 - **4,300+ MB** of educational content
-- **42,468 lecture videos** organized into 165 subject files across 34 departments
+- **42,482 lecture videos** organized into 684 subject files across 33 BTEB departments
 - **74 question-bank PDFs** merged by subject (BTEB diploma question papers)
 - Every PDF verified with `pdfinfo` (page counts correct, files open cleanly)
 
@@ -82,38 +82,52 @@ If you're a student, just find your technology, your semester, and read.
 
 ## 🎬 Video Links
 
-`Videos/` contains **165 markdown files** with **42,468 clickable YouTube lecture links** scraped
-from the Softmax app's video metadata API, organized to match the app's course hierarchy:
+`Videos/` contains **684 markdown files** with **42,482 clickable YouTube lecture links** scraped
+from the Softmax app's video metadata API. The BTEB diploma lectures are organized to match the
+official BTEB course structure, and everything outside the diploma syllabus is kept in its own
+separate folder:
 
 ```
 Videos/
-├── 💻 COMPUTER SCIENCE & TECHNOLOGY/
-│   ├── Semester 4/
-│   │   ├── Data Structure and Algorithm (Update).md
-│   │   └── Java Programming (Update).md
-│   └── Semester 6/
-│       ├── Database Management System.md
-│       └── ...
-├── 🏗️ Civil Technology (SAE)/
-│   ├── Civil SAE/          ← job-pattern questions
-│   ├── PSC Pattern/        ← PSC exam pattern
-│   └── MIST Pattern/
-├── ⚡ Electrical Technology (SAE)/
-│   └── General (Job)/      ← Bangla, English, Math, GK
-└── ...
+├── BTEB Diploma/
+│   ├── Aircraft Maintenance Technology- Aerospace/
+│   │   ├── Semester 1/
+│   │   │   ├── Bangla-I.md
+│   │   │   └── Basic Electricity.md
+│   │   └── ...
+│   ├── Computer Science & Technology/
+│   │   ├── Semester 4/
+│   │   │   ├── Data Structure & Algorithm.md
+│   │   │   └── Java Programming.md
+│   │   └── ...
+│   └── ... (33 departments, Semester 1 through 7/8)
+├── DUET Admission/          ← DUET university admission lectures
+├── Job Preparation/         ← SAE / govt-job pattern lectures
+├── Polytechnic Admission/   ← polytechnic entry-test prep
+├── 9-10 School/             ← school-level content
+├── ICT Softmax/             ← HSC ICT course
+├── Soft Skills/             ← career guidance
+├── Smart Book Videos/       ← supplementary "smart book" videos
+└── Other/Unclassified/      ← videos with no collection metadata
 ```
 
 Each `.md` file is a table of videos with title, duration, and clickable `[Watch](YouTube URL)` links.
+Diploma subjects that appear in many technologies (Bangla, English, Mathematics, Physics, …) are
+duplicated into every department that teaches them, matching the official syllabus layout 1:1.
 
 **Stats:**
 | Metric | Count |
 |---|---|
-| Departments | 34 |
-| Courses (folders) | 40+ |
-| Subject files | 165 |
-| Matched videos | 37,480 |
-| Uncategorized videos | 4,988 |
-| Total | 42,468 |
+| BTEB diploma departments | 33 |
+| BTEB diploma subject files | 538 |
+| Non-BTEB / misc subject files | 146 |
+| Total subject files | 684 |
+| BTEB diploma videos | 27,592 |
+| DUET admission videos | 5,308 |
+| Job preparation videos | 3,775 |
+| Other non-BTEB videos | 805 |
+| Uncategorized videos | 5,002 |
+| Total | 42,482 |
 
 > **Note:** ~2% of links may be private/unlisted and require Softmax app access to watch.
 > ~4% may be broken (deleted/moved). The rest are publicly accessible YouTube links.
@@ -154,7 +168,7 @@ including:
 - How authentication works (`X-APP-KEY`, OTP flow)
 - The exact request → response flow for books and videos
 - How chapters were stitched into single PDFs and verified
-- How 42,468 video metadata records were fetched and matched to subjects
+- How 42,482 video metadata records were fetched and matched to subjects
 
 ## 🧑‍💻 Do it yourself
 
