@@ -1,6 +1,6 @@
 # Physics Fundamental (2026)
 
-> 48 videos
+> 63 videos
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -52,5 +52,20 @@
 | 46 | একটি বুলেট u আদিবেগ নিয়ে একটি দেয়ালে..কতদূর ভেদ করতে পারবে | 12:24 | [Watch](https://youtu.be/Ee0VeOo_d44) |
 | 47 | প্রতি সেকেন্ডে 200 ফুট বেগে চলমান একটি..তার নির্গত বেগ বাহির কর | 5:26 | [Watch](https://youtu.be/-ZjUalatUQA) |
 | 48 | একটি বন্দুকের গুলি 100 km by hr বেগে উপরের...কতটুকু ছাদকে ভেদ করবে | 7:35 | [Watch](https://youtu.be/asn3F1PwfhI) |
+| 49 | পানির কল সম্পর্কিত প্রশ্নোত্তর | 9:32 | [Watch](https://youtu.be/9ZmdgwD13rg) |
+| 50 | একটি কল থেকে ফোঁটায় ফোঁটায় পানি পড়ছে...তখন কত উপরে থাকবে | 18:19 | [Watch](https://youtu.be/YPs-ikbwX_U) |
+| 51 | সুষম ও অসম গতি সম্পর্কে ধারণা | 9:08 | [Watch](https://youtu.be/e3qVUnbDJOw) |
+| 52 | সুষম ত্বরণ সম্পর্কিত লেখচিত্র | 8:20 | [Watch](https://youtu.be/aiUR1HFYoIA) |
+| 53 | অসম বেগ সম্পর্কিত লেখচিত্র ও ক্যালকুলাসের ধারণা Part - 1 | 24:26 | [Watch](https://youtu.be/i5xAoT1ohtE) |
+| 54 | ত্বরণ থেকে বেগ  এবং বেগ থেকে স্বরণ | 16:31 | [Watch](https://youtu.be/tsTfXZfdOgI) |
+| 55 | অসম বেগ সম্পর্কিত লেখচিত্র ও ক্যালকুলাসের ধারণা Part-2 | 14:01 | [Watch](https://youtu.be/UbgRgfwLErk) |
+| 56 | × অক্ষ বরাবর গতিশীল একটি বস্তুর ক্ষেত্রে...ত্বরণ কত | 0:00 | [Watch](https://youtu.be/5-mJOLxRYh0) |
+| 57 | নির্দিষ্ট দিকে একটি বস্তু কণার সরণ x... বস্তু কণার গড় ত্বরণ কত | 5:14 | [Watch](https://youtu.be/zspcF4JvF7M) |
+| 58 | একটি বস্তুর অবস্থান st = 16t...তখন সময়ের মান কত | 4:22 | [Watch](https://youtu.be/CpnvbE5KJHY) |
+| 59 | একটি গাড়ি স্থির অবস্থা থেকে...গাড়িটির বেগ এবং সরণ কত | 13:17 | [Watch](https://youtu.be/N8S7Hn6vhKU) |
+| 60 | একটি বস্তু t = 0...হলে 2sec পর বেগ ও সরণ কত | 4:29 | [Watch](https://youtu.be/pknktcux-z0) |
+| 61 | উপরের লেখচিত্রে একটি লিফটের গতি...লিফটের উচ্চতা হিসাব কর | 4:20 | [Watch](https://youtu.be/i1Vi48y34rQ) |
+| 62 | পাশের দ্রুতি সময় লেখচিত্রে বস্তুটি 25 সেকেন্ডে কত দূরত্ব অতিক্রম করবে | 5:13 | [Watch](https://youtu.be/FcSnfJHcaJY) |
+| 63 | একটি বস্তু স্থির অবস্থা থেকে সমত্বরণে ...d হলে নিচের কোনটি সঠিক | 20:17 | [Watch](https://youtu.be/9ynU1Bbg6M8) |
 
-*48 videos total*
+*63 videos total*

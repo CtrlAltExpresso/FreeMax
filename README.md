@@ -4,13 +4,13 @@
 
 **Complete Pass Book library + YouTube lecture video index for Bangladeshi Diploma Engineering students**
 
-**628 pass book PDFs** + **42,482 YouTube lecture videos** across **28 technologies**,
+**628 pass book PDFs** + **42,574 YouTube lecture videos** across **28 technologies**,
 organized to match the official BTEB course structure from `a.txt`
 (**Technology → Semester → Subject**), plus a full write-up of how they were collected.
 
 [![Books](https://img.shields.io/badge/books-628-16a34a?style=flat-square)](#-catalog)
 [![Technologies](https://img.shields.io/badge/technologies-28-0f172a?style=flat-square)](#-catalog)
-[![Videos](https://img.shields.io/badge/videos-42%2C482-f59e0b?style=flat-square)](#-video-links)
+[![Videos](https://img.shields.io/badge/videos-42%2C574-f59e0b?style=flat-square)](#-video-links)
 [![Made for students](https://img.shields.io/badge/made%20for-students-64748b?style=flat-square)](#)
 
 </div>
@@ -56,7 +56,7 @@ subject, and PDF. You can also browse:
 |---|---|
 | `Books/` | 628 pass book PDFs, organized by technology → semester (matches BTEB syllabus) |
 | `Extras/` | 46 extra PDFs not matched to the BTEB syllabus (general CS books, duplicates, etc.) |
-| `Videos/` | 42,482 YouTube lecture links — markdown files organized by BTEB department → semester → subject |
+| `Videos/` | 42,574 YouTube lecture links — markdown files organized by BTEB department → semester → subject |
 | `QuestionBanks/` | 74 question-bank PDFs merged by subject (BTEB diploma question papers) |
 | `docs/` | How the books + videos were collected, plus full API documentation |
 
@@ -64,7 +64,7 @@ subject, and PDF. You can also browse:
 
 - **628 pass book PDFs** across 28 technologies, organized to match the official BTEB course structure
 - **4,300+ MB** of educational content
-- **42,482 lecture videos** organized into 684 subject files across 33 BTEB departments
+- **42,574 lecture videos** organized into 684 subject files across 33 BTEB departments
 - **74 question-bank PDFs** merged by subject (BTEB diploma question papers)
 - Every PDF verified with `pdfinfo` (page counts correct, files open cleanly)
 
@@ -82,7 +82,7 @@ If you're a student, just find your technology, your semester, and read.
 
 ## 🎬 Video Links
 
-`Videos/` contains **684 markdown files** with **42,482 clickable YouTube lecture links** scraped
+`Videos/` contains **685 markdown files** with **42,574 clickable YouTube lecture links** scraped
 from the Softmax app's video metadata API. The BTEB diploma lectures are organized to match the
 official BTEB course structure, and everything outside the diploma syllabus is kept in its own
 separate folder:
@@ -120,14 +120,14 @@ duplicated into every department that teaches them, matching the official syllab
 |---|---|
 | BTEB diploma departments | 33 |
 | BTEB diploma subject files | 538 |
-| Non-BTEB / misc subject files | 146 |
-| Total subject files | 684 |
+| Non-BTEB / misc subject files | 147 |
+| Total subject files | 685 |
 | BTEB diploma videos | 27,592 |
-| DUET admission videos | 5,308 |
-| Job preparation videos | 3,775 |
-| Other non-BTEB videos | 805 |
-| Uncategorized videos | 5,002 |
-| Total | 42,482 |
+| DUET admission videos | 5,350 |
+| Job preparation videos | 3,796 |
+| Other non-BTEB videos | 829 |
+| Uncategorized videos | 5,007 |
+| Total | 42,574 |
 
 > **Note:** ~2% of links may be private/unlisted and require Softmax app access to watch.
 > ~4% may be broken (deleted/moved). The rest are publicly accessible YouTube links.
@@ -168,7 +168,7 @@ including:
 - How authentication works (`X-APP-KEY`, OTP flow)
 - The exact request → response flow for books and videos
 - How chapters were stitched into single PDFs and verified
-- How 42,482 video metadata records were fetched and matched to subjects
+- How 42,574 video metadata records were fetched and matched to subjects
 
 ## 🧑‍💻 Do it yourself
 
