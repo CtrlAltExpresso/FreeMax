@@ -1,42 +1,41 @@
 # Mechanical Estimating & Costing
-
 > 92 videos | RAC Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | প্যাটার্ন এবং ঢালাই কর্মশালায় জবের প্রাক্কলন | 19:14 | [Watch](https://youtu.be/R0XibmaDFrI?si=vazxF2H_BmkFqoxs) |
-| 2 | ওয়েল্ডিং কী | 12:02 | [Watch](https://youtu.be/CZFXNbRggk4?si=U2JloTSudiASeQHq) |
-| 3 | মেশিন শপের জবের প্রক্কলন | 15:20 | [Watch](https://youtu.be/umXmbD2jCQc?si=dNEuxbRlLKHcah6D) |
-| 4 | ফিটিংশপের জবের প্রাক্কলন | 24:33 | [Watch](https://youtu.be/1POR86W3JMM) |
-| 5 | ইঞ্জিনিয়ারিং যন্ত্রাংশের পরিমিতি | 25:19 | [Watch](https://youtu.be/-QvwV03Ibnk) |
-| 6 | অবচয় | 6:28 | [Watch](https://youtu.be/_aUc-RexvOo) |
-| 7 | ব্যয়ের উপাদানসমূহ | 4:23 | [Watch](https://youtu.be/9VcdGrVzGCo) |
-| 8 | হিসাব | 18:18 | [Watch](https://youtu.be/17HbH70EIco) |
-| 9 | যান্ত্রিক প্রাক্কলন | 10:25 | [Watch](https://youtu.be/DTq2Gq5FY28) |
-| 10 | প্রকল্প পরিকল্পনা (Project Planning) | 16:21 | [Watch](https://youtu.be/dAKSUmEjRZs?si=Xpw_vo8A8Iq41aLV) |
-| 11 | পুলির প্যাটার্ন খরচ বা প্রত্যক্ষ মালামাল খরচ | 15:11 | [Watch](https://youtu.be/goQHMuxMVPs?si=rXSVGHJ1lScwMdke) |
-| 12 | ওয়েল্ডিং এর জন্য ব্যয় | 14:22 | [Watch](https://youtu.be/5fO6dhEBTFU?si=kRGOrHLxM-1VHP7N) |
-| 13 | বল পিন হ্যামার (Ball peen hammer) | 22:17 | [Watch](https://youtu.be/ngIiH1Cl27k?si=2DdedlBG0iiDA5nX) |
-| 14 | ফাঁকা ওয়ারিং, ফ্লেনজিং | 19:12 | [Watch](https://youtu.be/hK09ODUCI40) |
-| 15 | বর্গক্ষেত্র, আয়তক্ষত্র ও সামান্তরিক এর ক্ষেত্রফল এবং পরিসীমা | 16:02 | [Watch](https://youtu.be/Qy53s5WJYXE) |
-| 16 | অবচয় ও অপ্রচলিত এর মধ্যে পার্থক্য | 6:01 | [Watch](https://youtu.be/wLrGsHl0xHw) |
-| 17 | উৎপাদনে ব্যয় বা খরচের উপাদানসমূহের শ্রেণীবিভাগ | 13:08 | [Watch](https://youtu.be/NfvOTKPf5CQ) |
-| 18 | ব্যয় হিসাব Costing | 8:24 | [Watch](https://youtu.be/4fJ0njxcltc) |
-| 19 | যান্ত্রিক প্রাক্কলনের আওতা | 12:17 | [Watch](https://youtu.be/xtj3bPqsCuc) |
-| 20 | মালামালের মিতব্যায়িতা | 7:28 | [Watch](https://youtu.be/NBcuMElfXAg?si=3G_NFb8TRBuYo3Eg) |
-| 21 | ফ্লেঞ্জ এর প্যাটার্ন খরচ বা প্রত্যক্ষ মালামাল খরচ | 21:31 | [Watch](https://youtu.be/RpOKckVbUEY?si=iOwqR01c-39d4Dp1) |
-| 22 | ল্যাপ, বাট এবং পাইপ  ওয়েল্ডিং খরচ প্রাক্কলন | 4:26 | [Watch](https://youtu.be/W6kyGJcLn_g?si=91CRg5NEQEkvFJRp) |
-| 23 | গ্রুভ (Grove) | 27:08 | [Watch](https://youtu.be/IIBTtZ23ViU?si=p2wCkLqFuQyhOeSg) |
-| 24 | ডিভাইডার | 20:29 | [Watch](https://youtu.be/xT2tI7sLmuI) |
-| 25 | ত্রিভুজ ও ট্রাপিজিয়াম এর ক্ষেত্রফল এবং পরিসীমা | 10:32 | [Watch](https://youtu.be/xhcJOGzZNRI) |
-| 26 | অবচয়ের কারণসমূহ | 7:26 | [Watch](https://youtu.be/iROofPlp03U) |
-| 27 | বিভিন্ন প্রকার পরোক্ষ খরচ | 5:07 | [Watch](https://youtu.be/v5ebVtsqF74) |
-| 28 | প্রাক্কলন ও ব্যয় হিসাব এর মধ্যে পার্থক্য | 5:16 | [Watch](https://youtu.be/WoRwItBCuh4) |
-| 29 | প্রশাসন Administration | 21:32 | [Watch](https://youtu.be/GkwMnj6RVdo) |
-| 30 | প্রকল্প নির্বাচনের ধাপসমূহ | 10:30 | [Watch](https://youtu.be/6DMf2ILiNBo?si=6r4DzuAGe3XF_K1O) |
-| 31 | Part - 1 চিত্র অনুসারে 50টি কাস্ট আয়রনের পুলি তৈরি...পুলিসমূহের বিক্রয় মূল্য প্রাক্কলন | 10:03 | [Watch](https://youtu.be/_TIOO5zc3gw?si=adqIJwykJypOOK6U) |
-| 32 | দুটি 80 মিমি লম্বা 6 মিমি পুরুত্ব...নিম্নের তথ্যাদির সাহায্যে ওয়েল্ডিং খরচ বের কর | 14:11 | [Watch](https://youtu.be/1RG5hfYbdk8?si=iIh1iOrNLogeIyNI) |
-| 33 | হাতলের ছিদ্র (Hole for handle) | 16:30 | [Watch](https://youtu.be/atBJRUILOlw?si=81OWmaloAI_Wpp4S) |
+| 1 | হাতলের ছিদ্র (Hole for handle) | 16:30 | [Watch](https://youtu.be/atBJRUILOlw?si=81OWmaloAI_Wpp4S) |
+| 2 | প্যাটার্ন এবং ঢালাই কর্মশালায় জবের প্রাক্কলন | 19:14 | [Watch](https://youtu.be/R0XibmaDFrI?si=vazxF2H_BmkFqoxs) |
+| 3 | ওয়েল্ডিং কী | 12:02 | [Watch](https://youtu.be/CZFXNbRggk4?si=U2JloTSudiASeQHq) |
+| 4 | মেশিন শপের জবের প্রক্কলন | 15:20 | [Watch](https://youtu.be/umXmbD2jCQc?si=dNEuxbRlLKHcah6D) |
+| 5 | ফিটিংশপের জবের প্রাক্কলন | 24:33 | [Watch](https://youtu.be/1POR86W3JMM) |
+| 6 | ইঞ্জিনিয়ারিং যন্ত্রাংশের পরিমিতি | 25:19 | [Watch](https://youtu.be/-QvwV03Ibnk) |
+| 7 | অবচয় | 6:28 | [Watch](https://youtu.be/_aUc-RexvOo) |
+| 8 | ব্যয়ের উপাদানসমূহ | 4:23 | [Watch](https://youtu.be/9VcdGrVzGCo) |
+| 9 | হিসাব | 18:18 | [Watch](https://youtu.be/17HbH70EIco) |
+| 10 | যান্ত্রিক প্রাক্কলন | 10:25 | [Watch](https://youtu.be/DTq2Gq5FY28) |
+| 11 | প্রকল্প পরিকল্পনা (Project Planning) | 16:21 | [Watch](https://youtu.be/dAKSUmEjRZs?si=Xpw_vo8A8Iq41aLV) |
+| 12 | পুলির প্যাটার্ন খরচ বা প্রত্যক্ষ মালামাল খরচ | 15:11 | [Watch](https://youtu.be/goQHMuxMVPs?si=rXSVGHJ1lScwMdke) |
+| 13 | ওয়েল্ডিং এর জন্য ব্যয় | 14:22 | [Watch](https://youtu.be/5fO6dhEBTFU?si=kRGOrHLxM-1VHP7N) |
+| 14 | বল পিন হ্যামার (Ball peen hammer) | 22:17 | [Watch](https://youtu.be/ngIiH1Cl27k?si=2DdedlBG0iiDA5nX) |
+| 15 | ফাঁকা ওয়ারিং, ফ্লেনজিং | 19:12 | [Watch](https://youtu.be/hK09ODUCI40) |
+| 16 | বর্গক্ষেত্র, আয়তক্ষত্র ও সামান্তরিক এর ক্ষেত্রফল এবং পরিসীমা | 16:02 | [Watch](https://youtu.be/Qy53s5WJYXE) |
+| 17 | অবচয় ও অপ্রচলিত এর মধ্যে পার্থক্য | 6:01 | [Watch](https://youtu.be/wLrGsHl0xHw) |
+| 18 | উৎপাদনে ব্যয় বা খরচের উপাদানসমূহের শ্রেণীবিভাগ | 13:08 | [Watch](https://youtu.be/NfvOTKPf5CQ) |
+| 19 | ব্যয় হিসাব Costing | 8:24 | [Watch](https://youtu.be/4fJ0njxcltc) |
+| 20 | যান্ত্রিক প্রাক্কলনের আওতা | 12:17 | [Watch](https://youtu.be/xtj3bPqsCuc) |
+| 21 | মালামালের মিতব্যায়িতা | 7:28 | [Watch](https://youtu.be/NBcuMElfXAg?si=3G_NFb8TRBuYo3Eg) |
+| 22 | ফ্লেঞ্জ এর প্যাটার্ন খরচ বা প্রত্যক্ষ মালামাল খরচ | 21:31 | [Watch](https://youtu.be/RpOKckVbUEY?si=iOwqR01c-39d4Dp1) |
+| 23 | ল্যাপ, বাট এবং পাইপ  ওয়েল্ডিং খরচ প্রাক্কলন | 4:26 | [Watch](https://youtu.be/W6kyGJcLn_g?si=91CRg5NEQEkvFJRp) |
+| 24 | গ্রুভ (Grove) | 27:08 | [Watch](https://youtu.be/IIBTtZ23ViU?si=p2wCkLqFuQyhOeSg) |
+| 25 | ডিভাইডার | 20:29 | [Watch](https://youtu.be/xT2tI7sLmuI) |
+| 26 | ত্রিভুজ ও ট্রাপিজিয়াম এর ক্ষেত্রফল এবং পরিসীমা | 10:32 | [Watch](https://youtu.be/xhcJOGzZNRI) |
+| 27 | অবচয়ের কারণসমূহ | 7:26 | [Watch](https://youtu.be/iROofPlp03U) |
+| 28 | বিভিন্ন প্রকার পরোক্ষ খরচ | 5:07 | [Watch](https://youtu.be/v5ebVtsqF74) |
+| 29 | প্রাক্কলন ও ব্যয় হিসাব এর মধ্যে পার্থক্য | 5:16 | [Watch](https://youtu.be/WoRwItBCuh4) |
+| 30 | প্রশাসন Administration | 21:32 | [Watch](https://youtu.be/GkwMnj6RVdo) |
+| 31 | প্রকল্প নির্বাচনের ধাপসমূহ | 10:30 | [Watch](https://youtu.be/6DMf2ILiNBo?si=6r4DzuAGe3XF_K1O) |
+| 32 | Part - 1 চিত্র অনুসারে 50টি কাস্ট আয়রনের পুলি তৈরি...পুলিসমূহের বিক্রয় মূল্য প্রাক্কলন | 10:03 | [Watch](https://youtu.be/_TIOO5zc3gw?si=adqIJwykJypOOK6U) |
+| 33 | দুটি 80 মিমি লম্বা 6 মিমি পুরুত্ব...নিম্নের তথ্যাদির সাহায্যে ওয়েল্ডিং খরচ বের কর | 14:11 | [Watch](https://youtu.be/1RG5hfYbdk8?si=iIh1iOrNLogeIyNI) |
 | 34 | রেঞ্চ এর প্রয়োজনীয় মালামাল খরচ নির্ণয় | 13:31 | [Watch](https://youtu.be/PtwFeRzzE0A) |
 | 35 | বৃত্ত, বৃত্তাংশ ও ফিলেট এর ক্ষেত্রফল এবং পরিসীমা | 13:18 | [Watch](https://youtu.be/oVk06vAy7ps) |
 | 36 | বিভিন্ন প্রকারের অবচয় | 24:02 | [Watch](https://youtu.be/Zv2ibgXHXnU) |

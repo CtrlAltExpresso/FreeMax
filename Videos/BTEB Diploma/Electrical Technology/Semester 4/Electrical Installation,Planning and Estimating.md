@@ -1,21 +1,20 @@
 # Electrical Installation,Planning and Estimating
-
 > 157 videos | Electrical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | উদ্ভাসন এবং লাইট স্কিম | 43:08 | [Watch](https://youtu.be/n1roZMT2-Ks) |
-| 2 | পরিমাপ বইয়ের বর্ণনা | 23:06 | [Watch](https://youtu.be/wCZpxgnGnZE) |
-| 3 | বৈদ্যুতিক স্থাপনার ব্যাখ্যা এবং স্থাপনার প্রকারভেদ | 23:20 | [Watch](https://youtu.be/DGro82Q-jMQ) |
-| 4 | নিম্নচাপ ওভারহেড ডিস্ট্রিবিউশন লাইনের এস্টিমেট | 17:04 | [Watch](https://youtu.be/c5zor4lwlus) |
-| 5 | আর্থিং | 8:03 | [Watch](https://youtu.be/2Rx-dk0STeU) |
-| 6 | সার্ভিস মেইনের ধারণা | 7:26 | [Watch](https://youtu.be/4JMAqBrWH7Y) |
-| 7 | অভ্যন্তরীন ওয়্যারিং স্থাপনা | 9:19 | [Watch](https://youtu.be/uC3LQSe6Y9Y) |
-| 8 | লাইটিং স্কিম কাকে বলে? | 9:02 | [Watch](https://youtu.be/U5oY5_2K8sI) |
-| 9 | পরিমাপ বই লেখন মূল্য তালিকা ও শ্রমহার তফসিলের ধারণা | 10:05 | [Watch](https://youtu.be/otVTB_jpvW4) |
-| 10 | প্রাক্কলন এর প্রয়োজনীয়তা | 13:34 | [Watch](https://youtu.be/lyIBmb2NtpI) |
-| 11 | বৈদ্যুতিক স্থাপনার  পরিকল্পনা | 13:24 | [Watch](https://youtu.be/m7BPEKC6qWU) |
-| 12 | Electrical Installation | 8:13 | [Watch](https://youtu.be/iytsJF74w1Q) |
+| 1 | Electrical Installation | 8:13 | [Watch](https://youtu.be/iytsJF74w1Q) |
+| 2 | উদ্ভাসন এবং লাইট স্কিম | 43:08 | [Watch](https://youtu.be/n1roZMT2-Ks) |
+| 3 | পরিমাপ বইয়ের বর্ণনা | 23:06 | [Watch](https://youtu.be/wCZpxgnGnZE) |
+| 4 | বৈদ্যুতিক স্থাপনার ব্যাখ্যা এবং স্থাপনার প্রকারভেদ | 23:20 | [Watch](https://youtu.be/DGro82Q-jMQ) |
+| 5 | নিম্নচাপ ওভারহেড ডিস্ট্রিবিউশন লাইনের এস্টিমেট | 17:04 | [Watch](https://youtu.be/c5zor4lwlus) |
+| 6 | আর্থিং | 8:03 | [Watch](https://youtu.be/2Rx-dk0STeU) |
+| 7 | সার্ভিস মেইনের ধারণা | 7:26 | [Watch](https://youtu.be/4JMAqBrWH7Y) |
+| 8 | অভ্যন্তরীন ওয়্যারিং স্থাপনা | 9:19 | [Watch](https://youtu.be/uC3LQSe6Y9Y) |
+| 9 | লাইটিং স্কিম কাকে বলে? | 9:02 | [Watch](https://youtu.be/U5oY5_2K8sI) |
+| 10 | পরিমাপ বই লেখন মূল্য তালিকা ও শ্রমহার তফসিলের ধারণা | 10:05 | [Watch](https://youtu.be/otVTB_jpvW4) |
+| 11 | প্রাক্কলন এর প্রয়োজনীয়তা | 13:34 | [Watch](https://youtu.be/lyIBmb2NtpI) |
+| 12 | বৈদ্যুতিক স্থাপনার  পরিকল্পনা | 13:24 | [Watch](https://youtu.be/m7BPEKC6qWU) |
 | 13 | বৈদ্যুতিক বিধি বিধান কোড বেসিক আলোচনা | 16:11 | [Watch](https://youtu.be/niKdcpQM768) |
 | 14 | পরিবাহীর আকার ও বিদ্যুৎ বহন ক্ষমতা | 6:17 | [Watch](https://youtu.be/ldCGP4FP1r0) |
 | 15 | প্রত্যক্ষ লাইটিং, পরোক্ষ লাইটিং, আধা প্রত্যক্ষ লাইটিং এবং আধা রোক্ষ লাইটিং | 37:02 | [Watch](https://youtu.be/pNNtiYicSHI) |

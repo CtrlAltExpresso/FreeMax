@@ -1,5 +1,4 @@
 # Business Communication
-
 > 65 videos | Surveying Technology
 
 | # | Title | Duration | Link |

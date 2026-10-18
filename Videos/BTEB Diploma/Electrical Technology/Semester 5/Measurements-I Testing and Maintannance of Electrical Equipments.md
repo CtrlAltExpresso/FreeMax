@@ -1,19 +1,18 @@
 # Measurements-I Testing and Maintannance of Electrical Equipments
-
 > 179 videos | Electrical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | সোলার সিস্টেম রক্ষণাবেক্ষণ | 6:17 | [Watch](https://youtu.be/cm8f32YnHNs) |
-| 2 | ক্যাপাসিটর ব্যাংক ব্যবহার করে পাওয়ার ফ্যাক্টর উন্নতিকরণ | 11:35 | [Watch](https://youtu.be/ZdYrLlKHJjA) |
-| 3 | ওভার লোড রিলের OLR ট্রাবলসুটিং | 7:05 | [Watch](https://youtu.be/yjdWJt3MAnI) |
-| 4 | স্বয়ংক্রিয় স্টার ডেল্টা স্টার্টার রক্ষণাবেক্ষণ | 5:35 | [Watch](https://youtu.be/AtOVYacnaZY) |
-| 5 | সার্কিট ব্রেকার রক্ষণাবেক্ষণ | 3:13 | [Watch](https://youtu.be/bJgfjM4fQ9k) |
-| 6 | অল্টারনেট এবং সিনক্রোনাস মোটরের রক্ষণাবেক্ষণ | 17:00 | [Watch](https://youtu.be/CC62Toz4sho?si=FfrWVvINJ_-NjB8j) |
-| 7 | তিন ফেজ ইন্ডাকশন মোটরের রক্ষণাবেক্ষণ | 10:01 | [Watch](https://youtu.be/hUbMvAtk2UI?si=9et1r7-XSYfzBP24) |
-| 8 | সিঙ্গেল ফেজ ইন্ডাকশন মোটর ও পাম্প মোটর | 17:10 | [Watch](https://youtu.be/17SlWouBbQ8) |
-| 9 | সিঙ্গেল ফেজ ট্রান্সফর্মারের ফল্টের তালিকা এবং ব্যাখ্যা | 16:16 | [Watch](https://youtu.be/-njd4tl6em0) |
-| 10 | Testing and Maintenance সিলেবাস | 8:16 | [Watch](https://youtu.be/H0Q9Fkh3M3k) |
+| 1 | Testing and Maintenance সিলেবাস | 8:16 | [Watch](https://youtu.be/H0Q9Fkh3M3k) |
+| 2 | সোলার সিস্টেম রক্ষণাবেক্ষণ | 6:17 | [Watch](https://youtu.be/cm8f32YnHNs) |
+| 3 | ক্যাপাসিটর ব্যাংক ব্যবহার করে পাওয়ার ফ্যাক্টর উন্নতিকরণ | 11:35 | [Watch](https://youtu.be/ZdYrLlKHJjA) |
+| 4 | ওভার লোড রিলের OLR ট্রাবলসুটিং | 7:05 | [Watch](https://youtu.be/yjdWJt3MAnI) |
+| 5 | স্বয়ংক্রিয় স্টার ডেল্টা স্টার্টার রক্ষণাবেক্ষণ | 5:35 | [Watch](https://youtu.be/AtOVYacnaZY) |
+| 6 | সার্কিট ব্রেকার রক্ষণাবেক্ষণ | 3:13 | [Watch](https://youtu.be/bJgfjM4fQ9k) |
+| 7 | অল্টারনেট এবং সিনক্রোনাস মোটরের রক্ষণাবেক্ষণ | 17:00 | [Watch](https://youtu.be/CC62Toz4sho?si=FfrWVvINJ_-NjB8j) |
+| 8 | তিন ফেজ ইন্ডাকশন মোটরের রক্ষণাবেক্ষণ | 10:01 | [Watch](https://youtu.be/hUbMvAtk2UI?si=9et1r7-XSYfzBP24) |
+| 9 | সিঙ্গেল ফেজ ইন্ডাকশন মোটর ও পাম্প মোটর | 17:10 | [Watch](https://youtu.be/17SlWouBbQ8) |
+| 10 | সিঙ্গেল ফেজ ট্রান্সফর্মারের ফল্টের তালিকা এবং ব্যাখ্যা | 16:16 | [Watch](https://youtu.be/-njd4tl6em0) |
 | 11 | ভূমিকা ক্লাস | 5:21 | [Watch](https://youtu.be/qGXvkOTX0AU) |
 | 12 | ভূমিকা ক্লাস | 15:28 | [Watch](https://youtu.be/gzWrP-cXFQg) |
 | 13 | Fig of Induction Motor | 12:29 | [Watch](https://youtu.be/BBpVEtdC1PQ) |

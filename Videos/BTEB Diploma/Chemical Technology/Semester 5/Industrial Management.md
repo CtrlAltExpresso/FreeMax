@@ -1,58 +1,57 @@
 # Industrial Management
-
 > 111 videos | Chemical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | সমস্যা সমাধানের ধাপসমূহ | 16:23 | [Watch](https://youtu.be/WaBz0Tkd8JE) |
-| 2 | নেতার আচরণে প্রভাব বিস্তারকারী উপাদানসমূহ | 11:25 | [Watch](https://youtu.be/hO8JVoYz4l4) |
-| 3 | পরিকল্পনার ধারণা | 9:19 | [Watch](https://youtu.be/c0lBzBqeC_A) |
-| 4 | নেতৃত্বের ধারণা | 6:34 | [Watch](https://youtu.be/fX9iyV7zNVg) |
-| 5 | মানব সম্পদ ব্যবস্থাপনা | 12:14 | [Watch](https://youtu.be/zWopv91Tar0) |
-| 6 | সরবরাহ শিকল ব্যবস্থাপনা | 9:31 | [Watch](https://youtu.be/-OUvjJuKTNY) |
-| 7 | উৎপাদনশীলতার সংজ্ঞা | 10:26 | [Watch](https://youtu.be/Hs1PypReNr8) |
-| 8 | উৎপাদন ব্যবস্থাপনা | 7:16 | [Watch](https://youtu.be/fCITMJQRvC4) |
-| 9 | ব্যবস্থাপনার মৌলিক বিষয় | 14:26 | [Watch](https://youtu.be/K01ZZZm6mCI) |
-| 10 | সংগঠন, ব্যবস্থাপনা ও প্রশাসন | 15:11 | [Watch](https://youtu.be/qeFk7NPOU_E) |
-| 11 | সিদ্ধান্ত গ্রহণ | 5:03 | [Watch](https://youtu.be/rP-daYlcjso) |
-| 12 | স্বৈরতান্ত্রিক নেতৃত্ব | 10:13 | [Watch](https://youtu.be/-8UOA6-Qo2I) |
-| 13 | পরিকল্পনার বৈশিষ্ট্য | 4:14 | [Watch](https://youtu.be/FFUy9XmlxRU) |
-| 14 | প্রতিষ্ঠানের ব্যবস্থাপনায় নেতৃত্বের গুরুত্ব | 13:10 | [Watch](https://youtu.be/57Rrsk5IzIA) |
-| 15 | মানব সম্পদ ব্যবস্থাপনার কার্যাবলি | 8:23 | [Watch](https://youtu.be/4WSeUT5T9Oc) |
-| 16 | সরবরাহ শিকল ব্যবস্থাপনার বৈশিষ্ট্য | 13:28 | [Watch](https://youtu.be/6h9WwtwJhGE) |
-| 17 | উৎপাদনশীলতায় প্রভাব বিস্তারকারী উপাদানসমূহ | 10:20 | [Watch](https://youtu.be/-WZCEscIkFo) |
-| 18 | উৎপাদন ব্যবস্থাপনার অন্তর্ভুক্ত বিষয়গুলো | 4:02 | [Watch](https://youtu.be/leEqAadnnUw) |
-| 19 | ব্যবস্থাপনা | 12:19 | [Watch](https://youtu.be/zSbVfM_7NsQ) |
-| 20 | সংগঠনের মৌলিক বিষয় | 14:07 | [Watch](https://youtu.be/_K1A8VPDem4) |
-| 21 | সিদ্ধান্ত গ্রহণের গুরুত্ব বা প্রয়োজনীয়তা | 16:07 | [Watch](https://youtu.be/P3hBOy1ZEoI) |
-| 22 | গণতান্ত্রিক নেতৃত্ব | 8:35 | [Watch](https://youtu.be/D01HtHxIGMo) |
-| 23 | পরিকল্পনা প্রণয়নের সুবিধাসমূহ | 15:29 | [Watch](https://youtu.be/1Vr7J67k4w8) |
-| 24 | একজন আদর্শ নেতার গুণাবলি | 13:10 | [Watch](https://youtu.be/9KQxdKlclgo) |
-| 25 | স্টাফিং Staffing | 9:08 | [Watch](https://youtu.be/LU80u9pktEI) |
-| 26 | সাপ্লই চেইন অপারেশন রেফারেন্স বা SCOR model | 7:34 | [Watch](https://youtu.be/E5AAz16aXHs) |
-| 27 | উৎপাদন প্রক্রিয়া | 13:23 | [Watch](https://youtu.be/g_Dtw-xbB3Y) |
-| 28 | উৎপাদন ব্যবস্থাপনার কার্যাবলি Function of Production Management | 10:02 | [Watch](https://youtu.be/WOZYj2hHUxc) |
-| 29 | ব্যবস্থাপনার মৌলিক কার্যাবলি | 14:03 | [Watch](https://youtu.be/IHZkalNiGl0) |
-| 30 | সংগঠন কাঠামোর প্রকারভেদ | 11:08 | [Watch](https://youtu.be/REZvLXku0UM) |
-| 31 | সিদ্ধান্ত গ্রহণ প্রক্রিয়া | 17:29 | [Watch](https://youtu.be/CgWg5beWF6M) |
-| 32 | Laissez faire নেতৃত্ব বা প্রতিনিধি নেতৃত্ব | 11:17 | [Watch](https://youtu.be/BRfUbv9Tctc) |
-| 33 | পরিকল্পনা প্রণয়নের বিভিন্ন ধাপসমূহ | 14:02 | [Watch](https://youtu.be/e0SxtraASBA) |
-| 34 | নেতৃত্বের প্রকারভেদ | 7:24 | [Watch](https://youtu.be/6iGJIZoBRZU) |
-| 35 | প্রশিক্ষণ, উন্নয়ন ও ব্যবহার | 9:22 | [Watch](https://youtu.be/CUGNVo0QqLU) |
-| 36 | সাপ্লাই চেইন ম্যানেজমেন্ট SCM এর গুরুত্ব | 9:11 | [Watch](https://youtu.be/Ji_tLWXzLw4) |
-| 37 | উৎপাদনশীলতা বৃদ্ধির কৌশল | 7:31 | [Watch](https://youtu.be/bDX-6eP1X0k) |
-| 38 | বিপণন মিশ্রণ হলো 5P এর সংমিশ্রণ ব্যাখ্যা কর | 9:13 | [Watch](https://youtu.be/L_TZfsBXmN0) |
-| 39 | শিল্প ব্যবস্থাপনা | 10:32 | [Watch](https://youtu.be/cE6PO5OJIQo) |
-| 40 | সরলরৈখিক সংগঠন | 14:04 | [Watch](https://youtu.be/L5Xi6LRohEA) |
-| 41 | সিদ্ধান্ত গ্রহণের প্রকারভেদ | 4:23 | [Watch](https://youtu.be/34cPkso3h5Q) |
-| 42 | স্মার্ট গোল | 19:26 | [Watch](https://youtu.be/7f6tb_HvY4c) |
-| 43 | কার্যকর পরিকল্পনা প্রণয়নের ক্ষেত্রে বিবেচ্য বিষয়সমূহ | 8:30 | [Watch](https://youtu.be/khRdz-1t3MQ) |
-| 44 | নেতার ক্ষমতা প্রয়োগের ভিত্তিতে নেতৃত্বের প্রকারভেদ | 10:26 | [Watch](https://youtu.be/PFQ7Vj6i9MU) |
-| 45 | প্রেষণা দান ও ক্ষমতায়ন | 11:06 | [Watch](https://youtu.be/aeLCMywVHE4) |
-| 46 | সাপ্লাই চেইন ম্যানেজমেন্ট এর সীমাবদ্ধতা | 4:20 | [Watch](https://youtu.be/V4K1sScW7u8) |
-| 47 | লীন ম্যানুফ্যাকচারিং পদ্ধতি | 8:15 | [Watch](https://youtu.be/zo_TBT4WPtc) |
-| 48 | ব্যয় নিয়ন্ত্রন পদ্ধতি কী, মজুদ মাল ... মজুদ বলতে কি বুঝাই | 5:01 | [Watch](https://youtu.be/45gFn7GICnQ) |
-| 49 | ব্যবস্থাপনার স্তর Levels of Management | 13:31 | [Watch](https://youtu.be/ozK6iQoOCNE) |
+| 1 | ব্যবস্থাপনার স্তর Levels of Management | 13:31 | [Watch](https://youtu.be/ozK6iQoOCNE) |
+| 2 | সমস্যা সমাধানের ধাপসমূহ | 16:23 | [Watch](https://youtu.be/WaBz0Tkd8JE) |
+| 3 | নেতার আচরণে প্রভাব বিস্তারকারী উপাদানসমূহ | 11:25 | [Watch](https://youtu.be/hO8JVoYz4l4) |
+| 4 | পরিকল্পনার ধারণা | 9:19 | [Watch](https://youtu.be/c0lBzBqeC_A) |
+| 5 | নেতৃত্বের ধারণা | 6:34 | [Watch](https://youtu.be/fX9iyV7zNVg) |
+| 6 | মানব সম্পদ ব্যবস্থাপনা | 12:14 | [Watch](https://youtu.be/zWopv91Tar0) |
+| 7 | সরবরাহ শিকল ব্যবস্থাপনা | 9:31 | [Watch](https://youtu.be/-OUvjJuKTNY) |
+| 8 | উৎপাদনশীলতার সংজ্ঞা | 10:26 | [Watch](https://youtu.be/Hs1PypReNr8) |
+| 9 | উৎপাদন ব্যবস্থাপনা | 7:16 | [Watch](https://youtu.be/fCITMJQRvC4) |
+| 10 | ব্যবস্থাপনার মৌলিক বিষয় | 14:26 | [Watch](https://youtu.be/K01ZZZm6mCI) |
+| 11 | সংগঠন, ব্যবস্থাপনা ও প্রশাসন | 15:11 | [Watch](https://youtu.be/qeFk7NPOU_E) |
+| 12 | সিদ্ধান্ত গ্রহণ | 5:03 | [Watch](https://youtu.be/rP-daYlcjso) |
+| 13 | স্বৈরতান্ত্রিক নেতৃত্ব | 10:13 | [Watch](https://youtu.be/-8UOA6-Qo2I) |
+| 14 | পরিকল্পনার বৈশিষ্ট্য | 4:14 | [Watch](https://youtu.be/FFUy9XmlxRU) |
+| 15 | প্রতিষ্ঠানের ব্যবস্থাপনায় নেতৃত্বের গুরুত্ব | 13:10 | [Watch](https://youtu.be/57Rrsk5IzIA) |
+| 16 | মানব সম্পদ ব্যবস্থাপনার কার্যাবলি | 8:23 | [Watch](https://youtu.be/4WSeUT5T9Oc) |
+| 17 | সরবরাহ শিকল ব্যবস্থাপনার বৈশিষ্ট্য | 13:28 | [Watch](https://youtu.be/6h9WwtwJhGE) |
+| 18 | উৎপাদনশীলতায় প্রভাব বিস্তারকারী উপাদানসমূহ | 10:20 | [Watch](https://youtu.be/-WZCEscIkFo) |
+| 19 | উৎপাদন ব্যবস্থাপনার অন্তর্ভুক্ত বিষয়গুলো | 4:02 | [Watch](https://youtu.be/leEqAadnnUw) |
+| 20 | ব্যবস্থাপনা | 12:19 | [Watch](https://youtu.be/zSbVfM_7NsQ) |
+| 21 | সংগঠনের মৌলিক বিষয় | 14:07 | [Watch](https://youtu.be/_K1A8VPDem4) |
+| 22 | সিদ্ধান্ত গ্রহণের গুরুত্ব বা প্রয়োজনীয়তা | 16:07 | [Watch](https://youtu.be/P3hBOy1ZEoI) |
+| 23 | গণতান্ত্রিক নেতৃত্ব | 8:35 | [Watch](https://youtu.be/D01HtHxIGMo) |
+| 24 | পরিকল্পনা প্রণয়নের সুবিধাসমূহ | 15:29 | [Watch](https://youtu.be/1Vr7J67k4w8) |
+| 25 | একজন আদর্শ নেতার গুণাবলি | 13:10 | [Watch](https://youtu.be/9KQxdKlclgo) |
+| 26 | স্টাফিং Staffing | 9:08 | [Watch](https://youtu.be/LU80u9pktEI) |
+| 27 | সাপ্লই চেইন অপারেশন রেফারেন্স বা SCOR model | 7:34 | [Watch](https://youtu.be/E5AAz16aXHs) |
+| 28 | উৎপাদন প্রক্রিয়া | 13:23 | [Watch](https://youtu.be/g_Dtw-xbB3Y) |
+| 29 | উৎপাদন ব্যবস্থাপনার কার্যাবলি Function of Production Management | 10:02 | [Watch](https://youtu.be/WOZYj2hHUxc) |
+| 30 | ব্যবস্থাপনার মৌলিক কার্যাবলি | 14:03 | [Watch](https://youtu.be/IHZkalNiGl0) |
+| 31 | সংগঠন কাঠামোর প্রকারভেদ | 11:08 | [Watch](https://youtu.be/REZvLXku0UM) |
+| 32 | সিদ্ধান্ত গ্রহণ প্রক্রিয়া | 17:29 | [Watch](https://youtu.be/CgWg5beWF6M) |
+| 33 | Laissez faire নেতৃত্ব বা প্রতিনিধি নেতৃত্ব | 11:17 | [Watch](https://youtu.be/BRfUbv9Tctc) |
+| 34 | পরিকল্পনা প্রণয়নের বিভিন্ন ধাপসমূহ | 14:02 | [Watch](https://youtu.be/e0SxtraASBA) |
+| 35 | নেতৃত্বের প্রকারভেদ | 7:24 | [Watch](https://youtu.be/6iGJIZoBRZU) |
+| 36 | প্রশিক্ষণ, উন্নয়ন ও ব্যবহার | 9:22 | [Watch](https://youtu.be/CUGNVo0QqLU) |
+| 37 | সাপ্লাই চেইন ম্যানেজমেন্ট SCM এর গুরুত্ব | 9:11 | [Watch](https://youtu.be/Ji_tLWXzLw4) |
+| 38 | উৎপাদনশীলতা বৃদ্ধির কৌশল | 7:31 | [Watch](https://youtu.be/bDX-6eP1X0k) |
+| 39 | বিপণন মিশ্রণ হলো 5P এর সংমিশ্রণ ব্যাখ্যা কর | 9:13 | [Watch](https://youtu.be/L_TZfsBXmN0) |
+| 40 | শিল্প ব্যবস্থাপনা | 10:32 | [Watch](https://youtu.be/cE6PO5OJIQo) |
+| 41 | সরলরৈখিক সংগঠন | 14:04 | [Watch](https://youtu.be/L5Xi6LRohEA) |
+| 42 | সিদ্ধান্ত গ্রহণের প্রকারভেদ | 4:23 | [Watch](https://youtu.be/34cPkso3h5Q) |
+| 43 | স্মার্ট গোল | 19:26 | [Watch](https://youtu.be/7f6tb_HvY4c) |
+| 44 | কার্যকর পরিকল্পনা প্রণয়নের ক্ষেত্রে বিবেচ্য বিষয়সমূহ | 8:30 | [Watch](https://youtu.be/khRdz-1t3MQ) |
+| 45 | নেতার ক্ষমতা প্রয়োগের ভিত্তিতে নেতৃত্বের প্রকারভেদ | 10:26 | [Watch](https://youtu.be/PFQ7Vj6i9MU) |
+| 46 | প্রেষণা দান ও ক্ষমতায়ন | 11:06 | [Watch](https://youtu.be/aeLCMywVHE4) |
+| 47 | সাপ্লাই চেইন ম্যানেজমেন্ট এর সীমাবদ্ধতা | 4:20 | [Watch](https://youtu.be/V4K1sScW7u8) |
+| 48 | লীন ম্যানুফ্যাকচারিং পদ্ধতি | 8:15 | [Watch](https://youtu.be/zo_TBT4WPtc) |
+| 49 | ব্যয় নিয়ন্ত্রন পদ্ধতি কী, মজুদ মাল ... মজুদ বলতে কি বুঝাই | 5:01 | [Watch](https://youtu.be/45gFn7GICnQ) |
 | 50 | সরলরৈখিক সংগঠনের বৈশিষ্ট্য | 15:05 | [Watch](https://youtu.be/1n117-sCGo8) |
 | 51 | গুরুত্বের ভিত্তিতে সিদ্ধান্ত | 10:32 | [Watch](https://youtu.be/eu4Ue6UDdSk) |
 | 52 | কর্ম বরাদ্দকালীন প্রতিবন্ধকতা হৃাস করার উপায় | 6:29 | [Watch](https://youtu.be/vBCQKx6ajgU) |

@@ -1,5 +1,4 @@
 # Industrial Management
-
 > 111 videos | Electronics Technology
 
 | # | Title | Duration | Link |

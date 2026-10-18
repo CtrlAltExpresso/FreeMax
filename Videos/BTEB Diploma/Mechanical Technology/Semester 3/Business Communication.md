@@ -1,5 +1,4 @@
 # Business Communication
-
 > 79 videos | Mechanical Technology
 
 | # | Title | Duration | Link |

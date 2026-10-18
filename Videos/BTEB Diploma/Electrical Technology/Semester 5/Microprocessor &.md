@@ -1,37 +1,36 @@
 # Microprocessor &
-
 > 59 videos | Electrical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | 8086 Microprocessor  বৈশিষ্ট্য | 10:04 | [Watch](https://youtu.be/vFvw1RFWEEM) |
-| 2 | সেমিকন্ডাক্টর | 8:16 | [Watch](https://youtu.be/uFDbvFyWnB4) |
-| 3 | প্রিন্সিপাল অব অ্যানালগ কনভার্শন | 8:10 | [Watch](https://youtu.be/edaUQovUZag) |
-| 4 | প্রিন্সিপাল অব লেভেল কনভার্শন | 8:16 | [Watch](https://youtu.be/snrrg69mBQs) |
-| 5 | কাউন্টার | 10:22 | [Watch](https://youtu.be/ZaeLGCD6npI) |
-| 6 | Difference Between Analog and Digital Signal | 6:14 | [Watch](https://youtu.be/SibMt4SDsgY) |
-| 7 | Number System | 15:13 | [Watch](https://youtu.be/FebTHby5pRg) |
-| 8 | Block Diagram Internal Architecture of 8086 Microprocessor | 8:12 | [Watch](https://youtu.be/S9Mnjs0k6Og) |
-| 9 | টাইপস অব মেমোরি | 11:14 | [Watch](https://youtu.be/W-SqNddMnPw) |
-| 10 | 3 বিট প্যারালাল | 15:10 | [Watch](https://youtu.be/OBlDxlffTN4) |
-| 11 | প্রিন্সিপাল অব ডি এ কনভার্শন | 6:34 | [Watch](https://youtu.be/RmKGEY_ztEI) |
-| 12 | 4 বিট এসাইনক্রোনাস কাউন্টার | 18:22 | [Watch](https://youtu.be/SmrlRa55kGk) |
-| 13 | Features of Digital Method | 4:24 | [Watch](https://youtu.be/gjYlwsnZ9ik) |
-| 14 | Register Structure of 8086 Microprocessor | 7:17 | [Watch](https://youtu.be/iR1ePPQyDd0) |
-| 15 | Interrupt | 8:34 | [Watch](https://youtu.be/edA3yOIx2gc) |
-| 16 | সিরিয়াল এক্সেস ও প্যারালাল এক্সেস মেমোরি | 3:24 | [Watch](https://youtu.be/40Aiw24BPnw) |
-| 17 | সাকসেসিভ এপ্রোক্সিমেশন | 13:02 | [Watch](https://youtu.be/NVmEph2mJGg) |
-| 18 | বাইনারী ওয়েটেড ডিএ কনভার্টার | 12:06 | [Watch](https://youtu.be/UTmP_IzZ2Nk) |
-| 19 | 4 বিট সিনক্রোনাস কাউন্টার | 15:10 | [Watch](https://youtu.be/cpybbUyh2kM) |
-| 20 | টাইপ অব ফ্লিপ-ফ্লপ | 5:31 | [Watch](https://youtu.be/4Bt6ngWpUCg) |
-| 21 | Flag Register of 8086 Microprocessor | 11:16 | [Watch](https://youtu.be/aG7b-bpzvng) |
-| 22 | মেমোরি এড্রেসিং করার কৌশল | 5:20 | [Watch](https://youtu.be/6uGwxVqxuaY) |
-| 23 | ডুয়েল স্লাভ | 6:01 | [Watch](https://youtu.be/8OKaDa6fZC0) |
-| 24 | R 2R Ladder DAC | 9:04 | [Watch](https://youtu.be/dBV8r3nlP-w) |
-| 25 | MOD 10 কাউন্টার | 12:19 | [Watch](https://youtu.be/kY_KbdJF7QU) |
-| 26 | 8085 Microprocessor & 8086 Microprocessor পার্থক্য | 4:27 | [Watch](https://youtu.be/xLPGoH94eeI) |
-| 27 | Direct Memory Access | 4:16 | [Watch](https://youtu.be/kBSoDwAE46o) |
-| 28 | Read And Write Operation of memory | 14:20 | [Watch](https://youtu.be/2ZIqBVGR5oE) |
+| 1 | Read And Write Operation of memory | 14:20 | [Watch](https://youtu.be/2ZIqBVGR5oE) |
+| 2 | Difference Between Analog and Digital Signal | 6:14 | [Watch](https://youtu.be/SibMt4SDsgY) |
+| 3 | Features of Digital Method | 4:24 | [Watch](https://youtu.be/gjYlwsnZ9ik) |
+| 4 | 8086 Microprocessor  বৈশিষ্ট্য | 10:04 | [Watch](https://youtu.be/vFvw1RFWEEM) |
+| 5 | সেমিকন্ডাক্টর | 8:16 | [Watch](https://youtu.be/uFDbvFyWnB4) |
+| 6 | প্রিন্সিপাল অব অ্যানালগ কনভার্শন | 8:10 | [Watch](https://youtu.be/edaUQovUZag) |
+| 7 | প্রিন্সিপাল অব লেভেল কনভার্শন | 8:16 | [Watch](https://youtu.be/snrrg69mBQs) |
+| 8 | কাউন্টার | 10:22 | [Watch](https://youtu.be/ZaeLGCD6npI) |
+| 9 | Number System | 15:13 | [Watch](https://youtu.be/FebTHby5pRg) |
+| 10 | Block Diagram Internal Architecture of 8086 Microprocessor | 8:12 | [Watch](https://youtu.be/S9Mnjs0k6Og) |
+| 11 | টাইপস অব মেমোরি | 11:14 | [Watch](https://youtu.be/W-SqNddMnPw) |
+| 12 | 3 বিট প্যারালাল | 15:10 | [Watch](https://youtu.be/OBlDxlffTN4) |
+| 13 | প্রিন্সিপাল অব ডি এ কনভার্শন | 6:34 | [Watch](https://youtu.be/RmKGEY_ztEI) |
+| 14 | 4 বিট এসাইনক্রোনাস কাউন্টার | 18:22 | [Watch](https://youtu.be/SmrlRa55kGk) |
+| 15 | Register Structure of 8086 Microprocessor | 7:17 | [Watch](https://youtu.be/iR1ePPQyDd0) |
+| 16 | Interrupt | 8:34 | [Watch](https://youtu.be/edA3yOIx2gc) |
+| 17 | সিরিয়াল এক্সেস ও প্যারালাল এক্সেস মেমোরি | 3:24 | [Watch](https://youtu.be/40Aiw24BPnw) |
+| 18 | সাকসেসিভ এপ্রোক্সিমেশন | 13:02 | [Watch](https://youtu.be/NVmEph2mJGg) |
+| 19 | বাইনারী ওয়েটেড ডিএ কনভার্টার | 12:06 | [Watch](https://youtu.be/UTmP_IzZ2Nk) |
+| 20 | 4 বিট সিনক্রোনাস কাউন্টার | 15:10 | [Watch](https://youtu.be/cpybbUyh2kM) |
+| 21 | টাইপ অব ফ্লিপ-ফ্লপ | 5:31 | [Watch](https://youtu.be/4Bt6ngWpUCg) |
+| 22 | Flag Register of 8086 Microprocessor | 11:16 | [Watch](https://youtu.be/aG7b-bpzvng) |
+| 23 | মেমোরি এড্রেসিং করার কৌশল | 5:20 | [Watch](https://youtu.be/6uGwxVqxuaY) |
+| 24 | ডুয়েল স্লাভ | 6:01 | [Watch](https://youtu.be/8OKaDa6fZC0) |
+| 25 | R 2R Ladder DAC | 9:04 | [Watch](https://youtu.be/dBV8r3nlP-w) |
+| 26 | MOD 10 কাউন্টার | 12:19 | [Watch](https://youtu.be/kY_KbdJF7QU) |
+| 27 | 8085 Microprocessor & 8086 Microprocessor পার্থক্য | 4:27 | [Watch](https://youtu.be/xLPGoH94eeI) |
+| 28 | Direct Memory Access | 4:16 | [Watch](https://youtu.be/kBSoDwAE46o) |
 | 29 | সিম্পল অ্যান্ড হোল্ড সার্কিট | 8:08 | [Watch](https://youtu.be/6nmefROCkDw) |
 | 30 | রেজুলোশন | 3:31 | [Watch](https://youtu.be/0vsNkHwRwlw) |
 | 31 | রিং কাউন্টার | 20:07 | [Watch](https://youtu.be/UjOP4xjYZks) |

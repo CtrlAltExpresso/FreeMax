@@ -1,224 +1,223 @@
 # Surveying-II
-
 > 276 videos | Civil Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | ঘের জরিপের বিভিন্ন ধরণের সমস্যা | 24:02 | [Watch](https://youtu.be/Aacg8wz58b8) |
-| 2 | ঘের Traverse | 25:26 | [Watch](https://youtu.be/dIfSQ1WEV48) |
-| 3 | ত্রিকোণমিতিক লেভেলিং  এর মূলনীতি | 17:15 | [Watch](https://youtu.be/zvBgCRwQ5Go) |
-| 4 | জিওডেটিক কো অর্ডিনেট , বিয়ারিং , প্রকৃত বিয়ারিং | 25:29 | [Watch](https://youtu.be/B4fXtvJ_a8Q) |
-| 5 | থিওডোলাইট  Theodolite | 18:29 | [Watch](https://youtu.be/12vxoWULhzA) |
-| 6 | Part-1  কন্টুর | 29:25 | [Watch](https://youtu.be/991XnVKtp0I) |
-| 7 | লেভেলিং এ বাধাবিপত্তি | 4:16 | [Watch](https://youtu.be/I4h9kuuZZdE?si=Ntg8-AkrZs7h1nFr) |
-| 8 | বিভিন্ন প্রকারের সমলিমিতির তালিকা | 6:07 | [Watch](https://youtu.be/LLA0Kb6Fhto) |
-| 9 | Part - 1 পশ্চাৎ পাঠ, অগ্রবর্তী পাঠ, মধ্যবর্তী পাঠ | 14:05 | [Watch](https://youtu.be/4CndEvaWyzU) |
-| 10 | লেভেলের সমন্বয়ন | 24:29 | [Watch](https://youtu.be/B-lWaHlLoY4) |
-| 11 | লেভেলিং কাজে ব্যবহৃত যন্ত্রপাতি ও উপকরণাদির তালিকা | 6:17 | [Watch](https://youtu.be/YRe7jZTfTMo) |
-| 12 | লেভেল | 27:32 | [Watch](https://youtu.be/U2WEKSHyIIQ) |
-| 13 | অক্ষাংশ ও দ্রাঘিমাংশ নিয়ে আলোচনা | 24:02 | [Watch](https://youtu.be/Aacg8wz58b8) |
-| 14 | ত্রিকোণমিতিক লেভেলিং | 17:15 | [Watch](https://youtu.be/zvBgCRwQ5Go) |
-| 15 | সমতলমিতি লঘুকরণ প্রাথমিক  আলোচনা | 15:22 | [Watch](https://youtu.be/gzA_iQMeVfE) |
-| 16 | ভূ-সাংস্থানিক জরীপ ও অন্যান্য বিষয় নিয়ে আলোচনা | 12:34 | [Watch](https://youtu.be/Jx3HXjViZNw) |
-| 17 | ঘের জরিপের নীতিমালার প্রাথমিক আলোচনা | 8:20 | [Watch](https://youtu.be/QLysUoXunzw) |
-| 18 | জিওডেটিক স্থানাঙ্ক বিয়ারিং ও প্রকৃত বিয়ারিং | 28:22 | [Watch](https://youtu.be/6GML9enmz00) |
-| 19 | থিওডোলাইটের মৌলিক বিষয়াদি নিয়ে আলোচনা | 10:25 | [Watch](https://youtu.be/P43c1Q-jLd4) |
-| 20 | কন্টুরিং এবং ম্যাপিং | 6:17 | [Watch](https://youtu.be/aX-VVCUWoGs) |
-| 21 | লেভেলিং এর অসুবিধা ও ভুলভ্রান্তি | 12:23 | [Watch](https://youtu.be/hyBwg3QZBQs) |
-| 22 | লেভেলিং এর প্রকারভেদ | 8:30 | [Watch](https://youtu.be/8V6z97LPMWo) |
-| 23 | সমতল সমন্বয় | 23:01 | [Watch](https://youtu.be/iozIq1sIDuk) |
-| 24 | সমতলমিতির যন্ত্রপাতি | 8:20 | [Watch](https://youtu.be/ahnRjEW_DKE) |
-| 25 | জরিপ বিজ্ঞান, সমতলমিতি | 21:14 | [Watch](https://youtu.be/COHiZlrD5G8) |
-| 26 | থিওডোলাইট জরিপে ভ্রান্তির উৎস | 13:01 | [Watch](https://youtu.be/eSwEipHWMVs) |
-| 27 | থিওডোলাইট ট্রাভার্সিং  এ মাঠের  কাজের সরেজমিনের কাজ তালিকা | 2:21 | [Watch](https://youtu.be/0JM0LZVytOM) |
-| 28 | অধিগম্য বস্তুর উচ্চতা নির্ণয়করণ পদ্ধতি | 26:14 | [Watch](https://youtu.be/rhgu-wcXf8E) |
-| 29 | পূর্ণবৃত্ত বিয়ারিং ও হ্রাসকৃত বিয়ারিং | 25:12 | [Watch](https://youtu.be/RSQtM4Unx9M) |
-| 30 | থিওডোলাইটের বিভিন্ন অঙ্গসমূহ | 12:24 | [Watch](https://youtu.be/ua_7uNyFe84) |
-| 31 | Part-2 কন্টুর | 8:25 | [Watch](https://youtu.be/Ak8Rb1xe9wE) |
-| 32 | পাহাড়ে আহোরণ ও অবতরণজনিত বাধাবিপত্তি বা অসুবিধা | 36:24 | [Watch](https://youtu.be/prtHgMBrzeM?si=uJ1symNTnlqHntWx) |
-| 33 | পার্থক্যায়ন বা ফ্লাই লেভেলিং | 22:13 | [Watch](https://youtu.be/EQeew5UPaD8) |
-| 34 | Part  - 2 পশ্চাৎ পাঠ, অগ্রবর্তী পাঠ, মধ্যবর্তী পাঠ | 12:19 | [Watch](https://youtu.be/O4RW428LS-Y) |
-| 35 | পারস্পারিক সম্পর্কসহ লেভেলের মৌলিক রেখাসমূহ | 11:09 | [Watch](https://youtu.be/3r2oU16Vtw0) |
-| 36 | বিভিন্ন ধরনের লেভেল যন্ত্র | 2:19 | [Watch](https://youtu.be/ncSmaGZWklA) |
-| 37 | বিন্দুদ্বয়ের আপেক্ষিক এলিভেশন নির্ণয় | 17:06 | [Watch](https://youtu.be/Rr63gNSHKk0) |
-| 38 | A ও B বিন্দুর স্থানাংক যথাক্রমে 100মি উত্তর 200মি পূর্ব এবং........AB বাহুর বিয়ারিং ও দৈর্ঘ্য নির্ণয় | 12:05 | [Watch](https://youtu.be/FIOkSiMBiIU) |
-| 39 | কন্টুরের বৈশিষ্ট্য | 9:16 | [Watch](https://youtu.be/kZ5ZVLIK7U8) |
-| 40 | লেভেলিং কাজে দেয়াল জনিত  বাধা অতিক্রম | 36:23 | [Watch](https://youtu.be/prtHgMBrzeM) |
-| 41 | অস্থায়ী সমন্বয়ের ধাপসমূহ | 24:29 | [Watch](https://youtu.be/B-lWaHlLoY4) |
-| 42 | ডায়াফ্রাম | 4:29 | [Watch](https://youtu.be/r3S8XeR-EUA) |
-| 43 | ঘের জরিপের নীতিমালা বিয়ারিং আলোচনা | 10:20 | [Watch](https://youtu.be/KK_0saENRQ8) |
-| 44 | উল্লম্ব তলে 90মি দূরবর্তী সম এলিভেশনের A&B বিন্দুর মাঝে C বিন্দু অবস্থিত হলে  টাওয়ারের উচ্চতা নির্ণয় | 10:30 | [Watch](https://youtu.be/OY6H9VZl3Vk) |
-| 45 | আজিমাথ গ্রিড অ্যাজিমাথ এবং চূম্বকীয় বিয়ারিং | 15:32 | [Watch](https://youtu.be/4uml9M-alAc) |
-| 46 | প্রত্যক্ষ লেভেলিং এর  প্রকারভেদ নিয়ে বিস্তরিত আলোচনা | 4:22 | [Watch](https://youtu.be/EkCol-fu5to) |
-| 47 | স্টাফ পাঠ এবং  আর এল এর  মধ্যকার  সম্পর্ক | 8:20 | [Watch](https://youtu.be/CdT4M_3hAoQ) |
-| 48 | সমতল রেখা, আনুভূমিক তল ,উলম্বরেখা, উলম্ব তল, উপাত্ত তল গড় সমুুদ্রত | 18:24 | [Watch](https://youtu.be/bFRa1nAHXUk) |
-| 49 | গুরুত্বপূর্ন প্রশ্নসমূহ | 6:19 | [Watch](https://youtu.be/lzIHTdOeHZY) |
-| 50 | অন্তর্ভুক্ত কোণ পদ্ধতি | 12:28 | [Watch](https://youtu.be/IhUd9DaWdTo) |
-| 51 | যদি যন্ত্রের অক্ষের এলিভেশন 100 মিটার হয় তবে B টাওয়ারের শীর্ষের আর এল নির্ণয় | 15:01 | [Watch](https://youtu.be/d73qOoMjjuk) |
-| 52 | থিওডোলাইটের সাহায্যে অনুভূমিক  কোণ পারিমাপ প্রক্রিয়া | 33:17 | [Watch](https://youtu.be/nxs8hFKJUpw) |
-| 53 | থিওডোলাইটের বিভিন্ন অঙ্গসমূহ ও অঙ্গসমূহের কার্যাবলি | 12:11 | [Watch](https://youtu.be/GCyX7l3EMTs) |
-| 54 | কন্টুরিং, অনুভূমিক সমতুল বা সমার্থক, সমোন্নতি ব্যবধান বা কন্টুর বিরতি | 25:26 | [Watch](https://youtu.be/y4KnZJr7Ppw) |
-| 55 | লেভেলিং  এ যান্ত্রিক ত্রুটি ও ব্যবহারজনিত কারণে সৃষ্ট ত্রুটির তালিকা | 8:34 | [Watch](https://youtu.be/p8ZSf1Kyo-k?si=EsMrNn3Orq2dVltr) |
-| 56 | লম্বালম্বি বা প্রোফাইল লেভেলিং | 17:17 | [Watch](https://youtu.be/FZNV1xkXVn0) |
-| 57 | Part -1 ঋণাত্নক স্টাফ পাঠ, স্টেশন, পরিবর্তন বিন্দু | 11:10 | [Watch](https://youtu.be/H4bM5fSgI8E) |
-| 58 | ডাম্পি লেভেল | 9:20 | [Watch](https://youtu.be/6NGOmh_uvQQ) |
-| 59 | লেভেল ও লেভেলিং এর মধ্যে পার্থক্য | 7:35 | [Watch](https://youtu.be/3sipTtsx7JY) |
-| 60 | লেভেল বইয়ে স্টাফ লিখন প্রক্রিয়া | 25:22 | [Watch](https://youtu.be/q-ElDtvSHWw) |
-| 61 | ঘের জরিপের নীতিমালা সূত্রাবলী | 25:26 | [Watch](https://youtu.be/dIfSQ1WEV48) |
-| 62 | পুর্ন বৃত্তবিয়ারিং	 ও হ্রাসকৃত বিয়ারিং | 25:11 | [Watch](https://youtu.be/RSQtM4Unx9M) |
-| 63 | পরোক্ষ লেভেলিং    প্রকারভেদ নিয়ে বিস্তরিত আলোচনা | 6:07 | [Watch](https://youtu.be/LLA0Kb6Fhto) |
-| 64 | বেঞ্চমার্ক | 6:23 | [Watch](https://youtu.be/x5NvH803JWc) |
-| 65 | ঘের জরিপের সমস্যার সমাধান দৈর্ঘ্য, কোণ নির্ণয় | 19:35 | [Watch](https://youtu.be/LVxrRbr5Esk) |
-| 66 | টাওয়ারের পাদমূল ও শীর্ষবিন্দুর আরএল কত হবে এবং  টাওয়ারের উচ্চতা কত? | 15:16 | [Watch](https://youtu.be/H6uPjdP0wgI) |
-| 67 | কন্টুর ম্যাপের  সাধারণ ব্যবহার | 19:07 | [Watch](https://youtu.be/x1GXle2_IYQ) |
-| 68 | পৃথিবীর বক্রতা ও আলোর প্রতিসরণ জনিত ক্রান্তির প্রভাব | 20:10 | [Watch](https://youtu.be/gILdx-mSODg) |
-| 69 | লেভেল যন্ত্রের মৌলিক রেখাসমূহ | 15:32 | [Watch](https://youtu.be/iWKKkoGPwlY) |
-| 70 | কলিমেশন রেখা কলিমেশন অক্ষ বাবল অক্ষ দূরবিনের অক্ষ | 11:15 | [Watch](https://youtu.be/qJkzMwb01Vc) |
-| 71 | যদি 260m দীর্ঘ একটি লাইনের অক্ষাংশ 210 m হয় তাহলে লাইনটির বিয়ারিং  ও দ্রাঘিমাংশ নির্ণয় | 9:34 | [Watch](https://youtu.be/r6YVN6i76kY) |
-| 72 | প্রতিসরণ কোণ পদ্ধতি | 10:13 | [Watch](https://youtu.be/eYK3i_O_7es) |
-| 73 | P ও  Q হতে টাওয়ারটির উন্নতি কোণ যথাক্রমে 62° ও 40° হলে টাওয়ারটির উচ্চতা নির্ণয় | 17:00 | [Watch](https://youtu.be/okV4wfw64yY) |
-| 74 | পুনরাবৃত্তি প্রক্রিয়া | 19:15 | [Watch](https://youtu.be/G6-Rd1JVfqg) |
-| 75 | দুরবিনের স্বাভাবিক অবস্থা ও  দুরবনের উল্টা অবস্থা | 13:11 | [Watch](https://youtu.be/7pXo0Z9PDjQ) |
-| 76 | কন্টুর এর বৈশিষ্ট্য | 9:16 | [Watch](https://youtu.be/kZ5ZVLIK7U8) |
-| 77 | লেভেলিং  এ পৃথিবীর বক্রতা ও আলোর প্রতিসরণের প্রভাব | 24:00 | [Watch](https://youtu.be/kLB3jJrXQ3M?si=6qYGdrEp7ujyTo6Y) |
-| 78 | প্রস্থচ্ছেদ লেভেলিং বা ক্রস সেকশনিং | 15:14 | [Watch](https://youtu.be/zhsGNJTNL_U) |
-| 79 | Part  -2 ঋণাত্নক স্টাফ পাঠ, স্টেশন, পরিবর্তন বিন্দু | 13:03 | [Watch](https://youtu.be/iiYiRqVB0zA) |
-| 80 | ডাম্পি লেভেল সমন্বয় | 22:08 | [Watch](https://youtu.be/Cx-8dhZhAtU) |
-| 81 | ওয়াই লেভেল | 14:16 | [Watch](https://youtu.be/IMhBmFk3Qjo) |
-| 82 | জরিপ ও সমতলমিতির মধ্যে পার্থক্য | 10:01 | [Watch](https://youtu.be/E08pYzfUkBo) |
-| 83 | একটি সুষম ষড়ভূজের ABCDEF এর  AB বাহুর বিয়ারিং 40ডিগ্রি (বামাবর্তে) অন্যান্য বাহুগুলোর বিয়ারিং নির্ণয় | 6:32 | [Watch](https://youtu.be/28Z4KNFP6GM) |
-| 84 | 1800 মি দূরবর্তী একটি B টাওয়ারের শীর্ষের উন্নতি কোন 9°30’ পাওয়া গেলে B টাওয়ারের শীর্ষের আর এল নির্ণয় | 17:00 | [Watch](https://youtu.be/okV4wfw64yY) |
-| 85 | পৃথিবীর বক্রতা ও আলোর প্রতিসরণজনিত ভ্রান্তি নির্ণয় সুত্র | 25:33 | [Watch](https://youtu.be/TQm2i8uhKzM) |
-| 86 | বিনিময় ক্রম লেভেলিং নিয়ে আলোচনা | 21:04 | [Watch](https://youtu.be/IkOB0X1Xwok) |
-| 87 | লেভেলিং ও সমতলমিতির উদ্দেশ্য | 12:30 | [Watch](https://youtu.be/1-c_8zMfPFo) |
-| 88 | সম্মুখ বিয়ারিং ও পশ্চাৎ বিয়ারিং | 20:06 | [Watch](https://youtu.be/Ep_RyfL-QdI) |
-| 89 | ইঞ্জিনিয়ারিং ব্যবহার | 19:31 | [Watch](https://youtu.be/wWklZdTO1xw) |
-| 90 | দু -খুটি পরীক্ষা  সংক্রান্ত গাণিতিক সমস্যা সমাধানের ধাপসমূহ | 25:33 | [Watch](https://youtu.be/RUJ0IefJ8eI) |
-| 91 | লম্বন ত্রুটি | 8:25 | [Watch](https://youtu.be/bczCiPINCzc) |
-| 92 | A ও B বিন্দুর স্থানাঙ্ক যথাক্রমে 100N, 200E   হলে AB বাহুর দৈর্ঘ্য ও বিয়ারিং নির্ণয় | 12:05 | [Watch](https://youtu.be/FIOkSiMBiIU) |
-| 93 | প্রত্যেক্ষ কোণ পদ্ধতি | 3:13 | [Watch](https://youtu.be/LIx9njqkZaA) |
-| 94 | A ও B এর উপর স্টাফ পাঠ যথাক্রমে 2 95m ও 3 25m হলে শীর্ষবিন্দুর RL ও নদীর প্রস্থ নির্ণয় | 33:21 | [Watch](https://youtu.be/C5s6I0A_y6o) |
-| 95 | পুনঃকরণ প্রক্রিয়া | 13:08 | [Watch](https://youtu.be/2xQMbVNMp4w) |
-| 96 | লেভেল ও থিওডোলাইটের মাঝে পার্থক্য | 6:32 | [Watch](https://youtu.be/1OhsCcK601o) |
-| 97 | কন্টুর এর ব্যবহার | 16:13 | [Watch](https://youtu.be/Yz56u_tVaDw) |
-| 98 | পৃথিবীর বক্রতা ও আলোর প্রতিসরণের জন্য সংশোধনী সূত্র | 25:33 | [Watch](https://youtu.be/TQm2i8uhKzM?si=CdDgmKSpipC5u9P9) |
-| 99 | নিরীক্ষায়ন লেভেলিং | 13:27 | [Watch](https://youtu.be/K70WPiMSju0) |
-| 100 | বিভিন্ন ধরনের লেভেল বইয়ের প্রয়োজনীয়তা | 22:08 | [Watch](https://youtu.be/5bxF0tQ7oAI) |
-| 101 | Part -1 কলিমেশন রেখার সমন্বয় | 19:24 | [Watch](https://youtu.be/MDEzv3btCnM) |
-| 102 | ডাম্পি লেভেল ও ওয়াই লেভেলের মধ্যে পার্থক্য | 15:29 | [Watch](https://youtu.be/RO2NiBy4jf8) |
-| 103 | সমতলমিতির উদ্দেশ্য | 12:30 | [Watch](https://youtu.be/1-c_8zMfPFo) |
-| 104 | ভার্নিয়ার থিওডোলাইটের সাহায্যে অনুভুমিক কোন পরিমাপকরণ | 20:19 | [Watch](https://youtu.be/ATsdbmiguq0) |
-| 105 | B এর RL নির্ণয় বক্রতা প্রতিসরনের সংযুক্ত ভ্রান্তি নির্ণয় কলিমেশন ভ্রান্তি নির্ণয় ও কৌণিক ভ্রান্তি নি | 22:14 | [Watch](https://youtu.be/g66dd70nDk0) |
-| 106 | যন্ত্রটির কলিমেশন রেখা ঠিক আছে কি? যদি ঠিক না থাকে তবে সমন্বয়ের পর A ও B বিন্দুর স্টাফ পাঠ কত? | 18:34 | [Watch](https://youtu.be/eCSUN8TZups) |
-| 107 | ঘের জরিপের নীতিমালা পূর্ণবৃত্ত ও হ্রাসকৃত বিয়ারিং | 15:07 | [Watch](https://www.youtube.com/watch?v=Ma95NDF1R9o) |
-| 108 | উন্নতি কোণ 30°25’ & 20 °30’ হলে B বিন্দু হতে ট্যাংকের উচ্চতা এবং A বিন্দু হতে অনুভূমিক দূরত্ব কত? | 36:27 | [Watch](https://youtu.be/bIL9SJNjFw4) |
-| 109 | সামরিক ব্যবহার | 16:04 | [Watch](https://youtu.be/hrTdswn3PAo) |
-| 110 | স্টাফ স্টেশনের উচ্চতার পার্থক্য  নির্ণয় কর ? | 9:30 | [Watch](https://youtu.be/qgFKtwPo8tY) |
-| 111 | প্রদত্ত স্টাফ পাঠ হতে কলিমেশন পদ্ধতিতে বিভিন্ন বিন্দুর R.L নির্ণয় কর | 41:23 | [Watch](https://youtu.be/rPkv8ktkNhw) |
-| 112 | লেভেলিং স্টাফ | 4:13 | [Watch](https://youtu.be/OCAC9Gk9070) |
-| 113 | Part   1 ABCDEA একটি বদ্ধঘেরের বিভিন্ন বাহুর দৈর্ঘ্য ও বিয়ারিং...AE বাহুর দৈর্ঘ্য ওবিয়ারিং নির্ণয় | 29:29 | [Watch](https://youtu.be/oy_qKcLt5Bc) |
-| 114 | ঘের নিরীক্ষণ  Checking of Traverse | 6:22 | [Watch](https://youtu.be/jLoU5iLy4Q0) |
-| 115 | Part   1 নিচের তথ্যাদির সাহায্যে দুটি টাওয়ারের শীর্ষ বিন্দু দুটোর আর এল ও অনুভূমিক দূরত্ব নির্ণয় | 29:18 | [Watch](https://youtu.be/oZQ7zaeAis8) |
-| 116 | সূচক ভ্রান্তি ও ক্ষুদ্রতম পাঠ | 8:11 | [Watch](https://youtu.be/I8whxrZrWxc) |
-| 117 | সাধারণ থিওডোলাইট ও ডিজিটাল থিওডোলাইটের মধ্যে পার্থক্য | 4:13 | [Watch](https://youtu.be/gVThryL27zw) |
-| 118 | কন্টুর ও কন্টুরিং এর মাঝে পার্থক্য | 7:34 | [Watch](https://youtu.be/Tyfoq4uSunE) |
-| 119 | দৃশ্যমান দিগন্ত দূরত্ব ও দিগন্ত আনতি কোণের সূত্র | 17:07 | [Watch](https://youtu.be/L_rR4mnXJl8) |
-| 120 | বিনিময়ক্রম | 27:08 | [Watch](https://youtu.be/wO1ci-fnclo) |
-| 121 | লেভেল বইয়ে স্টাফ পাফ লিখন প্রক্রিয়া | 25:23 | [Watch](https://youtu.be/q-ElDtvSHWw) |
-| 122 | Part -2 কলিমেশন রেখার সমন্বয় | 16:11 | [Watch](https://youtu.be/EuZlbNmVMSM) |
-| 123 | কুকস্ রিভারসিবল লেভেল | 13:01 | [Watch](https://youtu.be/fvwdo01pl8o) |
-| 124 | সমতল নীতিতে ব্যবহৃত বিভিন্ন পৃষ্ঠরেখা বা তল সম্পর্কিত আলোচনা | 21:26 | [Watch](https://youtu.be/lwJTH7SkNL0) |
-| 125 | কন্টুর ম্যাপ ব্যবহার করে জলধারের ধারন ক্ষমতা মাটি কাটা মাটি ভরাটের পরিমান নির্ণয়ের সুত্র সমুহ আলোচনা | 27:23 | [Watch](https://youtu.be/f9k1SR3-Sl4) |
-| 126 | A বিন্দু হতে টাওয়ারের অনুভূমিক দুরত্ব এবং  B হতে টাওয়ারের শীর্ষবিন্দুর উচ্চতা নির্ণয় কর | 15:33 | [Watch](https://youtu.be/dDFHZ8evVYI) |
-| 127 | থিওডোলাইটের সাহায্যে উলম্ব কোন পরিমাপ করন | 17:10 | [Watch](https://youtu.be/Ez_p1B3tLok) |
-| 128 | সাগরের পানি সমতলে অবস্থিত একটি স্টেশন হতে 65কিমি....দৃষ্টিগোচর হয়। বাতি ঘরের উচ্চতা কত ? | 7:20 | [Watch](https://youtu.be/44fU5e-jkCE) |
-| 129 | ক ও খ স্টাফ পাঠ যথাক্রমে 0.75মি ও 1.85মি । খ বিন্দুর আরএল 25মি হলে ক এর আরএল কত? | 13:04 | [Watch](https://youtu.be/oT28JIwKT3Y) |
-| 130 | প্রদত্ত স্টাফ পাঠ হতে উচু নিচু পদ্ধতিতে বিভিন্ন বিন্দুর R.L নির্ণয় কর | 36:21 | [Watch](https://youtu.be/KVs3FWBtHkg) |
-| 131 | যন্ত্রটির কলিমেশন রেখা ঠিক আছে কি? যদি ঠিক না থাকে তবে সমন্বয়ের পর A ও B বিন্দুর স্টাফ পাঠ কত? | 16:23 | [Watch](https://youtu.be/JXwhs5gu3zQ) |
-| 132 | Part   2 ABCDEA একটি বদ্ধঘেরের বিভিন্ন বাহুর দৈর্ঘ্য ও বিয়ারিং...AE বাহুর দৈর্ঘ্য ও বিয়ারিং নির্ণয় | 12:20 | [Watch](https://youtu.be/ycByHvQosUc) |
-| 133 | সম্মুখ বিয়ারিং ও পাশ্চাৎ বিয়ারিং | 21:19 | [Watch](https://youtu.be/v-oIHqZMwG0) |
-| 134 | Part -  2 নিচের তথ্যাদির সাহায্যে দুটি টাওয়ারের শীর্ষ বিন্দু দুটোর আর এল ও অনুভূমিক দূরত্ব নির্ণয় | 9:05 | [Watch](https://youtu.be/PJiY54f-j6o) |
-| 135 | ডিজিটাল ট্রানজিট থিওডোলাইটের সাহায্যে অনুভূমিক কোণ পরিমাপকরণ প্রক্রিয়া | 14:19 | [Watch](https://youtu.be/TjnkV3Eh79A) |
-| 136 | সেন্টারিং, লেভেলিং,সুইং এবং ট্রানজিটিং | 8:02 | [Watch](https://youtu.be/zF59An9RKvY) |
-| 137 | কন্টুর জরিপের বিভিন্ন পদ্ধতি | 28:29 | [Watch](https://youtu.be/iqe7NSPsTDA) |
-| 138 | 4000m, 3 5 km, 1.70 miles   ক্ষেত্রে বক্রতা এবং প্রতিসরণের সম্মিলিত ফিল্ড সংশোধন নির্ণয় | 11:25 | [Watch](https://youtu.be/b_cEwGDW7KM) |
-| 139 | সূক্ষ বা প্রিসাইজ লেভেলিং | 3:08 | [Watch](https://youtu.be/l7_DyBlkgkY) |
-| 140 | Part- 1 সমতলমিতি লঘুকরণ | 15:22 | [Watch](https://youtu.be/gzA_iQMeVfE) |
-| 141 | Part- 3 কলিমেশন রেখার সমন্বয় | 13:26 | [Watch](https://youtu.be/Qb3cncgTWWg) |
-| 142 | কুশিং লেভেল | 20:07 | [Watch](https://youtu.be/-6-QErCsuDQ) |
-| 143 | গড় সমুদ্রতল, উপাত্ত তল, উপাত্তরেখা বা ডেটাম… | 13:33 | [Watch](https://youtu.be/Cn69jPk4UH4) |
-| 144 | 30 m পর পর প্রাপ্ত স্টাফ পাঠ হতে উচু নিচু পদ্ধতিতে বিভিন্ন বিন্দুর R.L নির্ণয় কর | 15:24 | [Watch](https://youtu.be/v0oWPu_vCb0) |
-| 145 | টাওয়ারের বিন্দুদ্বয়ের সরাসরি দূরত্ব এবং আরএল নির্ণয় কর | 44:26 | [Watch](https://youtu.be/Nzb7EYebuSs) |
-| 146 | থিওডোলাইটের সাহায্যে চুম্বকীয় বিয়ারিং পরিমাপকরণ | 19:19 | [Watch](https://youtu.be/1_5pC1IncMU) |
-| 147 | বাঁধের উজানের কন্টুর ম্যাপ হতে খালে সৃস্ট জলাধারে 150 হতে 166 RL এর মধ্যে কি পরিমান পানি সঞ্চিত থাকব | 10:24 | [Watch](https://youtu.be/peAW5pbZedw) |
-| 148 | একজন পরিদর্শক গড় সমূদ্রতল হতে 3 মিটার জেটির ..... 2 ঘন্টা পর্যন্ত দেখতে পেল  । জাহাজের গতিবেগ নির্ণয় | 11:21 | [Watch](https://youtu.be/WbyWKnnK9yM) |
-| 149 | গ বিন্দুতে যন্ত্র বসিয়ে ক ও খ বিন্দুর স্টাফ পাঠ পাওয়া গেল.......হলে ক বিন্দুর আরএল কত? | 11:28 | [Watch](https://youtu.be/J1bQEGPFwXk) |
-| 150 | পাশ্চাৎ বিয়ারিং  হতে সম্মুখ বিয়ারিং নির্ণয় | 10:22 | [Watch](https://youtu.be/jTFEcXmYqWU) |
-| 151 | 200m দূরবর্তী একটি টাওয়ারের উচ্চতা   টাওয়ারের শীর্ষ ও পাদমূল বিন্দুর RL টাওয়ারের উচ্চতা নির্ণয় | 23:21 | [Watch](https://youtu.be/QB7Zi_rP78I) |
-| 152 | উলম্ব কোণ পরিমাপ প্রক্রিয়া | 8:25 | [Watch](https://youtu.be/lYrmIiwV6o8) |
-| 153 | থিওডোলাইট মৌলিক রেখাসমূহ | 11:20 | [Watch](https://youtu.be/gZrD34X0UuY) |
-| 154 | বর্গক্ষেত্র বা গ্রিড পদ্ধতি | 28:34 | [Watch](https://youtu.be/pW8UBHv7TH0) |
-| 155 | 60 কিলোমিটার দূরের একটি বাতিঘরের শীর্ষের বাতিকে দিকচক্রাবালে দেখা যায় । বাতিঘরের উচ্চতা কত? | 7:35 | [Watch](https://youtu.be/myT795gHnh0) |
-| 156 | ব্যারোমেট্রিক লেভেলিং, হিপসোমিতিক লেভেলিং, ত্রিকোণমিতিক লেভেলিং | 21:04 | [Watch](https://youtu.be/IkOB0X1Xwok) |
-| 157 | Part- 2 সমতলমিতি লঘুকরণ | 14:12 | [Watch](https://youtu.be/pGP-o9QXmfM) |
-| 158 | Part -1 D বিন্দুতে যন্ত্র থাকা অবস্থায় যন্ত্র সমন্বয়ের পর A ও B বিন্দুতে প্রকৃত পাঠ নির্ণয় | 18:34 | [Watch](https://youtu.be/eCSUN8TZups) |
-| 159 | টিলটিং লেভেল Tilting level বা আধুনিক লেভেল Modern level | 10:19 | [Watch](https://youtu.be/VUIUjOXpWcw) |
-| 160 | সমতল রেখা ও সমতল পৃষ্ঠের মাঝে পার্থক্য | 5:04 | [Watch](https://youtu.be/tfNZtyLMOAg) |
-| 161 | বাঁধ পুনঃনির্মানে কি পরিমান মাটি ভরাটের কাজ করতে হবে? | 24:25 | [Watch](https://youtu.be/8fPfgIhF5TQ) |
-| 162 | একটি কক্ষের মেঝের ছাদের এবং বীমের তলার স্টাফ পাঠ যথাক্রমে.......বীমের গভিরতা এবং কক্ষের উচ্চতা কত? | 27:09 | [Watch](https://youtu.be/vDV7GaFknKo) |
-| 163 | টাওয়ারের শীর্ষবিন্দুর আরএল এবং নদীর প্রস্থ নির্ণয় কর | 14:34 | [Watch](https://youtu.be/ygR6PYATsLY) |
-| 164 | জাহাজের মাস্তুলের উচ্চতা নির্ণয় কর | 7:15 | [Watch](https://youtu.be/stiRpfru16g) |
-| 165 | S বিন্দুর আরএল 27মি হলে অন্য সববিন্দুর আরএল নির্ণয় করে মহাসড়কটির একটি লম্বালম্বি প্রোফাইল অংকন কর | 19:27 | [Watch](https://youtu.be/kvN8E-7Rm0Y) |
-| 166 | সম্মুখ বিয়ারিং ও পশ্চাৎ বিয়ারিং  এর মাঝে পার্থক্য | 12:21 | [Watch](https://youtu.be/IrBUA6hipMo) |
-| 167 | A ও B বিন্দু হতে ট্যাংকের শীর্ষ বিন্দুর উন্নতি কোণ   B বিন্দু হতে উচ্চতা নির্ণয় | 33:20 | [Watch](https://youtu.be/5JuTbj_-tH8) |
-| 168 | ভার্নিয়ার থিওডোলাইটের সাহায্যে উলম্ব কোণ পারিমাপকরণ | 20:19 | [Watch](https://youtu.be/ATsdbmiguq0) |
-| 169 | থিওডোলাইটের মৌলিক রেখাগুলোর পারস্পারিক সম্পর্ক | 17:00 | [Watch](https://youtu.be/t8EJ7RFf0_k) |
-| 170 | পাহাড়, জলাধার,উপত্যকা এবং পুকুরের কন্টুর ম্যাপ অঙ্কন প্রক্রিয়া | 10:17 | [Watch](https://youtu.be/OcoYvkoU2S0) |
-| 171 | যদি ‘খ’ বিন্দুর RL 60 মিটার হয়, তবে ‘ক’ বিন্দুর RL কত? | 13:35 | [Watch](https://youtu.be/U90Aj5spN3Q) |
-| 172 | Part -1 A ও B বিন্দুতে যন্ত্র স্থাপন করে নিচের স্টাফ পাঠগুলো পাওয়া গেল। বিভিন্ন বিন্দুর আরএল | 21:28 | [Watch](https://youtu.be/vrcl1svwvSM) |
-| 173 | Part- 3 সমতলমিতি লঘুকরণ | 19:05 | [Watch](https://youtu.be/cVpilNWbiEQ) |
-| 174 | Part -2 D বিন্দুতে যন্ত্র থাকা অবস্থায় যন্ত্র সমন্বয়ের পর A ও B বিন্দুতে প্রকৃত পাঠ নির্ণয় | 20:07 | [Watch](https://youtu.be/6QDxs_xvEwM) |
-| 175 | অটোমেটিক লেভেল | 11:29 | [Watch](https://youtu.be/M1pr-5-fROs) |
-| 176 | বেঞ্চমার্ক | 6:23 | [Watch](https://youtu.be/x5NvH803JWc) |
-| 177 | দুটি জাহাজ একই বন্দর হতে একই দিকে একই...কতদূর পর্যন্ত জাহাজ দুটি পরস্পরকে দেখতে পাবে। | 24:05 | [Watch](https://youtu.be/2xQ6MvyD9iM) |
-| 178 | A অবস্থান হতে ভবনটির উচ্চতা নির্ণয় কর যখন AB=33m | 17:17 | [Watch](https://youtu.be/3fR_dHaQt4Y) |
-| 179 | স্কাট লেভেলের তথ্যাদি হতে ভুমিটি যদি 40.50 মি. আরএর এ সমতল করতে হয়, তবে কি পরিমান মাটি ভরাট করতে হবে | 16:08 | [Watch](https://youtu.be/j7RPI1cY34A) |
-| 180 | একটি 4 মিটার স্টাকের উর্ধ্ব প্রান্ত স্টাক .........গৃহীত স্টাকপাঠ ও মিটার হলে প্রকৃত স্টাক কত হবে? | 6:01 | [Watch](https://youtu.be/SXoj3UY0YOU) |
-| 181 | প্রথম খুটির আরএল 219.30মি হলে  অন্যান্য সকল খুটির স্টাফ পাঠ কত হবে ?..লেভেল বই তৈরি কর? (১ম অংশ) | 16:34 | [Watch](https://youtu.be/FlWQ_8CTOws) |
-| 182 | কখ রেখার সম্মুখ বিয়ারিং 30° হলে পশ্চাৎ বিয়ারিং চিত্রসহ নির্ণয় | 17:10 | [Watch](https://youtu.be/V54y4tNwdkE) |
-| 183 | একটি ডিজিটাল থিওডোলাইটের সাহায্যে    উন্নতি কোণ যথাক্রমে 45° ও 30° টাওয়ারের উচ্চতা নির্ণয় | 9:18 | [Watch](https://youtu.be/Tt9SfOtTGAU) |
-| 184 | ডিজিটাল ট্রানজিট থিওডোলাইটের সাহায্যে উলম্ব কোণ পরিমাপকরণ প্রক্রিয়া | 12:34 | [Watch](https://youtu.be/n_pDQPEKa0I]\) |
-| 185 | থিওডোলাইটের বিভিন্ন ধরনের সমন্বয়ন | 12:05 | [Watch](https://youtu.be/rRKRSza7A_I) |
-| 186 | কন্টুর ম্যাপের বিবিধ ব্যবহার | 6:21 | [Watch](https://youtu.be/axX0XdfnUNg) |
-| 187 | পর্যবেক্ষকের দু চোখের উচ্চতা 1.7 m হলে পানিতল থেকে মাস্তরেলর চূড়ার উচ্চতা নির্ণয় | 19:34 | [Watch](https://youtu.be/Krtl3nQ8rRk?si=GkvEpB4UDuZ88Ft4) |
-| 188 | Part -  2 A ও B বিন্দুতে যন্ত্র স্থাপন করে নিচের স্টাফ পাঠগুলো পাওয়া গেল। বিভিন্ন বিন্দুর আরএল | 12:03 | [Watch](https://youtu.be/3vvF4gsk2Ug) |
-| 189 | Part- 1 উঁচু নিচু পদ্ধতি | 15:22 | [Watch](https://youtu.be/NWVbzj7zwIk) |
-| 190 | Part -3 D বিন্দুতে যন্ত্র থাকা অবস্থায় যন্ত্র সমন্বয়ের পর A ও B বিন্দুতে প্রকৃত পাঠ নির্ণয় | 8:26 | [Watch](https://youtu.be/_MIOmRdbiKU) |
-| 191 | ডিজিটাল লেভেল | 19:12 | [Watch](https://youtu.be/bZBHgCVJAK0) |
-| 192 | বেঞ্চমার্ক এর প্রকারভেদ | 21:31 | [Watch](https://youtu.be/bdxpLt5Pwsg) |
-| 193 | A&B এর মাঝে C তে একটি টাওয়ারের শীর্ষ বিন্দুর উন্নতি কোন 30° & 45° হলে টাওয়ারটির উচ্চতা নির্ণয় কর । | 9:13 | [Watch](https://youtu.be/KwCTe2J833Q) |
-| 194 | কন্টুরিং এবং ম্যাপিং এর মাধ্যমে জলধারণ ক্ষমতা নির্ণয় | 10:00 | [Watch](https://youtu.be/ACB3s8zdVRM) |
-| 195 | কত সময় পর জাহাজ দুটির মাস্তুল পরস্পর দৃষ্টিগোচর হবে ? | 19:34 | [Watch](https://youtu.be/aNrRz8xmw2A) |
-| 196 | প্রথম খুটির আরএল 219.30মি হলে  অন্যান্য সকল খুটির স্টাফ পাঠ কত হবে ?... লেভেল বই তৈরি কর? (২য় অংশ) | 29:00 | [Watch](https://youtu.be/ck18l6sCJq8) |
-| 197 | পূর্ণবৃত্ত বিয়ারিং ও হ্রাসকৃত বিয়ারিং  এর মধ্যে পার্থক্য | 11:17 | [Watch](https://youtu.be/uHKRNmCm5Xo) |
-| 198 | কোনো রেখার চুম্বকীয় বিয়ারিং পরিমাপকরণ প্রক্রিয়া | 16:28 | [Watch](https://youtu.be/irJuQAftxys) |
-| 199 | থিওডোলাইটের স্থায়ী সমন্বয়ন | 12:06 | [Watch](https://youtu.be/WcWrye58G9I) |
-| 200 | কন্টুর ম্যাপ ব্যবহার করে জলাধারের ধারণক্ষমতা,মাটিকাটা, মাটির ভরাটের পরিমাণ নিরূপণের সূত্র | 27:23 | [Watch](https://youtu.be/f9k1SR3-Sl4) |
-| 201 | যদি জেটি হতে পরিদর্শকের চোখের উচ্চতা 1.5 মিটার হয়, তবে জাহাজের গতিবেগ ও দূরত্ব কত | 16:04 | [Watch](https://youtu.be/2Q5k1viDiGU?si=4KKrOkiNTNh5pZO4) |
-| 202 | Part -1 একটি ডাম্পি লেভেলের সাহায্যে 30 মিটার   যন্ত্রের উচ্চতা পদ্ধতিতে বিভিন্ন বিন্দুর আরএল | 29:26 | [Watch](https://youtu.be/mtWcSqsjmhk) |
-| 203 | Part -2 উঁচু নিচু পদ্ধতি | 14:05 | [Watch](https://youtu.be/lK2Q-uBQixo) |
-| 204 | A ও B তে স্টাফ পাঠ পাওয়া গেল 2 225m এবং 2 105m, B তে স্টাফ রিডিং নির্ণয় | 11:10 | [Watch](https://youtu.be/g3avGJCuUno) |
-| 205 | নদীর তীরবর্তী এলাকায় দুটি বিন্দু A & B  এর মধ্যবর্তী দূরত্ব 160মি । C  হতে D বিন্দুর দূরত্ব নির্ণয় ক | 39:33 | [Watch](https://youtu.be/hF8djjGfuiA) |
-| 206 | প্রকৃত বিয়ারিং ও চুম্বকীয় বিয়ারিং  এর মাঝে পার্থক্য | 4:31 | [Watch](https://youtu.be/FeHX_W20uy4) |
-| 207 | ডিজিটাল ট্রানজিট থিওডোলাইটের সাহায্যে চুম্বকীয় বিয়ারিং মাপনের প্রক্রিয়া | 11:22 | [Watch](https://youtu.be/s-51lx2hD6M) |
-| 208 | কন্টুর মানচিত্রকে ত্রিমাত্রিক মানচিত্র বলার কারণ | 8:21 | [Watch](https://youtu.be/Rp7l-cFDHXQ) |
-| 209 | জাহাজটির ম্স্তলের উচ্চতা নির্ণয় কর,দর্শকের দৃষ্টির উচ্চতা জেটি হতে 1.676 মিটার | 13:26 | [Watch](https://youtu.be/AdDokPBbv54?si=H4XlwBhH6aEgobsY) |
-| 210 | Part -2 একটি ডাম্পি লেভেলের সাহায্যে 30 মিটার   যন্ত্রের উচ্চতা পদ্ধতিতে বিভিন্ন বিন্দুর আরএল | 13:13 | [Watch](https://youtu.be/GudQpE0vwrg) |
-| 211 | Part- 3 উঁচু নিচু পদ্ধতি | 11:28 | [Watch](https://youtu.be/o7640F94sdA) |
-| 212 | Part- 1 A ও B তে স্টাফ পাঠ পাওয়া গেল 1 722m ও 1. 824m, A ও B বিন্দুতে সঠিক স্টাফ পাঠ নির্ণয় | 20:01 | [Watch](https://youtu.be/Uax16cuxUsc) |
-| 213 | Part- 1 কলিমেশন রেখা | 11:27 | [Watch](https://youtu.be/A-8o1-FvohE) |
-| 214 | নিচের তথ্যাদির ভিত্তিতে  C  বিন্দুর আরএল এবং B  হতে  C-এর অনুভূমিক দূরত্ব নির্ণয় কর। | 19:22 | [Watch](https://youtu.be/ZCRwE-26-qk) |
-| 215 | স্থানাঙ্ক পদ্ধতি (Co-ordinate Method) | 26:04 | [Watch](https://youtu.be/IHvPQU_syD0) |
+| 1 | টিলটিং লেভেল Tilting level বা আধুনিক লেভেল Modern level | 10:19 | [Watch](https://youtu.be/VUIUjOXpWcw) |
+| 2 | স্থানাঙ্ক পদ্ধতি (Co-ordinate Method) | 26:04 | [Watch](https://youtu.be/IHvPQU_syD0) |
+| 3 | থিওডোলাইট  Theodolite | 18:29 | [Watch](https://youtu.be/12vxoWULhzA) |
+| 4 | ঘের Traverse | 25:26 | [Watch](https://youtu.be/dIfSQ1WEV48) |
+| 5 | ঘের নিরীক্ষণ  Checking of Traverse | 6:22 | [Watch](https://youtu.be/jLoU5iLy4Q0) |
+| 6 | ঘের জরিপের বিভিন্ন ধরণের সমস্যা | 24:02 | [Watch](https://youtu.be/Aacg8wz58b8) |
+| 7 | ত্রিকোণমিতিক লেভেলিং  এর মূলনীতি | 17:15 | [Watch](https://youtu.be/zvBgCRwQ5Go) |
+| 8 | জিওডেটিক কো অর্ডিনেট , বিয়ারিং , প্রকৃত বিয়ারিং | 25:29 | [Watch](https://youtu.be/B4fXtvJ_a8Q) |
+| 9 | Part-1  কন্টুর | 29:25 | [Watch](https://youtu.be/991XnVKtp0I) |
+| 10 | লেভেলিং এ বাধাবিপত্তি | 4:16 | [Watch](https://youtu.be/I4h9kuuZZdE?si=Ntg8-AkrZs7h1nFr) |
+| 11 | বিভিন্ন প্রকারের সমলিমিতির তালিকা | 6:07 | [Watch](https://youtu.be/LLA0Kb6Fhto) |
+| 12 | Part - 1 পশ্চাৎ পাঠ, অগ্রবর্তী পাঠ, মধ্যবর্তী পাঠ | 14:05 | [Watch](https://youtu.be/4CndEvaWyzU) |
+| 13 | লেভেলের সমন্বয়ন | 24:29 | [Watch](https://youtu.be/B-lWaHlLoY4) |
+| 14 | লেভেলিং কাজে ব্যবহৃত যন্ত্রপাতি ও উপকরণাদির তালিকা | 6:17 | [Watch](https://youtu.be/YRe7jZTfTMo) |
+| 15 | লেভেল | 27:32 | [Watch](https://youtu.be/U2WEKSHyIIQ) |
+| 16 | অক্ষাংশ ও দ্রাঘিমাংশ নিয়ে আলোচনা | 24:02 | [Watch](https://youtu.be/Aacg8wz58b8) |
+| 17 | ত্রিকোণমিতিক লেভেলিং | 17:15 | [Watch](https://youtu.be/zvBgCRwQ5Go) |
+| 18 | সমতলমিতি লঘুকরণ প্রাথমিক  আলোচনা | 15:22 | [Watch](https://youtu.be/gzA_iQMeVfE) |
+| 19 | ভূ-সাংস্থানিক জরীপ ও অন্যান্য বিষয় নিয়ে আলোচনা | 12:34 | [Watch](https://youtu.be/Jx3HXjViZNw) |
+| 20 | ঘের জরিপের নীতিমালার প্রাথমিক আলোচনা | 8:20 | [Watch](https://youtu.be/QLysUoXunzw) |
+| 21 | জিওডেটিক স্থানাঙ্ক বিয়ারিং ও প্রকৃত বিয়ারিং | 28:22 | [Watch](https://youtu.be/6GML9enmz00) |
+| 22 | থিওডোলাইটের মৌলিক বিষয়াদি নিয়ে আলোচনা | 10:25 | [Watch](https://youtu.be/P43c1Q-jLd4) |
+| 23 | কন্টুরিং এবং ম্যাপিং | 6:17 | [Watch](https://youtu.be/aX-VVCUWoGs) |
+| 24 | লেভেলিং এর অসুবিধা ও ভুলভ্রান্তি | 12:23 | [Watch](https://youtu.be/hyBwg3QZBQs) |
+| 25 | লেভেলিং এর প্রকারভেদ | 8:30 | [Watch](https://youtu.be/8V6z97LPMWo) |
+| 26 | সমতল সমন্বয় | 23:01 | [Watch](https://youtu.be/iozIq1sIDuk) |
+| 27 | সমতলমিতির যন্ত্রপাতি | 8:20 | [Watch](https://youtu.be/ahnRjEW_DKE) |
+| 28 | জরিপ বিজ্ঞান, সমতলমিতি | 21:14 | [Watch](https://youtu.be/COHiZlrD5G8) |
+| 29 | থিওডোলাইট জরিপে ভ্রান্তির উৎস | 13:01 | [Watch](https://youtu.be/eSwEipHWMVs) |
+| 30 | থিওডোলাইট ট্রাভার্সিং  এ মাঠের  কাজের সরেজমিনের কাজ তালিকা | 2:21 | [Watch](https://youtu.be/0JM0LZVytOM) |
+| 31 | অধিগম্য বস্তুর উচ্চতা নির্ণয়করণ পদ্ধতি | 26:14 | [Watch](https://youtu.be/rhgu-wcXf8E) |
+| 32 | পূর্ণবৃত্ত বিয়ারিং ও হ্রাসকৃত বিয়ারিং | 25:12 | [Watch](https://youtu.be/RSQtM4Unx9M) |
+| 33 | থিওডোলাইটের বিভিন্ন অঙ্গসমূহ | 12:24 | [Watch](https://youtu.be/ua_7uNyFe84) |
+| 34 | Part-2 কন্টুর | 8:25 | [Watch](https://youtu.be/Ak8Rb1xe9wE) |
+| 35 | পাহাড়ে আহোরণ ও অবতরণজনিত বাধাবিপত্তি বা অসুবিধা | 36:24 | [Watch](https://youtu.be/prtHgMBrzeM?si=uJ1symNTnlqHntWx) |
+| 36 | পার্থক্যায়ন বা ফ্লাই লেভেলিং | 22:13 | [Watch](https://youtu.be/EQeew5UPaD8) |
+| 37 | Part  - 2 পশ্চাৎ পাঠ, অগ্রবর্তী পাঠ, মধ্যবর্তী পাঠ | 12:19 | [Watch](https://youtu.be/O4RW428LS-Y) |
+| 38 | পারস্পারিক সম্পর্কসহ লেভেলের মৌলিক রেখাসমূহ | 11:09 | [Watch](https://youtu.be/3r2oU16Vtw0) |
+| 39 | বিভিন্ন ধরনের লেভেল যন্ত্র | 2:19 | [Watch](https://youtu.be/ncSmaGZWklA) |
+| 40 | বিন্দুদ্বয়ের আপেক্ষিক এলিভেশন নির্ণয় | 17:06 | [Watch](https://youtu.be/Rr63gNSHKk0) |
+| 41 | A ও B বিন্দুর স্থানাংক যথাক্রমে 100মি উত্তর 200মি পূর্ব এবং........AB বাহুর বিয়ারিং ও দৈর্ঘ্য নির্ণয় | 12:05 | [Watch](https://youtu.be/FIOkSiMBiIU) |
+| 42 | কন্টুরের বৈশিষ্ট্য | 9:16 | [Watch](https://youtu.be/kZ5ZVLIK7U8) |
+| 43 | লেভেলিং কাজে দেয়াল জনিত  বাধা অতিক্রম | 36:23 | [Watch](https://youtu.be/prtHgMBrzeM) |
+| 44 | অস্থায়ী সমন্বয়ের ধাপসমূহ | 24:29 | [Watch](https://youtu.be/B-lWaHlLoY4) |
+| 45 | ডায়াফ্রাম | 4:29 | [Watch](https://youtu.be/r3S8XeR-EUA) |
+| 46 | ঘের জরিপের নীতিমালা বিয়ারিং আলোচনা | 10:20 | [Watch](https://youtu.be/KK_0saENRQ8) |
+| 47 | উল্লম্ব তলে 90মি দূরবর্তী সম এলিভেশনের A&B বিন্দুর মাঝে C বিন্দু অবস্থিত হলে  টাওয়ারের উচ্চতা নির্ণয় | 10:30 | [Watch](https://youtu.be/OY6H9VZl3Vk) |
+| 48 | আজিমাথ গ্রিড অ্যাজিমাথ এবং চূম্বকীয় বিয়ারিং | 15:32 | [Watch](https://youtu.be/4uml9M-alAc) |
+| 49 | প্রত্যক্ষ লেভেলিং এর  প্রকারভেদ নিয়ে বিস্তরিত আলোচনা | 4:22 | [Watch](https://youtu.be/EkCol-fu5to) |
+| 50 | স্টাফ পাঠ এবং  আর এল এর  মধ্যকার  সম্পর্ক | 8:20 | [Watch](https://youtu.be/CdT4M_3hAoQ) |
+| 51 | সমতল রেখা, আনুভূমিক তল ,উলম্বরেখা, উলম্ব তল, উপাত্ত তল গড় সমুুদ্রত | 18:24 | [Watch](https://youtu.be/bFRa1nAHXUk) |
+| 52 | গুরুত্বপূর্ন প্রশ্নসমূহ | 6:19 | [Watch](https://youtu.be/lzIHTdOeHZY) |
+| 53 | অন্তর্ভুক্ত কোণ পদ্ধতি | 12:28 | [Watch](https://youtu.be/IhUd9DaWdTo) |
+| 54 | যদি যন্ত্রের অক্ষের এলিভেশন 100 মিটার হয় তবে B টাওয়ারের শীর্ষের আর এল নির্ণয় | 15:01 | [Watch](https://youtu.be/d73qOoMjjuk) |
+| 55 | থিওডোলাইটের সাহায্যে অনুভূমিক  কোণ পারিমাপ প্রক্রিয়া | 33:17 | [Watch](https://youtu.be/nxs8hFKJUpw) |
+| 56 | থিওডোলাইটের বিভিন্ন অঙ্গসমূহ ও অঙ্গসমূহের কার্যাবলি | 12:11 | [Watch](https://youtu.be/GCyX7l3EMTs) |
+| 57 | কন্টুরিং, অনুভূমিক সমতুল বা সমার্থক, সমোন্নতি ব্যবধান বা কন্টুর বিরতি | 25:26 | [Watch](https://youtu.be/y4KnZJr7Ppw) |
+| 58 | লেভেলিং  এ যান্ত্রিক ত্রুটি ও ব্যবহারজনিত কারণে সৃষ্ট ত্রুটির তালিকা | 8:34 | [Watch](https://youtu.be/p8ZSf1Kyo-k?si=EsMrNn3Orq2dVltr) |
+| 59 | লম্বালম্বি বা প্রোফাইল লেভেলিং | 17:17 | [Watch](https://youtu.be/FZNV1xkXVn0) |
+| 60 | Part -1 ঋণাত্নক স্টাফ পাঠ, স্টেশন, পরিবর্তন বিন্দু | 11:10 | [Watch](https://youtu.be/H4bM5fSgI8E) |
+| 61 | ডাম্পি লেভেল | 9:20 | [Watch](https://youtu.be/6NGOmh_uvQQ) |
+| 62 | লেভেল ও লেভেলিং এর মধ্যে পার্থক্য | 7:35 | [Watch](https://youtu.be/3sipTtsx7JY) |
+| 63 | লেভেল বইয়ে স্টাফ লিখন প্রক্রিয়া | 25:22 | [Watch](https://youtu.be/q-ElDtvSHWw) |
+| 64 | ঘের জরিপের নীতিমালা সূত্রাবলী | 25:26 | [Watch](https://youtu.be/dIfSQ1WEV48) |
+| 65 | পুর্ন বৃত্তবিয়ারিং	 ও হ্রাসকৃত বিয়ারিং | 25:11 | [Watch](https://youtu.be/RSQtM4Unx9M) |
+| 66 | পরোক্ষ লেভেলিং    প্রকারভেদ নিয়ে বিস্তরিত আলোচনা | 6:07 | [Watch](https://youtu.be/LLA0Kb6Fhto) |
+| 67 | বেঞ্চমার্ক | 6:23 | [Watch](https://youtu.be/x5NvH803JWc) |
+| 68 | ঘের জরিপের সমস্যার সমাধান দৈর্ঘ্য, কোণ নির্ণয় | 19:35 | [Watch](https://youtu.be/LVxrRbr5Esk) |
+| 69 | টাওয়ারের পাদমূল ও শীর্ষবিন্দুর আরএল কত হবে এবং  টাওয়ারের উচ্চতা কত? | 15:16 | [Watch](https://youtu.be/H6uPjdP0wgI) |
+| 70 | কন্টুর ম্যাপের  সাধারণ ব্যবহার | 19:07 | [Watch](https://youtu.be/x1GXle2_IYQ) |
+| 71 | পৃথিবীর বক্রতা ও আলোর প্রতিসরণ জনিত ক্রান্তির প্রভাব | 20:10 | [Watch](https://youtu.be/gILdx-mSODg) |
+| 72 | লেভেল যন্ত্রের মৌলিক রেখাসমূহ | 15:32 | [Watch](https://youtu.be/iWKKkoGPwlY) |
+| 73 | কলিমেশন রেখা কলিমেশন অক্ষ বাবল অক্ষ দূরবিনের অক্ষ | 11:15 | [Watch](https://youtu.be/qJkzMwb01Vc) |
+| 74 | যদি 260m দীর্ঘ একটি লাইনের অক্ষাংশ 210 m হয় তাহলে লাইনটির বিয়ারিং  ও দ্রাঘিমাংশ নির্ণয় | 9:34 | [Watch](https://youtu.be/r6YVN6i76kY) |
+| 75 | প্রতিসরণ কোণ পদ্ধতি | 10:13 | [Watch](https://youtu.be/eYK3i_O_7es) |
+| 76 | P ও  Q হতে টাওয়ারটির উন্নতি কোণ যথাক্রমে 62° ও 40° হলে টাওয়ারটির উচ্চতা নির্ণয় | 17:00 | [Watch](https://youtu.be/okV4wfw64yY) |
+| 77 | পুনরাবৃত্তি প্রক্রিয়া | 19:15 | [Watch](https://youtu.be/G6-Rd1JVfqg) |
+| 78 | দুরবিনের স্বাভাবিক অবস্থা ও  দুরবনের উল্টা অবস্থা | 13:11 | [Watch](https://youtu.be/7pXo0Z9PDjQ) |
+| 79 | কন্টুর এর বৈশিষ্ট্য | 9:16 | [Watch](https://youtu.be/kZ5ZVLIK7U8) |
+| 80 | লেভেলিং  এ পৃথিবীর বক্রতা ও আলোর প্রতিসরণের প্রভাব | 24:00 | [Watch](https://youtu.be/kLB3jJrXQ3M?si=6qYGdrEp7ujyTo6Y) |
+| 81 | প্রস্থচ্ছেদ লেভেলিং বা ক্রস সেকশনিং | 15:14 | [Watch](https://youtu.be/zhsGNJTNL_U) |
+| 82 | Part  -2 ঋণাত্নক স্টাফ পাঠ, স্টেশন, পরিবর্তন বিন্দু | 13:03 | [Watch](https://youtu.be/iiYiRqVB0zA) |
+| 83 | ডাম্পি লেভেল সমন্বয় | 22:08 | [Watch](https://youtu.be/Cx-8dhZhAtU) |
+| 84 | ওয়াই লেভেল | 14:16 | [Watch](https://youtu.be/IMhBmFk3Qjo) |
+| 85 | জরিপ ও সমতলমিতির মধ্যে পার্থক্য | 10:01 | [Watch](https://youtu.be/E08pYzfUkBo) |
+| 86 | একটি সুষম ষড়ভূজের ABCDEF এর  AB বাহুর বিয়ারিং 40ডিগ্রি (বামাবর্তে) অন্যান্য বাহুগুলোর বিয়ারিং নির্ণয় | 6:32 | [Watch](https://youtu.be/28Z4KNFP6GM) |
+| 87 | 1800 মি দূরবর্তী একটি B টাওয়ারের শীর্ষের উন্নতি কোন 9°30’ পাওয়া গেলে B টাওয়ারের শীর্ষের আর এল নির্ণয় | 17:00 | [Watch](https://youtu.be/okV4wfw64yY) |
+| 88 | পৃথিবীর বক্রতা ও আলোর প্রতিসরণজনিত ভ্রান্তি নির্ণয় সুত্র | 25:33 | [Watch](https://youtu.be/TQm2i8uhKzM) |
+| 89 | বিনিময় ক্রম লেভেলিং নিয়ে আলোচনা | 21:04 | [Watch](https://youtu.be/IkOB0X1Xwok) |
+| 90 | লেভেলিং ও সমতলমিতির উদ্দেশ্য | 12:30 | [Watch](https://youtu.be/1-c_8zMfPFo) |
+| 91 | সম্মুখ বিয়ারিং ও পশ্চাৎ বিয়ারিং | 20:06 | [Watch](https://youtu.be/Ep_RyfL-QdI) |
+| 92 | ইঞ্জিনিয়ারিং ব্যবহার | 19:31 | [Watch](https://youtu.be/wWklZdTO1xw) |
+| 93 | দু -খুটি পরীক্ষা  সংক্রান্ত গাণিতিক সমস্যা সমাধানের ধাপসমূহ | 25:33 | [Watch](https://youtu.be/RUJ0IefJ8eI) |
+| 94 | লম্বন ত্রুটি | 8:25 | [Watch](https://youtu.be/bczCiPINCzc) |
+| 95 | A ও B বিন্দুর স্থানাঙ্ক যথাক্রমে 100N, 200E   হলে AB বাহুর দৈর্ঘ্য ও বিয়ারিং নির্ণয় | 12:05 | [Watch](https://youtu.be/FIOkSiMBiIU) |
+| 96 | প্রত্যেক্ষ কোণ পদ্ধতি | 3:13 | [Watch](https://youtu.be/LIx9njqkZaA) |
+| 97 | A ও B এর উপর স্টাফ পাঠ যথাক্রমে 2 95m ও 3 25m হলে শীর্ষবিন্দুর RL ও নদীর প্রস্থ নির্ণয় | 33:21 | [Watch](https://youtu.be/C5s6I0A_y6o) |
+| 98 | পুনঃকরণ প্রক্রিয়া | 13:08 | [Watch](https://youtu.be/2xQMbVNMp4w) |
+| 99 | লেভেল ও থিওডোলাইটের মাঝে পার্থক্য | 6:32 | [Watch](https://youtu.be/1OhsCcK601o) |
+| 100 | কন্টুর এর ব্যবহার | 16:13 | [Watch](https://youtu.be/Yz56u_tVaDw) |
+| 101 | পৃথিবীর বক্রতা ও আলোর প্রতিসরণের জন্য সংশোধনী সূত্র | 25:33 | [Watch](https://youtu.be/TQm2i8uhKzM?si=CdDgmKSpipC5u9P9) |
+| 102 | নিরীক্ষায়ন লেভেলিং | 13:27 | [Watch](https://youtu.be/K70WPiMSju0) |
+| 103 | বিভিন্ন ধরনের লেভেল বইয়ের প্রয়োজনীয়তা | 22:08 | [Watch](https://youtu.be/5bxF0tQ7oAI) |
+| 104 | Part -1 কলিমেশন রেখার সমন্বয় | 19:24 | [Watch](https://youtu.be/MDEzv3btCnM) |
+| 105 | ডাম্পি লেভেল ও ওয়াই লেভেলের মধ্যে পার্থক্য | 15:29 | [Watch](https://youtu.be/RO2NiBy4jf8) |
+| 106 | সমতলমিতির উদ্দেশ্য | 12:30 | [Watch](https://youtu.be/1-c_8zMfPFo) |
+| 107 | ভার্নিয়ার থিওডোলাইটের সাহায্যে অনুভুমিক কোন পরিমাপকরণ | 20:19 | [Watch](https://youtu.be/ATsdbmiguq0) |
+| 108 | B এর RL নির্ণয় বক্রতা প্রতিসরনের সংযুক্ত ভ্রান্তি নির্ণয় কলিমেশন ভ্রান্তি নির্ণয় ও কৌণিক ভ্রান্তি নি | 22:14 | [Watch](https://youtu.be/g66dd70nDk0) |
+| 109 | যন্ত্রটির কলিমেশন রেখা ঠিক আছে কি? যদি ঠিক না থাকে তবে সমন্বয়ের পর A ও B বিন্দুর স্টাফ পাঠ কত? | 18:34 | [Watch](https://youtu.be/eCSUN8TZups) |
+| 110 | ঘের জরিপের নীতিমালা পূর্ণবৃত্ত ও হ্রাসকৃত বিয়ারিং | 15:07 | [Watch](https://www.youtube.com/watch?v=Ma95NDF1R9o) |
+| 111 | উন্নতি কোণ 30°25’ & 20 °30’ হলে B বিন্দু হতে ট্যাংকের উচ্চতা এবং A বিন্দু হতে অনুভূমিক দূরত্ব কত? | 36:27 | [Watch](https://youtu.be/bIL9SJNjFw4) |
+| 112 | সামরিক ব্যবহার | 16:04 | [Watch](https://youtu.be/hrTdswn3PAo) |
+| 113 | স্টাফ স্টেশনের উচ্চতার পার্থক্য  নির্ণয় কর ? | 9:30 | [Watch](https://youtu.be/qgFKtwPo8tY) |
+| 114 | প্রদত্ত স্টাফ পাঠ হতে কলিমেশন পদ্ধতিতে বিভিন্ন বিন্দুর R.L নির্ণয় কর | 41:23 | [Watch](https://youtu.be/rPkv8ktkNhw) |
+| 115 | লেভেলিং স্টাফ | 4:13 | [Watch](https://youtu.be/OCAC9Gk9070) |
+| 116 | Part   1 ABCDEA একটি বদ্ধঘেরের বিভিন্ন বাহুর দৈর্ঘ্য ও বিয়ারিং...AE বাহুর দৈর্ঘ্য ওবিয়ারিং নির্ণয় | 29:29 | [Watch](https://youtu.be/oy_qKcLt5Bc) |
+| 117 | Part   1 নিচের তথ্যাদির সাহায্যে দুটি টাওয়ারের শীর্ষ বিন্দু দুটোর আর এল ও অনুভূমিক দূরত্ব নির্ণয় | 29:18 | [Watch](https://youtu.be/oZQ7zaeAis8) |
+| 118 | সূচক ভ্রান্তি ও ক্ষুদ্রতম পাঠ | 8:11 | [Watch](https://youtu.be/I8whxrZrWxc) |
+| 119 | সাধারণ থিওডোলাইট ও ডিজিটাল থিওডোলাইটের মধ্যে পার্থক্য | 4:13 | [Watch](https://youtu.be/gVThryL27zw) |
+| 120 | কন্টুর ও কন্টুরিং এর মাঝে পার্থক্য | 7:34 | [Watch](https://youtu.be/Tyfoq4uSunE) |
+| 121 | দৃশ্যমান দিগন্ত দূরত্ব ও দিগন্ত আনতি কোণের সূত্র | 17:07 | [Watch](https://youtu.be/L_rR4mnXJl8) |
+| 122 | বিনিময়ক্রম | 27:08 | [Watch](https://youtu.be/wO1ci-fnclo) |
+| 123 | লেভেল বইয়ে স্টাফ পাফ লিখন প্রক্রিয়া | 25:23 | [Watch](https://youtu.be/q-ElDtvSHWw) |
+| 124 | Part -2 কলিমেশন রেখার সমন্বয় | 16:11 | [Watch](https://youtu.be/EuZlbNmVMSM) |
+| 125 | কুকস্ রিভারসিবল লেভেল | 13:01 | [Watch](https://youtu.be/fvwdo01pl8o) |
+| 126 | সমতল নীতিতে ব্যবহৃত বিভিন্ন পৃষ্ঠরেখা বা তল সম্পর্কিত আলোচনা | 21:26 | [Watch](https://youtu.be/lwJTH7SkNL0) |
+| 127 | কন্টুর ম্যাপ ব্যবহার করে জলধারের ধারন ক্ষমতা মাটি কাটা মাটি ভরাটের পরিমান নির্ণয়ের সুত্র সমুহ আলোচনা | 27:23 | [Watch](https://youtu.be/f9k1SR3-Sl4) |
+| 128 | A বিন্দু হতে টাওয়ারের অনুভূমিক দুরত্ব এবং  B হতে টাওয়ারের শীর্ষবিন্দুর উচ্চতা নির্ণয় কর | 15:33 | [Watch](https://youtu.be/dDFHZ8evVYI) |
+| 129 | থিওডোলাইটের সাহায্যে উলম্ব কোন পরিমাপ করন | 17:10 | [Watch](https://youtu.be/Ez_p1B3tLok) |
+| 130 | সাগরের পানি সমতলে অবস্থিত একটি স্টেশন হতে 65কিমি....দৃষ্টিগোচর হয়। বাতি ঘরের উচ্চতা কত ? | 7:20 | [Watch](https://youtu.be/44fU5e-jkCE) |
+| 131 | ক ও খ স্টাফ পাঠ যথাক্রমে 0.75মি ও 1.85মি । খ বিন্দুর আরএল 25মি হলে ক এর আরএল কত? | 13:04 | [Watch](https://youtu.be/oT28JIwKT3Y) |
+| 132 | প্রদত্ত স্টাফ পাঠ হতে উচু নিচু পদ্ধতিতে বিভিন্ন বিন্দুর R.L নির্ণয় কর | 36:21 | [Watch](https://youtu.be/KVs3FWBtHkg) |
+| 133 | যন্ত্রটির কলিমেশন রেখা ঠিক আছে কি? যদি ঠিক না থাকে তবে সমন্বয়ের পর A ও B বিন্দুর স্টাফ পাঠ কত? | 16:23 | [Watch](https://youtu.be/JXwhs5gu3zQ) |
+| 134 | Part   2 ABCDEA একটি বদ্ধঘেরের বিভিন্ন বাহুর দৈর্ঘ্য ও বিয়ারিং...AE বাহুর দৈর্ঘ্য ও বিয়ারিং নির্ণয় | 12:20 | [Watch](https://youtu.be/ycByHvQosUc) |
+| 135 | সম্মুখ বিয়ারিং ও পাশ্চাৎ বিয়ারিং | 21:19 | [Watch](https://youtu.be/v-oIHqZMwG0) |
+| 136 | Part -  2 নিচের তথ্যাদির সাহায্যে দুটি টাওয়ারের শীর্ষ বিন্দু দুটোর আর এল ও অনুভূমিক দূরত্ব নির্ণয় | 9:05 | [Watch](https://youtu.be/PJiY54f-j6o) |
+| 137 | ডিজিটাল ট্রানজিট থিওডোলাইটের সাহায্যে অনুভূমিক কোণ পরিমাপকরণ প্রক্রিয়া | 14:19 | [Watch](https://youtu.be/TjnkV3Eh79A) |
+| 138 | সেন্টারিং, লেভেলিং,সুইং এবং ট্রানজিটিং | 8:02 | [Watch](https://youtu.be/zF59An9RKvY) |
+| 139 | কন্টুর জরিপের বিভিন্ন পদ্ধতি | 28:29 | [Watch](https://youtu.be/iqe7NSPsTDA) |
+| 140 | 4000m, 3 5 km, 1.70 miles   ক্ষেত্রে বক্রতা এবং প্রতিসরণের সম্মিলিত ফিল্ড সংশোধন নির্ণয় | 11:25 | [Watch](https://youtu.be/b_cEwGDW7KM) |
+| 141 | সূক্ষ বা প্রিসাইজ লেভেলিং | 3:08 | [Watch](https://youtu.be/l7_DyBlkgkY) |
+| 142 | Part- 1 সমতলমিতি লঘুকরণ | 15:22 | [Watch](https://youtu.be/gzA_iQMeVfE) |
+| 143 | Part- 3 কলিমেশন রেখার সমন্বয় | 13:26 | [Watch](https://youtu.be/Qb3cncgTWWg) |
+| 144 | কুশিং লেভেল | 20:07 | [Watch](https://youtu.be/-6-QErCsuDQ) |
+| 145 | গড় সমুদ্রতল, উপাত্ত তল, উপাত্তরেখা বা ডেটাম… | 13:33 | [Watch](https://youtu.be/Cn69jPk4UH4) |
+| 146 | 30 m পর পর প্রাপ্ত স্টাফ পাঠ হতে উচু নিচু পদ্ধতিতে বিভিন্ন বিন্দুর R.L নির্ণয় কর | 15:24 | [Watch](https://youtu.be/v0oWPu_vCb0) |
+| 147 | টাওয়ারের বিন্দুদ্বয়ের সরাসরি দূরত্ব এবং আরএল নির্ণয় কর | 44:26 | [Watch](https://youtu.be/Nzb7EYebuSs) |
+| 148 | থিওডোলাইটের সাহায্যে চুম্বকীয় বিয়ারিং পরিমাপকরণ | 19:19 | [Watch](https://youtu.be/1_5pC1IncMU) |
+| 149 | বাঁধের উজানের কন্টুর ম্যাপ হতে খালে সৃস্ট জলাধারে 150 হতে 166 RL এর মধ্যে কি পরিমান পানি সঞ্চিত থাকব | 10:24 | [Watch](https://youtu.be/peAW5pbZedw) |
+| 150 | একজন পরিদর্শক গড় সমূদ্রতল হতে 3 মিটার জেটির ..... 2 ঘন্টা পর্যন্ত দেখতে পেল  । জাহাজের গতিবেগ নির্ণয় | 11:21 | [Watch](https://youtu.be/WbyWKnnK9yM) |
+| 151 | গ বিন্দুতে যন্ত্র বসিয়ে ক ও খ বিন্দুর স্টাফ পাঠ পাওয়া গেল.......হলে ক বিন্দুর আরএল কত? | 11:28 | [Watch](https://youtu.be/J1bQEGPFwXk) |
+| 152 | পাশ্চাৎ বিয়ারিং  হতে সম্মুখ বিয়ারিং নির্ণয় | 10:22 | [Watch](https://youtu.be/jTFEcXmYqWU) |
+| 153 | 200m দূরবর্তী একটি টাওয়ারের উচ্চতা   টাওয়ারের শীর্ষ ও পাদমূল বিন্দুর RL টাওয়ারের উচ্চতা নির্ণয় | 23:21 | [Watch](https://youtu.be/QB7Zi_rP78I) |
+| 154 | উলম্ব কোণ পরিমাপ প্রক্রিয়া | 8:25 | [Watch](https://youtu.be/lYrmIiwV6o8) |
+| 155 | থিওডোলাইট মৌলিক রেখাসমূহ | 11:20 | [Watch](https://youtu.be/gZrD34X0UuY) |
+| 156 | বর্গক্ষেত্র বা গ্রিড পদ্ধতি | 28:34 | [Watch](https://youtu.be/pW8UBHv7TH0) |
+| 157 | 60 কিলোমিটার দূরের একটি বাতিঘরের শীর্ষের বাতিকে দিকচক্রাবালে দেখা যায় । বাতিঘরের উচ্চতা কত? | 7:35 | [Watch](https://youtu.be/myT795gHnh0) |
+| 158 | ব্যারোমেট্রিক লেভেলিং, হিপসোমিতিক লেভেলিং, ত্রিকোণমিতিক লেভেলিং | 21:04 | [Watch](https://youtu.be/IkOB0X1Xwok) |
+| 159 | Part- 2 সমতলমিতি লঘুকরণ | 14:12 | [Watch](https://youtu.be/pGP-o9QXmfM) |
+| 160 | Part -1 D বিন্দুতে যন্ত্র থাকা অবস্থায় যন্ত্র সমন্বয়ের পর A ও B বিন্দুতে প্রকৃত পাঠ নির্ণয় | 18:34 | [Watch](https://youtu.be/eCSUN8TZups) |
+| 161 | সমতল রেখা ও সমতল পৃষ্ঠের মাঝে পার্থক্য | 5:04 | [Watch](https://youtu.be/tfNZtyLMOAg) |
+| 162 | বাঁধ পুনঃনির্মানে কি পরিমান মাটি ভরাটের কাজ করতে হবে? | 24:25 | [Watch](https://youtu.be/8fPfgIhF5TQ) |
+| 163 | একটি কক্ষের মেঝের ছাদের এবং বীমের তলার স্টাফ পাঠ যথাক্রমে.......বীমের গভিরতা এবং কক্ষের উচ্চতা কত? | 27:09 | [Watch](https://youtu.be/vDV7GaFknKo) |
+| 164 | টাওয়ারের শীর্ষবিন্দুর আরএল এবং নদীর প্রস্থ নির্ণয় কর | 14:34 | [Watch](https://youtu.be/ygR6PYATsLY) |
+| 165 | জাহাজের মাস্তুলের উচ্চতা নির্ণয় কর | 7:15 | [Watch](https://youtu.be/stiRpfru16g) |
+| 166 | S বিন্দুর আরএল 27মি হলে অন্য সববিন্দুর আরএল নির্ণয় করে মহাসড়কটির একটি লম্বালম্বি প্রোফাইল অংকন কর | 19:27 | [Watch](https://youtu.be/kvN8E-7Rm0Y) |
+| 167 | সম্মুখ বিয়ারিং ও পশ্চাৎ বিয়ারিং  এর মাঝে পার্থক্য | 12:21 | [Watch](https://youtu.be/IrBUA6hipMo) |
+| 168 | A ও B বিন্দু হতে ট্যাংকের শীর্ষ বিন্দুর উন্নতি কোণ   B বিন্দু হতে উচ্চতা নির্ণয় | 33:20 | [Watch](https://youtu.be/5JuTbj_-tH8) |
+| 169 | ভার্নিয়ার থিওডোলাইটের সাহায্যে উলম্ব কোণ পারিমাপকরণ | 20:19 | [Watch](https://youtu.be/ATsdbmiguq0) |
+| 170 | থিওডোলাইটের মৌলিক রেখাগুলোর পারস্পারিক সম্পর্ক | 17:00 | [Watch](https://youtu.be/t8EJ7RFf0_k) |
+| 171 | পাহাড়, জলাধার,উপত্যকা এবং পুকুরের কন্টুর ম্যাপ অঙ্কন প্রক্রিয়া | 10:17 | [Watch](https://youtu.be/OcoYvkoU2S0) |
+| 172 | যদি ‘খ’ বিন্দুর RL 60 মিটার হয়, তবে ‘ক’ বিন্দুর RL কত? | 13:35 | [Watch](https://youtu.be/U90Aj5spN3Q) |
+| 173 | Part -1 A ও B বিন্দুতে যন্ত্র স্থাপন করে নিচের স্টাফ পাঠগুলো পাওয়া গেল। বিভিন্ন বিন্দুর আরএল | 21:28 | [Watch](https://youtu.be/vrcl1svwvSM) |
+| 174 | Part- 3 সমতলমিতি লঘুকরণ | 19:05 | [Watch](https://youtu.be/cVpilNWbiEQ) |
+| 175 | Part -2 D বিন্দুতে যন্ত্র থাকা অবস্থায় যন্ত্র সমন্বয়ের পর A ও B বিন্দুতে প্রকৃত পাঠ নির্ণয় | 20:07 | [Watch](https://youtu.be/6QDxs_xvEwM) |
+| 176 | অটোমেটিক লেভেল | 11:29 | [Watch](https://youtu.be/M1pr-5-fROs) |
+| 177 | বেঞ্চমার্ক | 6:23 | [Watch](https://youtu.be/x5NvH803JWc) |
+| 178 | দুটি জাহাজ একই বন্দর হতে একই দিকে একই...কতদূর পর্যন্ত জাহাজ দুটি পরস্পরকে দেখতে পাবে। | 24:05 | [Watch](https://youtu.be/2xQ6MvyD9iM) |
+| 179 | A অবস্থান হতে ভবনটির উচ্চতা নির্ণয় কর যখন AB=33m | 17:17 | [Watch](https://youtu.be/3fR_dHaQt4Y) |
+| 180 | স্কাট লেভেলের তথ্যাদি হতে ভুমিটি যদি 40.50 মি. আরএর এ সমতল করতে হয়, তবে কি পরিমান মাটি ভরাট করতে হবে | 16:08 | [Watch](https://youtu.be/j7RPI1cY34A) |
+| 181 | একটি 4 মিটার স্টাকের উর্ধ্ব প্রান্ত স্টাক .........গৃহীত স্টাকপাঠ ও মিটার হলে প্রকৃত স্টাক কত হবে? | 6:01 | [Watch](https://youtu.be/SXoj3UY0YOU) |
+| 182 | প্রথম খুটির আরএল 219.30মি হলে  অন্যান্য সকল খুটির স্টাফ পাঠ কত হবে ?..লেভেল বই তৈরি কর? (১ম অংশ) | 16:34 | [Watch](https://youtu.be/FlWQ_8CTOws) |
+| 183 | কখ রেখার সম্মুখ বিয়ারিং 30° হলে পশ্চাৎ বিয়ারিং চিত্রসহ নির্ণয় | 17:10 | [Watch](https://youtu.be/V54y4tNwdkE) |
+| 184 | একটি ডিজিটাল থিওডোলাইটের সাহায্যে    উন্নতি কোণ যথাক্রমে 45° ও 30° টাওয়ারের উচ্চতা নির্ণয় | 9:18 | [Watch](https://youtu.be/Tt9SfOtTGAU) |
+| 185 | ডিজিটাল ট্রানজিট থিওডোলাইটের সাহায্যে উলম্ব কোণ পরিমাপকরণ প্রক্রিয়া | 12:34 | [Watch](https://youtu.be/n_pDQPEKa0I]\) |
+| 186 | থিওডোলাইটের বিভিন্ন ধরনের সমন্বয়ন | 12:05 | [Watch](https://youtu.be/rRKRSza7A_I) |
+| 187 | কন্টুর ম্যাপের বিবিধ ব্যবহার | 6:21 | [Watch](https://youtu.be/axX0XdfnUNg) |
+| 188 | পর্যবেক্ষকের দু চোখের উচ্চতা 1.7 m হলে পানিতল থেকে মাস্তরেলর চূড়ার উচ্চতা নির্ণয় | 19:34 | [Watch](https://youtu.be/Krtl3nQ8rRk?si=GkvEpB4UDuZ88Ft4) |
+| 189 | Part -  2 A ও B বিন্দুতে যন্ত্র স্থাপন করে নিচের স্টাফ পাঠগুলো পাওয়া গেল। বিভিন্ন বিন্দুর আরএল | 12:03 | [Watch](https://youtu.be/3vvF4gsk2Ug) |
+| 190 | Part- 1 উঁচু নিচু পদ্ধতি | 15:22 | [Watch](https://youtu.be/NWVbzj7zwIk) |
+| 191 | Part -3 D বিন্দুতে যন্ত্র থাকা অবস্থায় যন্ত্র সমন্বয়ের পর A ও B বিন্দুতে প্রকৃত পাঠ নির্ণয় | 8:26 | [Watch](https://youtu.be/_MIOmRdbiKU) |
+| 192 | ডিজিটাল লেভেল | 19:12 | [Watch](https://youtu.be/bZBHgCVJAK0) |
+| 193 | বেঞ্চমার্ক এর প্রকারভেদ | 21:31 | [Watch](https://youtu.be/bdxpLt5Pwsg) |
+| 194 | A&B এর মাঝে C তে একটি টাওয়ারের শীর্ষ বিন্দুর উন্নতি কোন 30° & 45° হলে টাওয়ারটির উচ্চতা নির্ণয় কর । | 9:13 | [Watch](https://youtu.be/KwCTe2J833Q) |
+| 195 | কন্টুরিং এবং ম্যাপিং এর মাধ্যমে জলধারণ ক্ষমতা নির্ণয় | 10:00 | [Watch](https://youtu.be/ACB3s8zdVRM) |
+| 196 | কত সময় পর জাহাজ দুটির মাস্তুল পরস্পর দৃষ্টিগোচর হবে ? | 19:34 | [Watch](https://youtu.be/aNrRz8xmw2A) |
+| 197 | প্রথম খুটির আরএল 219.30মি হলে  অন্যান্য সকল খুটির স্টাফ পাঠ কত হবে ?... লেভেল বই তৈরি কর? (২য় অংশ) | 29:00 | [Watch](https://youtu.be/ck18l6sCJq8) |
+| 198 | পূর্ণবৃত্ত বিয়ারিং ও হ্রাসকৃত বিয়ারিং  এর মধ্যে পার্থক্য | 11:17 | [Watch](https://youtu.be/uHKRNmCm5Xo) |
+| 199 | কোনো রেখার চুম্বকীয় বিয়ারিং পরিমাপকরণ প্রক্রিয়া | 16:28 | [Watch](https://youtu.be/irJuQAftxys) |
+| 200 | থিওডোলাইটের স্থায়ী সমন্বয়ন | 12:06 | [Watch](https://youtu.be/WcWrye58G9I) |
+| 201 | কন্টুর ম্যাপ ব্যবহার করে জলাধারের ধারণক্ষমতা,মাটিকাটা, মাটির ভরাটের পরিমাণ নিরূপণের সূত্র | 27:23 | [Watch](https://youtu.be/f9k1SR3-Sl4) |
+| 202 | যদি জেটি হতে পরিদর্শকের চোখের উচ্চতা 1.5 মিটার হয়, তবে জাহাজের গতিবেগ ও দূরত্ব কত | 16:04 | [Watch](https://youtu.be/2Q5k1viDiGU?si=4KKrOkiNTNh5pZO4) |
+| 203 | Part -1 একটি ডাম্পি লেভেলের সাহায্যে 30 মিটার   যন্ত্রের উচ্চতা পদ্ধতিতে বিভিন্ন বিন্দুর আরএল | 29:26 | [Watch](https://youtu.be/mtWcSqsjmhk) |
+| 204 | Part -2 উঁচু নিচু পদ্ধতি | 14:05 | [Watch](https://youtu.be/lK2Q-uBQixo) |
+| 205 | A ও B তে স্টাফ পাঠ পাওয়া গেল 2 225m এবং 2 105m, B তে স্টাফ রিডিং নির্ণয় | 11:10 | [Watch](https://youtu.be/g3avGJCuUno) |
+| 206 | নদীর তীরবর্তী এলাকায় দুটি বিন্দু A & B  এর মধ্যবর্তী দূরত্ব 160মি । C  হতে D বিন্দুর দূরত্ব নির্ণয় ক | 39:33 | [Watch](https://youtu.be/hF8djjGfuiA) |
+| 207 | প্রকৃত বিয়ারিং ও চুম্বকীয় বিয়ারিং  এর মাঝে পার্থক্য | 4:31 | [Watch](https://youtu.be/FeHX_W20uy4) |
+| 208 | ডিজিটাল ট্রানজিট থিওডোলাইটের সাহায্যে চুম্বকীয় বিয়ারিং মাপনের প্রক্রিয়া | 11:22 | [Watch](https://youtu.be/s-51lx2hD6M) |
+| 209 | কন্টুর মানচিত্রকে ত্রিমাত্রিক মানচিত্র বলার কারণ | 8:21 | [Watch](https://youtu.be/Rp7l-cFDHXQ) |
+| 210 | জাহাজটির ম্স্তলের উচ্চতা নির্ণয় কর,দর্শকের দৃষ্টির উচ্চতা জেটি হতে 1.676 মিটার | 13:26 | [Watch](https://youtu.be/AdDokPBbv54?si=H4XlwBhH6aEgobsY) |
+| 211 | Part -2 একটি ডাম্পি লেভেলের সাহায্যে 30 মিটার   যন্ত্রের উচ্চতা পদ্ধতিতে বিভিন্ন বিন্দুর আরএল | 13:13 | [Watch](https://youtu.be/GudQpE0vwrg) |
+| 212 | Part- 3 উঁচু নিচু পদ্ধতি | 11:28 | [Watch](https://youtu.be/o7640F94sdA) |
+| 213 | Part- 1 A ও B তে স্টাফ পাঠ পাওয়া গেল 1 722m ও 1. 824m, A ও B বিন্দুতে সঠিক স্টাফ পাঠ নির্ণয় | 20:01 | [Watch](https://youtu.be/Uax16cuxUsc) |
+| 214 | Part- 1 কলিমেশন রেখা | 11:27 | [Watch](https://youtu.be/A-8o1-FvohE) |
+| 215 | নিচের তথ্যাদির ভিত্তিতে  C  বিন্দুর আরএল এবং B  হতে  C-এর অনুভূমিক দূরত্ব নির্ণয় কর। | 19:22 | [Watch](https://youtu.be/ZCRwE-26-qk) |
 | 216 | কন্টুর রেখাবেষ্টিত এলাকার ক্ষেত্রফল যথাক্রমে 2.50 বর্গসেমি  হলে এর জলধারণ ক্ষমতা | 11:21 | [Watch](https://youtu.be/STbmtYZXegQ) |
 | 217 | দুটি জাহাজ একই বন্দর হতে একই দিকে   কতক্ষণ এবং কতদূর পর্যন্ত জাহাজ দুটি পরস্পরকে দেখতে পাবে | 24:05 | [Watch](https://youtu.be/2xQ6MvyD9iM?si=Y1e_6za2MR7UChzb) |
 | 218 | Part -2 A ও B তে স্টাফ পাঠ পাওয়া গেল 1 722m ও 1. 824m, A ও B বিন্দুতে সঠিক স্টাফ পাঠ নির্ণয় | 19:34 | [Watch](https://youtu.be/mU_nxiizisQ) |

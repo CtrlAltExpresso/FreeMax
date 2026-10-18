@@ -1,19 +1,18 @@
 # Physics -II
-
 > 160 videos | Mechanical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | Theory of Relativity | 14:15 | [Watch](https://youtu.be/G7nTUvEG3wo) |
-| 2 | আধুনিক পদার্থবিজ্ঞান | 14:24 | [Watch](https://youtu.be/i38xQ46gA_4) |
-| 3 | তেজস্ক্রিয় ব্যবহার | 13:15 | [Watch](https://youtu.be/zg74gXbQeTE) |
-| 4 | পরমাণুর গঠন নিয়ে  আলোচনা | 23:16 | [Watch](https://youtu.be/eeRKHN6iwPk) |
-| 5 | ক্যাথোড রে | 12:23 | [Watch](https://youtu.be/9BA3YSbPmD0) |
-| 6 | ফিজিক্যাল অপটিকস | 20:26 | [Watch](https://youtu.be/wvZ8KDsb4b4) |
-| 7 | আলোর প্রতিসরণ | 8:19 | [Watch](https://youtu.be/xt2Rfw7scW4) |
-| 8 | সমতল দর্পন ও গোলকীয় দর্পন | 7:23 | [Watch](https://youtu.be/5HfLUEVKUzw) |
-| 9 | Magnet, চৌম্বক পদার্থ | 12:28 | [Watch](https://youtu.be/yG9md4XSnVM) |
-| 10 | ElectroStatic | 18:17 | [Watch](https://youtu.be/DpTMsT2F8jc) |
+| 1 | ElectroStatic | 18:17 | [Watch](https://youtu.be/DpTMsT2F8jc) |
+| 2 | Magnet, চৌম্বক পদার্থ | 12:28 | [Watch](https://youtu.be/yG9md4XSnVM) |
+| 3 | Theory of Relativity | 14:15 | [Watch](https://youtu.be/G7nTUvEG3wo) |
+| 4 | আধুনিক পদার্থবিজ্ঞান | 14:24 | [Watch](https://youtu.be/i38xQ46gA_4) |
+| 5 | তেজস্ক্রিয় ব্যবহার | 13:15 | [Watch](https://youtu.be/zg74gXbQeTE) |
+| 6 | পরমাণুর গঠন নিয়ে  আলোচনা | 23:16 | [Watch](https://youtu.be/eeRKHN6iwPk) |
+| 7 | ক্যাথোড রে | 12:23 | [Watch](https://youtu.be/9BA3YSbPmD0) |
+| 8 | ফিজিক্যাল অপটিকস | 20:26 | [Watch](https://youtu.be/wvZ8KDsb4b4) |
+| 9 | আলোর প্রতিসরণ | 8:19 | [Watch](https://youtu.be/xt2Rfw7scW4) |
+| 10 | সমতল দর্পন ও গোলকীয় দর্পন | 7:23 | [Watch](https://youtu.be/5HfLUEVKUzw) |
 | 11 | প্রত্যাগামী  অপ্রত্যাগামী প্রসেস | 15:26 | [Watch](https://youtu.be/dlivNWhNe8Y) |
 | 12 | তাপের ক্যালরিক মতবাদ ও গতিতত্ব | 7:23 | [Watch](https://youtu.be/WQqIHsQlZA4) |
 | 13 | প্রসারণ | 13:18 | [Watch](https://youtu.be/73kE7Wxz_5w) |

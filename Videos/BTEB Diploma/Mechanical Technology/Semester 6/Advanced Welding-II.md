@@ -1,5 +1,4 @@
 # Advanced Welding-II
-
 > 132 videos | Mechanical Technology
 
 | # | Title | Duration | Link |

@@ -1,19 +1,18 @@
 # Electrical Appliances
-
-> 115 videos | Electrical Technology
+> 114 videos | Electrical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | ইলেকট্রিক ওভেন এর কার্যপ্রণালি Part - 1 | 30:32 | [Watch](https://youtu.be/Aaeh9C9XIt8) |
-| 2 | রেফ্রিজারেটর Part - 1 | 29:13 | [Watch](https://youtu.be/qJ49d6zMgEk) |
-| 3 | ওয়াশিং মেশিন | 14:20 | [Watch](https://youtu.be/HhMpTnzBPwU) |
-| 4 | ব্লেন্ডার | 12:19 | [Watch](https://youtu.be/CupXsEROQlE) |
-| 5 | ইলেকট্রিক ব্লোয়ার | 14:07 | [Watch](https://youtu.be/0yBw3I-VyDU) |
-| 6 | টেবিল ফ্যান এবং পেডেস্টাল ফ্যান | 8:16 | [Watch](https://youtu.be/i1-qun55Qmk) |
-| 7 | ইলেকট্রিক কেটলি | 11:33 | [Watch](https://youtu.be/eCHUgTqh46c) |
-| 8 | রাইস কুকারএবংইন্ডাকশন কুকার | 17:30 | [Watch](https://youtu.be/FogeFUCZ0f0) |
-| 9 | বৈদ্যুতিক ইস্ত্রি | 5:13 | [Watch](https://youtu.be/Hwp4wnLaHE4) |
-| 10 | ইলেকট্রিক্যাল অ্যাপ্লায়েন্স (Electrical Appliances) | 5:22 | [Watch](https://youtu.be/ax0GgNi1GEQ) |
+| 1 | ইলেকট্রিক্যাল অ্যাপ্লায়েন্স (Electrical Appliances) | 5:22 | [Watch](https://youtu.be/ax0GgNi1GEQ) |
+| 2 | ইলেকট্রিক ওভেন এর কার্যপ্রণালি Part - 1 | 30:32 | [Watch](https://youtu.be/Aaeh9C9XIt8) |
+| 3 | রেফ্রিজারেটর Part - 1 | 29:13 | [Watch](https://youtu.be/qJ49d6zMgEk) |
+| 4 | ওয়াশিং মেশিন | 14:20 | [Watch](https://youtu.be/HhMpTnzBPwU) |
+| 5 | ব্লেন্ডার | 12:19 | [Watch](https://youtu.be/CupXsEROQlE) |
+| 6 | ইলেকট্রিক ব্লোয়ার | 14:07 | [Watch](https://youtu.be/0yBw3I-VyDU) |
+| 7 | টেবিল ফ্যান এবং পেডেস্টাল ফ্যান | 8:16 | [Watch](https://youtu.be/i1-qun55Qmk) |
+| 8 | ইলেকট্রিক কেটলি | 11:33 | [Watch](https://youtu.be/eCHUgTqh46c) |
+| 9 | রাইস কুকারএবংইন্ডাকশন কুকার | 17:30 | [Watch](https://youtu.be/FogeFUCZ0f0) |
+| 10 | বৈদ্যুতিক ইস্ত্রি | 5:13 | [Watch](https://youtu.be/Hwp4wnLaHE4) |
 | 11 | বাসভবনের নিরাপত্তা ও নজরদারি | 4:27 | [Watch](https://youtu.be/lT-Qv1FF-wk) |
 | 12 | ইলেকট্রিক ওভেন এবং মাইক্রোওয়েভ ওভেন | 4:25 | [Watch](https://youtu.be/9GQogi7WE1U) |
 | 13 | রেফ্রিজারেটর কী | 3:08 | [Watch](https://youtu.be/mqRFxD1JS6Y) |
@@ -86,38 +85,37 @@
 | 80 | ওয়াশিং মেশিনের মূল কার্যনীতি | 11:05 | [Watch](https://youtu.be/kxY1BkLCr8M) |
 | 81 | টেবিল ফ্যান পেডেস্টাল ফ্যানের বিভিন্ন প্রকার টেস্ট | 10:10 | [Watch](https://youtu.be/mfa9n0g6zEM) |
 | 82 | ইলেকট্রিক ব্লোয়ার এর ত্রুটি, কারণ ও প্রতিকার | 14:09 | [Watch](https://youtu.be/LwBLTY3UOMI) |
-| 83 | রাইস কুকারের ত্রুটি, কারণ ও প্রতিকার | 21:23 | - |
-| 84 | ইলেকট্রিক গিজার এর কার্যপ্রণালি | 12:18 | [Watch](https://youtu.be/5gizT6o2460) |
-| 85 | ইলেকট্রিক কোড ও ইলেকট্রিক হ্যাজার্ড | 15:30 | [Watch](https://youtu.be/LHsM45Mx66s) |
-| 86 | ইলেকট্রিক ওভেনের হিট কন্ট্রোল এবং টাইমারের কার্যপ্রণালী | 9:25 | [Watch](https://youtu.be/h8VXsBVLVgE) |
-| 87 | রেফ্রিজারেটরের বিভিন্ন অংশের কার্যপ্রনালী | 10:32 | [Watch](https://youtu.be/eWuxbL2TZBw) |
-| 88 | অটোমেটিক ওয়াশিং মেশিনের সার্কিট ডায়াগ্রাম ও কি ভাবে কাজ করে তআ নিয়ে আলোচনা | 6:05 | [Watch](https://youtu.be/9ugT4BQr3zQ) |
-| 89 | ব্লেন্ডারের সম্ভাব্য ত্রুটি,কারন এবং প্রতিকার | 7:14 | [Watch](https://youtu.be/K2txx3PBWPo) |
-| 90 | ভ্যাকুয়াম ক্লিনারের কার্যপ্রণালী | 4:34 | [Watch](https://youtu.be/iIyodGyF_iI) |
-| 91 | টেবিল ফ্যান বা পেডেস্টাল ফ্যানের সম্ভাব্য ত্রুটি,কারন এবং প্রতিকার | 12:26 | [Watch](https://youtu.be/kdnYkJVP3yw) |
-| 92 | ইলেকট্রিক কেটলির মূল কার্যপ্রণালী | 8:00 | [Watch](https://youtu.be/8QKge6BRo_U) |
-| 93 | ইন্ডাকশন কুকারের কার্যপ্রনালী | 7:14 | [Watch](https://youtu.be/MRWJ7cq1hJk) |
-| 94 | ইলেকট্রিক আয়রনের সম্ভাব্য ত্রুটি সমূহ | 13:07 | [Watch](https://youtu.be/BNUKtBvEeRk) |
-| 95 | ওয়াশিং মেশিনের ত্রুটি কারণ ও প্রতিকার | 24:08 | [Watch](https://youtu.be/8xEnIpm2RCg) |
-| 96 | টেবিল ফ্যান বা পেডেস্টাল ফ্যানের ত্রুটি, কারণ ও প্রতিকার | 6:31 | [Watch](https://youtu.be/Y9Jpxpz-Zqo) |
-| 97 | ভ্যাকুয়াম ক্লিনার | 19:29 | [Watch](https://youtu.be/zeDIMVO5VZU) |
-| 98 | ইলেকট্রিক গিজারের বিভিন্ন অংশ | 11:28 | [Watch](https://youtu.be/BqU81zq_SUs) |
-| 99 | মাইক্রোওয়েভ ওভেনের হিট কন্ট্রোল এবং টাইমারের কার্যপ্রণালী | 4:31 | [Watch](https://youtu.be/hOOhaWEeuk8) |
-| 100 | ওয়াশিং মেশিনের অপারেশন মোডের কার্যপ্রণালী | 9:01 | [Watch](https://youtu.be/b8E7zmgHStg) |
-| 101 | ভ্যাকুয়াম ক্লিনারের সার্কিট ডায়াগ্রাম | 5:23 | [Watch](https://youtu.be/-NkKM-V7Wcg) |
-| 102 | থার্মোস্ট্যাট সহ একটি ইলেকট্রিক কেটলির কার্যপ্রণালী | 6:16 | [Watch](https://youtu.be/XG0C0EmYdqc) |
-| 103 | ইন্ডাকশন কুকারের বৈদ্যুতিক বর্তনী | 6:54 | [Watch](https://youtu.be/BQq7YoHAB6o) |
-| 104 | ভ্যাকুয়াম ক্লিনার  এর কার্যপ্রণালি | 11:24 | [Watch](https://youtu.be/SBFSiOUB5YM) |
-| 105 | ওয়াশিং মেশিনের টাইমার | 3:26 | [Watch](https://youtu.be/uTgcGQU0Uvk) |
-| 106 | গিজার কী | 3:35 | [Watch](https://youtu.be/yMR9uAe7oFI) |
-| 107 | ভ্যাকুয়াম ক্লিনার সার্কিট ডায়াগ্রাম | 11:06 | [Watch](https://youtu.be/UbGoNdkfzlc) |
-| 108 | ওয়াশিং মেশিনের ওয়াশিং সাইকেল | 5:01 | [Watch](https://youtu.be/1-WaerdI50M) |
-| 109 | নন-প্রেসার টাইপ ওয়াটার গিজার | 10:35 | [Watch](https://youtu.be/L4blo5ixDPk) |
-| 110 | ভ্যাকুয়াম ক্লিনার  এর ত্রুটি, কারণ ও প্রতিকার | 10:13 | [Watch](https://youtu.be/wptCUWUr0VM) |
-| 111 | ওয়াশিং মেশিনের সম্ভাব্য ত্রুটি কারন এবং প্রতিকার | 11:10 | [Watch](https://youtu.be/reo-EcjTBNo) |
-| 112 | প্রেসার টাইপ ওয়াটার গিজার | 11:14 | [Watch](https://youtu.be/FkYQ4Knfmk0) |
-| 113 | ওয়াশিং মেশিন এর বিভিন্ন অংশসমূহ | 5:29 | [Watch](https://youtu.be/61xmr3DtkeM) |
-| 114 | গিজারের কার্যপ্রনালী | 11:05 | [Watch](https://youtu.be/zkid3zqfMxk) |
-| 115 | ইলেকট্রিক গিজারের বিভিন্ন অংশ সমূহ | 11:22 | [Watch](https://youtu.be/hyfWgFN3IMc) |
+| 83 | ইলেকট্রিক গিজার এর কার্যপ্রণালি | 12:18 | [Watch](https://youtu.be/5gizT6o2460) |
+| 84 | ইলেকট্রিক কোড ও ইলেকট্রিক হ্যাজার্ড | 15:30 | [Watch](https://youtu.be/LHsM45Mx66s) |
+| 85 | ইলেকট্রিক ওভেনের হিট কন্ট্রোল এবং টাইমারের কার্যপ্রণালী | 9:25 | [Watch](https://youtu.be/h8VXsBVLVgE) |
+| 86 | রেফ্রিজারেটরের বিভিন্ন অংশের কার্যপ্রনালী | 10:32 | [Watch](https://youtu.be/eWuxbL2TZBw) |
+| 87 | অটোমেটিক ওয়াশিং মেশিনের সার্কিট ডায়াগ্রাম ও কি ভাবে কাজ করে তআ নিয়ে আলোচনা | 6:05 | [Watch](https://youtu.be/9ugT4BQr3zQ) |
+| 88 | ব্লেন্ডারের সম্ভাব্য ত্রুটি,কারন এবং প্রতিকার | 7:14 | [Watch](https://youtu.be/K2txx3PBWPo) |
+| 89 | ভ্যাকুয়াম ক্লিনারের কার্যপ্রণালী | 4:34 | [Watch](https://youtu.be/iIyodGyF_iI) |
+| 90 | টেবিল ফ্যান বা পেডেস্টাল ফ্যানের সম্ভাব্য ত্রুটি,কারন এবং প্রতিকার | 12:26 | [Watch](https://youtu.be/kdnYkJVP3yw) |
+| 91 | ইলেকট্রিক কেটলির মূল কার্যপ্রণালী | 8:00 | [Watch](https://youtu.be/8QKge6BRo_U) |
+| 92 | ইন্ডাকশন কুকারের কার্যপ্রনালী | 7:14 | [Watch](https://youtu.be/MRWJ7cq1hJk) |
+| 93 | ইলেকট্রিক আয়রনের সম্ভাব্য ত্রুটি সমূহ | 13:07 | [Watch](https://youtu.be/BNUKtBvEeRk) |
+| 94 | ওয়াশিং মেশিনের ত্রুটি কারণ ও প্রতিকার | 24:08 | [Watch](https://youtu.be/8xEnIpm2RCg) |
+| 95 | টেবিল ফ্যান বা পেডেস্টাল ফ্যানের ত্রুটি, কারণ ও প্রতিকার | 6:31 | [Watch](https://youtu.be/Y9Jpxpz-Zqo) |
+| 96 | ভ্যাকুয়াম ক্লিনার | 19:29 | [Watch](https://youtu.be/zeDIMVO5VZU) |
+| 97 | ইলেকট্রিক গিজারের বিভিন্ন অংশ | 11:28 | [Watch](https://youtu.be/BqU81zq_SUs) |
+| 98 | মাইক্রোওয়েভ ওভেনের হিট কন্ট্রোল এবং টাইমারের কার্যপ্রণালী | 4:31 | [Watch](https://youtu.be/hOOhaWEeuk8) |
+| 99 | ওয়াশিং মেশিনের অপারেশন মোডের কার্যপ্রণালী | 9:01 | [Watch](https://youtu.be/b8E7zmgHStg) |
+| 100 | ভ্যাকুয়াম ক্লিনারের সার্কিট ডায়াগ্রাম | 5:23 | [Watch](https://youtu.be/-NkKM-V7Wcg) |
+| 101 | থার্মোস্ট্যাট সহ একটি ইলেকট্রিক কেটলির কার্যপ্রণালী | 6:16 | [Watch](https://youtu.be/XG0C0EmYdqc) |
+| 102 | ইন্ডাকশন কুকারের বৈদ্যুতিক বর্তনী | 6:54 | [Watch](https://youtu.be/BQq7YoHAB6o) |
+| 103 | ভ্যাকুয়াম ক্লিনার  এর কার্যপ্রণালি | 11:24 | [Watch](https://youtu.be/SBFSiOUB5YM) |
+| 104 | ওয়াশিং মেশিনের টাইমার | 3:26 | [Watch](https://youtu.be/uTgcGQU0Uvk) |
+| 105 | গিজার কী | 3:35 | [Watch](https://youtu.be/yMR9uAe7oFI) |
+| 106 | ভ্যাকুয়াম ক্লিনার সার্কিট ডায়াগ্রাম | 11:06 | [Watch](https://youtu.be/UbGoNdkfzlc) |
+| 107 | ওয়াশিং মেশিনের ওয়াশিং সাইকেল | 5:01 | [Watch](https://youtu.be/1-WaerdI50M) |
+| 108 | নন-প্রেসার টাইপ ওয়াটার গিজার | 10:35 | [Watch](https://youtu.be/L4blo5ixDPk) |
+| 109 | ভ্যাকুয়াম ক্লিনার  এর ত্রুটি, কারণ ও প্রতিকার | 10:13 | [Watch](https://youtu.be/wptCUWUr0VM) |
+| 110 | ওয়াশিং মেশিনের সম্ভাব্য ত্রুটি কারন এবং প্রতিকার | 11:10 | [Watch](https://youtu.be/reo-EcjTBNo) |
+| 111 | প্রেসার টাইপ ওয়াটার গিজার | 11:14 | [Watch](https://youtu.be/FkYQ4Knfmk0) |
+| 112 | ওয়াশিং মেশিন এর বিভিন্ন অংশসমূহ | 5:29 | [Watch](https://youtu.be/61xmr3DtkeM) |
+| 113 | গিজারের কার্যপ্রনালী | 11:05 | [Watch](https://youtu.be/zkid3zqfMxk) |
+| 114 | ইলেকট্রিক গিজারের বিভিন্ন অংশ সমূহ | 11:22 | [Watch](https://youtu.be/hyfWgFN3IMc) |
 
-*115 videos total*
+*114 videos total*

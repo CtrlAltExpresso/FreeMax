@@ -1,5 +1,4 @@
 # Principle of Marketing
-
 > 113 videos | Printing Technology
 
 | # | Title | Duration | Link |

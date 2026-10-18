@@ -1,18 +1,17 @@
 # Electrical Installation,Planning and Estimating
-
 > 148 videos | Telecommunication Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | নিম্নচাপ ওভারহেড ডিস্ট্রিবিউশন লাইনের এস্টিমেট | 17:04 | [Watch](https://youtu.be/c5zor4lwlus) |
-| 2 | আর্থিং | 8:03 | [Watch](https://youtu.be/2Rx-dk0STeU) |
-| 3 | সার্ভিস মেইনের ধারণা | 7:26 | [Watch](https://youtu.be/4JMAqBrWH7Y) |
-| 4 | অভ্যন্তরীন ওয়্যারিং স্থাপনা | 9:19 | [Watch](https://youtu.be/uC3LQSe6Y9Y) |
-| 5 | লাইটিং স্কিম কাকে বলে? | 9:02 | [Watch](https://youtu.be/U5oY5_2K8sI) |
-| 6 | পরিমাপ বই লেখন মূল্য তালিকা ও শ্রমহার তফসিলের ধারণা | 10:05 | [Watch](https://youtu.be/otVTB_jpvW4) |
-| 7 | প্রাক্কলন এর প্রয়োজনীয়তা | 13:34 | [Watch](https://youtu.be/lyIBmb2NtpI) |
-| 8 | বৈদ্যুতিক স্থাপনার  পরিকল্পনা | 13:24 | [Watch](https://youtu.be/m7BPEKC6qWU) |
-| 9 | Electrical Installation | 8:13 | [Watch](https://youtu.be/iytsJF74w1Q) |
+| 1 | Electrical Installation | 8:13 | [Watch](https://youtu.be/iytsJF74w1Q) |
+| 2 | নিম্নচাপ ওভারহেড ডিস্ট্রিবিউশন লাইনের এস্টিমেট | 17:04 | [Watch](https://youtu.be/c5zor4lwlus) |
+| 3 | আর্থিং | 8:03 | [Watch](https://youtu.be/2Rx-dk0STeU) |
+| 4 | সার্ভিস মেইনের ধারণা | 7:26 | [Watch](https://youtu.be/4JMAqBrWH7Y) |
+| 5 | অভ্যন্তরীন ওয়্যারিং স্থাপনা | 9:19 | [Watch](https://youtu.be/uC3LQSe6Y9Y) |
+| 6 | লাইটিং স্কিম কাকে বলে? | 9:02 | [Watch](https://youtu.be/U5oY5_2K8sI) |
+| 7 | পরিমাপ বই লেখন মূল্য তালিকা ও শ্রমহার তফসিলের ধারণা | 10:05 | [Watch](https://youtu.be/otVTB_jpvW4) |
+| 8 | প্রাক্কলন এর প্রয়োজনীয়তা | 13:34 | [Watch](https://youtu.be/lyIBmb2NtpI) |
+| 9 | বৈদ্যুতিক স্থাপনার  পরিকল্পনা | 13:24 | [Watch](https://youtu.be/m7BPEKC6qWU) |
 | 10 | বৈদ্যুতিক বিধি বিধান কোড বেসিক আলোচনা | 16:11 | [Watch](https://youtu.be/niKdcpQM768) |
 | 11 | পরিবাহীর আকার ও বিদ্যুৎ বহন ক্ষমতা | 6:17 | [Watch](https://youtu.be/ldCGP4FP1r0) |
 | 12 | বাসাবাড়ির ওয়্যারিং শেষে কী কী টেস্ট করা হয় | 4:08 | [Watch](https://youtu.be/obuCvU0DZv8) |

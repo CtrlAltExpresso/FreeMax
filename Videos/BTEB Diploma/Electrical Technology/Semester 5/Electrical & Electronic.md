@@ -1,13 +1,12 @@
 # Electrical & Electronic
-
 > 113 videos | Electrical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
 | 1 | ব্লক ডায়াগ্রামসহ RX Meter | 2:17 | [Watch](https://youtu.be/5YDLUy0SkDw) |
-| 2 | Less Important chapter | 0:08 | [Watch](https://youtu.be/Ses9CSe8CCk) |
-| 3 | Block diagram of Frequency Meter | 2:34 | [Watch](https://youtu.be/lWyjjDJrfSg) |
-| 4 | ব্লক ডায়াগ্রামসহ  LCR & Q Meter মূলনীতি | 5:12 | [Watch](https://youtu.be/U9vQFppN7yc) |
+| 2 | Block diagram of Frequency Meter | 2:34 | [Watch](https://youtu.be/lWyjjDJrfSg) |
+| 3 | ব্লক ডায়াগ্রামসহ  LCR & Q Meter মূলনীতি | 5:12 | [Watch](https://youtu.be/U9vQFppN7yc) |
+| 4 | Less Important chapter | 0:08 | [Watch](https://youtu.be/Ses9CSe8CCk) |
 | 5 | Oscilloscope এর মূলনীতি এবং এর  ব্যবহার | 6:26 | [Watch](https://youtu.be/l_3XHbc0hx4) |
 | 6 | ব্লক ডায়াগ্রামসহ ডিজিটাল ভোল্টমিটার | 3:05 | [Watch](https://youtu.be/et-4m4XsriU) |
 | 7 | অ্যামিটার ভোল্টমিটার এনালগ মাল্টিমিটারের কার্যপ্রনালী | 14:16 | [Watch](https://youtu.be/3froOqSIKs4) |

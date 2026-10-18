@@ -1,162 +1,161 @@
 # Physics-II
-
 > 278 videos | Aircraft Maintenance Technology- Avionics
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | আপেক্ষিক তত্ব ও জ্যোতি পদার্থবিদ্যা | 47:00 | [Watch](https://youtu.be/HpLO7Ag_FiM) |
-| 2 | আধুনিক পদার্থবিজ্ঞান | 4:22 | [Watch](https://youtu.be/5YVdt_eSpUg) |
-| 3 | নিউক্লীয় পদার্থবিজ্ঞান | 19:27 | [Watch](https://youtu.be/eL5u1UHRyww) |
-| 4 | পরমাণু  গঠন | 7:19 | [Watch](https://youtu.be/8pfuMS1vh0M) |
-| 5 | আলোক তড়িৎ ক্রিয়া | 21:25 | [Watch](https://youtu.be/qsNKMMqmfdA) |
-| 6 | ভৌত আলোকবিজ্ঞান | 12:28 | [Watch](https://youtu.be/U3yLePKgyrg) |
-| 7 | একটি সমবাহু প্রিজমের প্রতিসরাঙ্ক √2 হলে এর ন্যূনতম বিচ্যুতি কোণ নির্ণয় কর | 29:01 | [Watch](https://youtu.be/yFgcn-rypcU) |
-| 8 | দর্পণ কাকে বলে | 20:01 | [Watch](https://youtu.be/mCBoBDf96Js) |
-| 9 | অতি সংক্ষিপ্ত চুম্বক কাকে বলে | 8:01 | [Watch](https://youtu.be/_Y5Sdrnt5lk) |
-| 10 | অতি সংক্ষিপ্ত আধান বলতে কী বুঝ | 15:12 | [Watch](https://youtu.be/XXI9jubLMt0) |
-| 11 | অতি সংক্ষিপ্ত তাপগতিবিদ্যার দ্বিতীয় সূত্র | 11:22 | [Watch](https://youtu.be/18U7ip3yleY) |
-| 12 | অতি সংক্ষিপ্ত জুলের বা তাপগতিবিদ্যার প্রথম সূত্র | 10:15 | [Watch](https://youtu.be/MpMCO_blCX4) |
-| 13 | পদার্থের উপর তাপের প্রভাব অধ্যায়ের অতিসংক্ষিপ্ত প্রশ্ন  উত্তর | 75:03 | [Watch](https://youtu.be/kBL2KDmp6AU) |
-| 14 | থার্মোমিতি অধ্যায়ের অতিসংক্ষিপ্ত প্রশ্ন উত্তর | 27:35 | [Watch](https://youtu.be/r5hQMQbGSVY) |
-| 15 | আপেক্ষিকতা | 5:34 | [Watch](https://youtu.be/4h5yPa-YRJo) |
-| 16 | আধুনিক পদার্থবিজ্ঞানের ধারণা | 4:22 | [Watch](https://youtu.be/GKfBMHQ2PU4) |
-| 17 | তেজস্ক্রিয়তার ব্যাখ্যা | 12:14 | [Watch](https://youtu.be/uyr5uhRMUJA) |
-| 18 | পরমাণু  Atom | 5:32 | [Watch](https://youtu.be/RLuE64AhsrQ) |
-| 19 | গ্যাসের বিদ্যুৎ পরিবহন | 7:10 | [Watch](https://youtu.be/OA-Tqo5UJKs) |
-| 20 | তড়িৎ চৌম্বক তরঙ্গ | 28:20 | [Watch](https://youtu.be/eDdprH2Fhis) |
-| 21 | আলোর প্রতিসরণ | 18:34 | [Watch](https://youtu.be/NLUWxPGDKnQ?si=BUbBlaNUEKMTwoMg) |
-| 22 | দপর্ণ | 10:04 | [Watch](https://youtu.be/Fm4RV1WlyRs) |
-| 23 | পৃথিবীর চৌম্বকত্ব | 8:07 | [Watch](https://youtu.be/jq9ROQdKNjw) |
-| 24 | আধান ও আধানের প্রকৃতি | 12:02 | [Watch](https://youtu.be/sj6daUqP0bg) |
-| 25 | প্রত্যাগামী এবং অপ্রত্যাগামী প্রক্রিয়া | 5:10 | [Watch](https://youtu.be/MFT9ny9cANk) |
-| 26 | ক্যালরিক মতবাদ | 9:10 | [Watch](https://youtu.be/yER6LGXO6CE) |
-| 27 | কঠিন পদার্থের দৈর্ঘ্য,ক্ষেত্র ও আয়তন প্রসারণ | 17:01 | [Watch](https://youtu.be/5L59Fy2kRCI) |
-| 28 | তাপ ও তাপমাত্রা | 11:21 | [Watch](https://youtu.be/VmwuEvxK888) |
-| 29 | 10 gm ভরের সমতুল্য শক্তি Mev  এ প্রকাশ | 21:01 | [Watch](https://youtu.be/JwsUMPxIG10) |
-| 30 | তেজস্ক্রিয় ক্ষয় সূত্র প্রতিপাদন কর | 16:14 | [Watch](https://youtu.be/iIWrclDFnNs) |
-| 31 | আলোর প্রতিসরণ কাকে বলে | 39:14 | [Watch](https://youtu.be/-UtxSawLyeo) |
-| 32 | Part 1 আলোকে প্রতিফলন সূত্র বর্ণনা | 28:05 | [Watch](https://youtu.be/FZsSOwVTnQU) |
-| 33 | রচনামূলক রূদ্ধতাপীয় পরিবর্তনে গ্যাসের আয়তন ও চাপের মাঝে সম্পর্ক স্থাপন | 26:22 | [Watch](https://youtu.be/6yzpbw0EvFo) |
-| 34 | থার্মোমিতি অধ্যায়ের সংক্ষিপ্ত প্রশ্ন  উত্তর | 50:23 | [Watch](https://youtu.be/XTXQacS3uHY) |
-| 35 | সময়ের আপেক্ষিকতা ; কাল দীর্ঘায়ন বা সময় প্রসারণ | 20:01 | [Watch](https://youtu.be/tIF_U35Ri3k) |
-| 36 | প্রসঙ্গ কাঠামো | 9:16 | [Watch](https://youtu.be/UiXUA9I-xvM) |
-| 37 | তেজস্ক্রিয়তার বৈশিষ্ট্য | 10:16 | [Watch](https://youtu.be/rinxxB5c_kQ) |
-| 38 | পরমাণুর গঠনের ধারণা | 6:08 | [Watch](https://youtu.be/Hlq4Gy8QYbY) |
-| 39 | ক্ষরণ নল Discharge tube | 3:33 | [Watch](https://youtu.be/a9x6aYSt9os) |
-| 40 | ইলেকট্রোম্যাগনেটিক ওয়েভ থেকে আলোর বেগ ক্যালকোলেশন | 9:00 | [Watch](https://youtu.be/kolk5oHqE9o) |
-| 41 | আলোর প্রতিসরণের উদাহরণ | 11:07 | [Watch](https://youtu.be/Ytbb3-f9Ea8?si=ZUQY95q7S12tvbtL) |
-| 42 | প্রতিবিম্ব | 17:32 | [Watch](https://youtu.be/QL9CAikl_gQ) |
-| 43 | চৌম্বক, চৌম্বক পদার্থ, অচৌম্বক পদার্থ ও চৌম্বক মেরু | 8:09 | [Watch](https://youtu.be/8yRsn43mhUk) |
-| 44 | আধান বা চার্জের প্রকৃতি নির্ণয় | 6:04 | [Watch](https://youtu.be/3TpWxgk4Fr4) |
-| 45 | প্রত্যাগামী এবং অপ্রত্যাগামী প্রক্রিয়ার পার্থক্য | 3:27 | [Watch](https://youtu.be/BnG1tqZT9XQ) |
-| 46 | তাপের গতি মতবাদ | 10:17 | [Watch](https://youtu.be/BhnnEZBm1Ek) |
-| 47 | কঠিন পদার্থের দৈর্ঘ্য,ক্ষেত্র ও আয়তন প্রসারণ গুণাঙ্ক | 16:24 | [Watch](https://youtu.be/lMs_cjjL5pg) |
-| 48 | তাপ ও তাপমাত্রার এককসমূহ | 13:33 | [Watch](https://youtu.be/ig_PaoHt_pE) |
-| 49 | দেখাও যে S = i1 + i2 +   A | 9:29 | [Watch](https://youtu.be/zwVZz9o0xIA) |
-| 50 | Part 2 আলোকে প্রতিফলন সূত্র বর্ণনা | 26:09 | [Watch](https://youtu.be/Gr0HfjWwM3Q) |
-| 51 | থার্মোমিতি অধ্যায়ের রচনামূলক প্রশ্ন উত্তর | 45:13 | [Watch](https://youtu.be/Sp-r5Q5SMLM) |
-| 52 | দৈর্ঘ্যের আপেক্ষিকতা | 12:32 | [Watch](https://youtu.be/LBRxP621slA) |
-| 53 | প্রসঙ্গ কাঠামো ও গতি | 7:04 | [Watch](https://youtu.be/rOsx39XngGA) |
-| 54 | তেজস্ক্রিয়তার প্রকারভেদ | 8:13 | [Watch](https://youtu.be/m6Z9smf4uSU) |
-| 55 | থমসনের পরমাণু মডেল | 5:07 | [Watch](https://youtu.be/-QL72j8y0TU) |
-| 56 | ক্ষরণ নলে সংঘটিত ঘটনাবলি | 6:35 | [Watch](https://youtu.be/Cw0UWjchwEc) |
-| 57 | পয়েন্টিং ভেক্টর | 4:11 | [Watch](https://youtu.be/T4-0k24BVeY) |
-| 58 | প্রতিসরণের সূত্র | 20:02 | [Watch](https://youtu.be/W6R-A84D3jc?si=lRCr5Qzd81ZoaKSl) |
-| 59 | বাস্তব ও অবাস্তব প্রতিবিম্বের মধ্যে পার্থক্য | 4:33 | [Watch](https://youtu.be/q0j5-vl-bf8) |
-| 60 | চৌম্বকক্ষেত্র ও চৌম্বক তীব্রতা | 9:35 | [Watch](https://youtu.be/koWbZkzqaX8) |
-| 61 | আধানের আকর্ষণ ও বিকর্ষণ সূত্র | 1:22 | [Watch](https://youtu.be/4oKfPUbHVqE) |
-| 62 | তাপগতিবিদ্যার দ্বিতীয় সূত্র | 7:30 | [Watch](https://youtu.be/U8Fkk6dbvzM) |
-| 63 | তাপের ক্যালরি মতবাদের সীমাবদ্ধতা | 9:13 | [Watch](https://youtu.be/Gv7MSUSqvBc) |
-| 64 | ক্ষেত্র  প্রসারণ গুণাঙ্ক | 9:04 | [Watch](https://youtu.be/MgVopW3Cahw) |
-| 65 | 1J = কত Cal | 10:14 | [Watch](https://youtu.be/ATO9P9bKP_w) |
-| 66 | উত্তল বা গোলকীয় দর্পণের ক্ষেত্রে প্রমাণ | 32:15 | [Watch](https://youtu.be/zVYtHJ5dNk4) |
-| 67 | ভরের আপেক্ষিকতা | 4:31 | [Watch](https://youtu.be/1SVvmv8fNhM) |
-| 68 | বিশেষ আপেক্ষিক তত্বের স্বীকার্য | 6:17 | [Watch](https://youtu.be/BhidefFT2JM) |
-| 69 | তেজস্ক্রিয় রশ্মি | 11:14 | [Watch](https://youtu.be/xBsvCQKoSW0) |
-| 70 | থমসন পরমাণু মডেলের সীমাবদ্ধতা বা ত্রুটি | 4:11 | [Watch](https://youtu.be/OmQOph4SVwU) |
-| 71 | ক্যাথোড রশ্মির ধর্ম | 6:31 | [Watch](https://youtu.be/5osc_kpd-1Y) |
-| 72 | তড়িৎ চৌম্বক বর্ণালি | 10:03 | [Watch](https://youtu.be/MsMUIyRiv4E) |
-| 73 | প্রতিসরণের সূত্রের সত্যতা নিরূপণ | 9:07 | [Watch](https://youtu.be/EAI0yJ8UUY8?si=M-KzES0SOaKlm9M6) |
-| 74 | বিবর্ধন | 7:13 | [Watch](https://youtu.be/6W452D6XQMU) |
-| 75 | চৌম্বক গ্রাহীতা বা প্রবণতা | 9:27 | [Watch](https://youtu.be/LIdUXEeGe3Q) |
-| 76 | কুলম্বের সূত্র | 10:24 | [Watch](https://youtu.be/jpNogTusvHk) |
-| 77 | তাপ ইঞ্জিন | 9:16 | [Watch](https://youtu.be/Z6eFHfkEWjM) |
-| 78 | তাপের যান্ত্রিক সমতা বা তুল্যাঙ্কের ব্যাখ্যা | 15:05 | [Watch](https://youtu.be/O1PidGikWjE) |
-| 79 | আয়তন  প্রসারণ গুণাঙ্ক | 7:07 | [Watch](https://youtu.be/a40jrLyQQV4) |
-| 80 | তাপমাত্রার বিভিন্ন স্কেলের মাঝে সম্পর্ক | 21:13 | [Watch](https://youtu.be/tBJoQq2F7N8) |
-| 81 | প্রমান কর যে , E = mc^2 | 20:10 | [Watch](https://youtu.be/5IbPKsysW3Y) |
-| 82 | গ্যালিলীয় রূপান্তর | 20:06 | [Watch](https://youtu.be/oaZLfggIdDs) |
-| 83 | বিটা রশ্মির বৈশিষ্ট্য | 4:18 | [Watch](https://youtu.be/9Y_eKi_-qaY) |
-| 84 | রাদারর্ফোড পরমাণু মডেল | 9:05 | [Watch](https://youtu.be/_voZtZH_LfU) |
-| 85 | ক্যাথোড রশ্মির ব্যবহার | 6:24 | [Watch](https://youtu.be/IFEsrsNlDAc) |
-| 86 | তড়িৎ চৌম্বক বর্ণালির রেঞ্জ | 7:22 | [Watch](https://youtu.be/pJM-4jYnda4) |
-| 87 | পরম এবং আপেক্ষিক প্রতিসরাঙ্ক | 14:01 | [Watch](https://youtu.be/pAk9tl6x1Bw?si=emA6kK24AHCaz1J1) |
-| 88 | বিবর্ধনের গাণিতিক ব্যাখ্যা | 20:19 | [Watch](https://youtu.be/E4pFAIPkNWM) |
-| 89 | পৃথিবীর চৌম্বক উপাদান | 2:32 | [Watch](https://youtu.be/61ZuKsrPRkc) |
-| 90 | শূণ্যস্থানে কুলম্বের সূত্র | 8:35 | [Watch](https://youtu.be/6eLwJS9NZpE) |
-| 91 | বহির্দহ ইঞ্জিন ও অন্তর্দহ ইঞ্জিন | 7:29 | [Watch](https://youtu.be/5xV_mX_pJbk) |
-| 92 | তাপগতিবিদ্যার প্রথম সূত্রের বর্ণনা | 14:08 | [Watch](https://youtu.be/ePRHnJ8RZMo) |
-| 93 | দৈর্ঘ্য প্রসারণ গুণাঙ্ক ও ক্ষেত্র প্রসারণ গণাঙ্কের মধ্যে সম্পর্ক | 19:31 | [Watch](https://youtu.be/toufrkg52Q4?si=BVFoslekeZBq1NRu) |
-| 94 | তাপ ও তাপমাত্রার মধ্যে পার্থক্য | 17:32 | [Watch](https://youtu.be/_h9N3jx1Hm0) |
-| 95 | 10gm  ভরের সমতুল্য শক্তি MeV  এ প্রকাশ | 7:32 | [Watch](https://youtu.be/doLDUAf4wLM) |
-| 96 | গ্যালিলীয় রূপান্তরের সীমাবদ্ধতা | 11:12 | [Watch](https://youtu.be/auQpas9vRPk) |
-| 97 | তেজস্ক্রিয়তার ক্ষয় সূত্র | 7:04 | [Watch](https://youtu.be/_QeiBG7wGdI) |
-| 98 | রাদারর্ফোড পরমাণু মডেলের সীমাবদ্ধতা | 7:23 | [Watch](https://youtu.be/kPzTH9kr-JA) |
-| 99 | ক্যাথোড রশ্মি ও রঞ্জন রশ্মি | 6:23 | [Watch](https://www.youtube.com/watch?v=ve3s7gzg9JU) |
-| 100 | অতিবেগুনি বিকিরণ | 9:04 | [Watch](https://youtu.be/cYNWa3ab-0U) |
-| 101 | পূর্ণ অভ্যন্তরীণ প্রতিফলন এবং সংকট কোণ | 18:08 | [Watch](https://youtu.be/qmtcEgM0tCk?si=EslubfnIztxK-f6z) |
-| 102 | রৈখিক বিবর্ধনের তিনটি সংজ্ঞা | 1:25 | [Watch](https://youtu.be/zNftFmbgnL0) |
-| 103 | বিচ্যুতি,θ Declination | 7:13 | [Watch](https://youtu.be/KN3jY41CwlE) |
-| 104 | যে কোনো মাধ্যমে সূত্র | 10:14 | [Watch](https://youtu.be/BK89iQY-QLs) |
-| 105 | অন্তর্দহ ও বহির্দহ ইঞ্জিনের পার্থক্য | 2:10 | [Watch](https://youtu.be/eM3YtFfkITQ) |
-| 106 | সমোষ্ঞ প্রক্রিয়া | 13:26 | [Watch](https://youtu.be/8ZrDH25W3n4) |
-| 107 | দৈর্ঘ্য প্রসারণ গুণাঙ্ক ও আয়তন প্রসারণ গুণাঙ্কের মধ্যে সম্পর্ক | 16:18 | [Watch](https://youtu.be/8Kx0v-hJWec) |
-| 108 | পারদ থার্মোমিটারের গঠন ও নির্মাণ প্রণালির বর্ণনা | 19:26 | [Watch](https://youtu.be/FYJQJobmhRE) |
-| 109 | একটি রকেট কত বেগে চললে এর গতিশীল দৈর্ঘ্যটি নিশ্চল দৈর্ঘ্যের অর্ধেক হবে বিস্তারিত বর্ণনা | 8:10 | [Watch](https://youtu.be/sEEiZ10kiOU) |
-| 110 | তেজস্ক্রিয় পরমানুর অর্ধায়ু এবং গড় আয়ু | 8:23 | [Watch](https://youtu.be/9lV1Cy06jAA) |
-| 111 | Part-1 লরেঞ্জ রূপান্তর | 24:26 | [Watch](https://youtu.be/YpNq9DILmzI) |
-| 112 | বোরের পরমাণু মডেল | 12:17 | [Watch](https://youtu.be/SUU0sR6YDgg) |
-| 113 | X-ray এর ধর্ম | 4:25 | [Watch](https://www.youtube.com/watch?v=QkYG-sVmYnI) |
-| 114 | দৃশ্যমান বর্ণালির তরঙ্গ দৈর্ঘ্য | 7:22 | [Watch](https://youtu.be/C_u3YtekGVk) |
-| 115 | সংকট কোণ এবং প্রতিসরাঙ্কের মধ্যে সম্পর্ক | 23:33 | [Watch](https://youtu.be/tqtpStAA1ZI) |
-| 116 | আলোর প্রতিফলন | 7:19 | [Watch](https://youtu.be/xHYD0e7AICU) |
-| 117 | বিনতি, δ Inclination | 6:35 | [Watch](https://youtu.be/z0zu7a_KTRU) |
-| 118 | তড়িৎ মাধ্যমাঙ্কের সংজ্ঞা | 12:31 | [Watch](https://youtu.be/9jH5AHenhyI) |
-| 119 | কার্নো  ইঞ্জিন | 22:15 | [Watch](https://youtu.be/V8FlLIi4AJA) |
-| 120 | সমোষ্ঞ প্রক্রিয়ার শর্তসমূহ | 3:21 | [Watch](https://youtu.be/Vdvj9p5p2HI) |
-| 121 | দৈর্ঘ্য প্রসারণ গুণাঙ্ক, ক্ষেত্র প্রসারণ গুণাঙ্ক ও আয়তন প্রসারণ মধ্যে সম্পর্ক | 6:01 | [Watch](https://youtu.be/q8uuddtOBb0) |
-| 122 | আপেক্ষিক তাপ, তাপধারণ ক্ষমতা ও পানিসম এর সংজ্ঞা | 9:24 | [Watch](https://youtu.be/1R6dM8Cslv8) |
-| 123 | Part-2  লরেঞ্জ রূপান্তর | 17:05 | [Watch](https://youtu.be/WAPK9KtPZKQ) |
-| 124 | গড় আয়ু | 4:29 | [Watch](https://youtu.be/UC3qaS3uDlw) |
-| 125 | বোর পরমাণু মডেলের সীমাবদ্ধতা | 7:00 | [Watch](https://youtu.be/kbifaaoBKZI) |
-| 126 | রঞ্জন রশ্মির ব্যবহার | 7:04 | [Watch](https://youtu.be/-uuw09TegGg) |
-| 127 | আলোক বর্ষ | 6:00 | [Watch](https://youtu.be/83LnuVViV2o) |
-| 128 | অভ্যন্তরীণ প্রতিফলনজনিত কয়েকটি উদাহরণ | 22:22 | [Watch](https://youtu.be/5Xm0WQD15uc) |
-| 129 | আলোর প্রতিফলনের শর্ত | 9:25 | [Watch](https://youtu.be/PMiHEReLprQ) |
-| 130 | ভূ চৌম্বকক্ষেত্রের অনুভূমিক উপাংশ,BH বা H | 16:31 | [Watch](https://youtu.be/eGW8OuHtXws) |
-| 131 | কুলম্বের সূত্রের ভেক্টর রূপ | 6:18 | [Watch](https://youtu.be/B2uqzgt0VB8) |
-| 132 | কার্নোচক্রের মূলনীতি বর্ণনা | 10:35 | [Watch](https://youtu.be/NQzePmMul-c) |
-| 133 | রূদ্ধতাপীয় প্রক্রিয়া | 5:31 | [Watch](https://youtu.be/N5n6FVhufSU) |
-| 134 | পরিবহন (Conduction) | 7:01 | [Watch](https://youtu.be/UxMfovpa9_4) |
-| 135 | তাপগ্রাহীতা বা তাপধারণ ক্ষমতা বা তাপধারকত্ব | 7:30 | [Watch](https://youtu.be/VVP442ZtiOg) |
-| 136 | বিপরীত  লরেঞ্জ রূপান্তর | 5:32 | [Watch](https://youtu.be/Nq-L_JfhFyo) |
-| 137 | তেজস্ক্রিয়তার  ক্ষয় সূত্রের পূর্ণাঙ্গ সমীকরণ | 17:20 | [Watch](https://youtu.be/RzvCD9Aei_k) |
-| 138 | বোর পরমাণু মডেল অনুসারে হাইড্রোজেন পরমাণুর ব্যসার্ধ ও শক্তির সমীকরণ | 12:34 | [Watch](https://youtu.be/vfZQHyHh2YY) |
-| 139 | X-ray এর উৎপাদন | 13:32 | [Watch](https://youtu.be/jzAk2afZ3E0) |
-| 140 | তরঙ্গ ও তরঙ্গমুখ | 6:28 | [Watch](https://youtu.be/nmTShfULBdI) |
-| 141 | উর্ধ্ব মরীচিকা | 7:13 | [Watch](https://youtu.be/Ad0vIhF3ayQ) |
-| 142 | আলোর প্রতিফলনের সূত্র | 4:35 | [Watch](https://youtu.be/GePfcvmJu6U) |
-| 143 | চৌম্বক পদার্থের শ্রেণিবিভাগ | 8:35 | [Watch](https://youtu.be/cdgSXo7HlmY) |
-| 144 | তড়িৎক্ষেত্র এবং তড়িৎক্ষেত্রের প্রাবল্য  বা তীব্রতা | 5:01 | [Watch](https://youtu.be/ZOcOOnxgTTc) |
-| 145 | কার্নোচক্রের  কাজ | 11:32 | [Watch](https://youtu.be/AN3X4RKindM) |
-| 146 | ধ্রুব আয়তন প্রক্রিয়া এবং ধ্রুব চাপ প্রক্রিয়া | 10:04 | [Watch](https://youtu.be/rlbih5HTl7s) |
-| 147 | পরিচলন (Convection) | 4:34 | [Watch](https://youtu.be/NnGt9mQsWoY) |
-| 148 | পানিসম বা তুল্য জলাঙ্ক | 13:14 | [Watch](https://youtu.be/3BzwLvJ2bGU) |
-| 149 | লরেঞ্জ রূপান্তরের বিশেষত্ব | 8:14 | [Watch](https://youtu.be/cJ9DnoumjNc) |
-| 150 | অর্ধায়ু ও তেজস্ক্রিয় ক্ষয় ধ্রুবকের মধ্যে সম্পর্ক | 11:20 | [Watch](https://youtu.be/v6lKQkOxLvg) |
-| 151 | ইলেকট্রনের কক্ষপথের ব্যাসার্ধ | 11:10 | [Watch](https://youtu.be/CFlbP9UnBII) |
-| 152 | X-ray এবং ক্যাথোড রশ্মির মধ্যে পার্থক্য | 2:35 | [Watch](https://youtu.be/W2l51PXFnwQ) |
-| 153 | The Hygen's Principle | 9:19 | [Watch](https://youtu.be/P4E8gUbbkKk) |
+| 1 | The Hygen's Principle | 9:19 | [Watch](https://youtu.be/P4E8gUbbkKk) |
+| 2 | 1J = কত Cal | 10:14 | [Watch](https://youtu.be/ATO9P9bKP_w) |
+| 3 | পরমাণু  Atom | 5:32 | [Watch](https://youtu.be/RLuE64AhsrQ) |
+| 4 | আপেক্ষিক তত্ব ও জ্যোতি পদার্থবিদ্যা | 47:00 | [Watch](https://youtu.be/HpLO7Ag_FiM) |
+| 5 | আধুনিক পদার্থবিজ্ঞান | 4:22 | [Watch](https://youtu.be/5YVdt_eSpUg) |
+| 6 | নিউক্লীয় পদার্থবিজ্ঞান | 19:27 | [Watch](https://youtu.be/eL5u1UHRyww) |
+| 7 | পরমাণু  গঠন | 7:19 | [Watch](https://youtu.be/8pfuMS1vh0M) |
+| 8 | আলোক তড়িৎ ক্রিয়া | 21:25 | [Watch](https://youtu.be/qsNKMMqmfdA) |
+| 9 | ভৌত আলোকবিজ্ঞান | 12:28 | [Watch](https://youtu.be/U3yLePKgyrg) |
+| 10 | একটি সমবাহু প্রিজমের প্রতিসরাঙ্ক √2 হলে এর ন্যূনতম বিচ্যুতি কোণ নির্ণয় কর | 29:01 | [Watch](https://youtu.be/yFgcn-rypcU) |
+| 11 | দর্পণ কাকে বলে | 20:01 | [Watch](https://youtu.be/mCBoBDf96Js) |
+| 12 | অতি সংক্ষিপ্ত চুম্বক কাকে বলে | 8:01 | [Watch](https://youtu.be/_Y5Sdrnt5lk) |
+| 13 | অতি সংক্ষিপ্ত আধান বলতে কী বুঝ | 15:12 | [Watch](https://youtu.be/XXI9jubLMt0) |
+| 14 | অতি সংক্ষিপ্ত তাপগতিবিদ্যার দ্বিতীয় সূত্র | 11:22 | [Watch](https://youtu.be/18U7ip3yleY) |
+| 15 | অতি সংক্ষিপ্ত জুলের বা তাপগতিবিদ্যার প্রথম সূত্র | 10:15 | [Watch](https://youtu.be/MpMCO_blCX4) |
+| 16 | পদার্থের উপর তাপের প্রভাব অধ্যায়ের অতিসংক্ষিপ্ত প্রশ্ন  উত্তর | 75:03 | [Watch](https://youtu.be/kBL2KDmp6AU) |
+| 17 | থার্মোমিতি অধ্যায়ের অতিসংক্ষিপ্ত প্রশ্ন উত্তর | 27:35 | [Watch](https://youtu.be/r5hQMQbGSVY) |
+| 18 | আপেক্ষিকতা | 5:34 | [Watch](https://youtu.be/4h5yPa-YRJo) |
+| 19 | আধুনিক পদার্থবিজ্ঞানের ধারণা | 4:22 | [Watch](https://youtu.be/GKfBMHQ2PU4) |
+| 20 | তেজস্ক্রিয়তার ব্যাখ্যা | 12:14 | [Watch](https://youtu.be/uyr5uhRMUJA) |
+| 21 | গ্যাসের বিদ্যুৎ পরিবহন | 7:10 | [Watch](https://youtu.be/OA-Tqo5UJKs) |
+| 22 | তড়িৎ চৌম্বক তরঙ্গ | 28:20 | [Watch](https://youtu.be/eDdprH2Fhis) |
+| 23 | আলোর প্রতিসরণ | 18:34 | [Watch](https://youtu.be/NLUWxPGDKnQ?si=BUbBlaNUEKMTwoMg) |
+| 24 | দপর্ণ | 10:04 | [Watch](https://youtu.be/Fm4RV1WlyRs) |
+| 25 | পৃথিবীর চৌম্বকত্ব | 8:07 | [Watch](https://youtu.be/jq9ROQdKNjw) |
+| 26 | আধান ও আধানের প্রকৃতি | 12:02 | [Watch](https://youtu.be/sj6daUqP0bg) |
+| 27 | প্রত্যাগামী এবং অপ্রত্যাগামী প্রক্রিয়া | 5:10 | [Watch](https://youtu.be/MFT9ny9cANk) |
+| 28 | ক্যালরিক মতবাদ | 9:10 | [Watch](https://youtu.be/yER6LGXO6CE) |
+| 29 | কঠিন পদার্থের দৈর্ঘ্য,ক্ষেত্র ও আয়তন প্রসারণ | 17:01 | [Watch](https://youtu.be/5L59Fy2kRCI) |
+| 30 | তাপ ও তাপমাত্রা | 11:21 | [Watch](https://youtu.be/VmwuEvxK888) |
+| 31 | 10 gm ভরের সমতুল্য শক্তি Mev  এ প্রকাশ | 21:01 | [Watch](https://youtu.be/JwsUMPxIG10) |
+| 32 | তেজস্ক্রিয় ক্ষয় সূত্র প্রতিপাদন কর | 16:14 | [Watch](https://youtu.be/iIWrclDFnNs) |
+| 33 | আলোর প্রতিসরণ কাকে বলে | 39:14 | [Watch](https://youtu.be/-UtxSawLyeo) |
+| 34 | Part 1 আলোকে প্রতিফলন সূত্র বর্ণনা | 28:05 | [Watch](https://youtu.be/FZsSOwVTnQU) |
+| 35 | রচনামূলক রূদ্ধতাপীয় পরিবর্তনে গ্যাসের আয়তন ও চাপের মাঝে সম্পর্ক স্থাপন | 26:22 | [Watch](https://youtu.be/6yzpbw0EvFo) |
+| 36 | থার্মোমিতি অধ্যায়ের সংক্ষিপ্ত প্রশ্ন  উত্তর | 50:23 | [Watch](https://youtu.be/XTXQacS3uHY) |
+| 37 | সময়ের আপেক্ষিকতা ; কাল দীর্ঘায়ন বা সময় প্রসারণ | 20:01 | [Watch](https://youtu.be/tIF_U35Ri3k) |
+| 38 | প্রসঙ্গ কাঠামো | 9:16 | [Watch](https://youtu.be/UiXUA9I-xvM) |
+| 39 | তেজস্ক্রিয়তার বৈশিষ্ট্য | 10:16 | [Watch](https://youtu.be/rinxxB5c_kQ) |
+| 40 | পরমাণুর গঠনের ধারণা | 6:08 | [Watch](https://youtu.be/Hlq4Gy8QYbY) |
+| 41 | ক্ষরণ নল Discharge tube | 3:33 | [Watch](https://youtu.be/a9x6aYSt9os) |
+| 42 | ইলেকট্রোম্যাগনেটিক ওয়েভ থেকে আলোর বেগ ক্যালকোলেশন | 9:00 | [Watch](https://youtu.be/kolk5oHqE9o) |
+| 43 | আলোর প্রতিসরণের উদাহরণ | 11:07 | [Watch](https://youtu.be/Ytbb3-f9Ea8?si=ZUQY95q7S12tvbtL) |
+| 44 | প্রতিবিম্ব | 17:32 | [Watch](https://youtu.be/QL9CAikl_gQ) |
+| 45 | চৌম্বক, চৌম্বক পদার্থ, অচৌম্বক পদার্থ ও চৌম্বক মেরু | 8:09 | [Watch](https://youtu.be/8yRsn43mhUk) |
+| 46 | আধান বা চার্জের প্রকৃতি নির্ণয় | 6:04 | [Watch](https://youtu.be/3TpWxgk4Fr4) |
+| 47 | প্রত্যাগামী এবং অপ্রত্যাগামী প্রক্রিয়ার পার্থক্য | 3:27 | [Watch](https://youtu.be/BnG1tqZT9XQ) |
+| 48 | তাপের গতি মতবাদ | 10:17 | [Watch](https://youtu.be/BhnnEZBm1Ek) |
+| 49 | কঠিন পদার্থের দৈর্ঘ্য,ক্ষেত্র ও আয়তন প্রসারণ গুণাঙ্ক | 16:24 | [Watch](https://youtu.be/lMs_cjjL5pg) |
+| 50 | তাপ ও তাপমাত্রার এককসমূহ | 13:33 | [Watch](https://youtu.be/ig_PaoHt_pE) |
+| 51 | দেখাও যে S = i1 + i2 +   A | 9:29 | [Watch](https://youtu.be/zwVZz9o0xIA) |
+| 52 | Part 2 আলোকে প্রতিফলন সূত্র বর্ণনা | 26:09 | [Watch](https://youtu.be/Gr0HfjWwM3Q) |
+| 53 | থার্মোমিতি অধ্যায়ের রচনামূলক প্রশ্ন উত্তর | 45:13 | [Watch](https://youtu.be/Sp-r5Q5SMLM) |
+| 54 | দৈর্ঘ্যের আপেক্ষিকতা | 12:32 | [Watch](https://youtu.be/LBRxP621slA) |
+| 55 | প্রসঙ্গ কাঠামো ও গতি | 7:04 | [Watch](https://youtu.be/rOsx39XngGA) |
+| 56 | তেজস্ক্রিয়তার প্রকারভেদ | 8:13 | [Watch](https://youtu.be/m6Z9smf4uSU) |
+| 57 | থমসনের পরমাণু মডেল | 5:07 | [Watch](https://youtu.be/-QL72j8y0TU) |
+| 58 | ক্ষরণ নলে সংঘটিত ঘটনাবলি | 6:35 | [Watch](https://youtu.be/Cw0UWjchwEc) |
+| 59 | পয়েন্টিং ভেক্টর | 4:11 | [Watch](https://youtu.be/T4-0k24BVeY) |
+| 60 | প্রতিসরণের সূত্র | 20:02 | [Watch](https://youtu.be/W6R-A84D3jc?si=lRCr5Qzd81ZoaKSl) |
+| 61 | বাস্তব ও অবাস্তব প্রতিবিম্বের মধ্যে পার্থক্য | 4:33 | [Watch](https://youtu.be/q0j5-vl-bf8) |
+| 62 | চৌম্বকক্ষেত্র ও চৌম্বক তীব্রতা | 9:35 | [Watch](https://youtu.be/koWbZkzqaX8) |
+| 63 | আধানের আকর্ষণ ও বিকর্ষণ সূত্র | 1:22 | [Watch](https://youtu.be/4oKfPUbHVqE) |
+| 64 | তাপগতিবিদ্যার দ্বিতীয় সূত্র | 7:30 | [Watch](https://youtu.be/U8Fkk6dbvzM) |
+| 65 | তাপের ক্যালরি মতবাদের সীমাবদ্ধতা | 9:13 | [Watch](https://youtu.be/Gv7MSUSqvBc) |
+| 66 | ক্ষেত্র  প্রসারণ গুণাঙ্ক | 9:04 | [Watch](https://youtu.be/MgVopW3Cahw) |
+| 67 | উত্তল বা গোলকীয় দর্পণের ক্ষেত্রে প্রমাণ | 32:15 | [Watch](https://youtu.be/zVYtHJ5dNk4) |
+| 68 | ভরের আপেক্ষিকতা | 4:31 | [Watch](https://youtu.be/1SVvmv8fNhM) |
+| 69 | বিশেষ আপেক্ষিক তত্বের স্বীকার্য | 6:17 | [Watch](https://youtu.be/BhidefFT2JM) |
+| 70 | তেজস্ক্রিয় রশ্মি | 11:14 | [Watch](https://youtu.be/xBsvCQKoSW0) |
+| 71 | থমসন পরমাণু মডেলের সীমাবদ্ধতা বা ত্রুটি | 4:11 | [Watch](https://youtu.be/OmQOph4SVwU) |
+| 72 | ক্যাথোড রশ্মির ধর্ম | 6:31 | [Watch](https://youtu.be/5osc_kpd-1Y) |
+| 73 | তড়িৎ চৌম্বক বর্ণালি | 10:03 | [Watch](https://youtu.be/MsMUIyRiv4E) |
+| 74 | প্রতিসরণের সূত্রের সত্যতা নিরূপণ | 9:07 | [Watch](https://youtu.be/EAI0yJ8UUY8?si=M-KzES0SOaKlm9M6) |
+| 75 | বিবর্ধন | 7:13 | [Watch](https://youtu.be/6W452D6XQMU) |
+| 76 | চৌম্বক গ্রাহীতা বা প্রবণতা | 9:27 | [Watch](https://youtu.be/LIdUXEeGe3Q) |
+| 77 | কুলম্বের সূত্র | 10:24 | [Watch](https://youtu.be/jpNogTusvHk) |
+| 78 | তাপ ইঞ্জিন | 9:16 | [Watch](https://youtu.be/Z6eFHfkEWjM) |
+| 79 | তাপের যান্ত্রিক সমতা বা তুল্যাঙ্কের ব্যাখ্যা | 15:05 | [Watch](https://youtu.be/O1PidGikWjE) |
+| 80 | আয়তন  প্রসারণ গুণাঙ্ক | 7:07 | [Watch](https://youtu.be/a40jrLyQQV4) |
+| 81 | তাপমাত্রার বিভিন্ন স্কেলের মাঝে সম্পর্ক | 21:13 | [Watch](https://youtu.be/tBJoQq2F7N8) |
+| 82 | প্রমান কর যে , E = mc^2 | 20:10 | [Watch](https://youtu.be/5IbPKsysW3Y) |
+| 83 | গ্যালিলীয় রূপান্তর | 20:06 | [Watch](https://youtu.be/oaZLfggIdDs) |
+| 84 | বিটা রশ্মির বৈশিষ্ট্য | 4:18 | [Watch](https://youtu.be/9Y_eKi_-qaY) |
+| 85 | রাদারর্ফোড পরমাণু মডেল | 9:05 | [Watch](https://youtu.be/_voZtZH_LfU) |
+| 86 | ক্যাথোড রশ্মির ব্যবহার | 6:24 | [Watch](https://youtu.be/IFEsrsNlDAc) |
+| 87 | তড়িৎ চৌম্বক বর্ণালির রেঞ্জ | 7:22 | [Watch](https://youtu.be/pJM-4jYnda4) |
+| 88 | পরম এবং আপেক্ষিক প্রতিসরাঙ্ক | 14:01 | [Watch](https://youtu.be/pAk9tl6x1Bw?si=emA6kK24AHCaz1J1) |
+| 89 | বিবর্ধনের গাণিতিক ব্যাখ্যা | 20:19 | [Watch](https://youtu.be/E4pFAIPkNWM) |
+| 90 | পৃথিবীর চৌম্বক উপাদান | 2:32 | [Watch](https://youtu.be/61ZuKsrPRkc) |
+| 91 | শূণ্যস্থানে কুলম্বের সূত্র | 8:35 | [Watch](https://youtu.be/6eLwJS9NZpE) |
+| 92 | বহির্দহ ইঞ্জিন ও অন্তর্দহ ইঞ্জিন | 7:29 | [Watch](https://youtu.be/5xV_mX_pJbk) |
+| 93 | তাপগতিবিদ্যার প্রথম সূত্রের বর্ণনা | 14:08 | [Watch](https://youtu.be/ePRHnJ8RZMo) |
+| 94 | দৈর্ঘ্য প্রসারণ গুণাঙ্ক ও ক্ষেত্র প্রসারণ গণাঙ্কের মধ্যে সম্পর্ক | 19:31 | [Watch](https://youtu.be/toufrkg52Q4?si=BVFoslekeZBq1NRu) |
+| 95 | তাপ ও তাপমাত্রার মধ্যে পার্থক্য | 17:32 | [Watch](https://youtu.be/_h9N3jx1Hm0) |
+| 96 | 10gm  ভরের সমতুল্য শক্তি MeV  এ প্রকাশ | 7:32 | [Watch](https://youtu.be/doLDUAf4wLM) |
+| 97 | গ্যালিলীয় রূপান্তরের সীমাবদ্ধতা | 11:12 | [Watch](https://youtu.be/auQpas9vRPk) |
+| 98 | তেজস্ক্রিয়তার ক্ষয় সূত্র | 7:04 | [Watch](https://youtu.be/_QeiBG7wGdI) |
+| 99 | রাদারর্ফোড পরমাণু মডেলের সীমাবদ্ধতা | 7:23 | [Watch](https://youtu.be/kPzTH9kr-JA) |
+| 100 | ক্যাথোড রশ্মি ও রঞ্জন রশ্মি | 6:23 | [Watch](https://www.youtube.com/watch?v=ve3s7gzg9JU) |
+| 101 | অতিবেগুনি বিকিরণ | 9:04 | [Watch](https://youtu.be/cYNWa3ab-0U) |
+| 102 | পূর্ণ অভ্যন্তরীণ প্রতিফলন এবং সংকট কোণ | 18:08 | [Watch](https://youtu.be/qmtcEgM0tCk?si=EslubfnIztxK-f6z) |
+| 103 | রৈখিক বিবর্ধনের তিনটি সংজ্ঞা | 1:25 | [Watch](https://youtu.be/zNftFmbgnL0) |
+| 104 | বিচ্যুতি,θ Declination | 7:13 | [Watch](https://youtu.be/KN3jY41CwlE) |
+| 105 | যে কোনো মাধ্যমে সূত্র | 10:14 | [Watch](https://youtu.be/BK89iQY-QLs) |
+| 106 | অন্তর্দহ ও বহির্দহ ইঞ্জিনের পার্থক্য | 2:10 | [Watch](https://youtu.be/eM3YtFfkITQ) |
+| 107 | সমোষ্ঞ প্রক্রিয়া | 13:26 | [Watch](https://youtu.be/8ZrDH25W3n4) |
+| 108 | দৈর্ঘ্য প্রসারণ গুণাঙ্ক ও আয়তন প্রসারণ গুণাঙ্কের মধ্যে সম্পর্ক | 16:18 | [Watch](https://youtu.be/8Kx0v-hJWec) |
+| 109 | পারদ থার্মোমিটারের গঠন ও নির্মাণ প্রণালির বর্ণনা | 19:26 | [Watch](https://youtu.be/FYJQJobmhRE) |
+| 110 | একটি রকেট কত বেগে চললে এর গতিশীল দৈর্ঘ্যটি নিশ্চল দৈর্ঘ্যের অর্ধেক হবে বিস্তারিত বর্ণনা | 8:10 | [Watch](https://youtu.be/sEEiZ10kiOU) |
+| 111 | তেজস্ক্রিয় পরমানুর অর্ধায়ু এবং গড় আয়ু | 8:23 | [Watch](https://youtu.be/9lV1Cy06jAA) |
+| 112 | Part-1 লরেঞ্জ রূপান্তর | 24:26 | [Watch](https://youtu.be/YpNq9DILmzI) |
+| 113 | বোরের পরমাণু মডেল | 12:17 | [Watch](https://youtu.be/SUU0sR6YDgg) |
+| 114 | X-ray এর ধর্ম | 4:25 | [Watch](https://www.youtube.com/watch?v=QkYG-sVmYnI) |
+| 115 | দৃশ্যমান বর্ণালির তরঙ্গ দৈর্ঘ্য | 7:22 | [Watch](https://youtu.be/C_u3YtekGVk) |
+| 116 | সংকট কোণ এবং প্রতিসরাঙ্কের মধ্যে সম্পর্ক | 23:33 | [Watch](https://youtu.be/tqtpStAA1ZI) |
+| 117 | আলোর প্রতিফলন | 7:19 | [Watch](https://youtu.be/xHYD0e7AICU) |
+| 118 | বিনতি, δ Inclination | 6:35 | [Watch](https://youtu.be/z0zu7a_KTRU) |
+| 119 | তড়িৎ মাধ্যমাঙ্কের সংজ্ঞা | 12:31 | [Watch](https://youtu.be/9jH5AHenhyI) |
+| 120 | কার্নো  ইঞ্জিন | 22:15 | [Watch](https://youtu.be/V8FlLIi4AJA) |
+| 121 | সমোষ্ঞ প্রক্রিয়ার শর্তসমূহ | 3:21 | [Watch](https://youtu.be/Vdvj9p5p2HI) |
+| 122 | দৈর্ঘ্য প্রসারণ গুণাঙ্ক, ক্ষেত্র প্রসারণ গুণাঙ্ক ও আয়তন প্রসারণ মধ্যে সম্পর্ক | 6:01 | [Watch](https://youtu.be/q8uuddtOBb0) |
+| 123 | আপেক্ষিক তাপ, তাপধারণ ক্ষমতা ও পানিসম এর সংজ্ঞা | 9:24 | [Watch](https://youtu.be/1R6dM8Cslv8) |
+| 124 | Part-2  লরেঞ্জ রূপান্তর | 17:05 | [Watch](https://youtu.be/WAPK9KtPZKQ) |
+| 125 | গড় আয়ু | 4:29 | [Watch](https://youtu.be/UC3qaS3uDlw) |
+| 126 | বোর পরমাণু মডেলের সীমাবদ্ধতা | 7:00 | [Watch](https://youtu.be/kbifaaoBKZI) |
+| 127 | রঞ্জন রশ্মির ব্যবহার | 7:04 | [Watch](https://youtu.be/-uuw09TegGg) |
+| 128 | আলোক বর্ষ | 6:00 | [Watch](https://youtu.be/83LnuVViV2o) |
+| 129 | অভ্যন্তরীণ প্রতিফলনজনিত কয়েকটি উদাহরণ | 22:22 | [Watch](https://youtu.be/5Xm0WQD15uc) |
+| 130 | আলোর প্রতিফলনের শর্ত | 9:25 | [Watch](https://youtu.be/PMiHEReLprQ) |
+| 131 | ভূ চৌম্বকক্ষেত্রের অনুভূমিক উপাংশ,BH বা H | 16:31 | [Watch](https://youtu.be/eGW8OuHtXws) |
+| 132 | কুলম্বের সূত্রের ভেক্টর রূপ | 6:18 | [Watch](https://youtu.be/B2uqzgt0VB8) |
+| 133 | কার্নোচক্রের মূলনীতি বর্ণনা | 10:35 | [Watch](https://youtu.be/NQzePmMul-c) |
+| 134 | রূদ্ধতাপীয় প্রক্রিয়া | 5:31 | [Watch](https://youtu.be/N5n6FVhufSU) |
+| 135 | পরিবহন (Conduction) | 7:01 | [Watch](https://youtu.be/UxMfovpa9_4) |
+| 136 | তাপগ্রাহীতা বা তাপধারণ ক্ষমতা বা তাপধারকত্ব | 7:30 | [Watch](https://youtu.be/VVP442ZtiOg) |
+| 137 | বিপরীত  লরেঞ্জ রূপান্তর | 5:32 | [Watch](https://youtu.be/Nq-L_JfhFyo) |
+| 138 | তেজস্ক্রিয়তার  ক্ষয় সূত্রের পূর্ণাঙ্গ সমীকরণ | 17:20 | [Watch](https://youtu.be/RzvCD9Aei_k) |
+| 139 | বোর পরমাণু মডেল অনুসারে হাইড্রোজেন পরমাণুর ব্যসার্ধ ও শক্তির সমীকরণ | 12:34 | [Watch](https://youtu.be/vfZQHyHh2YY) |
+| 140 | X-ray এর উৎপাদন | 13:32 | [Watch](https://youtu.be/jzAk2afZ3E0) |
+| 141 | তরঙ্গ ও তরঙ্গমুখ | 6:28 | [Watch](https://youtu.be/nmTShfULBdI) |
+| 142 | উর্ধ্ব মরীচিকা | 7:13 | [Watch](https://youtu.be/Ad0vIhF3ayQ) |
+| 143 | আলোর প্রতিফলনের সূত্র | 4:35 | [Watch](https://youtu.be/GePfcvmJu6U) |
+| 144 | চৌম্বক পদার্থের শ্রেণিবিভাগ | 8:35 | [Watch](https://youtu.be/cdgSXo7HlmY) |
+| 145 | তড়িৎক্ষেত্র এবং তড়িৎক্ষেত্রের প্রাবল্য  বা তীব্রতা | 5:01 | [Watch](https://youtu.be/ZOcOOnxgTTc) |
+| 146 | কার্নোচক্রের  কাজ | 11:32 | [Watch](https://youtu.be/AN3X4RKindM) |
+| 147 | ধ্রুব আয়তন প্রক্রিয়া এবং ধ্রুব চাপ প্রক্রিয়া | 10:04 | [Watch](https://youtu.be/rlbih5HTl7s) |
+| 148 | পরিচলন (Convection) | 4:34 | [Watch](https://youtu.be/NnGt9mQsWoY) |
+| 149 | পানিসম বা তুল্য জলাঙ্ক | 13:14 | [Watch](https://youtu.be/3BzwLvJ2bGU) |
+| 150 | লরেঞ্জ রূপান্তরের বিশেষত্ব | 8:14 | [Watch](https://youtu.be/cJ9DnoumjNc) |
+| 151 | অর্ধায়ু ও তেজস্ক্রিয় ক্ষয় ধ্রুবকের মধ্যে সম্পর্ক | 11:20 | [Watch](https://youtu.be/v6lKQkOxLvg) |
+| 152 | ইলেকট্রনের কক্ষপথের ব্যাসার্ধ | 11:10 | [Watch](https://youtu.be/CFlbP9UnBII) |
+| 153 | X-ray এবং ক্যাথোড রশ্মির মধ্যে পার্থক্য | 2:35 | [Watch](https://youtu.be/W2l51PXFnwQ) |
 | 154 | প্রিজম | 5:19 | [Watch](https://youtu.be/REwj1rcY_hU) |
 | 155 | মেরু বিন্দু, প্রধান অক্ষ, বক্রতার কেন্দ্র, বক্রতার ব্যাসার্ধ, ফোকাস দূরত্ব ও প্রধান ফোকাস | 17:03 | [Watch](https://youtu.be/l9WiW7WZWns) |
 | 156 | প্যারাচৌম্বক পদার্থ | 6:28 | [Watch](https://youtu.be/v8WAjK0E0KA) |

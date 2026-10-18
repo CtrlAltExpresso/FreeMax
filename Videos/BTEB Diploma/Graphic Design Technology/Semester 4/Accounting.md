@@ -1,5 +1,4 @@
 # Accounting
-
 > 101 videos | Graphic Design Technology
 
 | # | Title | Duration | Link |

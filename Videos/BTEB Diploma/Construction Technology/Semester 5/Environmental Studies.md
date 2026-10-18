@@ -1,20 +1,19 @@
 # Environmental Studies
-
-> 131 videos | Construction Technology
+> 130 videos | Construction Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | পরিবেশ নিয়ন্ত্রক ইস্যুসমূহ অধ্যায়ে আলোচ্য বিষয়সমূহ | 3:32 | [Watch](https://youtu.be/LW1P--rLsy8) |
-| 2 | রাসায়নিক ব্যবস্থাপনা অধ্যায়ে আলোচ্য বিষয়সমূহ | 10:02 | [Watch](https://youtu.be/YGZOxIxWPJs) |
-| 3 | কঠিন বর্জ্য | 15:17 | [Watch](https://youtu.be/od3d76Y1es4) |
-| 4 | মৃত্তিকা দূষণ অধ্যায়ে আলোচ্য বিষয়সমূহ | 3:05 | [Watch](https://youtu.be/5WgBuz157zA?si=-zaL8GRpdmhMQ8ix) |
-| 5 | শব্দ দূষণ অধ্যায়ে আলোচ্য বিষয়সমূহ | 5:08 | [Watch](https://youtu.be/K3AG6oU6MlM) |
-| 6 | বায়ুদূষণ, এনার্জি, কার্বন ফুটপ্রিন্ট অধ্যায়ে আলোচ্য বিষয়াদি | 10:07 | [Watch](https://youtu.be/ZuLRqRC8Dcg) |
-| 7 | পানি ও বর্জ্যপানি ব্যবস্থাপনা বিষয় ভিত্তিক আলোচনা | 6:07 | [Watch](https://youtu.be/yLN_o8FPCTQ) |
-| 8 | Chapter Overview বৈশ্বিক ও জাতীয় পরিবেশগত সমস্যা | 4:01 | [Watch](https://youtu.be/bIl5wMHMNGw) |
-| 9 | বাস্তুবিদ্যা ও বাস্তুসংস্থান বিষয় ভিত্তিক আলোচনা | 5:14 | [Watch](https://youtu.be/C8OJDe1Z03E) |
-| 10 | এনভায়রনমেন্টাল স্টাডিজ সিলেবাস | 5:33 | [Watch](https://youtu.be/1GF-UwHGvgY?si=g3A0xY-f0kfVokuu) |
-| 11 | ভূমিকা ক্লাস Environmental Studies | 7:23 | [Watch](https://youtu.be/a5HFdRFk0q4) |
+| 1 | ভূমিকা ক্লাস Environmental Studies | 7:23 | [Watch](https://youtu.be/a5HFdRFk0q4) |
+| 2 | পরিবেশ নিয়ন্ত্রক ইস্যুসমূহ অধ্যায়ে আলোচ্য বিষয়সমূহ | 3:32 | [Watch](https://youtu.be/LW1P--rLsy8) |
+| 3 | রাসায়নিক ব্যবস্থাপনা অধ্যায়ে আলোচ্য বিষয়সমূহ | 10:02 | [Watch](https://youtu.be/YGZOxIxWPJs) |
+| 4 | কঠিন বর্জ্য | 15:17 | [Watch](https://youtu.be/od3d76Y1es4) |
+| 5 | মৃত্তিকা দূষণ অধ্যায়ে আলোচ্য বিষয়সমূহ | 3:05 | [Watch](https://youtu.be/5WgBuz157zA?si=-zaL8GRpdmhMQ8ix) |
+| 6 | শব্দ দূষণ অধ্যায়ে আলোচ্য বিষয়সমূহ | 5:08 | [Watch](https://youtu.be/K3AG6oU6MlM) |
+| 7 | বায়ুদূষণ, এনার্জি, কার্বন ফুটপ্রিন্ট অধ্যায়ে আলোচ্য বিষয়াদি | 10:07 | [Watch](https://youtu.be/ZuLRqRC8Dcg) |
+| 8 | পানি ও বর্জ্যপানি ব্যবস্থাপনা বিষয় ভিত্তিক আলোচনা | 6:07 | [Watch](https://youtu.be/yLN_o8FPCTQ) |
+| 9 | Chapter Overview বৈশ্বিক ও জাতীয় পরিবেশগত সমস্যা | 4:01 | [Watch](https://youtu.be/bIl5wMHMNGw) |
+| 10 | বাস্তুবিদ্যা ও বাস্তুসংস্থান বিষয় ভিত্তিক আলোচনা | 5:14 | [Watch](https://youtu.be/C8OJDe1Z03E) |
+| 11 | এনভায়রনমেন্টাল স্টাডিজ সিলেবাস | 5:33 | [Watch](https://youtu.be/1GF-UwHGvgY?si=g3A0xY-f0kfVokuu) |
 | 12 | বাংলাদেশের বায়ু,শব্দ , পানি, মৃত্তিকা ও বন্যপ্রাণী সুরক্ষার জন্য পরিবেশ আইন ও আইনগত দালিলাদি | 12:01 | [Watch](https://youtu.be/jpHMu4_4QhQ) |
 | 13 | রাসায়নিক বিপত্তি | 28:29 | [Watch](https://youtu.be/DE4DYzUI5x4) |
 | 14 | কঠিন বর্জ্যের উৎস | 10:05 | [Watch](https://youtu.be/_jtva4JsquU) |
@@ -94,46 +93,45 @@
 | 88 | টারশিয়ারি বাই অ্যাডভান্সড বাই নির্জীবকরণ ট্রিটমেন্ট | 12:04 | [Watch](https://youtu.be/VtVyBUZ4S_Y) |
 | 89 | অ্যসিড বৃষ্টি | 13:22 | [Watch](https://youtu.be/XS3jp_Serko) |
 | 90 | Part -2 কার্বন চক্র | 8:13 | [Watch](https://youtu.be/6oE77Dh9Izk) |
-| 91 | শব্দদূষণ | 7:26 | - |
-| 92 | বাংলাদেশের পরিবেশগত কাঠামো | 26:01 | [Watch](https://youtu.be/CZlDpy4mf-g) |
-| 93 | রাসায়নিক ঝুঁকি হ্রাস এবং নিয়ন্ত্রণ | 23:18 | [Watch](https://youtu.be/XqrL1zlhM0E) |
-| 94 | বাংলাদেশের কৃষি প্রতিবেশ  এলাকা | 10:29 | [Watch](https://youtu.be/4lj8vmTgmug) |
-| 95 | শিল্পে শব্দ দূষণ নিয়ন্ত্রণ পদ্ধতি | 16:35 | [Watch](https://youtu.be/oD2STH9kFRI?si=xIJXp-QCvcp-IAkV) |
-| 96 | মানুষের স্বাস্থের উপর বায়ুদূষণের প্রভাব | 27:12 | [Watch](https://youtu.be/DGhD1z4PoiM) |
-| 97 | নিঃস্রাব বিশোধনের বিভিন্ন পদ্ধতির প্রবাহচিত্র | 13:28 | [Watch](https://youtu.be/mWdevS4XT-0) |
-| 98 | পরিবেশের উপর অ্যাসিড বৃষ্টির প্রভাব | 19:35 | [Watch](https://youtu.be/QRaXSdE0g3M) |
-| 99 | Part -1 নইট্রোজেন চক্র | 22:22 | [Watch](https://youtu.be/uqtIMF5YWSg) |
-| 100 | প্রাকৃতিক পরিবেশ ও মনুষ্যসৃষ্ট পরিবেশের মাঝে পার্থক্য | 19:31 | [Watch](https://youtu.be/n80DmIdLc8s?si=8AJkROPzGlAJz8mY) |
-| 101 | বাংলাদেশ পরিবেশ সংরক্ষণ আইন , 1995 | 17:19 | [Watch](https://youtu.be/FXZZM5t44-E) |
-| 102 | মাটির গঠনগত উপাদান | 4:31 | [Watch](https://youtu.be/e_KUWsPWyX4) |
-| 103 | শিল্পে শব্দ দূষণ নিয়ন্ত্রণে প্রকৌশল পদ্ধতিসমূহ | 9:28 | [Watch](https://youtu.be/_AoWQfGrFBU?si=tkWalMoSdEoetUsZ) |
-| 104 | উদ্ভিদের উপর বায়ুদূষণের প্রভাব | 24:20 | [Watch](https://youtu.be/FXVWIppb3LQ) |
-| 105 | মানুষের স্বাস্থ্য এবং পরিবেশের উপর পানি দূষণের প্রভাব | 14:21 | [Watch](https://youtu.be/FUR7NgknAGg) |
-| 106 | ওজন স্তরের গুরুত্ব | 16:33 | [Watch](https://youtu.be/hjSilQfIqAs) |
-| 107 | Part -2 নাইট্রোজেন চক্র | 4:03 | [Watch](https://youtu.be/G_TfaBnkjCM) |
-| 108 | জলবায়ু পরিবর্তন | 17:29 | [Watch](https://youtu.be/UT4kp3C2uKU?si=1O_azXl8s0QHliAW) |
-| 109 | সময় ব্যবস্থাপনার সুফল | 16:19 | [Watch](https://youtu.be/8aerbJGturA) |
-| 110 | শিল্পে শব্দ দূষণ নিয়ন্ত্রন পন্য ও পদ্ধতি | 22:19 | [Watch](https://youtu.be/D1q5b2NbZTs?si=UvkVCpXItlL0no_E) |
-| 111 | প্রণীর উপর বায়ুদূষণের প্রভাব | 15:34 | [Watch](https://youtu.be/8LyfNC31zI4) |
-| 112 | পানি সংরক্ষণের প্রয়োজনীয়তা | 9:21 | [Watch](https://youtu.be/EnV1YHcagoY) |
-| 113 | প্রাকৃতিক দুর্যোগ | 8:16 | [Watch](https://youtu.be/vCWOYrPJUTU) |
-| 114 | নাইট্রোজেন সংবন্ধন | 16:23 | [Watch](https://youtu.be/ax_Qk563Vhs) |
-| 115 | বন্যা ব্যবস্থাপনা | 22:34 | [Watch](https://youtu.be/g80DqhEkSnk) |
-| 116 | অক্রিজেন চক্র | 7:17 | [Watch](https://youtu.be/A_DUOiJH-HI) |
-| 117 | বাংলাদেশের ঘূর্ণিঝড় ও জলোচ্ছ্বাস ব্যবস্থাপনা | 16:05 | [Watch](https://youtu.be/cd-2ptHPr1o) |
-| 118 | খাদ্য শৃঙ্খল ও খাদ্য জালিকা | 26:10 | [Watch](https://youtu.be/TDXfyLYB8eM) |
-| 119 | বাংলাদেশের ভূমিকম্প ব্যবস্থাপনা | 16:35 | [Watch](https://youtu.be/j-F9xjkJ1VE) |
-| 120 | খাদ্যশৃঙ্খল ও খাদ্যজালিকার মাঝে পার্থক্য | 6:24 | [Watch](https://youtu.be/pUTVaO8O_10) |
-| 121 | জীববৈচিত্র্য | 4:16 | [Watch](https://youtu.be/sTfMmPdqbmg) |
-| 122 | জীবভর | 2:29 | [Watch](https://youtu.be/v9iZhixwsHA) |
-| 123 | জীবপুঞ্জীভবন | 4:19 | [Watch](https://youtu.be/od-VOXDX_W4) |
-| 124 | জীববর্ধন | 8:07 | [Watch](https://youtu.be/Cc1qoVk7K78) |
-| 125 | বাস্তুতন্ত্রের DDT এর জীববর্ধন | 9:30 | [Watch](https://youtu.be/FUOqn7l8cGI) |
-| 126 | স্থলজ বাস্তুসংস্থান | 10:14 | [Watch](https://youtu.be/aRoADft6oek) |
-| 127 | জলজ বাস্তুসংস্থান | 11:08 | [Watch](https://youtu.be/XpxD3ZTIeww) |
-| 128 | বিপন্ন প্রজাতি | 6:32 | [Watch](https://youtu.be/ta3nJh5uEfc) |
-| 129 | বিলুপ্ত প্রজাতি | 6:18 | [Watch](https://youtu.be/-hDdVrOLju0) |
-| 130 | পরিবেশগত সংকটাপন্ন এলাকা | 10:25 | [Watch](https://youtu.be/xt_qfGS6nNU) |
-| 131 | ECA তে নিষিদ্ধ কার্যক্রম সমূহ | 10:07 | [Watch](https://youtu.be/j-7V0uTJMVc) |
+| 91 | বাংলাদেশের পরিবেশগত কাঠামো | 26:01 | [Watch](https://youtu.be/CZlDpy4mf-g) |
+| 92 | রাসায়নিক ঝুঁকি হ্রাস এবং নিয়ন্ত্রণ | 23:18 | [Watch](https://youtu.be/XqrL1zlhM0E) |
+| 93 | বাংলাদেশের কৃষি প্রতিবেশ  এলাকা | 10:29 | [Watch](https://youtu.be/4lj8vmTgmug) |
+| 94 | শিল্পে শব্দ দূষণ নিয়ন্ত্রণ পদ্ধতি | 16:35 | [Watch](https://youtu.be/oD2STH9kFRI?si=xIJXp-QCvcp-IAkV) |
+| 95 | মানুষের স্বাস্থের উপর বায়ুদূষণের প্রভাব | 27:12 | [Watch](https://youtu.be/DGhD1z4PoiM) |
+| 96 | নিঃস্রাব বিশোধনের বিভিন্ন পদ্ধতির প্রবাহচিত্র | 13:28 | [Watch](https://youtu.be/mWdevS4XT-0) |
+| 97 | পরিবেশের উপর অ্যাসিড বৃষ্টির প্রভাব | 19:35 | [Watch](https://youtu.be/QRaXSdE0g3M) |
+| 98 | Part -1 নইট্রোজেন চক্র | 22:22 | [Watch](https://youtu.be/uqtIMF5YWSg) |
+| 99 | প্রাকৃতিক পরিবেশ ও মনুষ্যসৃষ্ট পরিবেশের মাঝে পার্থক্য | 19:31 | [Watch](https://youtu.be/n80DmIdLc8s?si=8AJkROPzGlAJz8mY) |
+| 100 | বাংলাদেশ পরিবেশ সংরক্ষণ আইন , 1995 | 17:19 | [Watch](https://youtu.be/FXZZM5t44-E) |
+| 101 | মাটির গঠনগত উপাদান | 4:31 | [Watch](https://youtu.be/e_KUWsPWyX4) |
+| 102 | শিল্পে শব্দ দূষণ নিয়ন্ত্রণে প্রকৌশল পদ্ধতিসমূহ | 9:28 | [Watch](https://youtu.be/_AoWQfGrFBU?si=tkWalMoSdEoetUsZ) |
+| 103 | উদ্ভিদের উপর বায়ুদূষণের প্রভাব | 24:20 | [Watch](https://youtu.be/FXVWIppb3LQ) |
+| 104 | মানুষের স্বাস্থ্য এবং পরিবেশের উপর পানি দূষণের প্রভাব | 14:21 | [Watch](https://youtu.be/FUR7NgknAGg) |
+| 105 | ওজন স্তরের গুরুত্ব | 16:33 | [Watch](https://youtu.be/hjSilQfIqAs) |
+| 106 | Part -2 নাইট্রোজেন চক্র | 4:03 | [Watch](https://youtu.be/G_TfaBnkjCM) |
+| 107 | জলবায়ু পরিবর্তন | 17:29 | [Watch](https://youtu.be/UT4kp3C2uKU?si=1O_azXl8s0QHliAW) |
+| 108 | সময় ব্যবস্থাপনার সুফল | 16:19 | [Watch](https://youtu.be/8aerbJGturA) |
+| 109 | শিল্পে শব্দ দূষণ নিয়ন্ত্রন পন্য ও পদ্ধতি | 22:19 | [Watch](https://youtu.be/D1q5b2NbZTs?si=UvkVCpXItlL0no_E) |
+| 110 | প্রণীর উপর বায়ুদূষণের প্রভাব | 15:34 | [Watch](https://youtu.be/8LyfNC31zI4) |
+| 111 | পানি সংরক্ষণের প্রয়োজনীয়তা | 9:21 | [Watch](https://youtu.be/EnV1YHcagoY) |
+| 112 | প্রাকৃতিক দুর্যোগ | 8:16 | [Watch](https://youtu.be/vCWOYrPJUTU) |
+| 113 | নাইট্রোজেন সংবন্ধন | 16:23 | [Watch](https://youtu.be/ax_Qk563Vhs) |
+| 114 | বন্যা ব্যবস্থাপনা | 22:34 | [Watch](https://youtu.be/g80DqhEkSnk) |
+| 115 | অক্রিজেন চক্র | 7:17 | [Watch](https://youtu.be/A_DUOiJH-HI) |
+| 116 | বাংলাদেশের ঘূর্ণিঝড় ও জলোচ্ছ্বাস ব্যবস্থাপনা | 16:05 | [Watch](https://youtu.be/cd-2ptHPr1o) |
+| 117 | খাদ্য শৃঙ্খল ও খাদ্য জালিকা | 26:10 | [Watch](https://youtu.be/TDXfyLYB8eM) |
+| 118 | বাংলাদেশের ভূমিকম্প ব্যবস্থাপনা | 16:35 | [Watch](https://youtu.be/j-F9xjkJ1VE) |
+| 119 | খাদ্যশৃঙ্খল ও খাদ্যজালিকার মাঝে পার্থক্য | 6:24 | [Watch](https://youtu.be/pUTVaO8O_10) |
+| 120 | জীববৈচিত্র্য | 4:16 | [Watch](https://youtu.be/sTfMmPdqbmg) |
+| 121 | জীবভর | 2:29 | [Watch](https://youtu.be/v9iZhixwsHA) |
+| 122 | জীবপুঞ্জীভবন | 4:19 | [Watch](https://youtu.be/od-VOXDX_W4) |
+| 123 | জীববর্ধন | 8:07 | [Watch](https://youtu.be/Cc1qoVk7K78) |
+| 124 | বাস্তুতন্ত্রের DDT এর জীববর্ধন | 9:30 | [Watch](https://youtu.be/FUOqn7l8cGI) |
+| 125 | স্থলজ বাস্তুসংস্থান | 10:14 | [Watch](https://youtu.be/aRoADft6oek) |
+| 126 | জলজ বাস্তুসংস্থান | 11:08 | [Watch](https://youtu.be/XpxD3ZTIeww) |
+| 127 | বিপন্ন প্রজাতি | 6:32 | [Watch](https://youtu.be/ta3nJh5uEfc) |
+| 128 | বিলুপ্ত প্রজাতি | 6:18 | [Watch](https://youtu.be/-hDdVrOLju0) |
+| 129 | পরিবেশগত সংকটাপন্ন এলাকা | 10:25 | [Watch](https://youtu.be/xt_qfGS6nNU) |
+| 130 | ECA তে নিষিদ্ধ কার্যক্রম সমূহ | 10:07 | [Watch](https://youtu.be/j-7V0uTJMVc) |
 
-*131 videos total*
+*130 videos total*

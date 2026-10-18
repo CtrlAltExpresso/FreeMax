@@ -1,6 +1,5 @@
 # Electronic Appliances
-
-> 52 videos | Electronics Technology
+> 51 videos | Electronics Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -53,8 +52,7 @@
 | 47 | LED ল্যাম্পের কার্যপ্রণালী | 5:14 | [Watch](https://youtu.be/sI6MTd6p5aM?si=F4GTHZG5N-NfMOi5) |
 | 48 | রেফ্রিজারেটরের সম্ভাব্য ত্রুটি, ত্রুটির কারণ ও প্রতিকার | 16:17 | [Watch](https://youtu.be/vV_Mz_NtmSw) |
 | 49 | টিউব লাইটের কার্যপ্রণালী | 7:02 | [Watch](https://youtu.be/tn8qDyJz3rI?si=PTrukxGv_NlB0RWr) |
-| 50 | এয়ারকন্ডিশনারের সম্ভাব্য ত্রুটি, ত্রুটির কারণ ও প্রতিকার | 7:05 | - |
-| 51 | প্যানেল লাইটের গঠন | 6:13 | [Watch](https://youtu.be/odxxXuhGeuY?si=Miv5rClUaIVM1W7h) |
-| 52 | এনার্জি সেভিং LED লাইট, টিউব এর প্যানেল লাইটের সম্ভাব্য ত্রুটি, ত্রুটির কারণ ও প্রতিকার | 15:09 | [Watch](https://youtu.be/WpO_nkQOCwo?si=wWfsMq1ubmH3Otv4) |
+| 50 | প্যানেল লাইটের গঠন | 6:13 | [Watch](https://youtu.be/odxxXuhGeuY?si=Miv5rClUaIVM1W7h) |
+| 51 | এনার্জি সেভিং LED লাইট, টিউব এর প্যানেল লাইটের সম্ভাব্য ত্রুটি, ত্রুটির কারণ ও প্রতিকার | 15:09 | [Watch](https://youtu.be/WpO_nkQOCwo?si=wWfsMq1ubmH3Otv4) |
 
-*52 videos total*
+*51 videos total*

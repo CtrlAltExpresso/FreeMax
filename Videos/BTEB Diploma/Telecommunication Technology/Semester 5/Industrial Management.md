@@ -1,5 +1,4 @@
 # Industrial Management
-
 > 111 videos | Telecommunication Technology
 
 | # | Title | Duration | Link |

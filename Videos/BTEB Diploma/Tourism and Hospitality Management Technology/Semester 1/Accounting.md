@@ -1,5 +1,4 @@
 # Accounting
-
 > 101 videos | Tourism and Hospitality Management Technology
 
 | # | Title | Duration | Link |

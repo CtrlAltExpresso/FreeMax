@@ -1,6 +1,5 @@
 # Production Planning & Control
-
-> 214 videos | Mechanical Technology
+> 213 videos | Mechanical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -92,131 +91,130 @@
 | 86 | কৃষিখাত | 3:19 | [Watch](https://youtu.be/2WhcDxp11Zo) |
 | 87 | Part - 2 প্রডাকশন লাইনে কেস স্টাডি করার পদ্ধতি | 3:08 | [Watch](https://youtu.be/wfjFw9wHSgM) |
 | 88 | সরঞ্জাম পরিবহনের গুরুত্ব | 15:15 | [Watch](https://youtu.be/P_n0UEuJj90) |
-| 89 | মজুদ মাল নিয়ন্ত্রণে স্টোর ব্যবস্থাপনার প্রভাব | 18:13 | - |
-| 90 | আইএসও 9000 বং কিউএস 14000 সিরিজের গুণগত মানের মানদন্ড | 24:02 | [Watch](https://youtu.be/kcVxxMejFEw) |
-| 91 | মুল্য নিয়ন্ত্রণের সুবিধাবলি | 13:31 | [Watch](https://youtu.be/mHcBVrLFNNc) |
-| 92 | প্রডাক্ট লে আউট বা দ্রব্যভিত্তিক বিন্যাসের সুবিধা এবং অসুবিধাসমূহ | 16:21 | [Watch](https://youtu.be/6BXiciLL5KE) |
-| 93 | উৎপাদন নিয়ন্ত্রণে কম্পিউটারের প্রয়োজনীয়তা | 15:18 | [Watch](https://youtu.be/t0DWds1Pxho) |
-| 94 | একটি ওয়েল্ডিং ভবন এবং পাটকল ভবনের নির্মাণ পার্থক্য | 4:14 | [Watch](https://youtu.be/nm5AVHNN_g8?si=jRs2XORsxMHl0Msg) |
-| 95 | Part - 2 সিলেট সিমেন্ট কারখানা | 3:18 | [Watch](https://youtu.be/nJX3vK3HqOw?si=daUmshAHHC_2-a-n) |
-| 96 | গতি নিরীক্ষার কৌশল | 11:26 | [Watch](https://youtu.be/JwQpxk1oSFA?si=67qEmrya1f6wqjv3) |
-| 97 | উৎপাদন নিয়ন্ত্রণের পদক্ষেপসমূহ | 14:33 | [Watch](https://youtu.be/QSfPBL2PwPc) |
-| 98 | জব প্রোডাকশন ব্যাচ প্রোাডাকশন এবং ম্যাস প্রোডাকশন এর পার্থক্য | 17:05 | [Watch](https://youtu.be/Cl8XjCEibWw) |
-| 99 | মজুত মাল নিয়ন্ত্রনের প্রয়োজনীয়তা ও গুরুত্ব | 8:20 | [Watch](https://youtu.be/xRuIcHCU528) |
-| 100 | মোট ব্যায়ের শ্রেণীবিভাগ | 15:35 | [Watch](https://youtu.be/BEAB5nFi2E0) |
-| 101 | মান নিয়ন্ত্রেনের পদ্ধতি | 2:17 | [Watch](https://youtu.be/liEBMhyb9aI) |
-| 102 | অপারেশন শীট ও অপারেশন সিডিউলের  মধ্যে পার্থক্য | 10:20 | [Watch](https://youtu.be/s6oZF60je2A) |
-| 103 | যন্ত্রপাতি বিন্যাসের পদ্ধতি | 15:31 | [Watch](https://youtu.be/TpwAeIzZ9IM) |
-| 104 | বিভিন্ন ধরনের উৎপাদন কারখানা বর্ণনা | 10:32 | [Watch](https://youtu.be/Htt9Bc489Js) |
-| 105 | কারখানার সঠিক স্থান নির্বাচনে অসুবিধা সমূহ | 14:32 | [Watch](https://youtu.be/1VT99wxJ-xQ) |
-| 106 | অন্যন্য কারণ | 6:05 | [Watch](https://youtu.be/h_tFK__ggDo) |
-| 107 | সময় নিরাক্ষা | 13:17 | [Watch](https://youtu.be/4mFu3goZkyY) |
-| 108 | উৎপাদন পরিকল্পনা নিয়ন্ত্রনের পদক্ষেপ | 11:24 | [Watch](https://youtu.be/C9cdHE09RWU) |
-| 109 | শিল্পখাত উৎপাদন ব্যবস্থার প্রবাহ চিত্র | 14:08 | [Watch](https://youtu.be/MSosSG6Optw) |
-| 110 | পরিবহন যন্ত্রপাতির শ্রেণিবিভাগ | 10:26 | [Watch](https://youtu.be/casUeolMBjc) |
-| 111 | Part - 1 ইকোনোমিক অর্ডার কোয়ান্টিটি এবং ইকোনোমিক লট সাইজ নির্ধারণ | 29:35 | [Watch](https://youtu.be/yTFhezhTgXg) |
-| 112 | স্থায়ী অবস্থানভিত্তিক যন্ত্রপাতি বিন্যাসের সুবিধা ও অসুবিধাসমূহ | 6:18 | [Watch](https://youtu.be/L89tQAEv9Bo) |
-| 113 | প্রডাক্টলাইফ সাইকেল | 11:07 | [Watch](https://youtu.be/57eQgo52n6I) |
-| 114 | সময় নিরীক্ষা পদ্ধতি | 22:08 | [Watch](https://youtu.be/xs6CpMPoz8o?si=U-ahLZu5-MTco7Sy) |
-| 115 | মেশিন লোডিং | 16:06 | [Watch](https://youtu.be/2D6VDfkripE) |
-| 116 | ক্ষুদ্রায়তন উৎপাদনে সুবিধা ও অসুবিধা 4 | 12:32 | [Watch](https://youtu.be/4m18CI2jHvo) |
-| 117 | ভৌত মজুতমাল | 11:23 | [Watch](https://youtu.be/R9l2w8E6XGE) |
-| 118 | ব্যায়ের কার্যভিত্তিক শ্রেণীবিভাগ | 12:20 | [Watch](https://youtu.be/NeqPWYsd0as) |
-| 119 | মান নিয়ন্ত্রেনের পদ্ধতি | 2:17 | [Watch](https://youtu.be/liEBMhyb9aI) |
-| 120 | ফরমায়েশ ভিত্তিক নিয়ন্ত্রন ব্যবস্থা | 6:07 | [Watch](https://youtu.be/Q7AO4SEevso) |
-| 121 | প্রক্রিয়া চার্ট | 13:30 | [Watch](https://youtu.be/NyfeUW3v74E) |
-| 122 | দ্রব্য ভিত্তিক বিন্যাসের সুবিধা | 9:32 | [Watch](https://youtu.be/MQB8vlS-UXU) |
-| 123 | কারখানা বিন্যাসের উপর প্রক্রিয়া সমূহের প্রভাব | 11:33 | [Watch](https://youtu.be/KJoS4l9-nsw) |
-| 124 | কারখানা গৃহের ধরণ | 9:22 | [Watch](https://youtu.be/b7l-FmdnK14) |
-| 125 | কারখানার সঠিক স্থান নির্বাচনে সুবিধা সমূহ | 6:22 | [Watch](https://youtu.be/sdXpaOlWyS0) |
-| 126 | শিল্পকারখানার সঠিক স্থানীয় করনের সুবিধা | 6:04 | [Watch](https://youtu.be/o7YGS0ICxgk) |
-| 127 | সময় নিরাক্ষার প্রয়োজনীয়তা | 8:08 | [Watch](https://youtu.be/18xlP02a3uU) |
-| 128 | সিডিউলিং | 16:32 | [Watch](https://youtu.be/3Y1qtSy4fak) |
-| 129 | উৎপাদনের বিবেচ্য  উপাদান | 6:22 | [Watch](https://youtu.be/ylA2oZwyjWU) |
-| 130 | কনভেয়ারের ব্যবহার ও সংরক্ষণ | 9:14 | [Watch](https://youtu.be/Kl37s-EH70Y) |
-| 131 | Part - 2 ইকোনোমিক অর্ডার কোয়ান্টিটি এবং ইকোনোমিক লট সাইজ নির্ধারণ | 3:22 | [Watch](https://youtu.be/Wllyh8JWqF8) |
-| 132 | গ্যান্ট চার্ট এবং থারব্লিগস | 10:18 | [Watch](https://youtu.be/QsVXNBoInAo?si=N99NqLEuMuFN7yfx) |
-| 133 | প্রেডাকশন প্লানিং এর সুবিধা | 12:02 | [Watch](https://youtu.be/gLsT2f8aMVY) |
-| 134 | বৃহদায়তন উৎপাদনে সুবিধা ও অসুবিধা 5 | 16:21 | [Watch](https://youtu.be/5eXP4yDXD6Q) |
-| 135 | অধিক মজুত মাল রাখার পক্ষে যুক্তি | 14:17 | [Watch](https://youtu.be/xArNQRBFgts) |
-| 136 | বিক্রয় ও বন্টন খরচ | 11:20 | [Watch](https://youtu.be/bL22pC3kc-U) |
-| 137 | উৎপাদন নিয়ন্ত্রনের উপাদান সমূহ | 9:16 | [Watch](https://youtu.be/zsSzsLWQA9g) |
-| 138 | প্রবাহ ডায়াগ্রাম | 10:09 | [Watch](https://youtu.be/hCJvV1qIs6g) |
-| 139 | দ্রব্য ভিত্তিক বিন্যাসের অসুবিধা | 8:08 | [Watch](https://youtu.be/XrjGYRqg3tE) |
-| 140 | কারখানা বিন্যাস যাচাইকরনের প্রয়োজনীয়তা | 14:04 | [Watch](https://youtu.be/1RFBSU2RmtQ) |
-| 141 | কারখানা গৃহ নির্বাচনের উপাদান | 10:28 | [Watch](https://youtu.be/1mjKwj0omrk) |
-| 142 | বিশেষ বিশেষ শিল্পকারখানার অবস্থান নির্বাচনে বিবেচ্য  বিষয় সমূহ | 11:20 | [Watch](https://youtu.be/JdzpB27VCjA) |
-| 143 | গতি নিরিক্ষার প্রয়োজনীয়তা | 7:29 | [Watch](https://youtu.be/2ymJhxiR1ro) |
-| 144 | মেশিন লোডিং | 18:32 | [Watch](https://youtu.be/-xCqmbncsBg) |
-| 145 | ভূমির বৈশিষ্ট্য | 4:05 | [Watch](https://youtu.be/3PlM2m-annQ) |
-| 146 | কনভেয়র ও অন্যান্য হাতিয়ার ব্যবহারে বিবেচ্য অর্থনৈতিক বিষয়াদি | 16:17 | [Watch](https://youtu.be/gsA_icPSusM) |
-| 147 | কম্পিউটার ইন্ট্রিগ্রেটেড প্রডাকশন প্ল্যানিং সিস্টেমের প্রয়োগক্ষেত্র | 9:34 | [Watch](https://youtu.be/VSwR14hbnd8) |
-| 148 | সময় নির্ধারণ ও গতি নির্ধারণের মধ্যে পার্থক্য | 5:13 | [Watch](https://youtu.be/tH3cpM9jMAA?si=XP2daU7UPSbDS1hh) |
-| 149 | কাজের পরিকল্পনা | 18:00 | [Watch](https://youtu.be/5nefa3buRy4) |
-| 150 | অল্প মজুত মাল রাখার পক্ষে যুক্তি | 7:13 | [Watch](https://youtu.be/J-C78wUpDAI) |
-| 151 | উৎপাদিত দ্রব্যের বিক্রয়মূল্য নির্বাচন | 12:02 | [Watch](https://youtu.be/awCaBL3tOAg) |
-| 152 | উৎপাদন নিয়ন্ত্রনের সুবিধাবলি | 16:22 | [Watch](https://youtu.be/QEZodaQ3bSs) |
-| 153 | দ্রব্য প্রবাহ প্রক্রিয়া চার্ট | 7:06 | [Watch](https://youtu.be/JibUm5dUN90) |
-| 154 | প্রক্রিয়া ভিত্তিক বিন্যাস | 13:14 | [Watch](https://youtu.be/NRBjxDQjkcg) |
-| 155 | একতলা কারখানা গৃহের অসুবিধা | 11:09 | [Watch](https://youtu.be/ffZgkIn5Zco) |
-| 156 | কাগজ কল স্থাপনের কারণ | 14:31 | [Watch](https://youtu.be/jG32UQTupgU) |
-| 157 | গতি নিরীক্ষার জন্য প্রয়োজনীয় যন্ত্রপাতি সমূহের বর্ণনা | 5:00 | [Watch](https://youtu.be/XPcyzEc-ehU) |
-| 158 | ডেসপ্যাচিং ও ফলোআপ বর্ণনা | 19:01 | [Watch](https://youtu.be/AqtsjwOvEdw) |
-| 159 | শ্রমের বৈশিষ্ট্য | 8:24 | [Watch](https://youtu.be/NtoC2uiHxmc) |
-| 160 | স্টপ ওয়াচ পদ্ধতির সাহায্যে প্রাপ্ত সময় বা স্ট্যান্ডার্ড টাইম নির্ধারণের পদক্ষেপসমূহ | 10:05 | [Watch](https://youtu.be/_1ITG96Ps64?si=6Mc8JUyDcpanl2_D) |
-| 161 | পণ্য ডিজাইন শ্রেণিবিভাগ | 16:12 | [Watch](https://youtu.be/mjScJNwG88Y) |
-| 162 | মজুত মাল নিয়ন্ত্রনের কার্যাবলি | 14:11 | [Watch](https://youtu.be/323nulhu_Yo) |
-| 163 | মূল্য নিয়ন্ত্রনের সুবিধাবলি | 10:32 | [Watch](https://youtu.be/aObElyIWe3w) |
-| 164 | গুনাগুন তারতম্যের প্রকারভেদ | 12:32 | [Watch](https://youtu.be/jAAZX5pvdEw) |
-| 165 | দ্রব্য প্রবাহ প্রক্রিয়া চার্ট | 17:31 | [Watch](https://youtu.be/1doCMYuDYi4) |
-| 166 | প্রক্রিয়া ভিত্তিক বিন্যাস অসুবিধা | 12:17 | [Watch](https://youtu.be/0nomOGqGScA) |
-| 167 | একতলা কারখানা গৃহের সুবিধা | 10:10 | [Watch](https://youtu.be/Xyxv89xM6UA) |
-| 168 | সিলেটে সিমেন্ট কারখানা | 13:00 | [Watch](https://youtu.be/fivM8PZNA-0) |
-| 169 | গতি নিরীক্ষার কৌশল | 10:26 | [Watch](https://youtu.be/Us4U1lUgGN8) |
-| 170 | রুটিং সিডিউলিং ও ডেসপাচিং এর মধ্যে পার্থক্য | 8:26 | [Watch](https://youtu.be/8R9Pj0NeKkg) |
-| 171 | মূলধন | 5:14 | [Watch](https://youtu.be/FrDEw1dQNYo) |
-| 172 | উত্তম পণ্য ডিজাইনের বৈশিষ্ট্য | 4:31 | [Watch](https://youtu.be/di1Y4S9Q07c) |
-| 173 | মজুত মাল নিয়ন্ত্রনের সুবিধাবলি | 6:20 | [Watch](https://youtu.be/JYp0_lyX-Gk) |
-| 174 | গ্রহনযোগ্য তারতম্য ও প্রতিরোধযোগ্য তারতম্যের মধ্যে পার্থক্য | 8:15 | [Watch](https://youtu.be/_ZaRZ5RvkyA) |
-| 175 | মানব প্রবাহ প্রক্রিয়া  চার্ট | 11:09 | [Watch](https://youtu.be/wqsu_iD1Zug) |
-| 176 | স্থায়ী অবসান ভিত্তিক যন্ত্রপাতি | 6:28 | [Watch](https://youtu.be/lZY5a1vrkhA) |
-| 177 | বহুতলা কারখানা গৃহের সুবিধা | 9:25 | [Watch](https://youtu.be/MjmFx3_7YBg) |
-| 178 | গতি নিরাক্ষার কৌশল ২য় পদ্ধতি | 4:32 | [Watch](https://youtu.be/9RwQhmHh9Q4) |
-| 179 | উৎপাদন পরিকল্পনা সুবিধা সমূহ | 9:22 | [Watch](https://youtu.be/28UxYnAiYho) |
-| 180 | সংগঠন | 6:04 | [Watch](https://youtu.be/3n4g9ZJERRk) |
-| 181 | গুনাগুন নিয়ন্ত্রনের গুরুত্ব | 9:14 | [Watch](https://youtu.be/lqsmvWdJYxo) |
-| 182 | গ্যান্ট চার্ট | 13:14 | [Watch](https://youtu.be/OnJwoSGbASE) |
-| 183 | স্থায়ী অবসান ভিত্তিক যন্ত্রপাতি অসুবিধা | 5:24 | [Watch](https://youtu.be/4J_CQSNaUUM) |
-| 184 | বহুতলা কারখানা গৃহের অসুবিধা | 6:10 | [Watch](https://youtu.be/dVjK6mHXtP4) |
-| 185 | চট্রগ্রামে তেল শোধনাগার | 12:16 | [Watch](https://youtu.be/9TgJQERMbwk) |
-| 186 | স্টান্ডার্ড টাইম | 8:18 | [Watch](https://youtu.be/G7xP-7yidQY) |
-| 187 | কাজের পরিকল্পনা  ব্যবস্থাবায়ন ও মনিটরিং বর্ণনা | 27:14 | [Watch](https://youtu.be/Zz7dxoGoC8A) |
-| 188 | উৎপাদনের প্রকারভেদ | 21:16 | [Watch](https://youtu.be/cj6LBRP8SMI) |
-| 189 | গ্রহনযোগ্য নমুনা | 15:01 | [Watch](https://youtu.be/wmTxQ4dSEZQ) |
-| 190 | মিশ্র বিন্যাসের সুবিধা | 9:11 | [Watch](https://youtu.be/nQrFOEQUtM4) |
-| 191 | কারখানা গৃহে আলো বাতাস রাখার প্রয়োজনীয়তা | 7:01 | [Watch](https://youtu.be/PRGyPu1pH_M) |
-| 192 | উত্তরবঙ্গে চিনিকল স্থাপন | 13:15 | [Watch](https://youtu.be/QTp7Iko5FXk) |
-| 193 | সময় নিরীক্ষাকরন পদ্ধতি | 13:21 | [Watch](https://youtu.be/Xl1fM_P6ur4) |
-| 194 | রেকর্ডকরন ও ফলাবর্তন বর্ণনা | 6:14 | [Watch](https://youtu.be/JsmllaglljE) |
-| 195 | জব ব্যাচ গ্যাস ও উৎপাদনের বর্ণনা | 18:19 | [Watch](https://youtu.be/ycYaVEK92wY) |
-| 196 | মান নিয়ন্ত্রন চার্ট | 8:25 | [Watch](https://youtu.be/a-KGIv9IVtQ) |
-| 197 | দ্রব্য ভিত্তিক বিন্যাস  ও প্রক্রিয়া ভিত্তিক বিন্যাসের পার্থক্য | 10:22 | [Watch](https://youtu.be/CLljatclkYU) |
-| 198 | কারখানা গৃহের ছাদ করাতের মত রাখার যৌক্তিকতা | 7:19 | [Watch](https://youtu.be/WV9pLoFYAcE) |
-| 199 | আবাসিক এলাকায় শিল্পকারখানায় স্থাপনে অসুবিধা | 9:14 | [Watch](https://youtu.be/BMPOz4PZZOA) |
-| 200 | সময় নিরিক্ষাকরনের সীমাবদ্ধতা | 9:16 | [Watch](https://youtu.be/Y4BKIm-ZYgk) |
-| 201 | উৎপাদনের আয়তনের শ্রেণীবিভাগ | 16:15 | [Watch](https://youtu.be/zj4w_U2b_Eo) |
-| 202 | মান নিয়ন্ত্রনের উপকারিতা | 9:08 | [Watch](https://youtu.be/xsWYK9Xa_eY) |
-| 203 | কারখানা  বিন্যাস ও যন্ত্রপাতি  বিন্যাসের পার্থক্য | 8:25 | [Watch](https://youtu.be/xUvhSF2vQJI) |
-| 204 | গ্যান্ট চার্ট | 9:13 | [Watch](https://youtu.be/3Bc3t37NJSE) |
-| 205 | ক্ষুদ্রায়তন উৎপাদন | 17:10 | [Watch](https://youtu.be/_m-mK-yB-o4) |
-| 206 | মান নিয়ন্ত্রনের সুবিধাবালি | 6:29 | [Watch](https://youtu.be/od-UXD6UMxY) |
-| 207 | থারব্লিগস | 11:05 | [Watch](https://youtu.be/4IZUp-uZvS8) |
-| 208 | উৎপাদনের গুরুত্ব | 13:20 | [Watch](https://youtu.be/GkbHLXXiVUk) |
-| 209 | পরিদর্শনের সীমাবদ্ধতা বর্ননা | 10:14 | [Watch](https://youtu.be/YADEHrWwWyE) |
-| 210 | সময় ও গতি নিরিক্ষার মধ্যে পার্থক্য | 7:32 | [Watch](https://youtu.be/VhaYxxXbeHc) |
-| 211 | মান নিয়ন্ত্রন বিভাগের ভূমিকা | 16:35 | [Watch](https://youtu.be/ClcTh-Vn-RE) |
-| 212 | মিতব্যায়ী গতির নীতি | 10:03 | [Watch](https://youtu.be/IzQFv5bfZzw) |
-| 213 | স্টপ ওয়াচের সাহায্যে কোন জবের প্রমান সময় নির্ধারন | 14:34 | [Watch](https://youtu.be/YJWPd-B_BZ4) |
-| 214 | গাণিতিক সমাধান | 5:14 | [Watch](https://youtu.be/8KoFcNXR9MQ) |
+| 89 | আইএসও 9000 বং কিউএস 14000 সিরিজের গুণগত মানের মানদন্ড | 24:02 | [Watch](https://youtu.be/kcVxxMejFEw) |
+| 90 | মুল্য নিয়ন্ত্রণের সুবিধাবলি | 13:31 | [Watch](https://youtu.be/mHcBVrLFNNc) |
+| 91 | প্রডাক্ট লে আউট বা দ্রব্যভিত্তিক বিন্যাসের সুবিধা এবং অসুবিধাসমূহ | 16:21 | [Watch](https://youtu.be/6BXiciLL5KE) |
+| 92 | উৎপাদন নিয়ন্ত্রণে কম্পিউটারের প্রয়োজনীয়তা | 15:18 | [Watch](https://youtu.be/t0DWds1Pxho) |
+| 93 | একটি ওয়েল্ডিং ভবন এবং পাটকল ভবনের নির্মাণ পার্থক্য | 4:14 | [Watch](https://youtu.be/nm5AVHNN_g8?si=jRs2XORsxMHl0Msg) |
+| 94 | Part - 2 সিলেট সিমেন্ট কারখানা | 3:18 | [Watch](https://youtu.be/nJX3vK3HqOw?si=daUmshAHHC_2-a-n) |
+| 95 | গতি নিরীক্ষার কৌশল | 11:26 | [Watch](https://youtu.be/JwQpxk1oSFA?si=67qEmrya1f6wqjv3) |
+| 96 | উৎপাদন নিয়ন্ত্রণের পদক্ষেপসমূহ | 14:33 | [Watch](https://youtu.be/QSfPBL2PwPc) |
+| 97 | জব প্রোডাকশন ব্যাচ প্রোাডাকশন এবং ম্যাস প্রোডাকশন এর পার্থক্য | 17:05 | [Watch](https://youtu.be/Cl8XjCEibWw) |
+| 98 | মজুত মাল নিয়ন্ত্রনের প্রয়োজনীয়তা ও গুরুত্ব | 8:20 | [Watch](https://youtu.be/xRuIcHCU528) |
+| 99 | মোট ব্যায়ের শ্রেণীবিভাগ | 15:35 | [Watch](https://youtu.be/BEAB5nFi2E0) |
+| 100 | মান নিয়ন্ত্রেনের পদ্ধতি | 2:17 | [Watch](https://youtu.be/liEBMhyb9aI) |
+| 101 | অপারেশন শীট ও অপারেশন সিডিউলের  মধ্যে পার্থক্য | 10:20 | [Watch](https://youtu.be/s6oZF60je2A) |
+| 102 | যন্ত্রপাতি বিন্যাসের পদ্ধতি | 15:31 | [Watch](https://youtu.be/TpwAeIzZ9IM) |
+| 103 | বিভিন্ন ধরনের উৎপাদন কারখানা বর্ণনা | 10:32 | [Watch](https://youtu.be/Htt9Bc489Js) |
+| 104 | কারখানার সঠিক স্থান নির্বাচনে অসুবিধা সমূহ | 14:32 | [Watch](https://youtu.be/1VT99wxJ-xQ) |
+| 105 | অন্যন্য কারণ | 6:05 | [Watch](https://youtu.be/h_tFK__ggDo) |
+| 106 | সময় নিরাক্ষা | 13:17 | [Watch](https://youtu.be/4mFu3goZkyY) |
+| 107 | উৎপাদন পরিকল্পনা নিয়ন্ত্রনের পদক্ষেপ | 11:24 | [Watch](https://youtu.be/C9cdHE09RWU) |
+| 108 | শিল্পখাত উৎপাদন ব্যবস্থার প্রবাহ চিত্র | 14:08 | [Watch](https://youtu.be/MSosSG6Optw) |
+| 109 | পরিবহন যন্ত্রপাতির শ্রেণিবিভাগ | 10:26 | [Watch](https://youtu.be/casUeolMBjc) |
+| 110 | Part - 1 ইকোনোমিক অর্ডার কোয়ান্টিটি এবং ইকোনোমিক লট সাইজ নির্ধারণ | 29:35 | [Watch](https://youtu.be/yTFhezhTgXg) |
+| 111 | স্থায়ী অবস্থানভিত্তিক যন্ত্রপাতি বিন্যাসের সুবিধা ও অসুবিধাসমূহ | 6:18 | [Watch](https://youtu.be/L89tQAEv9Bo) |
+| 112 | প্রডাক্টলাইফ সাইকেল | 11:07 | [Watch](https://youtu.be/57eQgo52n6I) |
+| 113 | সময় নিরীক্ষা পদ্ধতি | 22:08 | [Watch](https://youtu.be/xs6CpMPoz8o?si=U-ahLZu5-MTco7Sy) |
+| 114 | মেশিন লোডিং | 16:06 | [Watch](https://youtu.be/2D6VDfkripE) |
+| 115 | ক্ষুদ্রায়তন উৎপাদনে সুবিধা ও অসুবিধা 4 | 12:32 | [Watch](https://youtu.be/4m18CI2jHvo) |
+| 116 | ভৌত মজুতমাল | 11:23 | [Watch](https://youtu.be/R9l2w8E6XGE) |
+| 117 | ব্যায়ের কার্যভিত্তিক শ্রেণীবিভাগ | 12:20 | [Watch](https://youtu.be/NeqPWYsd0as) |
+| 118 | মান নিয়ন্ত্রেনের পদ্ধতি | 2:17 | [Watch](https://youtu.be/liEBMhyb9aI) |
+| 119 | ফরমায়েশ ভিত্তিক নিয়ন্ত্রন ব্যবস্থা | 6:07 | [Watch](https://youtu.be/Q7AO4SEevso) |
+| 120 | প্রক্রিয়া চার্ট | 13:30 | [Watch](https://youtu.be/NyfeUW3v74E) |
+| 121 | দ্রব্য ভিত্তিক বিন্যাসের সুবিধা | 9:32 | [Watch](https://youtu.be/MQB8vlS-UXU) |
+| 122 | কারখানা বিন্যাসের উপর প্রক্রিয়া সমূহের প্রভাব | 11:33 | [Watch](https://youtu.be/KJoS4l9-nsw) |
+| 123 | কারখানা গৃহের ধরণ | 9:22 | [Watch](https://youtu.be/b7l-FmdnK14) |
+| 124 | কারখানার সঠিক স্থান নির্বাচনে সুবিধা সমূহ | 6:22 | [Watch](https://youtu.be/sdXpaOlWyS0) |
+| 125 | শিল্পকারখানার সঠিক স্থানীয় করনের সুবিধা | 6:04 | [Watch](https://youtu.be/o7YGS0ICxgk) |
+| 126 | সময় নিরাক্ষার প্রয়োজনীয়তা | 8:08 | [Watch](https://youtu.be/18xlP02a3uU) |
+| 127 | সিডিউলিং | 16:32 | [Watch](https://youtu.be/3Y1qtSy4fak) |
+| 128 | উৎপাদনের বিবেচ্য  উপাদান | 6:22 | [Watch](https://youtu.be/ylA2oZwyjWU) |
+| 129 | কনভেয়ারের ব্যবহার ও সংরক্ষণ | 9:14 | [Watch](https://youtu.be/Kl37s-EH70Y) |
+| 130 | Part - 2 ইকোনোমিক অর্ডার কোয়ান্টিটি এবং ইকোনোমিক লট সাইজ নির্ধারণ | 3:22 | [Watch](https://youtu.be/Wllyh8JWqF8) |
+| 131 | গ্যান্ট চার্ট এবং থারব্লিগস | 10:18 | [Watch](https://youtu.be/QsVXNBoInAo?si=N99NqLEuMuFN7yfx) |
+| 132 | প্রেডাকশন প্লানিং এর সুবিধা | 12:02 | [Watch](https://youtu.be/gLsT2f8aMVY) |
+| 133 | বৃহদায়তন উৎপাদনে সুবিধা ও অসুবিধা 5 | 16:21 | [Watch](https://youtu.be/5eXP4yDXD6Q) |
+| 134 | অধিক মজুত মাল রাখার পক্ষে যুক্তি | 14:17 | [Watch](https://youtu.be/xArNQRBFgts) |
+| 135 | বিক্রয় ও বন্টন খরচ | 11:20 | [Watch](https://youtu.be/bL22pC3kc-U) |
+| 136 | উৎপাদন নিয়ন্ত্রনের উপাদান সমূহ | 9:16 | [Watch](https://youtu.be/zsSzsLWQA9g) |
+| 137 | প্রবাহ ডায়াগ্রাম | 10:09 | [Watch](https://youtu.be/hCJvV1qIs6g) |
+| 138 | দ্রব্য ভিত্তিক বিন্যাসের অসুবিধা | 8:08 | [Watch](https://youtu.be/XrjGYRqg3tE) |
+| 139 | কারখানা বিন্যাস যাচাইকরনের প্রয়োজনীয়তা | 14:04 | [Watch](https://youtu.be/1RFBSU2RmtQ) |
+| 140 | কারখানা গৃহ নির্বাচনের উপাদান | 10:28 | [Watch](https://youtu.be/1mjKwj0omrk) |
+| 141 | বিশেষ বিশেষ শিল্পকারখানার অবস্থান নির্বাচনে বিবেচ্য  বিষয় সমূহ | 11:20 | [Watch](https://youtu.be/JdzpB27VCjA) |
+| 142 | গতি নিরিক্ষার প্রয়োজনীয়তা | 7:29 | [Watch](https://youtu.be/2ymJhxiR1ro) |
+| 143 | মেশিন লোডিং | 18:32 | [Watch](https://youtu.be/-xCqmbncsBg) |
+| 144 | ভূমির বৈশিষ্ট্য | 4:05 | [Watch](https://youtu.be/3PlM2m-annQ) |
+| 145 | কনভেয়র ও অন্যান্য হাতিয়ার ব্যবহারে বিবেচ্য অর্থনৈতিক বিষয়াদি | 16:17 | [Watch](https://youtu.be/gsA_icPSusM) |
+| 146 | কম্পিউটার ইন্ট্রিগ্রেটেড প্রডাকশন প্ল্যানিং সিস্টেমের প্রয়োগক্ষেত্র | 9:34 | [Watch](https://youtu.be/VSwR14hbnd8) |
+| 147 | সময় নির্ধারণ ও গতি নির্ধারণের মধ্যে পার্থক্য | 5:13 | [Watch](https://youtu.be/tH3cpM9jMAA?si=XP2daU7UPSbDS1hh) |
+| 148 | কাজের পরিকল্পনা | 18:00 | [Watch](https://youtu.be/5nefa3buRy4) |
+| 149 | অল্প মজুত মাল রাখার পক্ষে যুক্তি | 7:13 | [Watch](https://youtu.be/J-C78wUpDAI) |
+| 150 | উৎপাদিত দ্রব্যের বিক্রয়মূল্য নির্বাচন | 12:02 | [Watch](https://youtu.be/awCaBL3tOAg) |
+| 151 | উৎপাদন নিয়ন্ত্রনের সুবিধাবলি | 16:22 | [Watch](https://youtu.be/QEZodaQ3bSs) |
+| 152 | দ্রব্য প্রবাহ প্রক্রিয়া চার্ট | 7:06 | [Watch](https://youtu.be/JibUm5dUN90) |
+| 153 | প্রক্রিয়া ভিত্তিক বিন্যাস | 13:14 | [Watch](https://youtu.be/NRBjxDQjkcg) |
+| 154 | একতলা কারখানা গৃহের অসুবিধা | 11:09 | [Watch](https://youtu.be/ffZgkIn5Zco) |
+| 155 | কাগজ কল স্থাপনের কারণ | 14:31 | [Watch](https://youtu.be/jG32UQTupgU) |
+| 156 | গতি নিরীক্ষার জন্য প্রয়োজনীয় যন্ত্রপাতি সমূহের বর্ণনা | 5:00 | [Watch](https://youtu.be/XPcyzEc-ehU) |
+| 157 | ডেসপ্যাচিং ও ফলোআপ বর্ণনা | 19:01 | [Watch](https://youtu.be/AqtsjwOvEdw) |
+| 158 | শ্রমের বৈশিষ্ট্য | 8:24 | [Watch](https://youtu.be/NtoC2uiHxmc) |
+| 159 | স্টপ ওয়াচ পদ্ধতির সাহায্যে প্রাপ্ত সময় বা স্ট্যান্ডার্ড টাইম নির্ধারণের পদক্ষেপসমূহ | 10:05 | [Watch](https://youtu.be/_1ITG96Ps64?si=6Mc8JUyDcpanl2_D) |
+| 160 | পণ্য ডিজাইন শ্রেণিবিভাগ | 16:12 | [Watch](https://youtu.be/mjScJNwG88Y) |
+| 161 | মজুত মাল নিয়ন্ত্রনের কার্যাবলি | 14:11 | [Watch](https://youtu.be/323nulhu_Yo) |
+| 162 | মূল্য নিয়ন্ত্রনের সুবিধাবলি | 10:32 | [Watch](https://youtu.be/aObElyIWe3w) |
+| 163 | গুনাগুন তারতম্যের প্রকারভেদ | 12:32 | [Watch](https://youtu.be/jAAZX5pvdEw) |
+| 164 | দ্রব্য প্রবাহ প্রক্রিয়া চার্ট | 17:31 | [Watch](https://youtu.be/1doCMYuDYi4) |
+| 165 | প্রক্রিয়া ভিত্তিক বিন্যাস অসুবিধা | 12:17 | [Watch](https://youtu.be/0nomOGqGScA) |
+| 166 | একতলা কারখানা গৃহের সুবিধা | 10:10 | [Watch](https://youtu.be/Xyxv89xM6UA) |
+| 167 | সিলেটে সিমেন্ট কারখানা | 13:00 | [Watch](https://youtu.be/fivM8PZNA-0) |
+| 168 | গতি নিরীক্ষার কৌশল | 10:26 | [Watch](https://youtu.be/Us4U1lUgGN8) |
+| 169 | রুটিং সিডিউলিং ও ডেসপাচিং এর মধ্যে পার্থক্য | 8:26 | [Watch](https://youtu.be/8R9Pj0NeKkg) |
+| 170 | মূলধন | 5:14 | [Watch](https://youtu.be/FrDEw1dQNYo) |
+| 171 | উত্তম পণ্য ডিজাইনের বৈশিষ্ট্য | 4:31 | [Watch](https://youtu.be/di1Y4S9Q07c) |
+| 172 | মজুত মাল নিয়ন্ত্রনের সুবিধাবলি | 6:20 | [Watch](https://youtu.be/JYp0_lyX-Gk) |
+| 173 | গ্রহনযোগ্য তারতম্য ও প্রতিরোধযোগ্য তারতম্যের মধ্যে পার্থক্য | 8:15 | [Watch](https://youtu.be/_ZaRZ5RvkyA) |
+| 174 | মানব প্রবাহ প্রক্রিয়া  চার্ট | 11:09 | [Watch](https://youtu.be/wqsu_iD1Zug) |
+| 175 | স্থায়ী অবসান ভিত্তিক যন্ত্রপাতি | 6:28 | [Watch](https://youtu.be/lZY5a1vrkhA) |
+| 176 | বহুতলা কারখানা গৃহের সুবিধা | 9:25 | [Watch](https://youtu.be/MjmFx3_7YBg) |
+| 177 | গতি নিরাক্ষার কৌশল ২য় পদ্ধতি | 4:32 | [Watch](https://youtu.be/9RwQhmHh9Q4) |
+| 178 | উৎপাদন পরিকল্পনা সুবিধা সমূহ | 9:22 | [Watch](https://youtu.be/28UxYnAiYho) |
+| 179 | সংগঠন | 6:04 | [Watch](https://youtu.be/3n4g9ZJERRk) |
+| 180 | গুনাগুন নিয়ন্ত্রনের গুরুত্ব | 9:14 | [Watch](https://youtu.be/lqsmvWdJYxo) |
+| 181 | গ্যান্ট চার্ট | 13:14 | [Watch](https://youtu.be/OnJwoSGbASE) |
+| 182 | স্থায়ী অবসান ভিত্তিক যন্ত্রপাতি অসুবিধা | 5:24 | [Watch](https://youtu.be/4J_CQSNaUUM) |
+| 183 | বহুতলা কারখানা গৃহের অসুবিধা | 6:10 | [Watch](https://youtu.be/dVjK6mHXtP4) |
+| 184 | চট্রগ্রামে তেল শোধনাগার | 12:16 | [Watch](https://youtu.be/9TgJQERMbwk) |
+| 185 | স্টান্ডার্ড টাইম | 8:18 | [Watch](https://youtu.be/G7xP-7yidQY) |
+| 186 | কাজের পরিকল্পনা  ব্যবস্থাবায়ন ও মনিটরিং বর্ণনা | 27:14 | [Watch](https://youtu.be/Zz7dxoGoC8A) |
+| 187 | উৎপাদনের প্রকারভেদ | 21:16 | [Watch](https://youtu.be/cj6LBRP8SMI) |
+| 188 | গ্রহনযোগ্য নমুনা | 15:01 | [Watch](https://youtu.be/wmTxQ4dSEZQ) |
+| 189 | মিশ্র বিন্যাসের সুবিধা | 9:11 | [Watch](https://youtu.be/nQrFOEQUtM4) |
+| 190 | কারখানা গৃহে আলো বাতাস রাখার প্রয়োজনীয়তা | 7:01 | [Watch](https://youtu.be/PRGyPu1pH_M) |
+| 191 | উত্তরবঙ্গে চিনিকল স্থাপন | 13:15 | [Watch](https://youtu.be/QTp7Iko5FXk) |
+| 192 | সময় নিরীক্ষাকরন পদ্ধতি | 13:21 | [Watch](https://youtu.be/Xl1fM_P6ur4) |
+| 193 | রেকর্ডকরন ও ফলাবর্তন বর্ণনা | 6:14 | [Watch](https://youtu.be/JsmllaglljE) |
+| 194 | জব ব্যাচ গ্যাস ও উৎপাদনের বর্ণনা | 18:19 | [Watch](https://youtu.be/ycYaVEK92wY) |
+| 195 | মান নিয়ন্ত্রন চার্ট | 8:25 | [Watch](https://youtu.be/a-KGIv9IVtQ) |
+| 196 | দ্রব্য ভিত্তিক বিন্যাস  ও প্রক্রিয়া ভিত্তিক বিন্যাসের পার্থক্য | 10:22 | [Watch](https://youtu.be/CLljatclkYU) |
+| 197 | কারখানা গৃহের ছাদ করাতের মত রাখার যৌক্তিকতা | 7:19 | [Watch](https://youtu.be/WV9pLoFYAcE) |
+| 198 | আবাসিক এলাকায় শিল্পকারখানায় স্থাপনে অসুবিধা | 9:14 | [Watch](https://youtu.be/BMPOz4PZZOA) |
+| 199 | সময় নিরিক্ষাকরনের সীমাবদ্ধতা | 9:16 | [Watch](https://youtu.be/Y4BKIm-ZYgk) |
+| 200 | উৎপাদনের আয়তনের শ্রেণীবিভাগ | 16:15 | [Watch](https://youtu.be/zj4w_U2b_Eo) |
+| 201 | মান নিয়ন্ত্রনের উপকারিতা | 9:08 | [Watch](https://youtu.be/xsWYK9Xa_eY) |
+| 202 | কারখানা  বিন্যাস ও যন্ত্রপাতি  বিন্যাসের পার্থক্য | 8:25 | [Watch](https://youtu.be/xUvhSF2vQJI) |
+| 203 | গ্যান্ট চার্ট | 9:13 | [Watch](https://youtu.be/3Bc3t37NJSE) |
+| 204 | ক্ষুদ্রায়তন উৎপাদন | 17:10 | [Watch](https://youtu.be/_m-mK-yB-o4) |
+| 205 | মান নিয়ন্ত্রনের সুবিধাবালি | 6:29 | [Watch](https://youtu.be/od-UXD6UMxY) |
+| 206 | থারব্লিগস | 11:05 | [Watch](https://youtu.be/4IZUp-uZvS8) |
+| 207 | উৎপাদনের গুরুত্ব | 13:20 | [Watch](https://youtu.be/GkbHLXXiVUk) |
+| 208 | পরিদর্শনের সীমাবদ্ধতা বর্ননা | 10:14 | [Watch](https://youtu.be/YADEHrWwWyE) |
+| 209 | সময় ও গতি নিরিক্ষার মধ্যে পার্থক্য | 7:32 | [Watch](https://youtu.be/VhaYxxXbeHc) |
+| 210 | মান নিয়ন্ত্রন বিভাগের ভূমিকা | 16:35 | [Watch](https://youtu.be/ClcTh-Vn-RE) |
+| 211 | মিতব্যায়ী গতির নীতি | 10:03 | [Watch](https://youtu.be/IzQFv5bfZzw) |
+| 212 | স্টপ ওয়াচের সাহায্যে কোন জবের প্রমান সময় নির্ধারন | 14:34 | [Watch](https://youtu.be/YJWPd-B_BZ4) |
+| 213 | গাণিতিক সমাধান | 5:14 | [Watch](https://youtu.be/8KoFcNXR9MQ) |
 
-*214 videos total*
+*213 videos total*

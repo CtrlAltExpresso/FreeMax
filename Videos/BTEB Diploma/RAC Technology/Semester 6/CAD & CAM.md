@@ -1,34 +1,33 @@
 # CAD & CAM
-
 > 117 videos | RAC Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | রোবটিক সেন্সর | 9:11 | [Watch](https://youtu.be/U9wkxB4L404) |
-| 2 | মেশিন কন্ট্রোল ইউনিটের বর্ণনা | 13:12 | [Watch](https://youtu.be/CUnQazdp998) |
-| 3 | নিউমেরিক্যাল কন্ট্রোল প্রযুক্তি বিদ্যার নীতি | 9:06 | [Watch](https://youtu.be/YOnjtWIjoUk) |
-| 4 | CAM | 10:06 | [Watch](https://youtu.be/hKzue2OCkRc) |
-| 5 | Geometric Modeling, Geometrical Solid Model | 3:32 | [Watch](https://youtu.be/r49ro3Av7WQ) |
-| 6 | CAD এর প্রয়োগক্ষেত্র | 6:23 | [Watch](https://youtu.be/df0A3cL4DCU) |
-| 7 | CAD & CAM Intro Class | 5:26 | [Watch](https://youtu.be/FKTlLYA-EaM) |
-| 8 | রোবটে ব্যবহৃত বিভিন্ন সেন্সর সমূহের বর্ণনা | 11:09 | [Watch](https://youtu.be/CnLsfSyYOG0) |
-| 9 | MCU ব্যবহারের সুবিধা | 11:25 | [Watch](https://youtu.be/P1S9juPypbE) |
-| 10 | DNC, Function Of DNC | 10:07 | [Watch](https://youtu.be/i2RdHgVaGSM) |
-| 11 | Concept of CAM | 7:28 | [Watch](https://youtu.be/PB_t5ZIDCyU) |
-| 12 | ডিজাইনার জিওমেট্রিক ব্যাবহারে কত ধরনের কমান্ড ব্যবহার করে | 5:17 | [Watch](https://youtu.be/Jv26otArlAc) |
-| 13 | ক্যাড এর সাহায্যে কী কী কাজ সম্পন্ন করা হয় | 6:23 | [Watch](https://youtu.be/jvpMsptPtu0) |
-| 14 | CAD&CAM এর মৌলিক ধারনা | 10:14 | [Watch](https://youtu.be/lGcm1B4mlVk) |
-| 15 | রোবটের গতি সঞ্চালন পদ্ধতি | 10:01 | [Watch](https://youtu.be/njfY3GcZef8) |
-| 16 | MCU এর সাব সিস্টেম | 14:01 | [Watch](https://youtu.be/hV1OZvvIX_A) |
-| 17 | CNC  কম্পিউটার নিউমেরিক্যাল কন্ট্রোল | 10:28 | [Watch](https://youtu.be/yR7703WzjKQ) |
-| 18 | CAD & CAM Database | 9:19 | [Watch](https://youtu.be/0eqWVWdutx4) |
-| 19 | ওয়্যার ফ্রেম  জিওমেট্রিক মডেলিং কে ইন্টারেক্টিভ কম্পিউটার গ্রাফিক্সের সামর্থ্য অনুযায়ী | 8:05 | [Watch](https://youtu.be/tvNJ40sJi_U) |
-| 20 | ক্যাড সফটওয়ার সলিড ওয়ার্ক সফটওয়ার CATIA এর পরিচিতি | 13:23 | [Watch](https://youtu.be/B-Zi8gkDUVo) |
-| 21 | Definition of CAD&CAM | 10:12 | [Watch](https://youtu.be/oYtZsyfddSI) |
-| 22 | রোবটের ছয় ডিগ্রি ফ্রিডম | 7:27 | [Watch](https://youtu.be/iGO9VdzEotk) |
-| 23 | সি এন সি মেশিনের সাপোর্ট ইউনিটের বর্ণনা | 10:20 | [Watch](https://youtu.be/FbN1yjHlOzo) |
-| 24 | CNC  সিস্টেমের জন্য প্রয়োজনীয় উপাদান | 7:30 | [Watch](https://youtu.be/IHib7y2OVd8) |
-| 25 | Concept of CAM | 7:26 | [Watch](https://youtu.be/JXA5M0n7lZw) |
+| 1 | Concept of CAM | 7:28 | [Watch](https://youtu.be/PB_t5ZIDCyU) |
+| 2 | Concept of CAM | 7:26 | [Watch](https://youtu.be/JXA5M0n7lZw) |
+| 3 | রোবটিক সেন্সর | 9:11 | [Watch](https://youtu.be/U9wkxB4L404) |
+| 4 | মেশিন কন্ট্রোল ইউনিটের বর্ণনা | 13:12 | [Watch](https://youtu.be/CUnQazdp998) |
+| 5 | নিউমেরিক্যাল কন্ট্রোল প্রযুক্তি বিদ্যার নীতি | 9:06 | [Watch](https://youtu.be/YOnjtWIjoUk) |
+| 6 | CAM | 10:06 | [Watch](https://youtu.be/hKzue2OCkRc) |
+| 7 | Geometric Modeling, Geometrical Solid Model | 3:32 | [Watch](https://youtu.be/r49ro3Av7WQ) |
+| 8 | CAD এর প্রয়োগক্ষেত্র | 6:23 | [Watch](https://youtu.be/df0A3cL4DCU) |
+| 9 | CAD & CAM Intro Class | 5:26 | [Watch](https://youtu.be/FKTlLYA-EaM) |
+| 10 | রোবটে ব্যবহৃত বিভিন্ন সেন্সর সমূহের বর্ণনা | 11:09 | [Watch](https://youtu.be/CnLsfSyYOG0) |
+| 11 | MCU ব্যবহারের সুবিধা | 11:25 | [Watch](https://youtu.be/P1S9juPypbE) |
+| 12 | DNC, Function Of DNC | 10:07 | [Watch](https://youtu.be/i2RdHgVaGSM) |
+| 13 | ডিজাইনার জিওমেট্রিক ব্যাবহারে কত ধরনের কমান্ড ব্যবহার করে | 5:17 | [Watch](https://youtu.be/Jv26otArlAc) |
+| 14 | ক্যাড এর সাহায্যে কী কী কাজ সম্পন্ন করা হয় | 6:23 | [Watch](https://youtu.be/jvpMsptPtu0) |
+| 15 | CAD&CAM এর মৌলিক ধারনা | 10:14 | [Watch](https://youtu.be/lGcm1B4mlVk) |
+| 16 | রোবটের গতি সঞ্চালন পদ্ধতি | 10:01 | [Watch](https://youtu.be/njfY3GcZef8) |
+| 17 | MCU এর সাব সিস্টেম | 14:01 | [Watch](https://youtu.be/hV1OZvvIX_A) |
+| 18 | CNC  কম্পিউটার নিউমেরিক্যাল কন্ট্রোল | 10:28 | [Watch](https://youtu.be/yR7703WzjKQ) |
+| 19 | CAD & CAM Database | 9:19 | [Watch](https://youtu.be/0eqWVWdutx4) |
+| 20 | ওয়্যার ফ্রেম  জিওমেট্রিক মডেলিং কে ইন্টারেক্টিভ কম্পিউটার গ্রাফিক্সের সামর্থ্য অনুযায়ী | 8:05 | [Watch](https://youtu.be/tvNJ40sJi_U) |
+| 21 | ক্যাড সফটওয়ার সলিড ওয়ার্ক সফটওয়ার CATIA এর পরিচিতি | 13:23 | [Watch](https://youtu.be/B-Zi8gkDUVo) |
+| 22 | Definition of CAD&CAM | 10:12 | [Watch](https://youtu.be/oYtZsyfddSI) |
+| 23 | রোবটের ছয় ডিগ্রি ফ্রিডম | 7:27 | [Watch](https://youtu.be/iGO9VdzEotk) |
+| 24 | সি এন সি মেশিনের সাপোর্ট ইউনিটের বর্ণনা | 10:20 | [Watch](https://youtu.be/FbN1yjHlOzo) |
+| 25 | CNC  সিস্টেমের জন্য প্রয়োজনীয় উপাদান | 7:30 | [Watch](https://youtu.be/IHib7y2OVd8) |
 | 26 | Solid Modeling এর সুবিধা | 6:17 | [Watch](https://youtu.be/-sxb1HBR0ww) |
 | 27 | বেসিক এডিটিং, ডায়মেনশনিং কমান্ড,  ক্যাড সফটওয়ারে ব্যাবহৃত এডিটিং কমান্ডসমূহ ব্যবহারের জন্য টুলস | 10:29 | [Watch](https://youtu.be/2A8QseiMn9g) |
 | 28 | ক্যাড এর ভূমিকা | 8:16 | [Watch](https://youtu.be/qxEJerI7g-U) |

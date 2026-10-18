@@ -1,16 +1,15 @@
 # Surveying-III
-
 > 170 videos | Civil Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | নগর জরিপ | 13:31 | [Watch](https://youtu.be/x7YtV3LvrRo) |
-| 2 | টোটাল স্টেশন দ্বারা জরিপ কার্যে সম্পৃক্ত সরজমিনের কাজসমূহ | 9:14 | [Watch](https://youtu.be/6uCI6xMywB8) |
-| 3 | টোটাল স্টেশনের পরিচালনা ও ব্যবহার | 26:26 | [Watch](https://youtu.be/yFQ2Oim5dqU?si=fprlell04PEFXxwV) |
-| 4 | সাউন্ডিং (Sounding) | 16:25 | [Watch](https://youtu.be/aCHa8fx-6WY?si=aqEFBrXMo7_ATYHK) |
-| 5 | ভবনের লে আউট প্ল্যান | 25:08 | [Watch](https://youtu.be/KViCE01wb6E?si=KMZCbD726kCkgAKZ) |
-| 6 | উলম্ব বাঁক | 29:33 | [Watch](https://youtu.be/83N5aF7dws4?si=vxZ4yyk3d-3nTHxy) |
-| 7 | ক্রান্তি বাঁক (Transition Curve) | 19:17 | [Watch](https://youtu.be/RW7JOM3T5UM) |
+| 1 | ক্রান্তি বাঁক (Transition Curve) | 19:17 | [Watch](https://youtu.be/RW7JOM3T5UM) |
+| 2 | সাউন্ডিং (Sounding) | 16:25 | [Watch](https://youtu.be/aCHa8fx-6WY?si=aqEFBrXMo7_ATYHK) |
+| 3 | নগর জরিপ | 13:31 | [Watch](https://youtu.be/x7YtV3LvrRo) |
+| 4 | টোটাল স্টেশন দ্বারা জরিপ কার্যে সম্পৃক্ত সরজমিনের কাজসমূহ | 9:14 | [Watch](https://youtu.be/6uCI6xMywB8) |
+| 5 | টোটাল স্টেশনের পরিচালনা ও ব্যবহার | 26:26 | [Watch](https://youtu.be/yFQ2Oim5dqU?si=fprlell04PEFXxwV) |
+| 6 | ভবনের লে আউট প্ল্যান | 25:08 | [Watch](https://youtu.be/KViCE01wb6E?si=KMZCbD726kCkgAKZ) |
+| 7 | উলম্ব বাঁক | 29:33 | [Watch](https://youtu.be/83N5aF7dws4?si=vxZ4yyk3d-3nTHxy) |
 | 8 | বাঁক সংস্থাপনের কৌণিক পদ্ধতি | 13:08 | [Watch](https://youtu.be/k4la2JmtSSw?si=1y9By7GBSoKP-DpD) |
 | 9 | রৈখিক পদ্ধতিতে বাঁক সংস্থাপন | 24:00 | [Watch](https://youtu.be/RnxLv_FAY0Q?si=QKcEnvIexcPBwSO9) |
 | 10 | বাঁক বাঁক সংস্থাপন; বাঁক , বাঁকের প্রয়োজনীয়তা | 13:07 | [Watch](https://youtu.be/jhUNV7G4mOE?si=1v8APwHD_sidIM5-) |

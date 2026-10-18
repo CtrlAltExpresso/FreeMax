@@ -1,156 +1,155 @@
 # Mechanical Engineering Materials
-
 > 299 videos | RAC Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার | 7:06 | [Watch](https://youtu.be/qthrLDyMxhU) |
-| 2 | কম্পোজিট ম্যাটেরিয়ালস | 11:20 | [Watch](https://youtu.be/71VyISVvgT4) |
-| 3 | প্লাস্টিক | 15:29 | [Watch](https://youtu.be/AMeuJSpMCoc) |
-| 4 | আগুন ও পানিরোধী সামগ্রী অধ্যায়ের সংক্ষিপ্ত ও রচনামূলক প্রশ্নোত্তোর | 10:27 | [Watch](https://youtu.be/ldkFDinXlsI) |
-| 5 | রঙ এবং বার্নিশ | 12:26 | [Watch](https://youtu.be/-9XEXG1LGfo) |
-| 6 | কাচ ও মৃৎসামগ্রী | 16:10 | [Watch](https://youtu.be/hCUh9Ua7zLA) |
-| 7 | শব্দশোধক ও তাপ অন্তরক সামগ্রী | 5:19 | [Watch](https://youtu.be/jYgovf2SvoM) |
-| 8 | বালি ও সিমেন্ট | 8:42 | [Watch](https://youtu.be/pZbYlvoheiI) |
-| 9 | আকরিক কী | 9:28 | [Watch](https://youtu.be/Gtyx0U5Otf0) |
-| 10 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর ভিত্তি | 21:08 | [Watch](https://youtu.be/dNbUMvaqATs) |
-| 11 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার | 10:14 | [Watch](https://youtu.be/n3X6yiqgwOk) |
-| 12 | কম্পোজিট ম্যাটেনিয়ালস | 5:04 | [Watch](https://youtu.be/4TbsN5KG6o8) |
-| 13 | প্লাস্টিক | 21:04 | [Watch](https://youtu.be/5GlyEvgW9SY) |
-| 14 | আগুন ও পনি  বিবোধী সামগ্রী | 12:19 | [Watch](https://youtu.be/8OIIBHnN5Ts) |
-| 15 | রঙ (Paints) | 9:35 | [Watch](https://youtu.be/tYmjZHHOIgo) |
-| 16 | কাঁচ (Glass) | 27:19 | [Watch](https://youtu.be/TZO63Nwcju8) |
-| 17 | অন্তরক সামগ্রী (Insulating Material) | 26:17 | [Watch](https://youtu.be/eIbyHPGIc7o) |
-| 18 | বালি ও সিমেন্ট | 20:26 | [Watch](https://youtu.be/pGpGwUytpuw) |
-| 19 | ধাতু ও সংকর ধাতু (Metals and Alloys) | 19:13 | [Watch](https://youtu.be/RbrnrYdAh3k) |
-| 20 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর ভিত্তি | 23:24 | [Watch](https://youtu.be/Yi614Iq56mo) |
-| 21 | চৌম্বক পদার্থ | 4:12 | [Watch](https://youtu.be/TriTvFbGAOo) |
-| 22 | কম্পোজিট ম্যাটেরিয়াল | 4:32 | [Watch](https://youtu.be/jvc4qpdDpB4) |
-| 23 | প্লাস্টিক | 15:28 | [Watch](https://youtu.be/y4iLkm0EClY) |
-| 24 | আগুনরোধী সামগ্রী | 14:02 | [Watch](https://youtu.be/jdLBHDbFTgw) |
-| 25 | রঙ এবং বার্নিশের সংজ্ঞা | 11:00 | [Watch](https://youtu.be/LrlmhJmH66A) |
-| 26 | শব্দশোষক ও তাপ অন্তরক সামগ্রী | 11:31 | [Watch](https://youtu.be/9jWzgrsoqx8) |
-| 27 | কাচ | 10:32 | [Watch](https://youtu.be/6OTzFumwDWY) |
-| 28 | বালি ও সিমেন্ট | 13:33 | [Watch](https://youtu.be/agTYRxWzNZY) |
-| 29 | লৌহজ ও অলৌহজ ধাতু নিয়ে বিস্তারিত আলোচনা | 9:00 | [Watch](https://youtu.be/0PUpUhRPJR8) |
-| 30 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়্যালস এর ভিত্তি | 18:24 | [Watch](https://youtu.be/FdNrtTPC2zU) |
-| 31 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার অধ্যায়ের সংক্ষিপ্ত প্রশ্নোত্তোর | 6:13 | [Watch](https://youtu.be/t1A1HZZdT3E) |
-| 32 | প্লাস্টিক অধ্যায়ের সংক্ষিপ্ত প্রশ্নোত্তোর | 8:11 | [Watch](https://youtu.be/R76bossBkjg) |
-| 33 | আগুন ও পানিরোধী সামগ্রী | 13:14 | [Watch](https://youtu.be/zj0xr_GRFxY) |
-| 34 | PVCN সম্পর্কে সংক্ষেপে লেখ | 16:23 | [Watch](https://youtu.be/dU_VxsD2xTs) |
-| 35 | অন্তরক সামগ্রীর কার্যাবলি লেখ | 7:11 | [Watch](https://youtu.be/WqCL_EFZ20U) |
-| 36 | সিমেন্টে চুন কী কাজ করে | 18:10 | [Watch](https://youtu.be/ItLE-eFR8tQ) |
-| 37 | ইস্পাতকে কী কারণে সংকরায়ন করা হয় | 18:26 | [Watch](https://youtu.be/_uNYy8GdapM) |
-| 38 | প্রকৌশল সামগ্রীর যান্ত্রিক ধর্মগুলো কী কী | 16:19 | [Watch](https://youtu.be/ZQVeNKo_rW8) |
-| 39 | ডায়া চৌম্বক, প্যারা চৌম্বক ও ফেরো চৌম্বক | 4:16 | [Watch](https://youtu.be/hL42cN7VuZA) |
-| 40 | কম্পোজিট ম্যাটেরিয়ালস এর শ্রেণিবিভাগ | 13:14 | [Watch](https://youtu.be/l5kKG6JJz-0) |
-| 41 | প্লাস্টিক এর শ্রেণিবিভাগ | 10:08 | [Watch](https://youtu.be/J0xZSx0nQPI) |
-| 42 | অ্যাজবেস্টস | 6:35 | [Watch](https://youtu.be/J8B0CIbUOyY) |
-| 43 | রঙের শ্রেণিবিভাগ | 14:32 | [Watch](https://youtu.be/42uh5s6lPDE) |
-| 44 | বিভিন্ন ধরনের কাঁচ | 21:25 | [Watch](https://youtu.be/nPQ8YDVKVfk) |
-| 45 | বিদ্যুৎ অন্তরক সামগ্রী | 29:04 | [Watch](https://youtu.be/VD1hfKQ9neY) |
-| 46 | আদর্শ বা ভালো বালির ধর্ম | 16:16 | [Watch](https://youtu.be/YpM26f8TW4E) |
-| 47 | সংকর ধাতু বা অ্যালয় -এর প্রকারভেদ | 22:28 | [Watch](https://youtu.be/4D3jya79vME) |
-| 48 | প্রকৌশল সামগ্রী নির্বাচনে বিবেচ্য বিষয়সমূহ | 21:29 | [Watch](https://youtu.be/gttLDZav-YM) |
-| 49 | ডায়াচৌম্বক পদার্থ | 5:14 | [Watch](https://youtu.be/c2c0dXWCd9E) |
-| 50 | কম্পোজিট ম্যাটেরিয়াল এর গঠন | 9:30 | [Watch](https://youtu.be/pLUQ34W36A4) |
-| 51 | প্লাস্টিক কাঁচামাল | 9:30 | [Watch](https://youtu.be/8NE94Fsmw3c) |
-| 52 | পানিরোধী সামগ্রী | 11:08 | [Watch](https://youtu.be/RFuSEcIpw-I) |
-| 53 | রঙের ও বার্নিশের কাজ | 13:17 | [Watch](https://youtu.be/kIL4i_Z8hcg) |
-| 54 | ইনসুলেটিং ম্যাটেরিয়ালস বা অন্তরক সামগ্রীর কার্যাবলি | 10:32 | [Watch](https://youtu.be/L06wcV7wJMk) |
-| 55 | কাচ তৈরির উপাদান ও উপাদানের হার নিয়ে আলোচনা | 13:03 | [Watch](https://youtu.be/8SG2_rzdThc) |
-| 56 | বালি ও সিমেন্ট এর সংজ্ঞা | 8:33 | [Watch](https://youtu.be/NjhVTGUxtks) |
-| 57 | ধাতু সংকরীকরণ, মূল ধাতু ও সংকরীকরণের উপাদান | 8:35 | [Watch](https://youtu.be/OGefPwsZaF0) |
-| 58 | ম্যাটেরিয়াল টেস্টিং | 16:12 | [Watch](https://youtu.be/5ayTtg2uCq0) |
-| 59 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার অধ্যায়ের রচনামূলক প্রশ্নোত্তোর | 9:25 | [Watch](https://youtu.be/r4lpQc7MZwI) |
-| 60 | প্লাস্টিক অধ্যায়ের রচনামূলক প্রশ্নোত্তোর | 13:33 | [Watch](https://youtu.be/ua7GFJ_pL6s) |
-| 61 | উত্তম রঙের বৈশিষ্ট্যগুলো বর্ণনা কর | 18:16 | [Watch](https://youtu.be/leg4PLKPpxw) |
-| 62 | সফট এবং হার্ড চুম্বকীয় পদার্থসমূহ | 7:03 | [Watch](https://youtu.be/ZyeU5QfAy9I) |
-| 63 | কম্পোজিট ম্যাটেনিয়ালস সমূহ | 4:09 | [Watch](https://youtu.be/lFIxJl-TFPg) |
-| 64 | থার্মোসেটিং প্লাস্টিক  এবং থার্মো প্লাস্টিক এর  মধ্যে পার্থক্য | 7:25 | [Watch](https://youtu.be/fSkLK0q2_d4) |
-| 65 | দুর্গল বা অগ্নি সহনীয় সামগ্রী | 7:33 | [Watch](https://youtu.be/9iUmLVnmw_w) |
-| 66 | রঙের প্রয়োজনীয় উপাদান | 14:10 | [Watch](https://youtu.be/TkjncYnpHkM) |
-| 67 | কাঁচের ব্যবহার | 4:04 | [Watch](https://youtu.be/McazXuIjzls) |
-| 68 | অন্তরক হিসেবে অ্যাজবেস্টসের ব্যবহার সামগ্রী | 16:17 | [Watch](https://youtu.be/1lppGzBdh0M) |
-| 69 | বালির সূক্ষতা গুনাঙ্ক (Fineness Modulus Of Sand) | 23:04 | [Watch](https://youtu.be/SXgoVGj9J0M) |
-| 70 | আকরিক (Ore) | 22:23 | [Watch](https://youtu.be/tyv78NcVRik) |
-| 71 | বিভিন্ন যান্ত্রিক ধর্মাবলি (ভঙ্গুরতা (Brittleness) | 23:33 | [Watch](https://youtu.be/mb-iQxHqoNw) |
-| 72 | প্যারাচৌম্বক পদার্থ | 5:11 | [Watch](https://youtu.be/84dec2TL_rg) |
-| 73 | কম্পোজিট ম্যাটেরিয়ালের তালিকা | 9:18 | [Watch](https://youtu.be/h5eiQ_ZPDhM) |
-| 74 | আগুনরোধী ও পানিরোধী সামগ্রীর ব্যবহার | 9:24 | [Watch](https://youtu.be/YVdJ7fOqesE) |
-| 75 | রঙের শ্রেণিবিভাগ | 11:30 | [Watch](https://youtu.be/r3u8rYo5IPA) |
-| 76 | প্রাকৃতিক তাপ অন্তরক সামগ্রী | 5:01 | [Watch](https://youtu.be/juW5ED6HKXw) |
-| 77 | বিভিন্ন ধরনের কাচ | 9:10 | [Watch](https://youtu.be/M3nRUu10kA4) |
-| 78 | বালির শ্রেণিবিভাগ | 16:21 | [Watch](https://youtu.be/qKAkxBrlwuY) |
-| 79 | সংকরীকরণের উদ্দেশ্য | 13:23 | [Watch](https://youtu.be/kMFsKYhfH3w) |
-| 80 | প্রকৌশল সামগ্রী বা নির্মাণ সামগ্রী | 6:32 | [Watch](https://youtu.be/8NUD11zG2UQ) |
-| 81 | পরিবাহী সামগ্রী | 6:17 | [Watch](https://youtu.be/hsh6jRUhQvY) |
-| 82 | প্লাস্টিক  প্রস্তুত প্রক্রিয়া | 8:10 | [Watch](https://youtu.be/iECM3Kno5qA) |
-| 83 | দুর্গল বা অগ্নি সহনীয় সামগ্রীর ব্যবহার | 7:26 | [Watch](https://youtu.be/W_xGZasWY6A) |
-| 84 | বিভিন্ন ধরনের রঙ বা পেইন্টের ব্যবহার | 11:25 | [Watch](https://youtu.be/iiW8uHvLwW8) |
-| 85 | সিরামিক বা মৃৎসামগ্রী | 6:16 | [Watch](https://youtu.be/McazXuIjzls) |
-| 86 | সিমেন্টের প্রকারভেদ | 17:34 | [Watch](https://youtu.be/XjU94I9MWbk) |
-| 87 | মাইল্ড স্টিল ও ঢালাই লোহা | 15:29 | [Watch](https://youtu.be/mHCe31FKNJI) |
-| 88 | বিভিন্ন যান্ত্রিক ধর্মাবলি (সামর্থ্য (Strength) | 24:30 | [Watch](https://youtu.be/WkUxVFboLdU) |
-| 89 | ফেরোচৌম্বক পদার্থ | 6:31 | [Watch](https://youtu.be/zs7JljJ6HL4) |
-| 90 | কম্পোজিট ম্যাটেরিয়ালের শ্রেণিবিভাগ | 5:22 | [Watch](https://youtu.be/jYtignMeMgM) |
-| 91 | আগুনরোধী ও পানিরোধী সামগ্রী হিসেবে অ্যাজবেস্টস  এর ব্যবহার | 14:01 | [Watch](https://youtu.be/aflFJ8_ta6M) |
-| 92 | রঙের শ্রেণিবিভাগ part  2 | 8:20 | [Watch](https://youtu.be/R0CLXM2EO94) |
-| 93 | বিভিন্ন ধরনের কাচের শ্রেনীবিভাগ part 2 | 12:03 | [Watch](https://youtu.be/ybO7gzKnsOM) |
-| 94 | উত্তম তাপ অন্তরক সামগ্রীর বৈশিষ্ট্যসমূহ | 8:01 | [Watch](https://youtu.be/2z6zou5TBP4) |
-| 95 | বালির শ্রেণিবিভাগ part 2 | 9:10 | [Watch](https://youtu.be/5BmUj-BEosg) |
-| 96 | বিভিন্ন প্রকার ধাতু | 9:15 | [Watch](https://youtu.be/Sg4S3cpHfys) |
-| 97 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়্যালস | 7:10 | [Watch](https://youtu.be/xfe7R8IvGPs) |
-| 98 | অপটিক্যাল ফাইবার | 7:32 | [Watch](https://youtu.be/D4wHykV5qd0) |
-| 99 | প্লাস্টিক  মোল্ডিং এর প্রকারভেদ | 14:32 | [Watch](https://youtu.be/96vUTfhLKfE) |
-| 100 | পিগমেন্ট ভলিউম কনসেনট্রেশন নম্বর (PVCN) | 6:19 | [Watch](https://youtu.be/vdmc-QiDZSU) |
-| 101 | সিরামিক বা মৃৎসামগ্রীর শ্রেণিবিভাগ | 9:25 | [Watch](https://youtu.be/gk0MXjioPNQ) |
-| 102 | সিমেন্টের উপাদানগুলোর কার্যাবলি | 27:05 | [Watch](https://youtu.be/DGuk8CKXBNI) |
-| 103 | শিল্পকারখানায় ব্যবহৃত অলৌহজ ধাতুর তালিকা | 25:07 | [Watch](https://youtu.be/KBcem9lBllI) |
-| 104 | ডায়াচৌম্বক,প্যারাচৌম্বক ও ফেরোচৌম্বকের মধ্যে তুলনা | 12:21 | [Watch](https://youtu.be/6ib0QC8qAqk) |
-| 105 | কম্পোজিট ম্যাটেরিয়ালের শ্রেণিবিভাগ part 2 | 7:05 | [Watch](https://youtu.be/sGpaVDHn25o) |
-| 106 | পানিরোধী সামগ্রী হিসাবে অ্যাজবেস্টসের ব্যবহার | 5:26 | [Watch](https://youtu.be/aPz07AVa6rY) |
-| 107 | রঙের শ্রেণিবিভাগ part  3 | 11:25 | [Watch](https://youtu.be/1bX9zysY9zo) |
-| 108 | বিভিন্ন ধরনের কাচের শ্রেনীবিভাগ part 3 | 13:31 | [Watch](https://youtu.be/R2vQ40JoY2U) |
-| 109 | কৃত্রিম অন্তরক সামগ্রীসমূহ | 5:19 | [Watch](https://youtu.be/xX1xVp04Izo) |
-| 110 | ভালো বালির ধর্ম | 5:26 | [Watch](https://youtu.be/fEIrsWtezGk) |
-| 111 | এটমিক গঠন অনুসারে ধাতুর প্রকারভেদ | 12:28 | [Watch](https://youtu.be/Xxgr6LJUBZo) |
-| 112 | সচরাচার ব্যবহৃত প্রকৌশল সামগ্রী | 10:21 | [Watch](https://youtu.be/uPM-krQNmqE) |
-| 113 | অপটিক্যাল ফাইবার এর প্রকারভেদ | 9:19 | [Watch](https://youtu.be/5pJ2iVbUwcQ) |
-| 114 | প্রকৌশল সামগ্রী হিসেবে প্লাস্টিক এর ব্যবহার | 6:26 | [Watch](https://youtu.be/m-zYaCoPPk0) |
-| 115 | বিভিন্ন বর্নের জন্য রঞ্জকসমূহ | 8:18 | [Watch](https://youtu.be/4CDZgRcgbA8) |
-| 116 | সিরামিক বা মৃৎসামগ্রীর ধর্ম | 6:30 | [Watch](https://youtu.be/ANP40638k6M) |
-| 117 | শুষ্ক পদ্ধতিতে পোর্টল্যান্ড সিমেন্ট প্রস্তুত প্রণালী | 12:20 | [Watch](https://youtu.be/SHZeJ-fDhmU) |
-| 118 | সফট চুম্বকীয় পদার্থ | 4:11 | [Watch](https://youtu.be/qC93xrim2Ck) |
-| 119 | দূর্গল সামগ্রী | 9:22 | [Watch](https://youtu.be/qGH5RBrddFE) |
-| 120 | বার্নিশের প্রকারভেদ | 3:31 | [Watch](https://youtu.be/Ph4mT6L9AqY) |
-| 121 | বিভিন্ন ধরনের কাচের শ্রেনীবিভাগ part 4 | 10:14 | [Watch](https://youtu.be/B-1AN6rzkrs) |
-| 122 | বিদ্যুৎ অন্তরক সামগ্রী | 11:05 | [Watch](https://youtu.be/haH_hxoUfu4) |
-| 123 | বালি পরীক্ষা | 10:20 | [Watch](https://youtu.be/vg6372fXvhc) |
-| 124 | কম্পোজিশন,লোহা ও চুম্বকত্বের উপর ভিত্তি করে ধাতুর প্রকারভেদ | 8:27 | [Watch](https://youtu.be/a_iXs45-UQA) |
-| 125 | মেকানিক্যাল প্রকৌশল সামগ্রী | 9:04 | [Watch](https://youtu.be/q8UEsCTz7Z0) |
-| 126 | অপটিক্যাল ফাইবার এর সুবিধা ও অসুবিধাসমূহ | 6:13 | [Watch](https://youtu.be/VMRuOrNjp7E) |
-| 127 | বার্নিশ | 6:01 | [Watch](https://youtu.be/25-fpfM3GXA) |
-| 128 | কতিপয় সিমেন্টের বর্ণনা ও ব্যবহার | 27:25 | [Watch](https://youtu.be/s4fCBRBkTow) |
-| 129 | পরিবাহী, অপরিবাহী ও অর্ধপরিবাহী সামগ্রী | 11:26 | [Watch](https://youtu.be/uosx2ccPWsA) |
-| 130 | দূর্গল বা অগ্নিসহনীয় সামগ্রীর বৈশিষ্ট্য | 13:33 | [Watch](https://youtu.be/DwTEtfJfFOY) |
-| 131 | রঙের বৈশিষ্ট্য | 14:28 | [Watch](https://youtu.be/DLPnNAbJVI8) |
-| 132 | কাচের ধর্ম | 14:25 | [Watch](https://youtu.be/2w543Upj9mE) |
-| 133 | অবস্থা অনযায়ী বিদ্যুৎ অন্তরক কৃত্রিন সামগ্রীর একটি তালিকা নিয়ে আলোচনা | 5:13 | [Watch](https://youtu.be/bxy5GPJF6C4) |
-| 134 | ভালো বালির বিনির্দেশাবলি | 12:05 | [Watch](https://youtu.be/o85gk9V4udc) |
-| 135 | মেকানিক্যাল প্রোপার্টিজ বা যান্ত্রিক বৈশিষ্ট্যের উপর ভিত্তি করে ধাতুর প্রকারভেদ | 7:23 | [Watch](https://youtu.be/BJrp4npyGRk) |
-| 136 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর তালিকা | 5:26 | [Watch](https://youtu.be/TRCgCOYl9OU) |
-| 137 | বার্নিশের শ্রেণিবিভাগ | 8:12 | [Watch](https://youtu.be/xcdyRPFxdc8) |
-| 138 | সিমেন্টের ধর্ম (Properties of Cement) | 13:19 | [Watch](https://youtu.be/l_zxKqypA7Q) |
-| 139 | অর্ধপরিবাহী সামগ্রীর ব্যবহার | 7:20 | [Watch](https://youtu.be/z_85sStAQbU) |
-| 140 | দূর্গল ইট | 15:28 | [Watch](https://youtu.be/Nx7DD2B9clI) |
-| 141 | রঙের প্রয়োজনীয় উপাদান | 7:26 | [Watch](https://youtu.be/HzfBSGuXXW4) |
-| 142 | কাচের ব্যবহার | 17:14 | [Watch](https://youtu.be/z5qzjqzL4j0) |
-| 143 | শব্দ অন্তরক সামগ্রীগুলোর | 12:16 | [Watch](https://youtu.be/v-GD2ff1Cms) |
-| 144 | বালির গ্রেডিং  এর উদ্দেশ্য | 5:28 | [Watch](https://youtu.be/cGRwU8N5bNo) |
-| 145 | শিল্প কারখানায় ব্যবহৃত লৌহজ ও অলৌহজ ধাতু ব্যবহারের তালিকা | 9:11 | [Watch](https://youtu.be/CfS6MDh4vhM) |
-| 146 | অধাতু | 6:07 | [Watch](https://youtu.be/dObIlY-8hAo) |
-| 147 | সিমেন্টের পরীক্ষন (Testing of Cement) | 26:28 | [Watch](https://youtu.be/c5UgvFJoMis) |
+| 1 | ধাতু ও সংকর ধাতু (Metals and Alloys) | 19:13 | [Watch](https://youtu.be/RbrnrYdAh3k) |
+| 2 | বালির সূক্ষতা গুনাঙ্ক (Fineness Modulus Of Sand) | 23:04 | [Watch](https://youtu.be/SXgoVGj9J0M) |
+| 3 | সিমেন্টের ধর্ম (Properties of Cement) | 13:19 | [Watch](https://youtu.be/l_zxKqypA7Q) |
+| 4 | সিমেন্টের পরীক্ষন (Testing of Cement) | 26:28 | [Watch](https://youtu.be/c5UgvFJoMis) |
+| 5 | অন্তরক সামগ্রী (Insulating Material) | 26:17 | [Watch](https://youtu.be/eIbyHPGIc7o) |
+| 6 | কাঁচ (Glass) | 27:19 | [Watch](https://youtu.be/TZO63Nwcju8) |
+| 7 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার | 7:06 | [Watch](https://youtu.be/qthrLDyMxhU) |
+| 8 | কম্পোজিট ম্যাটেরিয়ালস | 11:20 | [Watch](https://youtu.be/71VyISVvgT4) |
+| 9 | প্লাস্টিক | 15:29 | [Watch](https://youtu.be/AMeuJSpMCoc) |
+| 10 | আগুন ও পানিরোধী সামগ্রী অধ্যায়ের সংক্ষিপ্ত ও রচনামূলক প্রশ্নোত্তোর | 10:27 | [Watch](https://youtu.be/ldkFDinXlsI) |
+| 11 | রঙ এবং বার্নিশ | 12:26 | [Watch](https://youtu.be/-9XEXG1LGfo) |
+| 12 | কাচ ও মৃৎসামগ্রী | 16:10 | [Watch](https://youtu.be/hCUh9Ua7zLA) |
+| 13 | শব্দশোধক ও তাপ অন্তরক সামগ্রী | 5:19 | [Watch](https://youtu.be/jYgovf2SvoM) |
+| 14 | বালি ও সিমেন্ট | 8:42 | [Watch](https://youtu.be/pZbYlvoheiI) |
+| 15 | আকরিক কী | 9:28 | [Watch](https://youtu.be/Gtyx0U5Otf0) |
+| 16 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর ভিত্তি | 21:08 | [Watch](https://youtu.be/dNbUMvaqATs) |
+| 17 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার | 10:14 | [Watch](https://youtu.be/n3X6yiqgwOk) |
+| 18 | কম্পোজিট ম্যাটেনিয়ালস | 5:04 | [Watch](https://youtu.be/4TbsN5KG6o8) |
+| 19 | প্লাস্টিক | 21:04 | [Watch](https://youtu.be/5GlyEvgW9SY) |
+| 20 | আগুন ও পনি  বিবোধী সামগ্রী | 12:19 | [Watch](https://youtu.be/8OIIBHnN5Ts) |
+| 21 | রঙ (Paints) | 9:35 | [Watch](https://youtu.be/tYmjZHHOIgo) |
+| 22 | বালি ও সিমেন্ট | 20:26 | [Watch](https://youtu.be/pGpGwUytpuw) |
+| 23 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর ভিত্তি | 23:24 | [Watch](https://youtu.be/Yi614Iq56mo) |
+| 24 | চৌম্বক পদার্থ | 4:12 | [Watch](https://youtu.be/TriTvFbGAOo) |
+| 25 | কম্পোজিট ম্যাটেরিয়াল | 4:32 | [Watch](https://youtu.be/jvc4qpdDpB4) |
+| 26 | প্লাস্টিক | 15:28 | [Watch](https://youtu.be/y4iLkm0EClY) |
+| 27 | আগুনরোধী সামগ্রী | 14:02 | [Watch](https://youtu.be/jdLBHDbFTgw) |
+| 28 | রঙ এবং বার্নিশের সংজ্ঞা | 11:00 | [Watch](https://youtu.be/LrlmhJmH66A) |
+| 29 | শব্দশোষক ও তাপ অন্তরক সামগ্রী | 11:31 | [Watch](https://youtu.be/9jWzgrsoqx8) |
+| 30 | কাচ | 10:32 | [Watch](https://youtu.be/6OTzFumwDWY) |
+| 31 | বালি ও সিমেন্ট | 13:33 | [Watch](https://youtu.be/agTYRxWzNZY) |
+| 32 | লৌহজ ও অলৌহজ ধাতু নিয়ে বিস্তারিত আলোচনা | 9:00 | [Watch](https://youtu.be/0PUpUhRPJR8) |
+| 33 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়্যালস এর ভিত্তি | 18:24 | [Watch](https://youtu.be/FdNrtTPC2zU) |
+| 34 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার অধ্যায়ের সংক্ষিপ্ত প্রশ্নোত্তোর | 6:13 | [Watch](https://youtu.be/t1A1HZZdT3E) |
+| 35 | প্লাস্টিক অধ্যায়ের সংক্ষিপ্ত প্রশ্নোত্তোর | 8:11 | [Watch](https://youtu.be/R76bossBkjg) |
+| 36 | আগুন ও পানিরোধী সামগ্রী | 13:14 | [Watch](https://youtu.be/zj0xr_GRFxY) |
+| 37 | PVCN সম্পর্কে সংক্ষেপে লেখ | 16:23 | [Watch](https://youtu.be/dU_VxsD2xTs) |
+| 38 | অন্তরক সামগ্রীর কার্যাবলি লেখ | 7:11 | [Watch](https://youtu.be/WqCL_EFZ20U) |
+| 39 | সিমেন্টে চুন কী কাজ করে | 18:10 | [Watch](https://youtu.be/ItLE-eFR8tQ) |
+| 40 | ইস্পাতকে কী কারণে সংকরায়ন করা হয় | 18:26 | [Watch](https://youtu.be/_uNYy8GdapM) |
+| 41 | প্রকৌশল সামগ্রীর যান্ত্রিক ধর্মগুলো কী কী | 16:19 | [Watch](https://youtu.be/ZQVeNKo_rW8) |
+| 42 | ডায়া চৌম্বক, প্যারা চৌম্বক ও ফেরো চৌম্বক | 4:16 | [Watch](https://youtu.be/hL42cN7VuZA) |
+| 43 | কম্পোজিট ম্যাটেরিয়ালস এর শ্রেণিবিভাগ | 13:14 | [Watch](https://youtu.be/l5kKG6JJz-0) |
+| 44 | প্লাস্টিক এর শ্রেণিবিভাগ | 10:08 | [Watch](https://youtu.be/J0xZSx0nQPI) |
+| 45 | অ্যাজবেস্টস | 6:35 | [Watch](https://youtu.be/J8B0CIbUOyY) |
+| 46 | রঙের শ্রেণিবিভাগ | 14:32 | [Watch](https://youtu.be/42uh5s6lPDE) |
+| 47 | বিভিন্ন ধরনের কাঁচ | 21:25 | [Watch](https://youtu.be/nPQ8YDVKVfk) |
+| 48 | বিদ্যুৎ অন্তরক সামগ্রী | 29:04 | [Watch](https://youtu.be/VD1hfKQ9neY) |
+| 49 | আদর্শ বা ভালো বালির ধর্ম | 16:16 | [Watch](https://youtu.be/YpM26f8TW4E) |
+| 50 | সংকর ধাতু বা অ্যালয় -এর প্রকারভেদ | 22:28 | [Watch](https://youtu.be/4D3jya79vME) |
+| 51 | প্রকৌশল সামগ্রী নির্বাচনে বিবেচ্য বিষয়সমূহ | 21:29 | [Watch](https://youtu.be/gttLDZav-YM) |
+| 52 | ডায়াচৌম্বক পদার্থ | 5:14 | [Watch](https://youtu.be/c2c0dXWCd9E) |
+| 53 | কম্পোজিট ম্যাটেরিয়াল এর গঠন | 9:30 | [Watch](https://youtu.be/pLUQ34W36A4) |
+| 54 | প্লাস্টিক কাঁচামাল | 9:30 | [Watch](https://youtu.be/8NE94Fsmw3c) |
+| 55 | পানিরোধী সামগ্রী | 11:08 | [Watch](https://youtu.be/RFuSEcIpw-I) |
+| 56 | রঙের ও বার্নিশের কাজ | 13:17 | [Watch](https://youtu.be/kIL4i_Z8hcg) |
+| 57 | ইনসুলেটিং ম্যাটেরিয়ালস বা অন্তরক সামগ্রীর কার্যাবলি | 10:32 | [Watch](https://youtu.be/L06wcV7wJMk) |
+| 58 | কাচ তৈরির উপাদান ও উপাদানের হার নিয়ে আলোচনা | 13:03 | [Watch](https://youtu.be/8SG2_rzdThc) |
+| 59 | বালি ও সিমেন্ট এর সংজ্ঞা | 8:33 | [Watch](https://youtu.be/NjhVTGUxtks) |
+| 60 | ধাতু সংকরীকরণ, মূল ধাতু ও সংকরীকরণের উপাদান | 8:35 | [Watch](https://youtu.be/OGefPwsZaF0) |
+| 61 | ম্যাটেরিয়াল টেস্টিং | 16:12 | [Watch](https://youtu.be/5ayTtg2uCq0) |
+| 62 | চৌম্বক পদার্থ ও অপটিক্যাল ফাইবার অধ্যায়ের রচনামূলক প্রশ্নোত্তোর | 9:25 | [Watch](https://youtu.be/r4lpQc7MZwI) |
+| 63 | প্লাস্টিক অধ্যায়ের রচনামূলক প্রশ্নোত্তোর | 13:33 | [Watch](https://youtu.be/ua7GFJ_pL6s) |
+| 64 | উত্তম রঙের বৈশিষ্ট্যগুলো বর্ণনা কর | 18:16 | [Watch](https://youtu.be/leg4PLKPpxw) |
+| 65 | সফট এবং হার্ড চুম্বকীয় পদার্থসমূহ | 7:03 | [Watch](https://youtu.be/ZyeU5QfAy9I) |
+| 66 | কম্পোজিট ম্যাটেনিয়ালস সমূহ | 4:09 | [Watch](https://youtu.be/lFIxJl-TFPg) |
+| 67 | থার্মোসেটিং প্লাস্টিক  এবং থার্মো প্লাস্টিক এর  মধ্যে পার্থক্য | 7:25 | [Watch](https://youtu.be/fSkLK0q2_d4) |
+| 68 | দুর্গল বা অগ্নি সহনীয় সামগ্রী | 7:33 | [Watch](https://youtu.be/9iUmLVnmw_w) |
+| 69 | রঙের প্রয়োজনীয় উপাদান | 14:10 | [Watch](https://youtu.be/TkjncYnpHkM) |
+| 70 | কাঁচের ব্যবহার | 4:04 | [Watch](https://youtu.be/McazXuIjzls) |
+| 71 | অন্তরক হিসেবে অ্যাজবেস্টসের ব্যবহার সামগ্রী | 16:17 | [Watch](https://youtu.be/1lppGzBdh0M) |
+| 72 | আকরিক (Ore) | 22:23 | [Watch](https://youtu.be/tyv78NcVRik) |
+| 73 | বিভিন্ন যান্ত্রিক ধর্মাবলি (ভঙ্গুরতা (Brittleness) | 23:33 | [Watch](https://youtu.be/mb-iQxHqoNw) |
+| 74 | প্যারাচৌম্বক পদার্থ | 5:11 | [Watch](https://youtu.be/84dec2TL_rg) |
+| 75 | কম্পোজিট ম্যাটেরিয়ালের তালিকা | 9:18 | [Watch](https://youtu.be/h5eiQ_ZPDhM) |
+| 76 | আগুনরোধী ও পানিরোধী সামগ্রীর ব্যবহার | 9:24 | [Watch](https://youtu.be/YVdJ7fOqesE) |
+| 77 | রঙের শ্রেণিবিভাগ | 11:30 | [Watch](https://youtu.be/r3u8rYo5IPA) |
+| 78 | প্রাকৃতিক তাপ অন্তরক সামগ্রী | 5:01 | [Watch](https://youtu.be/juW5ED6HKXw) |
+| 79 | বিভিন্ন ধরনের কাচ | 9:10 | [Watch](https://youtu.be/M3nRUu10kA4) |
+| 80 | বালির শ্রেণিবিভাগ | 16:21 | [Watch](https://youtu.be/qKAkxBrlwuY) |
+| 81 | সংকরীকরণের উদ্দেশ্য | 13:23 | [Watch](https://youtu.be/kMFsKYhfH3w) |
+| 82 | প্রকৌশল সামগ্রী বা নির্মাণ সামগ্রী | 6:32 | [Watch](https://youtu.be/8NUD11zG2UQ) |
+| 83 | পরিবাহী সামগ্রী | 6:17 | [Watch](https://youtu.be/hsh6jRUhQvY) |
+| 84 | প্লাস্টিক  প্রস্তুত প্রক্রিয়া | 8:10 | [Watch](https://youtu.be/iECM3Kno5qA) |
+| 85 | দুর্গল বা অগ্নি সহনীয় সামগ্রীর ব্যবহার | 7:26 | [Watch](https://youtu.be/W_xGZasWY6A) |
+| 86 | বিভিন্ন ধরনের রঙ বা পেইন্টের ব্যবহার | 11:25 | [Watch](https://youtu.be/iiW8uHvLwW8) |
+| 87 | সিরামিক বা মৃৎসামগ্রী | 6:16 | [Watch](https://youtu.be/McazXuIjzls) |
+| 88 | সিমেন্টের প্রকারভেদ | 17:34 | [Watch](https://youtu.be/XjU94I9MWbk) |
+| 89 | মাইল্ড স্টিল ও ঢালাই লোহা | 15:29 | [Watch](https://youtu.be/mHCe31FKNJI) |
+| 90 | বিভিন্ন যান্ত্রিক ধর্মাবলি (সামর্থ্য (Strength) | 24:30 | [Watch](https://youtu.be/WkUxVFboLdU) |
+| 91 | ফেরোচৌম্বক পদার্থ | 6:31 | [Watch](https://youtu.be/zs7JljJ6HL4) |
+| 92 | কম্পোজিট ম্যাটেরিয়ালের শ্রেণিবিভাগ | 5:22 | [Watch](https://youtu.be/jYtignMeMgM) |
+| 93 | আগুনরোধী ও পানিরোধী সামগ্রী হিসেবে অ্যাজবেস্টস  এর ব্যবহার | 14:01 | [Watch](https://youtu.be/aflFJ8_ta6M) |
+| 94 | রঙের শ্রেণিবিভাগ part  2 | 8:20 | [Watch](https://youtu.be/R0CLXM2EO94) |
+| 95 | বিভিন্ন ধরনের কাচের শ্রেনীবিভাগ part 2 | 12:03 | [Watch](https://youtu.be/ybO7gzKnsOM) |
+| 96 | উত্তম তাপ অন্তরক সামগ্রীর বৈশিষ্ট্যসমূহ | 8:01 | [Watch](https://youtu.be/2z6zou5TBP4) |
+| 97 | বালির শ্রেণিবিভাগ part 2 | 9:10 | [Watch](https://youtu.be/5BmUj-BEosg) |
+| 98 | বিভিন্ন প্রকার ধাতু | 9:15 | [Watch](https://youtu.be/Sg4S3cpHfys) |
+| 99 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়্যালস | 7:10 | [Watch](https://youtu.be/xfe7R8IvGPs) |
+| 100 | অপটিক্যাল ফাইবার | 7:32 | [Watch](https://youtu.be/D4wHykV5qd0) |
+| 101 | প্লাস্টিক  মোল্ডিং এর প্রকারভেদ | 14:32 | [Watch](https://youtu.be/96vUTfhLKfE) |
+| 102 | পিগমেন্ট ভলিউম কনসেনট্রেশন নম্বর (PVCN) | 6:19 | [Watch](https://youtu.be/vdmc-QiDZSU) |
+| 103 | সিরামিক বা মৃৎসামগ্রীর শ্রেণিবিভাগ | 9:25 | [Watch](https://youtu.be/gk0MXjioPNQ) |
+| 104 | সিমেন্টের উপাদানগুলোর কার্যাবলি | 27:05 | [Watch](https://youtu.be/DGuk8CKXBNI) |
+| 105 | শিল্পকারখানায় ব্যবহৃত অলৌহজ ধাতুর তালিকা | 25:07 | [Watch](https://youtu.be/KBcem9lBllI) |
+| 106 | ডায়াচৌম্বক,প্যারাচৌম্বক ও ফেরোচৌম্বকের মধ্যে তুলনা | 12:21 | [Watch](https://youtu.be/6ib0QC8qAqk) |
+| 107 | কম্পোজিট ম্যাটেরিয়ালের শ্রেণিবিভাগ part 2 | 7:05 | [Watch](https://youtu.be/sGpaVDHn25o) |
+| 108 | পানিরোধী সামগ্রী হিসাবে অ্যাজবেস্টসের ব্যবহার | 5:26 | [Watch](https://youtu.be/aPz07AVa6rY) |
+| 109 | রঙের শ্রেণিবিভাগ part  3 | 11:25 | [Watch](https://youtu.be/1bX9zysY9zo) |
+| 110 | বিভিন্ন ধরনের কাচের শ্রেনীবিভাগ part 3 | 13:31 | [Watch](https://youtu.be/R2vQ40JoY2U) |
+| 111 | কৃত্রিম অন্তরক সামগ্রীসমূহ | 5:19 | [Watch](https://youtu.be/xX1xVp04Izo) |
+| 112 | ভালো বালির ধর্ম | 5:26 | [Watch](https://youtu.be/fEIrsWtezGk) |
+| 113 | এটমিক গঠন অনুসারে ধাতুর প্রকারভেদ | 12:28 | [Watch](https://youtu.be/Xxgr6LJUBZo) |
+| 114 | সচরাচার ব্যবহৃত প্রকৌশল সামগ্রী | 10:21 | [Watch](https://youtu.be/uPM-krQNmqE) |
+| 115 | অপটিক্যাল ফাইবার এর প্রকারভেদ | 9:19 | [Watch](https://youtu.be/5pJ2iVbUwcQ) |
+| 116 | প্রকৌশল সামগ্রী হিসেবে প্লাস্টিক এর ব্যবহার | 6:26 | [Watch](https://youtu.be/m-zYaCoPPk0) |
+| 117 | বিভিন্ন বর্নের জন্য রঞ্জকসমূহ | 8:18 | [Watch](https://youtu.be/4CDZgRcgbA8) |
+| 118 | সিরামিক বা মৃৎসামগ্রীর ধর্ম | 6:30 | [Watch](https://youtu.be/ANP40638k6M) |
+| 119 | শুষ্ক পদ্ধতিতে পোর্টল্যান্ড সিমেন্ট প্রস্তুত প্রণালী | 12:20 | [Watch](https://youtu.be/SHZeJ-fDhmU) |
+| 120 | সফট চুম্বকীয় পদার্থ | 4:11 | [Watch](https://youtu.be/qC93xrim2Ck) |
+| 121 | দূর্গল সামগ্রী | 9:22 | [Watch](https://youtu.be/qGH5RBrddFE) |
+| 122 | বার্নিশের প্রকারভেদ | 3:31 | [Watch](https://youtu.be/Ph4mT6L9AqY) |
+| 123 | বিভিন্ন ধরনের কাচের শ্রেনীবিভাগ part 4 | 10:14 | [Watch](https://youtu.be/B-1AN6rzkrs) |
+| 124 | বিদ্যুৎ অন্তরক সামগ্রী | 11:05 | [Watch](https://youtu.be/haH_hxoUfu4) |
+| 125 | বালি পরীক্ষা | 10:20 | [Watch](https://youtu.be/vg6372fXvhc) |
+| 126 | কম্পোজিশন,লোহা ও চুম্বকত্বের উপর ভিত্তি করে ধাতুর প্রকারভেদ | 8:27 | [Watch](https://youtu.be/a_iXs45-UQA) |
+| 127 | মেকানিক্যাল প্রকৌশল সামগ্রী | 9:04 | [Watch](https://youtu.be/q8UEsCTz7Z0) |
+| 128 | অপটিক্যাল ফাইবার এর সুবিধা ও অসুবিধাসমূহ | 6:13 | [Watch](https://youtu.be/VMRuOrNjp7E) |
+| 129 | বার্নিশ | 6:01 | [Watch](https://youtu.be/25-fpfM3GXA) |
+| 130 | কতিপয় সিমেন্টের বর্ণনা ও ব্যবহার | 27:25 | [Watch](https://youtu.be/s4fCBRBkTow) |
+| 131 | পরিবাহী, অপরিবাহী ও অর্ধপরিবাহী সামগ্রী | 11:26 | [Watch](https://youtu.be/uosx2ccPWsA) |
+| 132 | দূর্গল বা অগ্নিসহনীয় সামগ্রীর বৈশিষ্ট্য | 13:33 | [Watch](https://youtu.be/DwTEtfJfFOY) |
+| 133 | রঙের বৈশিষ্ট্য | 14:28 | [Watch](https://youtu.be/DLPnNAbJVI8) |
+| 134 | কাচের ধর্ম | 14:25 | [Watch](https://youtu.be/2w543Upj9mE) |
+| 135 | অবস্থা অনযায়ী বিদ্যুৎ অন্তরক কৃত্রিন সামগ্রীর একটি তালিকা নিয়ে আলোচনা | 5:13 | [Watch](https://youtu.be/bxy5GPJF6C4) |
+| 136 | ভালো বালির বিনির্দেশাবলি | 12:05 | [Watch](https://youtu.be/o85gk9V4udc) |
+| 137 | মেকানিক্যাল প্রোপার্টিজ বা যান্ত্রিক বৈশিষ্ট্যের উপর ভিত্তি করে ধাতুর প্রকারভেদ | 7:23 | [Watch](https://youtu.be/BJrp4npyGRk) |
+| 138 | মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর তালিকা | 5:26 | [Watch](https://youtu.be/TRCgCOYl9OU) |
+| 139 | বার্নিশের শ্রেণিবিভাগ | 8:12 | [Watch](https://youtu.be/xcdyRPFxdc8) |
+| 140 | অর্ধপরিবাহী সামগ্রীর ব্যবহার | 7:20 | [Watch](https://youtu.be/z_85sStAQbU) |
+| 141 | দূর্গল ইট | 15:28 | [Watch](https://youtu.be/Nx7DD2B9clI) |
+| 142 | রঙের প্রয়োজনীয় উপাদান | 7:26 | [Watch](https://youtu.be/HzfBSGuXXW4) |
+| 143 | কাচের ব্যবহার | 17:14 | [Watch](https://youtu.be/z5qzjqzL4j0) |
+| 144 | শব্দ অন্তরক সামগ্রীগুলোর | 12:16 | [Watch](https://youtu.be/v-GD2ff1Cms) |
+| 145 | বালির গ্রেডিং  এর উদ্দেশ্য | 5:28 | [Watch](https://youtu.be/cGRwU8N5bNo) |
+| 146 | শিল্প কারখানায় ব্যবহৃত লৌহজ ও অলৌহজ ধাতু ব্যবহারের তালিকা | 9:11 | [Watch](https://youtu.be/CfS6MDh4vhM) |
+| 147 | অধাতু | 6:07 | [Watch](https://youtu.be/dObIlY-8hAo) |
 | 148 | শিল্পকারখানায় চুম্বকের ব্যবহার | 9:23 | [Watch](https://youtu.be/Moz6Mw4c-Z8) |
 | 149 | দূর্গল বা অগ্নিসহনীয় সামগ্রীর ব্যবহার | 5:17 | [Watch](https://youtu.be/YYsHAbwcLIQ) |
 | 150 | মূল উপাদান বর্ণনা | 8:11 | [Watch](https://youtu.be/UC-3EP67Rns) |

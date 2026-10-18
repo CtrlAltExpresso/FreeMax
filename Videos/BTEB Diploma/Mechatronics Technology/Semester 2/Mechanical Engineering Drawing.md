@@ -1,26 +1,25 @@
 # Mechanical Engineering Drawing
-
 > 42 videos | Mechatronics Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | গিয়ার | 17:08 | [Watch](https://youtu.be/AgfQCeSxULY) |
-| 2 | 2D | 28:12 | [Watch](https://youtu.be/IIZOysioWQg) |
-| 3 | অটোক্যাড (AutoCAD) | 18:00 | [Watch](https://youtu.be/I6dIA4cFcLA) |
-| 4 | স্কু থ্রেড (Screw Thread) | 36:13 | [Watch](https://youtu.be/Jzobtoyy65Y) |
-| 5 | তল (Plane) | 23:33 | [Watch](https://youtu.be/rFdommUvit4) |
-| 6 | বিভিন্ন প্রকার গিয়ার | 16:42 | [Watch](https://youtu.be/r-BhrPsmCek) |
-| 7 | CAD ড্রয়িং এর সুবিধাসমূহ | 7:12 | [Watch](https://youtu.be/2Y0rawF7Yq0) |
-| 8 | অটোক্যাড সফটওয়‍্যার চালুকরণ | 19:19 | [Watch](https://youtu.be/JRJgX6stlLo) |
-| 9 | একক থ্রেড এবং ডাবল থ্রেড কাকে বলে | 23:23 | [Watch](https://youtu.be/nYgOAJkbx2o) |
-| 10 | সেকশন ড্রয়িং এর প্রকারভেদ | 17:28 | [Watch](https://youtu.be/-cGFONkFQOo) |
-| 11 | বিভিন্ন প্রকার গিয়ারের পরিচিতি | 19:33 | [Watch](https://youtu.be/CO0SaZkmxQw) |
-| 12 | CAD ড্রয়িং এর অসুবিধাসমূহ | 4:12 | [Watch](https://youtu.be/PMZPNe_AZ3Y) |
-| 13 | Auto CAD-এ একটি ড্রয়িং উইন্ডো এঁকে এর বিভিন্ন অংশ চিহ্নিত কর | 18:23 | [Watch](https://youtu.be/svqIpcPdQEg) |
-| 14 | পিচ কাকে বলে | 20:26 | [Watch](https://youtu.be/Qa_b667Srzc) |
-| 15 | সেকশন ভিউ (Section View) | 26:17 | [Watch](https://youtu.be/msyufr-dxTE) |
-| 16 | স্পার গিয়ার এর পরিভাষা | 22:22 | [Watch](https://youtu.be/vNMYAgY0s7w) |
-| 17 | CADD সফটওয়্যারের প্রয়োগক্ষেত্র | 7:24 | [Watch](https://youtu.be/NxhsYLqFAUQ) |
+| 1 | সেকশন ভিউ (Section View) | 26:17 | [Watch](https://youtu.be/msyufr-dxTE) |
+| 2 | স্কু থ্রেড (Screw Thread) | 36:13 | [Watch](https://youtu.be/Jzobtoyy65Y) |
+| 3 | CAD ড্রয়িং এর সুবিধাসমূহ | 7:12 | [Watch](https://youtu.be/2Y0rawF7Yq0) |
+| 4 | CAD ড্রয়িং এর অসুবিধাসমূহ | 4:12 | [Watch](https://youtu.be/PMZPNe_AZ3Y) |
+| 5 | Auto CAD-এ একটি ড্রয়িং উইন্ডো এঁকে এর বিভিন্ন অংশ চিহ্নিত কর | 18:23 | [Watch](https://youtu.be/svqIpcPdQEg) |
+| 6 | CADD সফটওয়্যারের প্রয়োগক্ষেত্র | 7:24 | [Watch](https://youtu.be/NxhsYLqFAUQ) |
+| 7 | গিয়ার | 17:08 | [Watch](https://youtu.be/AgfQCeSxULY) |
+| 8 | 2D | 28:12 | [Watch](https://youtu.be/IIZOysioWQg) |
+| 9 | অটোক্যাড (AutoCAD) | 18:00 | [Watch](https://youtu.be/I6dIA4cFcLA) |
+| 10 | তল (Plane) | 23:33 | [Watch](https://youtu.be/rFdommUvit4) |
+| 11 | বিভিন্ন প্রকার গিয়ার | 16:42 | [Watch](https://youtu.be/r-BhrPsmCek) |
+| 12 | অটোক্যাড সফটওয়‍্যার চালুকরণ | 19:19 | [Watch](https://youtu.be/JRJgX6stlLo) |
+| 13 | একক থ্রেড এবং ডাবল থ্রেড কাকে বলে | 23:23 | [Watch](https://youtu.be/nYgOAJkbx2o) |
+| 14 | সেকশন ড্রয়িং এর প্রকারভেদ | 17:28 | [Watch](https://youtu.be/-cGFONkFQOo) |
+| 15 | বিভিন্ন প্রকার গিয়ারের পরিচিতি | 19:33 | [Watch](https://youtu.be/CO0SaZkmxQw) |
+| 16 | পিচ কাকে বলে | 20:26 | [Watch](https://youtu.be/Qa_b667Srzc) |
+| 17 | স্পার গিয়ার এর পরিভাষা | 22:22 | [Watch](https://youtu.be/vNMYAgY0s7w) |
 | 18 | অটোক্যাড গ্রাফিক্স স্ক্রিন ২০০৭-এর অংশসমূহ | 20:28 | [Watch](https://youtu.be/m9SIQWQ8FxA) |
 | 19 | বোল্ট কাকে বলে | 15:35 | [Watch](https://youtu.be/o4H0bUWb59A) |
 | 20 | হ্যাচিং (Hatching) | 16:24 | [Watch](https://youtu.be/uYMH3zOXkv8) |

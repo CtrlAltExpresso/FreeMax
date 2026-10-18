@@ -1,93 +1,92 @@
 # Power Plant Enginnering
-
 > 205 videos | Power Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | বিদ্যুৎ উৎপাদন কেন্দ্রের অর্থনীতি | 5:20 | [Watch](https://youtu.be/0FaWGoseJKA) |
-| 2 | বায়ু ও জৈব পাওয়ার প্লান্ট | 5:26 | [Watch](https://youtu.be/AD22I9rsWso) |
-| 3 | সৌরবিদ্যুৎ কেন্দ্র | 4:10 | [Watch](https://youtu.be/9H1xfY3wRuU) |
-| 4 | নবায়নযোগ্য শক্তির উৎসসমূহ | 5:13 | [Watch](https://youtu.be/sLy0TjwUwkg) |
-| 5 | পারমাণবিক বিদ্যুৎ কেন্দ্র | 7:15 | [Watch](https://youtu.be/Eydu4dSIkX4) |
-| 6 | পানি বিদ্যুৎ কেন্দ্র | 5:35 | [Watch](https://youtu.be/gMAG4xXNMGI) |
-| 7 | ডিজেল পাওয়ার প্লান্ট | 4:14 | [Watch](https://youtu.be/fvo-UnaoqGg) |
-| 8 | গ্যাস টারবাইন ও কম্পাইন্ড সাইকেল পাওয়ার | 10:30 | [Watch](https://youtu.be/HWrebAHPnlw) |
-| 9 | স্টিম পাওয়ার প্লান্ট | 5:21 | [Watch](https://youtu.be/EKCu9hy7dJU?si=yU5LOlFMTwJp82Bp) |
-| 10 | বয়লার কি এবং বয়লারের গুণাবলি | 10:01 | [Watch](https://youtu.be/3kO3g1b_WJI?si=f6gsWjfzPzs2DhUi) |
-| 11 | সিলেবাস ও শক্তির উৎসসমূহ | 11:13 | [Watch](https://youtu.be/zTj8RY9f3fk) |
-| 12 | বিদ্যুৎ কেন্দ্রের বিভিন্ন টেকনিক্যাল উপাদান | 6:23 | [Watch](https://youtu.be/_ONkymPDAxA) |
-| 13 | উইন্ডমিল পাওয়ার প্লান্টের পরিকল্পিত ডায়াগ্রাম | 4:10 | [Watch](https://youtu.be/hb7EuAQ5YNE) |
-| 14 | সোলার এনার্জিতে ব্যবহৃত অংশসমূহ | 2:31 | [Watch](https://youtu.be/ogHJZ00zAus) |
-| 15 | বিভিন্ন প্রকার সোলার সেল | 3:00 | [Watch](https://youtu.be/H16pVZnTStQ) |
-| 16 | ফিশন | 12:34 | [Watch](https://youtu.be/9doHPJUjMa4) |
-| 17 | পানিবিদ্যুৎ কেন্দ্রের শ্রেণিবিন্যাস | 6:28 | [Watch](https://youtu.be/JBNSdRvAnLc) |
-| 18 | ডিজেল পাওয়ার প্লান্ট কীভাবে চলে | 8:32 | [Watch](https://youtu.be/rZfc9E0RhSQ) |
-| 19 | ওপেন সাইকেল গ্যাস টারবাইন | 16:13 | [Watch](https://youtu.be/F_TtxrOpicE) |
-| 20 | র‍্যাংকিন সাইকেল | 5:16 | [Watch](https://youtu.be/6OwAgSLVYYg?si=o0k9pNkNwjK36soN) |
-| 21 | বয়লারের শ্রেণিবিভাগ | 7:15 | [Watch](https://youtu.be/4M2ry3lFSpE?si=jpUPNbrn3Mxa3Jx3) |
-| 22 | নবায়নযোগ্য শক্তি | 8:33 | [Watch](https://youtu.be/1upoRgEVUoE) |
-| 23 | লোড কার্ভ | 5:19 | [Watch](https://youtu.be/nkT1M2oUksI) |
-| 24 | উইন্ডমিলের প্রকারভেদ | 3:23 | [Watch](https://youtu.be/n2KAt4RUZCU) |
-| 25 | টাইপিক্যাল ফ্লাট প্লেট কালেক্টর | 7:28 | [Watch](https://youtu.be/2mXrGXbUWA4) |
-| 26 | সোলার থার্মাল পাওয়ার উৎপাদনের মূলনীতি | 14:32 | [Watch](https://youtu.be/xPVOUpQY8HM) |
-| 27 | পারমাণবিক বিদ্যুৎ কেন্দ্রের উপাদানসমূহ | 6:02 | [Watch](https://youtu.be/pL5ppaMCo0U) |
-| 28 | স্পেসিফিক স্পিড | 5:13 | [Watch](https://youtu.be/QBq__2Qpr1Q) |
-| 29 | ডিজেল পাওয়ার প্লান্টের যন্ত্রপাতি | 6:22 | [Watch](https://youtu.be/8__vS-bjjm0) |
-| 30 | ক্লোজড সাইকেল গ্যাস টারবাইন | 6:19 | [Watch](https://youtu.be/_vwUwV8a2rE) |
-| 31 | র‍্যাংকিন সাইকেল কীভাবে কাজ করে এবং এর অংশসমূহ | 16:05 | [Watch](https://youtu.be/b9O2StKTT-A?si=iEEbY8WD-wqiOEnO) |
-| 32 | ওয়াটার টিউব বয়লার | 4:02 | [Watch](https://youtu.be/XWJRoE9YLvo?si=vdWjGWlbIh9MfhbI) |
-| 33 | নবায়নযোগ্য শক্তির সুবিধা ও অসুবিধা | 10:19 | [Watch](https://youtu.be/mc6TZC38i7s) |
-| 34 | সাপ্তাহিক লোড কার্ভ | 7:15 | [Watch](https://youtu.be/K2-W2eXzyuE) |
-| 35 | উইন্ডমিলের কার্যপ্রণালী | 8:31 | [Watch](https://youtu.be/UWXovE6KRrI) |
-| 36 | ফটোভোল্টাইক সেল | 6:28 | [Watch](https://youtu.be/cVOsfR_mmxo) |
-| 37 | উচ্চ তাপমাত্রায় থার্মাল কনর্ভাশন | 9:23 | [Watch](https://youtu.be/YyRbDAiWmf4) |
-| 38 | নিউক্লিয়ার পাওয়ার প্লান্টের কার্যপ্রণালি | 17:26 | [Watch](https://youtu.be/PZu8CVIklxA) |
-| 39 | বিভিন্ন ধরণের পানিবিদ্যুৎ কেন্দ্রের বর্ণনা | 4:17 | [Watch](https://youtu.be/XEvx4EG3MdI) |
-| 40 | ডিজেল পাওয়ার প্লান্টের ডায়াগ্রাম | 8:16 | [Watch](https://youtu.be/JhTJByU9xms) |
-| 41 | গ্যাস টারবাইন সাইকেলের দক্ষতা | 17:10 | [Watch](https://youtu.be/a4RJ1xMRYPw) |
-| 42 | র‍্যাংকিন  সাইকেল এর ইফিসিয়েন্সি বের করার পদ্ধতি | 22:26 | [Watch](https://youtu.be/ZVq5XOafJbw?si=cqHMb65Ob-_wgHQ8) |
-| 43 | ল্যা মন্ট বয়লার | 5:31 | [Watch](https://youtu.be/e7FXGDnNEbU?si=T-9U9eUqGl757bIo) |
-| 44 | শক্তির প্রচলিত ও অপ্রচলিত উ’ৎসের মধ্যে পার্থক্য | 12:34 | [Watch](https://youtu.be/PnP3RSM0rT0) |
-| 45 | বাৎসরিক লোড কার্ভ | 5:05 | [Watch](https://youtu.be/BrFYRk1qdZo) |
-| 46 | উইন্ডমিলের স্থান নির্বাচন | 6:35 | [Watch](https://youtu.be/crYKAmOffwM) |
-| 47 | ফুয়েল সেলের কার্যনীতি | 9:19 | [Watch](https://youtu.be/Ibom19bicqI) |
-| 48 | সোলার পুল হিটার | 5:09 | [Watch](https://youtu.be/O4Wq5CfUyUE) |
-| 49 | রিয়্যাক্টর | 4:31 | [Watch](https://youtu.be/uEVsouTPCqs) |
-| 50 | স্টোরেজ প্লান্ট | 4:24 | [Watch](https://youtu.be/amEvZ6WNa4Y) |
-| 51 | ডিজেল পাওয়ার প্লান্টের সুবিধা ও অসুবিধা | 5:16 | [Watch](https://youtu.be/RB7ZqDUKTuk) |
-| 52 | গ্যাস টারবাইন সাইকেলের দক্ষতা-২ | 5:19 | [Watch](https://youtu.be/-m2DO6RZ2Mo) |
-| 53 | একটি স্টিম টারবাইনের চিত্র অঙ্কন করে বিভিন্ন অংশ চিহ্নিত করন | 2:35 | [Watch](https://youtu.be/h_hmzgHH4SI?si=JL3_gRyal1BZSADh) |
-| 54 | লফলার বয়লার | 3:23 | [Watch](https://youtu.be/SSLzyedTkq8?si=Xp1q9W1F3TLbm843) |
-| 55 | পাওয়ার প্লান্ট | 6:19 | [Watch](https://youtu.be/7-30md6SFyc) |
-| 56 | আদর্শ বাস্তব লোড কার্ভের তুলনা | 7:26 | [Watch](https://youtu.be/XOqh7yJ4jbk) |
-| 57 | উইন্ডমিল বিদ্যুৎ কেন্দ্রের সুবিধা ও অসুবিধাসমূহ | 11:22 | [Watch](https://youtu.be/NU9SHd2PKMU) |
-| 58 | বিভিন্ন প্রকার ফটোভোল্টাইক সেল | 5:08 | [Watch](https://youtu.be/U2DPwv53xXU) |
-| 59 | সোলার হট ওয়াটার হিটার | 9:04 | [Watch](https://youtu.be/FY87MsFaJpk) |
-| 60 | প্রেসারাইজড ওয়াটার রিয়্যাক্টর | 5:03 | [Watch](https://youtu.be/OVgUJdh6ltE) |
-| 61 | হাই হেড প্লান্ট | 2:33 | [Watch](https://youtu.be/DUQYNyyr4D8) |
-| 62 | ডিজেল ইঞ্জিন চালু ও বন্ধকরণ | 4:35 | [Watch](https://youtu.be/1T1vHcvCiDA) |
-| 63 | বিভিন্ন প্রকার গ্যাস টারবাইন পাওয়ার প্লান্ট | 4:11 | [Watch](https://youtu.be/jkG9av-3Fsg) |
-| 64 | রিহিট সাইকেল | 13:24 | [Watch](https://youtu.be/lAcnJw3FzoU?si=apyBIVdba2jVLLyZ) |
-| 65 | ব্যবকক্ অ্যান্ড উইলকক্স ওয়টার টিউব বয়লার | 4:11 | [Watch](https://youtu.be/aoWodMupBtY?si=wPqXnsD-HhItvqjR) |
-| 66 | পাওয়ার প্লান্টের কার্যপ্রণালি | 10:04 | [Watch](https://youtu.be/VCE8WihwApo) |
-| 67 | ইন্টিগ্রেটেড লোড কার্ভ | 11:31 | [Watch](https://youtu.be/9y4ErH3J430) |
-| 68 | বায়োমাস হতে শক্তি নির্ণয়করনের পদ্ধতি | 5:06 | [Watch](https://youtu.be/T7PfjqUIE70) |
-| 69 | ফটোভোল্টাইক সেল ও ফুয়েল সেলের প্রয়োগ | 8:01 | [Watch](https://youtu.be/O9X_lVyc1Mo) |
-| 70 | সোলার এয়ার প্যানেল | 8:04 | [Watch](https://youtu.be/9038Kuxb-WM) |
-| 71 | পারমাণবিক বর্জ্য অপসারণ পদ্ধতি | 16:21 | [Watch](https://youtu.be/xuXRkKg_xVk) |
-| 72 | বেস লোড ও পিক লোড পাওয়ার প্লান্ট | 5:10 | [Watch](https://youtu.be/-U-JulZRB4A) |
-| 73 | জ্বালানি সংরক্ষণ পদ্ধতি | 4:31 | [Watch](https://youtu.be/-LckY8Qs5UE) |
-| 74 | ওপেন সাইকেল ও ক্লোজড সাইকেলের মধ্যে পার্থক্য | 3:33 | [Watch](https://youtu.be/vo6--G56Ydk) |
-| 75 | রিজেনারেটিভ সাইকেল | 15:26 | [Watch](https://youtu.be/ooaxhwAx7YM?si=JbFdQ1fcJK5tIUPW) |
-| 76 | বেনসন বয়লার | 5:13 | [Watch](https://youtu.be/vM6MIuqoRSs?si=pYVmeCq48xf-kQ4Z) |
-| 77 | পাওয়ার প্লান্ট হতে পাওয়ার সাপ্লাই | 24:25 | [Watch](https://youtu.be/BFtPm92Sc0c) |
-| 78 | লোড কার্ভ  এর প্রয়োজনীয়তা | 4:23 | [Watch](https://youtu.be/wJucXaY6L1o) |
-| 79 | অ্যানারোবিক জারণ ক্রিয়া অনুসারে | 4:12 | [Watch](https://youtu.be/UBYvQLYKBpk) |
-| 80 | PEMFC, PAFC, SAFC, SOFC, MCFC এবং AFC এর ব্যবহার | 6:30 | [Watch](https://youtu.be/SuxwSa59vzI) |
-| 81 | এয়ার কালেক্টর | 3:02 | [Watch](https://youtu.be/4mdAuQThEhs) |
-| 82 | বায়বীয় বর্জ্যপদার্থ | 8:28 | [Watch](https://youtu.be/h-uVkaYt-kQ) |
-| 83 | ওয়াটার টারবাইন | 8:06 | [Watch](https://youtu.be/BdcBpBqcOd0) |
-| 84 | আবৃত তৈলাধার (Underground fuel tank) | 4:22 | [Watch](https://youtu.be/wmEmVzJveB4) |
+| 1 | আবৃত তৈলাধার (Underground fuel tank) | 4:22 | [Watch](https://youtu.be/wmEmVzJveB4) |
+| 2 | বিদ্যুৎ উৎপাদন কেন্দ্রের অর্থনীতি | 5:20 | [Watch](https://youtu.be/0FaWGoseJKA) |
+| 3 | বায়ু ও জৈব পাওয়ার প্লান্ট | 5:26 | [Watch](https://youtu.be/AD22I9rsWso) |
+| 4 | সৌরবিদ্যুৎ কেন্দ্র | 4:10 | [Watch](https://youtu.be/9H1xfY3wRuU) |
+| 5 | নবায়নযোগ্য শক্তির উৎসসমূহ | 5:13 | [Watch](https://youtu.be/sLy0TjwUwkg) |
+| 6 | পারমাণবিক বিদ্যুৎ কেন্দ্র | 7:15 | [Watch](https://youtu.be/Eydu4dSIkX4) |
+| 7 | পানি বিদ্যুৎ কেন্দ্র | 5:35 | [Watch](https://youtu.be/gMAG4xXNMGI) |
+| 8 | ডিজেল পাওয়ার প্লান্ট | 4:14 | [Watch](https://youtu.be/fvo-UnaoqGg) |
+| 9 | গ্যাস টারবাইন ও কম্পাইন্ড সাইকেল পাওয়ার | 10:30 | [Watch](https://youtu.be/HWrebAHPnlw) |
+| 10 | স্টিম পাওয়ার প্লান্ট | 5:21 | [Watch](https://youtu.be/EKCu9hy7dJU?si=yU5LOlFMTwJp82Bp) |
+| 11 | বয়লার কি এবং বয়লারের গুণাবলি | 10:01 | [Watch](https://youtu.be/3kO3g1b_WJI?si=f6gsWjfzPzs2DhUi) |
+| 12 | সিলেবাস ও শক্তির উৎসসমূহ | 11:13 | [Watch](https://youtu.be/zTj8RY9f3fk) |
+| 13 | বিদ্যুৎ কেন্দ্রের বিভিন্ন টেকনিক্যাল উপাদান | 6:23 | [Watch](https://youtu.be/_ONkymPDAxA) |
+| 14 | উইন্ডমিল পাওয়ার প্লান্টের পরিকল্পিত ডায়াগ্রাম | 4:10 | [Watch](https://youtu.be/hb7EuAQ5YNE) |
+| 15 | সোলার এনার্জিতে ব্যবহৃত অংশসমূহ | 2:31 | [Watch](https://youtu.be/ogHJZ00zAus) |
+| 16 | বিভিন্ন প্রকার সোলার সেল | 3:00 | [Watch](https://youtu.be/H16pVZnTStQ) |
+| 17 | ফিশন | 12:34 | [Watch](https://youtu.be/9doHPJUjMa4) |
+| 18 | পানিবিদ্যুৎ কেন্দ্রের শ্রেণিবিন্যাস | 6:28 | [Watch](https://youtu.be/JBNSdRvAnLc) |
+| 19 | ডিজেল পাওয়ার প্লান্ট কীভাবে চলে | 8:32 | [Watch](https://youtu.be/rZfc9E0RhSQ) |
+| 20 | ওপেন সাইকেল গ্যাস টারবাইন | 16:13 | [Watch](https://youtu.be/F_TtxrOpicE) |
+| 21 | র‍্যাংকিন সাইকেল | 5:16 | [Watch](https://youtu.be/6OwAgSLVYYg?si=o0k9pNkNwjK36soN) |
+| 22 | বয়লারের শ্রেণিবিভাগ | 7:15 | [Watch](https://youtu.be/4M2ry3lFSpE?si=jpUPNbrn3Mxa3Jx3) |
+| 23 | নবায়নযোগ্য শক্তি | 8:33 | [Watch](https://youtu.be/1upoRgEVUoE) |
+| 24 | লোড কার্ভ | 5:19 | [Watch](https://youtu.be/nkT1M2oUksI) |
+| 25 | উইন্ডমিলের প্রকারভেদ | 3:23 | [Watch](https://youtu.be/n2KAt4RUZCU) |
+| 26 | টাইপিক্যাল ফ্লাট প্লেট কালেক্টর | 7:28 | [Watch](https://youtu.be/2mXrGXbUWA4) |
+| 27 | সোলার থার্মাল পাওয়ার উৎপাদনের মূলনীতি | 14:32 | [Watch](https://youtu.be/xPVOUpQY8HM) |
+| 28 | পারমাণবিক বিদ্যুৎ কেন্দ্রের উপাদানসমূহ | 6:02 | [Watch](https://youtu.be/pL5ppaMCo0U) |
+| 29 | স্পেসিফিক স্পিড | 5:13 | [Watch](https://youtu.be/QBq__2Qpr1Q) |
+| 30 | ডিজেল পাওয়ার প্লান্টের যন্ত্রপাতি | 6:22 | [Watch](https://youtu.be/8__vS-bjjm0) |
+| 31 | ক্লোজড সাইকেল গ্যাস টারবাইন | 6:19 | [Watch](https://youtu.be/_vwUwV8a2rE) |
+| 32 | র‍্যাংকিন সাইকেল কীভাবে কাজ করে এবং এর অংশসমূহ | 16:05 | [Watch](https://youtu.be/b9O2StKTT-A?si=iEEbY8WD-wqiOEnO) |
+| 33 | ওয়াটার টিউব বয়লার | 4:02 | [Watch](https://youtu.be/XWJRoE9YLvo?si=vdWjGWlbIh9MfhbI) |
+| 34 | নবায়নযোগ্য শক্তির সুবিধা ও অসুবিধা | 10:19 | [Watch](https://youtu.be/mc6TZC38i7s) |
+| 35 | সাপ্তাহিক লোড কার্ভ | 7:15 | [Watch](https://youtu.be/K2-W2eXzyuE) |
+| 36 | উইন্ডমিলের কার্যপ্রণালী | 8:31 | [Watch](https://youtu.be/UWXovE6KRrI) |
+| 37 | ফটোভোল্টাইক সেল | 6:28 | [Watch](https://youtu.be/cVOsfR_mmxo) |
+| 38 | উচ্চ তাপমাত্রায় থার্মাল কনর্ভাশন | 9:23 | [Watch](https://youtu.be/YyRbDAiWmf4) |
+| 39 | নিউক্লিয়ার পাওয়ার প্লান্টের কার্যপ্রণালি | 17:26 | [Watch](https://youtu.be/PZu8CVIklxA) |
+| 40 | বিভিন্ন ধরণের পানিবিদ্যুৎ কেন্দ্রের বর্ণনা | 4:17 | [Watch](https://youtu.be/XEvx4EG3MdI) |
+| 41 | ডিজেল পাওয়ার প্লান্টের ডায়াগ্রাম | 8:16 | [Watch](https://youtu.be/JhTJByU9xms) |
+| 42 | গ্যাস টারবাইন সাইকেলের দক্ষতা | 17:10 | [Watch](https://youtu.be/a4RJ1xMRYPw) |
+| 43 | র‍্যাংকিন  সাইকেল এর ইফিসিয়েন্সি বের করার পদ্ধতি | 22:26 | [Watch](https://youtu.be/ZVq5XOafJbw?si=cqHMb65Ob-_wgHQ8) |
+| 44 | ল্যা মন্ট বয়লার | 5:31 | [Watch](https://youtu.be/e7FXGDnNEbU?si=T-9U9eUqGl757bIo) |
+| 45 | শক্তির প্রচলিত ও অপ্রচলিত উ’ৎসের মধ্যে পার্থক্য | 12:34 | [Watch](https://youtu.be/PnP3RSM0rT0) |
+| 46 | বাৎসরিক লোড কার্ভ | 5:05 | [Watch](https://youtu.be/BrFYRk1qdZo) |
+| 47 | উইন্ডমিলের স্থান নির্বাচন | 6:35 | [Watch](https://youtu.be/crYKAmOffwM) |
+| 48 | ফুয়েল সেলের কার্যনীতি | 9:19 | [Watch](https://youtu.be/Ibom19bicqI) |
+| 49 | সোলার পুল হিটার | 5:09 | [Watch](https://youtu.be/O4Wq5CfUyUE) |
+| 50 | রিয়্যাক্টর | 4:31 | [Watch](https://youtu.be/uEVsouTPCqs) |
+| 51 | স্টোরেজ প্লান্ট | 4:24 | [Watch](https://youtu.be/amEvZ6WNa4Y) |
+| 52 | ডিজেল পাওয়ার প্লান্টের সুবিধা ও অসুবিধা | 5:16 | [Watch](https://youtu.be/RB7ZqDUKTuk) |
+| 53 | গ্যাস টারবাইন সাইকেলের দক্ষতা-২ | 5:19 | [Watch](https://youtu.be/-m2DO6RZ2Mo) |
+| 54 | একটি স্টিম টারবাইনের চিত্র অঙ্কন করে বিভিন্ন অংশ চিহ্নিত করন | 2:35 | [Watch](https://youtu.be/h_hmzgHH4SI?si=JL3_gRyal1BZSADh) |
+| 55 | লফলার বয়লার | 3:23 | [Watch](https://youtu.be/SSLzyedTkq8?si=Xp1q9W1F3TLbm843) |
+| 56 | পাওয়ার প্লান্ট | 6:19 | [Watch](https://youtu.be/7-30md6SFyc) |
+| 57 | আদর্শ বাস্তব লোড কার্ভের তুলনা | 7:26 | [Watch](https://youtu.be/XOqh7yJ4jbk) |
+| 58 | উইন্ডমিল বিদ্যুৎ কেন্দ্রের সুবিধা ও অসুবিধাসমূহ | 11:22 | [Watch](https://youtu.be/NU9SHd2PKMU) |
+| 59 | বিভিন্ন প্রকার ফটোভোল্টাইক সেল | 5:08 | [Watch](https://youtu.be/U2DPwv53xXU) |
+| 60 | সোলার হট ওয়াটার হিটার | 9:04 | [Watch](https://youtu.be/FY87MsFaJpk) |
+| 61 | প্রেসারাইজড ওয়াটার রিয়্যাক্টর | 5:03 | [Watch](https://youtu.be/OVgUJdh6ltE) |
+| 62 | হাই হেড প্লান্ট | 2:33 | [Watch](https://youtu.be/DUQYNyyr4D8) |
+| 63 | ডিজেল ইঞ্জিন চালু ও বন্ধকরণ | 4:35 | [Watch](https://youtu.be/1T1vHcvCiDA) |
+| 64 | বিভিন্ন প্রকার গ্যাস টারবাইন পাওয়ার প্লান্ট | 4:11 | [Watch](https://youtu.be/jkG9av-3Fsg) |
+| 65 | রিহিট সাইকেল | 13:24 | [Watch](https://youtu.be/lAcnJw3FzoU?si=apyBIVdba2jVLLyZ) |
+| 66 | ব্যবকক্ অ্যান্ড উইলকক্স ওয়টার টিউব বয়লার | 4:11 | [Watch](https://youtu.be/aoWodMupBtY?si=wPqXnsD-HhItvqjR) |
+| 67 | পাওয়ার প্লান্টের কার্যপ্রণালি | 10:04 | [Watch](https://youtu.be/VCE8WihwApo) |
+| 68 | ইন্টিগ্রেটেড লোড কার্ভ | 11:31 | [Watch](https://youtu.be/9y4ErH3J430) |
+| 69 | বায়োমাস হতে শক্তি নির্ণয়করনের পদ্ধতি | 5:06 | [Watch](https://youtu.be/T7PfjqUIE70) |
+| 70 | ফটোভোল্টাইক সেল ও ফুয়েল সেলের প্রয়োগ | 8:01 | [Watch](https://youtu.be/O9X_lVyc1Mo) |
+| 71 | সোলার এয়ার প্যানেল | 8:04 | [Watch](https://youtu.be/9038Kuxb-WM) |
+| 72 | পারমাণবিক বর্জ্য অপসারণ পদ্ধতি | 16:21 | [Watch](https://youtu.be/xuXRkKg_xVk) |
+| 73 | বেস লোড ও পিক লোড পাওয়ার প্লান্ট | 5:10 | [Watch](https://youtu.be/-U-JulZRB4A) |
+| 74 | জ্বালানি সংরক্ষণ পদ্ধতি | 4:31 | [Watch](https://youtu.be/-LckY8Qs5UE) |
+| 75 | ওপেন সাইকেল ও ক্লোজড সাইকেলের মধ্যে পার্থক্য | 3:33 | [Watch](https://youtu.be/vo6--G56Ydk) |
+| 76 | রিজেনারেটিভ সাইকেল | 15:26 | [Watch](https://youtu.be/ooaxhwAx7YM?si=JbFdQ1fcJK5tIUPW) |
+| 77 | বেনসন বয়লার | 5:13 | [Watch](https://youtu.be/vM6MIuqoRSs?si=pYVmeCq48xf-kQ4Z) |
+| 78 | পাওয়ার প্লান্ট হতে পাওয়ার সাপ্লাই | 24:25 | [Watch](https://youtu.be/BFtPm92Sc0c) |
+| 79 | লোড কার্ভ  এর প্রয়োজনীয়তা | 4:23 | [Watch](https://youtu.be/wJucXaY6L1o) |
+| 80 | অ্যানারোবিক জারণ ক্রিয়া অনুসারে | 4:12 | [Watch](https://youtu.be/UBYvQLYKBpk) |
+| 81 | PEMFC, PAFC, SAFC, SOFC, MCFC এবং AFC এর ব্যবহার | 6:30 | [Watch](https://youtu.be/SuxwSa59vzI) |
+| 82 | এয়ার কালেক্টর | 3:02 | [Watch](https://youtu.be/4mdAuQThEhs) |
+| 83 | বায়বীয় বর্জ্যপদার্থ | 8:28 | [Watch](https://youtu.be/h-uVkaYt-kQ) |
+| 84 | ওয়াটার টারবাইন | 8:06 | [Watch](https://youtu.be/BdcBpBqcOd0) |
 | 85 | গ্যাস টারবাইন পাওয়ার প্লান্ট এর সুবিধা ও অসুবিধা | 6:29 | [Watch](https://youtu.be/RR5z-R_bnZ8) |
 | 86 | বাইনারি ভেপার সাইকেল | 5:22 | [Watch](https://youtu.be/F5oK88Vv-kw?si=HsonLf9LEFBiiNCd) |
 | 87 | ফয়ার টিউব বয়লার | 5:30 | [Watch](https://youtu.be/aFheRzDEhHk?si=-kZjxKEB2idp_sBD) |

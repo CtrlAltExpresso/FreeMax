@@ -1,35 +1,34 @@
 # Metallurgy
-
 > 109 videos | Marine Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | পাউডার মেটালার্জির সংঙ্গা এবং গুরুত্ব | 6:25 | [Watch](https://youtu.be/jtBD8HzKcmY?si=FeztiLGTFXLzKtmD) |
-| 2 | সংকর ইস্পাত | 4:23 | [Watch](https://youtu.be/YAfPaPoTfxo) |
-| 3 | স্ক্রসিবল চুল্লির গঠন | 7:05 | [Watch](https://youtu.be/MOf-iNFKGZg) |
-| 4 | বেসিমার | 19:26 | [Watch](https://youtu.be/7n9U5k0YL-0) |
-| 5 | ঢালাইলোহা  এর সংজ্ঞা | 8:24 | [Watch](https://youtu.be/Un75AJR6M5Y) |
-| 6 | পেটা লোহা | 2:16 | [Watch](https://youtu.be/9KGJVSM0pF0) |
-| 7 | pig Iron | 4:00 | [Watch](https://youtu.be/22IVRGGrw0k) |
-| 8 | আকরিক | 8:13 | [Watch](https://youtu.be/fnpdnxUTAr0) |
-| 9 | ধাতু কি? | 5:18 | [Watch](https://youtu.be/RHQ6Ree-LRs) |
-| 10 | Plain Carbon Steel | 2:32 | [Watch](https://youtu.be/FZKCLP6Agu0) |
-| 11 | ধাতব গুড়া তৈরীর বিভিন্ন পদ্ধতিসমূহ | 12:16 | [Watch](https://youtu.be/ST8Djm0fBYY?si=QySUtvvJS1c-w6g2) |
-| 12 | সংকর ইস্পাতের শ্রেণীবিভাগ ও ব্যবহার | 7:01 | [Watch](https://youtu.be/HbDGUsukkgM) |
-| 13 | স্ক্রসিবল পদ্ধতিতে  ইস্পাত উৎপাদন | 6:26 | [Watch](https://youtu.be/QCEGSEM9bW0) |
-| 14 | বেসিমার পদ্ধতি | 7:29 | [Watch](https://youtu.be/KIcze1xkV1k) |
-| 15 | ঢালাইলোহা উৎপাদন পদ্ধতি | 13:11 | [Watch](https://youtu.be/TUa_-QprUSU) |
-| 16 | পেটা লোহার উপাদান | 6:01 | [Watch](https://youtu.be/EiiNnFtm47E) |
-| 17 | গলন চুল্লি | 17:18 | [Watch](https://youtu.be/yoirjntEf1Q) |
-| 18 | ধাতব আকরিক | 9:19 | [Watch](https://youtu.be/i__S83HEsBk) |
-| 19 | ধাতুবিদ্যার সংজ্ঞা | 3:13 | [Watch](https://youtu.be/yN5tuP4eL7A) |
-| 20 | বিভিন্ন প্রকার সরল কার্বন স্টিল | 6:08 | [Watch](https://youtu.be/DdYfDf3zDsc) |
-| 21 | সরল কার্বন ইস্পাতের মধ্যে পার্থক্য | 3:35 | [Watch](https://youtu.be/J0kzx5tfUsM) |
-| 22 | টিলটিং টাইপ তেল বা গ্যাস | 5:22 | [Watch](https://youtu.be/ymA6_aDgJGY) |
-| 23 | বেসিক বেসিমার পদ্ধতির পার্থক্য | 4:29 | [Watch](https://youtu.be/MIqnQgc9xxc) |
-| 24 | ঢালাইলোহা এর শ্রেণীবিভাগ | 2:11 | [Watch](https://youtu.be/xK_MDxRhKfg) |
-| 25 | পেটা লোহার ধর্ম | 2:26 | [Watch](https://youtu.be/VidD0A3RMrM) |
-| 26 | Pig Iron | 8:25 | [Watch](https://youtu.be/vGc69paIoTk) |
+| 1 | pig Iron | 4:00 | [Watch](https://youtu.be/22IVRGGrw0k) |
+| 2 | Pig Iron | 8:25 | [Watch](https://youtu.be/vGc69paIoTk) |
+| 3 | Plain Carbon Steel | 2:32 | [Watch](https://youtu.be/FZKCLP6Agu0) |
+| 4 | পাউডার মেটালার্জির সংঙ্গা এবং গুরুত্ব | 6:25 | [Watch](https://youtu.be/jtBD8HzKcmY?si=FeztiLGTFXLzKtmD) |
+| 5 | সংকর ইস্পাত | 4:23 | [Watch](https://youtu.be/YAfPaPoTfxo) |
+| 6 | স্ক্রসিবল চুল্লির গঠন | 7:05 | [Watch](https://youtu.be/MOf-iNFKGZg) |
+| 7 | বেসিমার | 19:26 | [Watch](https://youtu.be/7n9U5k0YL-0) |
+| 8 | ঢালাইলোহা  এর সংজ্ঞা | 8:24 | [Watch](https://youtu.be/Un75AJR6M5Y) |
+| 9 | পেটা লোহা | 2:16 | [Watch](https://youtu.be/9KGJVSM0pF0) |
+| 10 | আকরিক | 8:13 | [Watch](https://youtu.be/fnpdnxUTAr0) |
+| 11 | ধাতু কি? | 5:18 | [Watch](https://youtu.be/RHQ6Ree-LRs) |
+| 12 | ধাতব গুড়া তৈরীর বিভিন্ন পদ্ধতিসমূহ | 12:16 | [Watch](https://youtu.be/ST8Djm0fBYY?si=QySUtvvJS1c-w6g2) |
+| 13 | সংকর ইস্পাতের শ্রেণীবিভাগ ও ব্যবহার | 7:01 | [Watch](https://youtu.be/HbDGUsukkgM) |
+| 14 | স্ক্রসিবল পদ্ধতিতে  ইস্পাত উৎপাদন | 6:26 | [Watch](https://youtu.be/QCEGSEM9bW0) |
+| 15 | বেসিমার পদ্ধতি | 7:29 | [Watch](https://youtu.be/KIcze1xkV1k) |
+| 16 | ঢালাইলোহা উৎপাদন পদ্ধতি | 13:11 | [Watch](https://youtu.be/TUa_-QprUSU) |
+| 17 | পেটা লোহার উপাদান | 6:01 | [Watch](https://youtu.be/EiiNnFtm47E) |
+| 18 | গলন চুল্লি | 17:18 | [Watch](https://youtu.be/yoirjntEf1Q) |
+| 19 | ধাতব আকরিক | 9:19 | [Watch](https://youtu.be/i__S83HEsBk) |
+| 20 | ধাতুবিদ্যার সংজ্ঞা | 3:13 | [Watch](https://youtu.be/yN5tuP4eL7A) |
+| 21 | বিভিন্ন প্রকার সরল কার্বন স্টিল | 6:08 | [Watch](https://youtu.be/DdYfDf3zDsc) |
+| 22 | সরল কার্বন ইস্পাতের মধ্যে পার্থক্য | 3:35 | [Watch](https://youtu.be/J0kzx5tfUsM) |
+| 23 | টিলটিং টাইপ তেল বা গ্যাস | 5:22 | [Watch](https://youtu.be/ymA6_aDgJGY) |
+| 24 | বেসিক বেসিমার পদ্ধতির পার্থক্য | 4:29 | [Watch](https://youtu.be/MIqnQgc9xxc) |
+| 25 | ঢালাইলোহা এর শ্রেণীবিভাগ | 2:11 | [Watch](https://youtu.be/xK_MDxRhKfg) |
+| 26 | পেটা লোহার ধর্ম | 2:26 | [Watch](https://youtu.be/VidD0A3RMrM) |
 | 27 | লৌহ আকরিক | 24:18 | [Watch](https://youtu.be/_G4XK-kAq-w) |
 | 28 | ধাতুবিদ্যার শ্রেণিবিভাগ | 11:21 | [Watch](https://youtu.be/lUlbXBiXk-I) |
 | 29 | সরল কার্বন ইস্পাতের শ্রেণীবিভাগ | 6:04 | [Watch](https://youtu.be/5pjUsazKX-s) |

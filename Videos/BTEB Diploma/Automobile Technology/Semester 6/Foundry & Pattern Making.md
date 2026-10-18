@@ -1,53 +1,52 @@
 # Foundry & Pattern Making
-
 > 117 videos | Automobile Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | ফাউন্ড্রি যান্ত্রিক আয়নের সুবিধা ও অসুবিধা | 6:14 | [Watch](https://youtu.be/BwqpUQp9VIk?si=uCnTp7Owcq0ATLmB) |
-| 2 | বিভিন্ন প্রকার ঢালাই ত্রুটি | 7:28 | [Watch](https://youtu.be/L0EsUwLUSvc?si=1sf1Ok_rVyGEdHj2) |
-| 3 | ডাই কাস্টিং ধাতুর বৈশিষ্ট্য | 14:07 | [Watch](https://youtu.be/qLXU8ClO_iw?si=4httT2RflU2l9vum) |
-| 4 | কাস্টিং পদ্ধতিসমূহ | 17:05 | [Watch](https://youtu.be/A0dCF0yJZLU) |
-| 5 | গলন এবং পুন-গলন চুল্লি | 19:05 | [Watch](https://youtu.be/zxXqwh7w_Dk?si=2nMzaZX2Rb4w8uBk) |
-| 6 | কোর  এর ব্যাখ্যা | 5:23 | [Watch](https://youtu.be/ePhpg7PjC_g?si=YqLkp8S3JPWJhMb4) |
-| 7 | গ্রিন স্যান্ড মোল্ডের সুবিধাসমূহ | 17:00 | [Watch](https://youtu.be/sFowme0xPms) |
-| 8 | প্যাটার্নস ও প্যাটার্ন অ্যালাউন্সেস | 23:04 | [Watch](https://youtu.be/3YGMjmL-lEQ) |
-| 9 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর সামগ্রী | 8:05 | [Watch](https://youtu.be/zLOHDi5RSj4) |
-| 10 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এবং নিরাপত্তা সম্পর্কিত বিধি | 7:23 | [Watch](https://youtu.be/a_I8tjvWSJE) |
-| 11 | ফাউন্ড্রি অটোমেশন এর বাঁধাসমূহ | 5:28 | [Watch](https://youtu.be/xgpPnvYk_p8?si=GA6KHc1rT0DElbYl) |
-| 12 | ব্লো হোল (Blow holes) | 3:27 | [Watch](https://youtu.be/ig2joqXOx_w?si=VqDt2-eswUESdtuC) |
-| 13 | বিভিন্ন প্রকার ডাই কাস্টিং মেশিন | 7:03 | [Watch](https://youtu.be/mt3w5mVkp44?si=_QyZTV6rF3q3dJ9J) |
-| 14 | সেন্ট্রিফিউগাল কাস্টিং এর সুবিধা ও অসুবিধা | 4:01 | [Watch](https://youtu.be/jx_fvxirZK8) |
-| 15 | ব্লাস্ট ফার্নেস | 8:01 | [Watch](https://youtu.be/Zvc6gEkH01I?si=LaaRakouxaMTBK91) |
-| 16 | কোর  এর প্রকারভেদ | 13:12 | [Watch](https://youtu.be/RjY2uz0GAaY?si=vltwNd6PCyMn5ec-) |
-| 17 | গ্রিন স্যান্ড মোল্ডের সুবিধা ও অসুবিধা | 18:19 | [Watch](https://youtu.be/AC6xvQL24mE) |
-| 18 | বিভিন্ন প্রকার প্যাটার্ন | 6:19 | [Watch](https://youtu.be/ZwydhMVnp9o) |
-| 19 | প্যাটার্ন  তৈরিতে ম্যাটিরিয়ালস সামগ্রী | 4:28 | [Watch](https://youtu.be/NUgKdwSE-kY) |
-| 20 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর ক্রমবিকাশ | 5:06 | [Watch](https://youtu.be/9pv0XWYemMQ) |
-| 21 | স্থানীয় ফাউন্ড্রি অটোমেশনের দৃশ্যপট | 4:10 | [Watch](https://youtu.be/E8vBeq0ZV3g?si=i02cp7PPQy4XRPpX) |
-| 22 | সংকোচন (Shrinkage) | 4:22 | [Watch](https://youtu.be/rPfbFDqmlqk?si=wEscgVf7H8g_2rgV) |
-| 23 | উৎপাদনসহ ডাই কাস্টিং শংকর সমূহ | 3:16 | [Watch](https://youtu.be/HBHLofVxuws?si=HGNeHnEb4O3e4IKR) |
-| 24 | ব্লাস্ট ফার্নেস 2 | 13:17 | [Watch](https://youtu.be/XZaouX42iLY?si=NumSOGSRTox89qXZ) |
-| 25 | কোর বালির বৈশিষ্ট্য | 8:08 | [Watch](https://youtu.be/XXLmyLNRB7M?si=NbKVi25Z2IqK3apC) |
-| 26 | ওপেন স্যান্ড  পদ্ধতি Open Sand Method | 6:27 | [Watch](https://youtu.be/W5RpYHbw4dU) |
-| 27 | ক্ষয়িত প্যাটার্ন এর সুবিধা ও অসুবিধা | 6:08 | [Watch](https://youtu.be/B1Lgfy3i0OA) |
-| 28 | কাঠের তৈরি প্যাটার্নের সুবিধা ও অসুবিধা | 10:19 | [Watch](https://youtu.be/jbWhuNwM0Xw) |
-| 29 | আধুনিক উৎপাদন পদ্ধতিতে ফাউন্ড্রি ইঞ্জিনিয়ারিং এর গুরুত্ব | 10:34 | [Watch](https://youtu.be/WJoeej0DEk4) |
-| 30 | হট টিয়ার ( Hot Tears) | 8:22 | [Watch](https://youtu.be/K7MCQifnHK8?si=G_L5ABDu7-bggUQf) |
-| 31 | ডাই কাস্টিং এর সুবিধা ও সীমাবদ্ধতা | 6:04 | [Watch](https://youtu.be/f13mbaqVZC8?si=-9hS4aiCwGxwM0_Z) |
-| 32 | বাত্যাচুল্লির গঠন | 4:18 | [Watch](https://youtu.be/EzYZcG9d-6k?si=UWtTXVaMUCAVVYNw) |
-| 33 | কোর তৈরির পদ্ধতি | 12:34 | [Watch](https://youtu.be/d6uMrWwh_Gg?si=5lPjsKPxQeJw9rn8) |
-| 34 | স্কিন ড্রাইভ মোল্ডিং | 8:20 | [Watch](https://youtu.be/V2W6BH1fdSo) |
-| 35 | সিঙ্গেল বা সলিড প্যাটার্ন | 15:26 | [Watch](https://youtu.be/tl0nN20cQ2Y) |
-| 36 | ধাতব প্যাটার্নের সুবিধা ও অসুবিধা | 10:11 | [Watch](https://youtu.be/TbVK9_edHms) |
-| 37 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর বিভিন্ন সেকশন ব্লক ডায়াগ্রামসমূহ দেখাও | 10:28 | [Watch](https://youtu.be/f46EdLbnhDM) |
-| 38 | সোয়েল (Swel) | 5:23 | [Watch](https://youtu.be/nF_8Md1BAPw?si=vZcL_GNzj6LTCR6x) |
-| 39 | ব্লাস্ট ফার্নেস এর কার্যপদ্ধতি | 15:34 | [Watch](https://youtu.be/-Zawxyu0vLs?si=iwoSVUPtVrfA2lwi) |
-| 40 | কার্বন ডাই অক্সাইড মোল্ডিং | 6:22 | [Watch](https://youtu.be/abcbgkP7u1M) |
-| 41 | লুজ পিস প্যাটার্ন | 6:04 | [Watch](https://youtu.be/Y2FfsjBiFPI) |
-| 42 | ঢালাই লোহা প্যার্টানের সুবিধা ও অসুবিধা | 3:35 | [Watch](https://youtu.be/4JUnYj0hUxw) |
-| 43 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর বিভিন্ন সেকশন ব্লক ডায়াগ্রামসমূহ দেখাও | 10:28 | [Watch](https://youtu.be/f46EdLbnhDM) |
-| 44 | মেটাল পেনিট্রেশন (Metal penetration) | 4:32 | [Watch](https://youtu.be/AugTvntlKx0?si=HU18ya5oD-mzDVaS) |
+| 1 | ওপেন স্যান্ড  পদ্ধতি Open Sand Method | 6:27 | [Watch](https://youtu.be/W5RpYHbw4dU) |
+| 2 | মেটাল পেনিট্রেশন (Metal penetration) | 4:32 | [Watch](https://youtu.be/AugTvntlKx0?si=HU18ya5oD-mzDVaS) |
+| 3 | ফাউন্ড্রি যান্ত্রিক আয়নের সুবিধা ও অসুবিধা | 6:14 | [Watch](https://youtu.be/BwqpUQp9VIk?si=uCnTp7Owcq0ATLmB) |
+| 4 | বিভিন্ন প্রকার ঢালাই ত্রুটি | 7:28 | [Watch](https://youtu.be/L0EsUwLUSvc?si=1sf1Ok_rVyGEdHj2) |
+| 5 | ডাই কাস্টিং ধাতুর বৈশিষ্ট্য | 14:07 | [Watch](https://youtu.be/qLXU8ClO_iw?si=4httT2RflU2l9vum) |
+| 6 | কাস্টিং পদ্ধতিসমূহ | 17:05 | [Watch](https://youtu.be/A0dCF0yJZLU) |
+| 7 | গলন এবং পুন-গলন চুল্লি | 19:05 | [Watch](https://youtu.be/zxXqwh7w_Dk?si=2nMzaZX2Rb4w8uBk) |
+| 8 | কোর  এর ব্যাখ্যা | 5:23 | [Watch](https://youtu.be/ePhpg7PjC_g?si=YqLkp8S3JPWJhMb4) |
+| 9 | গ্রিন স্যান্ড মোল্ডের সুবিধাসমূহ | 17:00 | [Watch](https://youtu.be/sFowme0xPms) |
+| 10 | প্যাটার্নস ও প্যাটার্ন অ্যালাউন্সেস | 23:04 | [Watch](https://youtu.be/3YGMjmL-lEQ) |
+| 11 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর সামগ্রী | 8:05 | [Watch](https://youtu.be/zLOHDi5RSj4) |
+| 12 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এবং নিরাপত্তা সম্পর্কিত বিধি | 7:23 | [Watch](https://youtu.be/a_I8tjvWSJE) |
+| 13 | ফাউন্ড্রি অটোমেশন এর বাঁধাসমূহ | 5:28 | [Watch](https://youtu.be/xgpPnvYk_p8?si=GA6KHc1rT0DElbYl) |
+| 14 | ব্লো হোল (Blow holes) | 3:27 | [Watch](https://youtu.be/ig2joqXOx_w?si=VqDt2-eswUESdtuC) |
+| 15 | বিভিন্ন প্রকার ডাই কাস্টিং মেশিন | 7:03 | [Watch](https://youtu.be/mt3w5mVkp44?si=_QyZTV6rF3q3dJ9J) |
+| 16 | সেন্ট্রিফিউগাল কাস্টিং এর সুবিধা ও অসুবিধা | 4:01 | [Watch](https://youtu.be/jx_fvxirZK8) |
+| 17 | ব্লাস্ট ফার্নেস | 8:01 | [Watch](https://youtu.be/Zvc6gEkH01I?si=LaaRakouxaMTBK91) |
+| 18 | কোর  এর প্রকারভেদ | 13:12 | [Watch](https://youtu.be/RjY2uz0GAaY?si=vltwNd6PCyMn5ec-) |
+| 19 | গ্রিন স্যান্ড মোল্ডের সুবিধা ও অসুবিধা | 18:19 | [Watch](https://youtu.be/AC6xvQL24mE) |
+| 20 | বিভিন্ন প্রকার প্যাটার্ন | 6:19 | [Watch](https://youtu.be/ZwydhMVnp9o) |
+| 21 | প্যাটার্ন  তৈরিতে ম্যাটিরিয়ালস সামগ্রী | 4:28 | [Watch](https://youtu.be/NUgKdwSE-kY) |
+| 22 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর ক্রমবিকাশ | 5:06 | [Watch](https://youtu.be/9pv0XWYemMQ) |
+| 23 | স্থানীয় ফাউন্ড্রি অটোমেশনের দৃশ্যপট | 4:10 | [Watch](https://youtu.be/E8vBeq0ZV3g?si=i02cp7PPQy4XRPpX) |
+| 24 | সংকোচন (Shrinkage) | 4:22 | [Watch](https://youtu.be/rPfbFDqmlqk?si=wEscgVf7H8g_2rgV) |
+| 25 | উৎপাদনসহ ডাই কাস্টিং শংকর সমূহ | 3:16 | [Watch](https://youtu.be/HBHLofVxuws?si=HGNeHnEb4O3e4IKR) |
+| 26 | ব্লাস্ট ফার্নেস 2 | 13:17 | [Watch](https://youtu.be/XZaouX42iLY?si=NumSOGSRTox89qXZ) |
+| 27 | কোর বালির বৈশিষ্ট্য | 8:08 | [Watch](https://youtu.be/XXLmyLNRB7M?si=NbKVi25Z2IqK3apC) |
+| 28 | ক্ষয়িত প্যাটার্ন এর সুবিধা ও অসুবিধা | 6:08 | [Watch](https://youtu.be/B1Lgfy3i0OA) |
+| 29 | কাঠের তৈরি প্যাটার্নের সুবিধা ও অসুবিধা | 10:19 | [Watch](https://youtu.be/jbWhuNwM0Xw) |
+| 30 | আধুনিক উৎপাদন পদ্ধতিতে ফাউন্ড্রি ইঞ্জিনিয়ারিং এর গুরুত্ব | 10:34 | [Watch](https://youtu.be/WJoeej0DEk4) |
+| 31 | হট টিয়ার ( Hot Tears) | 8:22 | [Watch](https://youtu.be/K7MCQifnHK8?si=G_L5ABDu7-bggUQf) |
+| 32 | ডাই কাস্টিং এর সুবিধা ও সীমাবদ্ধতা | 6:04 | [Watch](https://youtu.be/f13mbaqVZC8?si=-9hS4aiCwGxwM0_Z) |
+| 33 | বাত্যাচুল্লির গঠন | 4:18 | [Watch](https://youtu.be/EzYZcG9d-6k?si=UWtTXVaMUCAVVYNw) |
+| 34 | কোর তৈরির পদ্ধতি | 12:34 | [Watch](https://youtu.be/d6uMrWwh_Gg?si=5lPjsKPxQeJw9rn8) |
+| 35 | স্কিন ড্রাইভ মোল্ডিং | 8:20 | [Watch](https://youtu.be/V2W6BH1fdSo) |
+| 36 | সিঙ্গেল বা সলিড প্যাটার্ন | 15:26 | [Watch](https://youtu.be/tl0nN20cQ2Y) |
+| 37 | ধাতব প্যাটার্নের সুবিধা ও অসুবিধা | 10:11 | [Watch](https://youtu.be/TbVK9_edHms) |
+| 38 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর বিভিন্ন সেকশন ব্লক ডায়াগ্রামসমূহ দেখাও | 10:28 | [Watch](https://youtu.be/f46EdLbnhDM) |
+| 39 | সোয়েল (Swel) | 5:23 | [Watch](https://youtu.be/nF_8Md1BAPw?si=vZcL_GNzj6LTCR6x) |
+| 40 | ব্লাস্ট ফার্নেস এর কার্যপদ্ধতি | 15:34 | [Watch](https://youtu.be/-Zawxyu0vLs?si=iwoSVUPtVrfA2lwi) |
+| 41 | কার্বন ডাই অক্সাইড মোল্ডিং | 6:22 | [Watch](https://youtu.be/abcbgkP7u1M) |
+| 42 | লুজ পিস প্যাটার্ন | 6:04 | [Watch](https://youtu.be/Y2FfsjBiFPI) |
+| 43 | ঢালাই লোহা প্যার্টানের সুবিধা ও অসুবিধা | 3:35 | [Watch](https://youtu.be/4JUnYj0hUxw) |
+| 44 | ফাউন্ড্রি ইঞ্জিনিয়ারিং এর বিভিন্ন সেকশন ব্লক ডায়াগ্রামসমূহ দেখাও | 10:28 | [Watch](https://youtu.be/f46EdLbnhDM) |
 | 45 | কিউপোলা ফার্নেস | 24:25 | [Watch](https://youtu.be/JdUjQXxJ6zw?si=7QEbugQCCPArZkuY) |
 | 46 | কোর প্রিন্ট | 6:18 | [Watch](https://youtu.be/jT2hLBOkKGw?si=uOCm75-plnzsvyi3) |
 | 47 | শেল মোল্ডিং এর সুবিধা ও অসুবিধা | 6:34 | [Watch](https://youtu.be/OqZ5JqFCzD0) |

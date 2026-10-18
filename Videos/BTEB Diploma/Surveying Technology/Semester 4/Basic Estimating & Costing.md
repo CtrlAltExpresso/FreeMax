@@ -1,5 +1,4 @@
 # Basic Estimating & Costing
-
 > 23 videos | Surveying Technology
 
 | # | Title | Duration | Link |

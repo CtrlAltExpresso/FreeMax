@@ -1,5 +1,4 @@
 # Business Communication
-
 > 65 videos | Graphic Design Technology
 
 | # | Title | Duration | Link |

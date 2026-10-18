@@ -1,5 +1,4 @@
 # Strength of Materials
-
 > 1 videos | Mechatronics Technology
 
 | # | Title | Duration | Link |

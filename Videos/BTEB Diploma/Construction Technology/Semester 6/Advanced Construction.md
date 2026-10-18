@@ -1,25 +1,24 @@
 # Advanced Construction
-
 > 103 videos | Construction Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | 3D প্রিন্টিং | 4:19 | [Watch](https://youtu.be/zEEih0bIcD8) |
-| 2 | মেম্বার মেরামত শক্তিশালীকরণ এবং শক্তকরণ | 8:25 | [Watch](https://youtu.be/gC8-rlualjI) |
-| 3 | নির্মাণকাজে বিভিন্ন যন্ত্রপাতির প্রয়োজনীয়তা | 9:22 | [Watch](https://youtu.be/MsZgGQyzWAs) |
-| 4 | রিইনফোর্সমেন্ট  এর ক্ষয় প্রতিরোধ | 12:02 | [Watch](https://youtu.be/2koJi6OCgsQ?si=ohFHX38PfZ2qAF2Y) |
-| 5 | ইন্ডাস্ট্রিয়াল রুফ | 6:23 | [Watch](https://youtu.be/-x6vkFga3SA) |
-| 6 | প্রিকাস্ট বিল্ডিং কম্পোনেন্ট | 6:19 | [Watch](https://youtu.be/5yNblgp91w4) |
-| 7 | সাইট ডেভেলপমেন্ট | 8:11 | [Watch](https://youtu.be/fWO60Bn1Lpk) |
-| 8 | ফর্মওয়ার্ক (Form Work) | 11:22 | [Watch](https://youtu.be/T9xXbBD_n8Q) |
-| 9 | কংক্রিট (Concrete) | 10:31 | [Watch](https://youtu.be/44CZ_YeSL7k) |
-| 10 | সিলেবাস | 6:31 | [Watch](https://youtu.be/SFMo7hwOntQ) |
-| 11 | নির্মাণে 3D প্রিন্টিং এর ব্যবহার | 7:11 | [Watch](https://youtu.be/huxWDa8Rs5I) |
-| 12 | কাঠামো উপযোগী শক্তিশালীকরণ পদ্ধতিসমূহ | 11:07 | [Watch](https://youtu.be/gsfY7mZxSkc) |
-| 13 | বুলডোজার | 5:31 | [Watch](https://youtu.be/-cF2WvEuMtw) |
-| 14 | ক্ষয়প্রাপ্ত আরসিসি মেরামত কাজ | 9:23 | [Watch](https://youtu.be/z2hiT_L07RU?si=-KokLuO-J0JTDr9_) |
-| 15 | মড বিট রুফ | 3:34 | [Watch](https://youtu.be/9hGHbyPFKYc) |
-| 16 | প্রিকাস্ট কলাম (Precast column) | 8:05 | [Watch](https://youtu.be/uuz4t6rHTws) |
+| 1 | প্রিকাস্ট কলাম (Precast column) | 8:05 | [Watch](https://youtu.be/uuz4t6rHTws) |
+| 2 | কংক্রিট (Concrete) | 10:31 | [Watch](https://youtu.be/44CZ_YeSL7k) |
+| 3 | 3D প্রিন্টিং | 4:19 | [Watch](https://youtu.be/zEEih0bIcD8) |
+| 4 | মেম্বার মেরামত শক্তিশালীকরণ এবং শক্তকরণ | 8:25 | [Watch](https://youtu.be/gC8-rlualjI) |
+| 5 | নির্মাণকাজে বিভিন্ন যন্ত্রপাতির প্রয়োজনীয়তা | 9:22 | [Watch](https://youtu.be/MsZgGQyzWAs) |
+| 6 | রিইনফোর্সমেন্ট  এর ক্ষয় প্রতিরোধ | 12:02 | [Watch](https://youtu.be/2koJi6OCgsQ?si=ohFHX38PfZ2qAF2Y) |
+| 7 | ইন্ডাস্ট্রিয়াল রুফ | 6:23 | [Watch](https://youtu.be/-x6vkFga3SA) |
+| 8 | প্রিকাস্ট বিল্ডিং কম্পোনেন্ট | 6:19 | [Watch](https://youtu.be/5yNblgp91w4) |
+| 9 | সাইট ডেভেলপমেন্ট | 8:11 | [Watch](https://youtu.be/fWO60Bn1Lpk) |
+| 10 | ফর্মওয়ার্ক (Form Work) | 11:22 | [Watch](https://youtu.be/T9xXbBD_n8Q) |
+| 11 | সিলেবাস | 6:31 | [Watch](https://youtu.be/SFMo7hwOntQ) |
+| 12 | নির্মাণে 3D প্রিন্টিং এর ব্যবহার | 7:11 | [Watch](https://youtu.be/huxWDa8Rs5I) |
+| 13 | কাঠামো উপযোগী শক্তিশালীকরণ পদ্ধতিসমূহ | 11:07 | [Watch](https://youtu.be/gsfY7mZxSkc) |
+| 14 | বুলডোজার | 5:31 | [Watch](https://youtu.be/-cF2WvEuMtw) |
+| 15 | ক্ষয়প্রাপ্ত আরসিসি মেরামত কাজ | 9:23 | [Watch](https://youtu.be/z2hiT_L07RU?si=-KokLuO-J0JTDr9_) |
+| 16 | মড বিট রুফ | 3:34 | [Watch](https://youtu.be/9hGHbyPFKYc) |
 | 17 | ম্যানুয়ালি সাইট ডেভেলপমেন্ট | 5:05 | [Watch](https://youtu.be/4aEjRgFhHiQ) |
 | 18 | লিফট কংক্রিটের ব্যবহার | 6:23 | [Watch](https://youtu.be/yDbgJTX7mgE) |
 | 19 | প্রি টেনশনিং ও পোস্ট টেনশনিং পদ্ধতি | 8:07 | [Watch](https://youtu.be/-Qudpsmciyk) |

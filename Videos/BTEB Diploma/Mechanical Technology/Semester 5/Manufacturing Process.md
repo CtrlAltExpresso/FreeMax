@@ -1,99 +1,98 @@
 # Manufacturing Process
-
 > 178 videos | Mechanical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | পণ্যের মান নিয়ন্ত্রন ও পরিদর্শন | 16:01 | [Watch](https://youtu.be/a_s3Kg-aWj4) |
-| 2 | ফ্লেক্সিবল ম্যানুফ্যাকচারিং পদ্ধতি ও প্রকারভেদ | 6:29 | [Watch](https://youtu.be/mKQ-Fd3jUBQ) |
-| 3 | মালামাল পরিচালনা নীতি এবং এর বৈশিষ্ট্য | 16:03 | [Watch](https://youtu.be/WQVzN-kDqqI) |
-| 4 | সিরামিক এবং এর বৈশিষ্ট্য | 8:33 | [Watch](https://youtu.be/eBBzXnD9VcY) |
-| 5 | কাচের উপাদানসমূহ | 15:24 | [Watch](https://youtu.be/OB9VEki6VR4) |
-| 6 | প্লাস্টিক, এর উপাদান, গঠন ও প্রকারভেদ | 23:00 | [Watch](https://youtu.be/fPpwdKA01Gg) |
-| 7 | পলিমার ও পলিমারকরণ | 23:12 | [Watch](https://youtu.be/aapkfwBW9uY) |
-| 8 | সারফেস ট্রিটমেন্টের এর প্রয়োজনীয়তা এবং বিভিন্ন পদ্ধতিসমূহ | 18:32 | [Watch](https://youtu.be/AC5LhWHE6oo?si=EvU7nyTHpQaeLrIV) |
-| 9 | ইলেকট্রোপ্লেটিং এর মূলনীতি, উদ্দেশ্য এবং এর ত্রুটি ও প্রতিকার | 25:08 | [Watch](https://youtu.be/uXAuUzFezt8?si=A2dymIbirlA9eJD7) |
-| 10 | করোশন এর শ্রেণিবিভাগ এবং এর আকৃতি | 26:27 | [Watch](https://youtu.be/fCY86VcLbTs?si=rf-TreNqRLpna01-) |
-| 11 | হট ওয়ার্কিং প্রক্রিয়া এবং এর প্রকার | 16:06 | [Watch](https://youtu.be/DBv9L36pmQg?si=WeruaN3U5YLDxP81) |
-| 12 | হট ওয়ার্কিং প্রক্রিয়ার নিয়ামক | 14:17 | [Watch](https://youtu.be/QYeubz1RFYc?si=KIwqAcBdsNh68AOW) |
-| 13 | করোশন এর শ্রেণিবিভাগ এবং এর আকৃতি | 26:27 | [Watch](https://youtu.be/fCY86VcLbTs?si=A3K52hY_1aA_8WeT) |
-| 14 | কোল্ড ওয়াকিং প্রক্রিয়ার শ্রেণিবিভাগ | 11:34 | [Watch](https://youtu.be/9WEkLfFCBOc) |
-| 15 | কোল্ড ওয়ার্কিং প্রক্রিয়া | 17:00 | [Watch](https://youtu.be/UV71ALZTdzU) |
-| 16 | উৎপাদন প্রক্রিয়া ও পদ্ধতি | 17:01 | [Watch](https://youtu.be/gkf2THpIS2U) |
-| 17 | সিরামিক বলতে কি বুঝায়? | 9:02 | [Watch](https://youtu.be/G8QFmtSyipk) |
-| 18 | কাচের গুনাবলি | 7:07 | [Watch](https://youtu.be/dE2u6oYVn1c) |
-| 19 | প্লস্টিক কি? | 8:17 | [Watch](https://youtu.be/AdCbUwigSoI) |
-| 20 | পলিমার নিয়ে আলোচনা | 10:20 | [Watch](https://youtu.be/AirlufALdTE) |
-| 21 | সারফেস ট্রিটমেন্ট | 4:05 | [Watch](https://youtu.be/-Tn3j1zIRqg) |
-| 22 | ইলেকট্রোপ্লেটিং কি? এর মূলনীতি | 12:05 | [Watch](https://youtu.be/sbZyaWlWPH0) |
-| 23 | করোশন কি কত প্রকার | 8:01 | [Watch](https://youtu.be/tv1RidyFkks) |
-| 24 | ফোর্জিং  প্রক্রিয়া | 6:23 | [Watch](https://youtu.be/-FaAedpn8pU) |
-| 25 | হট ওয়াকিং শ্রেনিবিন্যাস | 13:13 | [Watch](https://youtu.be/NU_9i2MheCU) |
-| 26 | ঠান্ডা ক্রিয়ার শ্রেণীবিভাগ | 13:16 | [Watch](https://youtu.be/c-YQOy-X9Ek) |
-| 27 | ঠান্ডা প্রক্রিয়ার সুবিধা | 16:26 | [Watch](https://youtu.be/l_89EiUt9aI) |
-| 28 | উৎপাদন প্রক্রিয়া ধারণা | 12:24 | [Watch](https://youtu.be/bSOflIFKX5k) |
-| 29 | প্রসেস ক্যাপাবিলিটি ও টলারেন্স | 8:01 | [Watch](https://youtu.be/h22l52DfqEw) |
-| 30 | ফ্লেক্সিবল ম্যানুফ্যাকচারিং সিস্টেম এর উপাদান | 6:33 | [Watch](https://youtu.be/Vpe-NkfeCk0) |
-| 31 | ম্যাটেরিয়ালস হ্যান্ডেলিং ইকুইটমেন্ট নির্বাচন ও তার প্রকারভেদ | 8:16 | [Watch](https://youtu.be/ZcjcdKfkY7U) |
-| 32 | দুর্গল সামগ্রী এবং শ্রেণিবিভাগ | 14:02 | [Watch](https://youtu.be/3clzTL27zU8) |
-| 33 | কাচের শ্রেণিবিভাগ  এবং নিয়ন্ত্রনকারী উপাদানসমূহ | 16:05 | [Watch](https://youtu.be/flDksQZSfFA) |
-| 34 | প্লাস্টিকের ধর্ম ও বৈশিষ্ট্য | 11:14 | [Watch](https://youtu.be/I2vDxpRi9Zw) |
-| 35 | পলিমারকরণ পদ্ধতি | 19:23 | [Watch](https://youtu.be/hZtj5z4rv6Q) |
-| 36 | যান্ত্রিক উপরিতল শোধন এবং কেস হার্ডেনিং | 21:09 | [Watch](https://youtu.be/F74l9qXEVqE?si=JG-q_rd8ys7hErd-) |
-| 37 | ইলেকট্রোপ্লেটিং এর পূর্বপ্রস্তুতির ধাপসমূহ | 18:21 | [Watch](https://youtu.be/zuymiJYGPuA?si=D4UZjVTdJRWX2FVM) |
-| 38 | ইলেকট্রোপ্লেটিং এর পূর্বপ্রস্তুতির ধাপসমূহ | 18:21 | [Watch](https://youtu.be/zuymiJYGPuA?si=KbHhbV4p4qNtAI4N) |
-| 39 | করোশন এর কলাকৌশল এবং নিয়ন্ত্রণের উপাদানসমূহ | 18:25 | [Watch](https://youtu.be/w_yQQIqOEkY?si=qs38CnIqy_0oZ-ta) |
-| 40 | বিভিন্ন প্রকার রোলিং প্রক্রিয়া | 19:10 | [Watch](https://youtu.be/5NMxhCh54jQ?si=hTxTZN3JeEI-p9Be) |
-| 41 | হট ওয়ার্কিং প্রক্রিয়ার সুবিধা ও অসুবিধা | 14:03 | [Watch](https://youtu.be/kMGynMu1F-Y?si=CYdMN3mQ0SAQQI0X) |
-| 42 | হট ওয়ার্কিং প্রক্রিয়ার সুবিধা ও অসুবিধা | 14:03 | [Watch](https://youtu.be/kMGynMu1F-Y) |
-| 43 | বিভিন্ন ধরনের স্কুইজিং প্রক্রিয়া | 12:22 | [Watch](https://youtu.be/SDmzyDYxL3o) |
-| 44 | কোল্ড ওয়ার্কিং  প্রক্রিয়ার নিয়ামক | 13:01 | [Watch](https://youtu.be/gBj5K9LZPa4) |
-| 45 | উৎপাদন প্রক্রিয়ার ধারনা | 15:25 | [Watch](https://youtu.be/CT-SfEmXTrg) |
-| 46 | উপকরন হিসেবে সিরামিকস এর গুনাবলিসমূহ ব্যাখ্যা কর | 11:35 | [Watch](https://youtu.be/IEQCpeAv054) |
-| 47 | কাচের উপাদানগুলোর তালিকা তৈরি কর | 4:17 | [Watch](https://youtu.be/PUtHd8mTydk) |
-| 48 | পলিমারইজেশন কি? | 9:16 | [Watch](https://youtu.be/rmrdZKBRgS0) |
-| 49 | সারফেস ট্রিটমেন্ট প্রয়োজনীয়তা | 7:23 | [Watch](https://youtu.be/MjBpZxQcMS0) |
-| 50 | ইলেকট্রোপ্লেটিং এর উদ্দেশ্য | 8:20 | [Watch](https://youtu.be/ytTkVdZh8j8) |
-| 51 | এম্বোসিং | 8:05 | [Watch](https://youtu.be/UXlHvFK8GOE) |
-| 52 | ফোর্জিং সুবিধা ও অসুবিধা | 6:23 | [Watch](https://youtu.be/cE4aiOILigE) |
-| 53 | ঠান্ডা ক্রিয়ার ব্যবহৃত বিভিন্ন প্রক্রিয়া | 19:34 | [Watch](https://youtu.be/PzyouZufhzY) |
-| 54 | ঠান্ডা প্রক্রিয়ার অসুবিধা | 10:21 | [Watch](https://youtu.be/zpLP5ux1NsM) |
-| 55 | উৎপাদন প্রক্রিয়া | 9:25 | [Watch](https://youtu.be/0uPq6X0aYgg) |
-| 56 | পরিসংখ্যানগত প্রক্রিয়া নিয়ন্ত্রণ | 10:08 | [Watch](https://youtu.be/KGWlyt9vxdY) |
-| 57 | ম্যাটেরিয়ালস হ্যান্ডেলিং সিস্টেম | 5:11 | [Watch](https://youtu.be/D-_mQb98dgY) |
-| 58 | দুর্গল ইটের উৎপাদন প্রক্রিয়া | 7:30 | [Watch](https://youtu.be/cTqjD3n1ANg) |
-| 59 | কাচের উপাদান পাউডারকরণ এরং কাচ গলানো | 5:23 | [Watch](https://youtu.be/-AtuqyRp95Y) |
-| 60 | ডাই ও মোল্ডের বিভিন্ন অংশ | 13:27 | [Watch](https://youtu.be/1Pz3kC47SF4) |
-| 61 | পলিমারাইজেশন এর উপর ভিত্তি করে পলিমারের শ্রেণিবিভাগ | 16:23 | [Watch](https://youtu.be/A5DCZqA9PbA) |
-| 62 | বাধাদানকারী আস্তরণ এবং তড়িৎ প্রলেপন | 21:20 | [Watch](https://youtu.be/Mq5JzU1pojI?si=RaSv_vPuE1BwfbH_) |
-| 63 | ইলেকট্রোপ্লেটিং প্রণালি এবং ব্যবহৃত যন্ত্রপাতি | 15:00 | [Watch](https://youtu.be/dV1SgibXqC8?si=uOtJMN3k8ceh87gK) |
-| 64 | ইলেকট্রোপ্লেটিং প্রণালি এবং ব্যবহৃত যন্ত্রপাতি | 15:00 | [Watch](https://youtu.be/dV1SgibXqC8?si=ca4hyKSmT_Qtx4b2) |
-| 65 | Part- 1 করোশন প্রতিরোধকরণ পদ্ধতিসমূহ | 17:11 | [Watch](https://youtu.be/eYTT84G-jsY?si=34hf6X3U1tLyX-GR) |
-| 66 | বিভিন্ন প্রকার ফোর্জিং প্রক্রিয়া | 18:04 | [Watch](https://youtu.be/kMNbpfB_7bc?si=2COWPhS7m-Ouk19B) |
-| 67 | হট ওয়ার্কিং প্রক্রিয়ায় প্লেটিং এর সুবিধা ও অসুবিধা | 18:26 | [Watch](https://youtu.be/fSkm3JAPA2g?si=X8n3lbZ0hjLGEkYa) |
-| 68 | Part- 1 করোশন প্রতিরোধকরণ পদ্ধতিসমূহ | 17:11 | [Watch](https://youtu.be/eYTT84G-jsY?si=5bNVRkh6_BWtJDER) |
-| 69 | বিভিন্ন ধরনের শিয়ারিং প্রক্রিয়া | 24:19 | [Watch](https://youtu.be/C7VQFv5HSFM?si=IIUGS4ry-JOxBjnk) |
-| 70 | কোল্ড ওয়ার্কিং  প্রক্রিয়ার সুবিধা ও অসুবিধা | 8:20 | [Watch](https://youtu.be/KHAmyk8DEWY) |
-| 71 | বিভিন্ন প্রকার উৎপাদন প্রক্রিয়া | 25:13 | [Watch](https://youtu.be/sOissi-wfsM) |
-| 72 | শিয়ারিং বা কর্তন | 22:07 | [Watch](https://youtu.be/E4I4ih32ZTI) |
-| 73 | দুর্গর ইটের উৎপাদন প্রক্রিয়াগুলো উল্লেখ কর | 9:00 | [Watch](https://youtu.be/uqFPZ3CBvpg) |
-| 74 | কাঁচ কাঁটা কাকে বলে? এবং কাঁচ কাঁটার পদ্ধতিগুলো কি কি? | 7:26 | [Watch](https://youtu.be/nPJh6SV38Q8) |
-| 75 | থার্মোপ্লাস্টিক ও থার্মোসেটিং প্লাস্টিকের মধ্যে পার্থক্য | 7:30 | [Watch](https://youtu.be/8VYZgbPOv6E) |
-| 76 | প্লাস্টিককরন কি? | 9:35 | [Watch](https://youtu.be/ye_qD3vMmb8) |
-| 77 | Describe Various Surface Treatment Process | 10:35 | [Watch](https://youtu.be/dsvXkgDcJRA) |
-| 78 | ইলেকট্রোপ্লেটিং এর ত্রুটি ও প্রতিকার | 10:13 | [Watch](https://youtu.be/xj88V2dhU-M) |
-| 79 | ধাতবের উপর ক্ষয়ে আকৃতি কি কি ধরনের হয় | 4:22 | [Watch](https://youtu.be/IgsKuWZo_3M) |
-| 80 | অপসেট ফোর্জিং | 12:12 | [Watch](https://youtu.be/XdckDL-yVHI) |
-| 81 | Metal Spinning 2 | 8:00 | [Watch](https://youtu.be/3E_3Ac78dFU) |
-| 82 | ব্ল্যাকিং পিয়ারসিং | 21:14 | [Watch](https://youtu.be/TYv8GOv35mc) |
-| 83 | ৪ নাম্বার প্রসেস | 7:25 | [Watch](https://youtu.be/Ox5aJKO7iQ0) |
-| 84 | উৎপাদনে গুণমান প্রোগ্রাম | 7:32 | [Watch](https://youtu.be/KqJYBBRblhE) |
-| 85 | প্রোডাকশন লাইন | 8:21 | [Watch](https://youtu.be/K1WJ1LxNiw4) |
-| 86 | দুর্গল মৃত্তিকা ও ইটের বৈশিষ্ট্য ও ব্যবহার | 7:11 | [Watch](https://youtu.be/GillLAXWfsM) |
-| 87 | কাচের ফেব্রিকেশন | 12:16 | [Watch](https://youtu.be/EuTNM6i3dhU) |
-| 88 | প্লাস্টিক মোল্ডিং পদ্ধতির বিবরণ | 16:34 | [Watch](https://youtu.be/xR2G6iFx_GM) |
-| 89 | অধাতব আস্তরণ | 10:23 | [Watch](https://youtu.be/yyEBlPBmL-M?si=xZ-mD2XLpNq_e7sj) |
-| 90 | Part- 2 করোশন প্রতিরোধকরণ পদ্ধতিসমূহ | 18:08 | [Watch](https://youtu.be/qjbilPylK7c?si=rJTkV7FH7MyWs3Lz) |
+| 1 | Part- 1 করোশন প্রতিরোধকরণ পদ্ধতিসমূহ | 17:11 | [Watch](https://youtu.be/eYTT84G-jsY?si=34hf6X3U1tLyX-GR) |
+| 2 | Part- 1 করোশন প্রতিরোধকরণ পদ্ধতিসমূহ | 17:11 | [Watch](https://youtu.be/eYTT84G-jsY?si=5bNVRkh6_BWtJDER) |
+| 3 | Part- 2 করোশন প্রতিরোধকরণ পদ্ধতিসমূহ | 18:08 | [Watch](https://youtu.be/qjbilPylK7c?si=rJTkV7FH7MyWs3Lz) |
+| 4 | পণ্যের মান নিয়ন্ত্রন ও পরিদর্শন | 16:01 | [Watch](https://youtu.be/a_s3Kg-aWj4) |
+| 5 | ফ্লেক্সিবল ম্যানুফ্যাকচারিং পদ্ধতি ও প্রকারভেদ | 6:29 | [Watch](https://youtu.be/mKQ-Fd3jUBQ) |
+| 6 | মালামাল পরিচালনা নীতি এবং এর বৈশিষ্ট্য | 16:03 | [Watch](https://youtu.be/WQVzN-kDqqI) |
+| 7 | সিরামিক এবং এর বৈশিষ্ট্য | 8:33 | [Watch](https://youtu.be/eBBzXnD9VcY) |
+| 8 | কাচের উপাদানসমূহ | 15:24 | [Watch](https://youtu.be/OB9VEki6VR4) |
+| 9 | প্লাস্টিক, এর উপাদান, গঠন ও প্রকারভেদ | 23:00 | [Watch](https://youtu.be/fPpwdKA01Gg) |
+| 10 | পলিমার ও পলিমারকরণ | 23:12 | [Watch](https://youtu.be/aapkfwBW9uY) |
+| 11 | সারফেস ট্রিটমেন্টের এর প্রয়োজনীয়তা এবং বিভিন্ন পদ্ধতিসমূহ | 18:32 | [Watch](https://youtu.be/AC5LhWHE6oo?si=EvU7nyTHpQaeLrIV) |
+| 12 | ইলেকট্রোপ্লেটিং এর মূলনীতি, উদ্দেশ্য এবং এর ত্রুটি ও প্রতিকার | 25:08 | [Watch](https://youtu.be/uXAuUzFezt8?si=A2dymIbirlA9eJD7) |
+| 13 | করোশন এর শ্রেণিবিভাগ এবং এর আকৃতি | 26:27 | [Watch](https://youtu.be/fCY86VcLbTs?si=rf-TreNqRLpna01-) |
+| 14 | হট ওয়ার্কিং প্রক্রিয়া এবং এর প্রকার | 16:06 | [Watch](https://youtu.be/DBv9L36pmQg?si=WeruaN3U5YLDxP81) |
+| 15 | হট ওয়ার্কিং প্রক্রিয়ার নিয়ামক | 14:17 | [Watch](https://youtu.be/QYeubz1RFYc?si=KIwqAcBdsNh68AOW) |
+| 16 | করোশন এর শ্রেণিবিভাগ এবং এর আকৃতি | 26:27 | [Watch](https://youtu.be/fCY86VcLbTs?si=A3K52hY_1aA_8WeT) |
+| 17 | কোল্ড ওয়াকিং প্রক্রিয়ার শ্রেণিবিভাগ | 11:34 | [Watch](https://youtu.be/9WEkLfFCBOc) |
+| 18 | কোল্ড ওয়ার্কিং প্রক্রিয়া | 17:00 | [Watch](https://youtu.be/UV71ALZTdzU) |
+| 19 | উৎপাদন প্রক্রিয়া ও পদ্ধতি | 17:01 | [Watch](https://youtu.be/gkf2THpIS2U) |
+| 20 | সিরামিক বলতে কি বুঝায়? | 9:02 | [Watch](https://youtu.be/G8QFmtSyipk) |
+| 21 | কাচের গুনাবলি | 7:07 | [Watch](https://youtu.be/dE2u6oYVn1c) |
+| 22 | প্লস্টিক কি? | 8:17 | [Watch](https://youtu.be/AdCbUwigSoI) |
+| 23 | পলিমার নিয়ে আলোচনা | 10:20 | [Watch](https://youtu.be/AirlufALdTE) |
+| 24 | সারফেস ট্রিটমেন্ট | 4:05 | [Watch](https://youtu.be/-Tn3j1zIRqg) |
+| 25 | ইলেকট্রোপ্লেটিং কি? এর মূলনীতি | 12:05 | [Watch](https://youtu.be/sbZyaWlWPH0) |
+| 26 | করোশন কি কত প্রকার | 8:01 | [Watch](https://youtu.be/tv1RidyFkks) |
+| 27 | ফোর্জিং  প্রক্রিয়া | 6:23 | [Watch](https://youtu.be/-FaAedpn8pU) |
+| 28 | হট ওয়াকিং শ্রেনিবিন্যাস | 13:13 | [Watch](https://youtu.be/NU_9i2MheCU) |
+| 29 | ঠান্ডা ক্রিয়ার শ্রেণীবিভাগ | 13:16 | [Watch](https://youtu.be/c-YQOy-X9Ek) |
+| 30 | ঠান্ডা প্রক্রিয়ার সুবিধা | 16:26 | [Watch](https://youtu.be/l_89EiUt9aI) |
+| 31 | উৎপাদন প্রক্রিয়া ধারণা | 12:24 | [Watch](https://youtu.be/bSOflIFKX5k) |
+| 32 | প্রসেস ক্যাপাবিলিটি ও টলারেন্স | 8:01 | [Watch](https://youtu.be/h22l52DfqEw) |
+| 33 | ফ্লেক্সিবল ম্যানুফ্যাকচারিং সিস্টেম এর উপাদান | 6:33 | [Watch](https://youtu.be/Vpe-NkfeCk0) |
+| 34 | ম্যাটেরিয়ালস হ্যান্ডেলিং ইকুইটমেন্ট নির্বাচন ও তার প্রকারভেদ | 8:16 | [Watch](https://youtu.be/ZcjcdKfkY7U) |
+| 35 | দুর্গল সামগ্রী এবং শ্রেণিবিভাগ | 14:02 | [Watch](https://youtu.be/3clzTL27zU8) |
+| 36 | কাচের শ্রেণিবিভাগ  এবং নিয়ন্ত্রনকারী উপাদানসমূহ | 16:05 | [Watch](https://youtu.be/flDksQZSfFA) |
+| 37 | প্লাস্টিকের ধর্ম ও বৈশিষ্ট্য | 11:14 | [Watch](https://youtu.be/I2vDxpRi9Zw) |
+| 38 | পলিমারকরণ পদ্ধতি | 19:23 | [Watch](https://youtu.be/hZtj5z4rv6Q) |
+| 39 | যান্ত্রিক উপরিতল শোধন এবং কেস হার্ডেনিং | 21:09 | [Watch](https://youtu.be/F74l9qXEVqE?si=JG-q_rd8ys7hErd-) |
+| 40 | ইলেকট্রোপ্লেটিং এর পূর্বপ্রস্তুতির ধাপসমূহ | 18:21 | [Watch](https://youtu.be/zuymiJYGPuA?si=D4UZjVTdJRWX2FVM) |
+| 41 | ইলেকট্রোপ্লেটিং এর পূর্বপ্রস্তুতির ধাপসমূহ | 18:21 | [Watch](https://youtu.be/zuymiJYGPuA?si=KbHhbV4p4qNtAI4N) |
+| 42 | করোশন এর কলাকৌশল এবং নিয়ন্ত্রণের উপাদানসমূহ | 18:25 | [Watch](https://youtu.be/w_yQQIqOEkY?si=qs38CnIqy_0oZ-ta) |
+| 43 | বিভিন্ন প্রকার রোলিং প্রক্রিয়া | 19:10 | [Watch](https://youtu.be/5NMxhCh54jQ?si=hTxTZN3JeEI-p9Be) |
+| 44 | হট ওয়ার্কিং প্রক্রিয়ার সুবিধা ও অসুবিধা | 14:03 | [Watch](https://youtu.be/kMGynMu1F-Y?si=CYdMN3mQ0SAQQI0X) |
+| 45 | হট ওয়ার্কিং প্রক্রিয়ার সুবিধা ও অসুবিধা | 14:03 | [Watch](https://youtu.be/kMGynMu1F-Y) |
+| 46 | বিভিন্ন ধরনের স্কুইজিং প্রক্রিয়া | 12:22 | [Watch](https://youtu.be/SDmzyDYxL3o) |
+| 47 | কোল্ড ওয়ার্কিং  প্রক্রিয়ার নিয়ামক | 13:01 | [Watch](https://youtu.be/gBj5K9LZPa4) |
+| 48 | উৎপাদন প্রক্রিয়ার ধারনা | 15:25 | [Watch](https://youtu.be/CT-SfEmXTrg) |
+| 49 | উপকরন হিসেবে সিরামিকস এর গুনাবলিসমূহ ব্যাখ্যা কর | 11:35 | [Watch](https://youtu.be/IEQCpeAv054) |
+| 50 | কাচের উপাদানগুলোর তালিকা তৈরি কর | 4:17 | [Watch](https://youtu.be/PUtHd8mTydk) |
+| 51 | পলিমারইজেশন কি? | 9:16 | [Watch](https://youtu.be/rmrdZKBRgS0) |
+| 52 | সারফেস ট্রিটমেন্ট প্রয়োজনীয়তা | 7:23 | [Watch](https://youtu.be/MjBpZxQcMS0) |
+| 53 | ইলেকট্রোপ্লেটিং এর উদ্দেশ্য | 8:20 | [Watch](https://youtu.be/ytTkVdZh8j8) |
+| 54 | এম্বোসিং | 8:05 | [Watch](https://youtu.be/UXlHvFK8GOE) |
+| 55 | ফোর্জিং সুবিধা ও অসুবিধা | 6:23 | [Watch](https://youtu.be/cE4aiOILigE) |
+| 56 | ঠান্ডা ক্রিয়ার ব্যবহৃত বিভিন্ন প্রক্রিয়া | 19:34 | [Watch](https://youtu.be/PzyouZufhzY) |
+| 57 | ঠান্ডা প্রক্রিয়ার অসুবিধা | 10:21 | [Watch](https://youtu.be/zpLP5ux1NsM) |
+| 58 | উৎপাদন প্রক্রিয়া | 9:25 | [Watch](https://youtu.be/0uPq6X0aYgg) |
+| 59 | পরিসংখ্যানগত প্রক্রিয়া নিয়ন্ত্রণ | 10:08 | [Watch](https://youtu.be/KGWlyt9vxdY) |
+| 60 | ম্যাটেরিয়ালস হ্যান্ডেলিং সিস্টেম | 5:11 | [Watch](https://youtu.be/D-_mQb98dgY) |
+| 61 | দুর্গল ইটের উৎপাদন প্রক্রিয়া | 7:30 | [Watch](https://youtu.be/cTqjD3n1ANg) |
+| 62 | কাচের উপাদান পাউডারকরণ এরং কাচ গলানো | 5:23 | [Watch](https://youtu.be/-AtuqyRp95Y) |
+| 63 | ডাই ও মোল্ডের বিভিন্ন অংশ | 13:27 | [Watch](https://youtu.be/1Pz3kC47SF4) |
+| 64 | পলিমারাইজেশন এর উপর ভিত্তি করে পলিমারের শ্রেণিবিভাগ | 16:23 | [Watch](https://youtu.be/A5DCZqA9PbA) |
+| 65 | বাধাদানকারী আস্তরণ এবং তড়িৎ প্রলেপন | 21:20 | [Watch](https://youtu.be/Mq5JzU1pojI?si=RaSv_vPuE1BwfbH_) |
+| 66 | ইলেকট্রোপ্লেটিং প্রণালি এবং ব্যবহৃত যন্ত্রপাতি | 15:00 | [Watch](https://youtu.be/dV1SgibXqC8?si=uOtJMN3k8ceh87gK) |
+| 67 | ইলেকট্রোপ্লেটিং প্রণালি এবং ব্যবহৃত যন্ত্রপাতি | 15:00 | [Watch](https://youtu.be/dV1SgibXqC8?si=ca4hyKSmT_Qtx4b2) |
+| 68 | বিভিন্ন প্রকার ফোর্জিং প্রক্রিয়া | 18:04 | [Watch](https://youtu.be/kMNbpfB_7bc?si=2COWPhS7m-Ouk19B) |
+| 69 | হট ওয়ার্কিং প্রক্রিয়ায় প্লেটিং এর সুবিধা ও অসুবিধা | 18:26 | [Watch](https://youtu.be/fSkm3JAPA2g?si=X8n3lbZ0hjLGEkYa) |
+| 70 | বিভিন্ন ধরনের শিয়ারিং প্রক্রিয়া | 24:19 | [Watch](https://youtu.be/C7VQFv5HSFM?si=IIUGS4ry-JOxBjnk) |
+| 71 | কোল্ড ওয়ার্কিং  প্রক্রিয়ার সুবিধা ও অসুবিধা | 8:20 | [Watch](https://youtu.be/KHAmyk8DEWY) |
+| 72 | বিভিন্ন প্রকার উৎপাদন প্রক্রিয়া | 25:13 | [Watch](https://youtu.be/sOissi-wfsM) |
+| 73 | শিয়ারিং বা কর্তন | 22:07 | [Watch](https://youtu.be/E4I4ih32ZTI) |
+| 74 | দুর্গর ইটের উৎপাদন প্রক্রিয়াগুলো উল্লেখ কর | 9:00 | [Watch](https://youtu.be/uqFPZ3CBvpg) |
+| 75 | কাঁচ কাঁটা কাকে বলে? এবং কাঁচ কাঁটার পদ্ধতিগুলো কি কি? | 7:26 | [Watch](https://youtu.be/nPJh6SV38Q8) |
+| 76 | থার্মোপ্লাস্টিক ও থার্মোসেটিং প্লাস্টিকের মধ্যে পার্থক্য | 7:30 | [Watch](https://youtu.be/8VYZgbPOv6E) |
+| 77 | প্লাস্টিককরন কি? | 9:35 | [Watch](https://youtu.be/ye_qD3vMmb8) |
+| 78 | Describe Various Surface Treatment Process | 10:35 | [Watch](https://youtu.be/dsvXkgDcJRA) |
+| 79 | ইলেকট্রোপ্লেটিং এর ত্রুটি ও প্রতিকার | 10:13 | [Watch](https://youtu.be/xj88V2dhU-M) |
+| 80 | ধাতবের উপর ক্ষয়ে আকৃতি কি কি ধরনের হয় | 4:22 | [Watch](https://youtu.be/IgsKuWZo_3M) |
+| 81 | অপসেট ফোর্জিং | 12:12 | [Watch](https://youtu.be/XdckDL-yVHI) |
+| 82 | Metal Spinning 2 | 8:00 | [Watch](https://youtu.be/3E_3Ac78dFU) |
+| 83 | ব্ল্যাকিং পিয়ারসিং | 21:14 | [Watch](https://youtu.be/TYv8GOv35mc) |
+| 84 | ৪ নাম্বার প্রসেস | 7:25 | [Watch](https://youtu.be/Ox5aJKO7iQ0) |
+| 85 | উৎপাদনে গুণমান প্রোগ্রাম | 7:32 | [Watch](https://youtu.be/KqJYBBRblhE) |
+| 86 | প্রোডাকশন লাইন | 8:21 | [Watch](https://youtu.be/K1WJ1LxNiw4) |
+| 87 | দুর্গল মৃত্তিকা ও ইটের বৈশিষ্ট্য ও ব্যবহার | 7:11 | [Watch](https://youtu.be/GillLAXWfsM) |
+| 88 | কাচের ফেব্রিকেশন | 12:16 | [Watch](https://youtu.be/EuTNM6i3dhU) |
+| 89 | প্লাস্টিক মোল্ডিং পদ্ধতির বিবরণ | 16:34 | [Watch](https://youtu.be/xR2G6iFx_GM) |
+| 90 | অধাতব আস্তরণ | 10:23 | [Watch](https://youtu.be/yyEBlPBmL-M?si=xZ-mD2XLpNq_e7sj) |
 | 91 | বিভিন্ন প্রকার এক্সট্রুশন প্রক্রিয়া | 14:07 | [Watch](https://youtu.be/3x9WPaECY9I?si=QfxaPVDbGha0o_aH) |
 | 92 | হট ওয়ার্কিং প্রক্রিয়ায় ব্যবহৃত মেশিন ও যন্ত্রাংশ | 11:24 | [Watch](https://youtu.be/IBu21Qcgets?si=zlppxmGVRNSBccty) |
 | 93 | বিভিন্ন প্রকার এক্সট্রুশন প্রক্রিয়া | 16:13 | [Watch](https://youtu.be/3x9WPaECY9I?si=LIMhleZM-AiKz5EY) |

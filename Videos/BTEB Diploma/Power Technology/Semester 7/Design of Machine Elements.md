@@ -1,36 +1,35 @@
 # Design of Machine Elements
-
 > 163 videos | Power Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | ক্লাচ ডিজাইন | 14:05 | [Watch](https://youtu.be/IDM-So9uC0Y) |
-| 2 | ব্রেক ডিজাইন | 11:33 | [Watch](https://youtu.be/p5Fg71CJw_s) |
-| 3 | Part 1 গিয়ার ডিজাইন | 12:04 | [Watch](https://youtu.be/QYmRmydMwRI) |
-| 4 | স্প্রিং ডিজাইন | 12:06 | [Watch](https://youtu.be/ncgidSut4-U) |
-| 5 | রোপ ডিজাইন | 11:30 | [Watch](https://youtu.be/TwJhGXg_yKE) |
-| 6 | বেল্ট ডিজাইনে -এর নীতিসমূহ | 9:01 | [Watch](https://youtu.be/XbfmfGQJZKE?si=t9HJ-tkMilf_Yml-) |
-| 7 | পাওয়ার স্ক্রু  ডিজাইন এর মূলনীতি | 20:08 | [Watch](https://youtu.be/8E3JKqi4zAY?si=NMvvZPFThav__rXg) |
-| 8 | কাপলিং ডিজাইন এর নীতিসমূহ | 10:22 | [Watch](https://youtu.be/DpjoC5v7v60?si=E9fanzLdLvuLWoVs) |
-| 9 | বিভিন্ন প্রকার চাবি | 19:15 | [Watch](https://youtu.be/CNzT2dIrDko?si=NDrVtQySWfAVvdG9) |
-| 10 | শ্যাফট (Shaft) | 10:18 | [Watch](https://youtu.be/urcJk6cW2Tc?si=LE7u2fJKHWKD9Es0) |
-| 11 | জোড়া ডিজাইন এর নীতিসমূহ | 15:25 | [Watch](https://youtu.be/dneoTejSOKc) |
-| 12 | স্ক্রু জোড়া ডিজাইন এর নীতিসমূহ | 15:23 | [Watch](https://youtu.be/nZwL-9jhgBg) |
-| 13 | প্রেসার ভেসেল | 17:29 | [Watch](https://youtu.be/c5u5gdez0eE) |
-| 14 | মেশিন সম্পর্কে প্রাথমিক ধারণা | 22:00 | [Watch](https://youtu.be/VKojTstrOO0) |
-| 15 | ক্লাচের শ্রেণিবিভাগ | 6:28 | [Watch](https://youtu.be/g47fEth9AZg) |
-| 16 | ব্রেক লাইনিং ম্যাটেরিয়াল | 6:11 | [Watch](https://youtu.be/1xfskrZD_4M) |
-| 17 | পাইল এবং পাইল ক্যাপ | 12:07 | [Watch](https://youtu.be/Y-6yPW1hU1E) |
-| 18 | Part 2 গিয়ার ডিজাইন | 5:34 | [Watch](https://youtu.be/Fy8Tjcu0Nnk) |
-| 19 | বিভিন্ন প্রকার স্প্রিং | 28:28 | [Watch](https://youtu.be/RMhvLESqrj0) |
-| 20 | রোপের ব্যবহার (Use of rope) | 13:17 | [Watch](https://youtu.be/v-V8cVKjrrE) |
-| 21 | বেল্টের প্রকারভেদ | 22:04 | [Watch](https://youtu.be/rwMuD1c6B-4?si=us4bDmydikgwbMfc) |
-| 22 | পাওয়ার স্ক্রুতে ব্যবহৃত বিভিন্ন প্রকার স্ক্রু থ্রেড | 20:13 | [Watch](https://youtu.be/3it9Qssduac?si=pfp5PLWJvFZLwiLG) |
-| 23 | বিভিন্ন প্রকারের শ্যাফট কাপলিং | 24:07 | [Watch](https://youtu.be/KOeFIxetcac?si=QmPtGp3pENcRpT-J) |
-| 24 | চাবির ব্যবহার | 8:29 | [Watch](https://youtu.be/4Qy_hsbtLmo?si=JvvL9YJ6-FrmjJZk) |
-| 25 | শ্যাফটে বিভিন্ন প্রকার লোড | 21:01 | [Watch](https://youtu.be/dBQhXyU_gis?si=PqqE09_Cfl1b6oJJ) |
-| 26 | নাকল জোড়া ডিজাইন এর নীতিসমূহ | 4:07 | [Watch](https://youtu.be/ifFY2DKLZ-4) |
-| 27 | স্ক্রু থ্রেডের (Screw thread) | 18:04 | [Watch](https://youtu.be/r-6sgeF9ttA) |
+| 1 | স্ক্রু থ্রেডের (Screw thread) | 18:04 | [Watch](https://youtu.be/r-6sgeF9ttA) |
+| 2 | শ্যাফট (Shaft) | 10:18 | [Watch](https://youtu.be/urcJk6cW2Tc?si=LE7u2fJKHWKD9Es0) |
+| 3 | রোপের ব্যবহার (Use of rope) | 13:17 | [Watch](https://youtu.be/v-V8cVKjrrE) |
+| 4 | ক্লাচ ডিজাইন | 14:05 | [Watch](https://youtu.be/IDM-So9uC0Y) |
+| 5 | ব্রেক ডিজাইন | 11:33 | [Watch](https://youtu.be/p5Fg71CJw_s) |
+| 6 | Part 1 গিয়ার ডিজাইন | 12:04 | [Watch](https://youtu.be/QYmRmydMwRI) |
+| 7 | স্প্রিং ডিজাইন | 12:06 | [Watch](https://youtu.be/ncgidSut4-U) |
+| 8 | রোপ ডিজাইন | 11:30 | [Watch](https://youtu.be/TwJhGXg_yKE) |
+| 9 | বেল্ট ডিজাইনে -এর নীতিসমূহ | 9:01 | [Watch](https://youtu.be/XbfmfGQJZKE?si=t9HJ-tkMilf_Yml-) |
+| 10 | পাওয়ার স্ক্রু  ডিজাইন এর মূলনীতি | 20:08 | [Watch](https://youtu.be/8E3JKqi4zAY?si=NMvvZPFThav__rXg) |
+| 11 | কাপলিং ডিজাইন এর নীতিসমূহ | 10:22 | [Watch](https://youtu.be/DpjoC5v7v60?si=E9fanzLdLvuLWoVs) |
+| 12 | বিভিন্ন প্রকার চাবি | 19:15 | [Watch](https://youtu.be/CNzT2dIrDko?si=NDrVtQySWfAVvdG9) |
+| 13 | জোড়া ডিজাইন এর নীতিসমূহ | 15:25 | [Watch](https://youtu.be/dneoTejSOKc) |
+| 14 | স্ক্রু জোড়া ডিজাইন এর নীতিসমূহ | 15:23 | [Watch](https://youtu.be/nZwL-9jhgBg) |
+| 15 | প্রেসার ভেসেল | 17:29 | [Watch](https://youtu.be/c5u5gdez0eE) |
+| 16 | মেশিন সম্পর্কে প্রাথমিক ধারণা | 22:00 | [Watch](https://youtu.be/VKojTstrOO0) |
+| 17 | ক্লাচের শ্রেণিবিভাগ | 6:28 | [Watch](https://youtu.be/g47fEth9AZg) |
+| 18 | ব্রেক লাইনিং ম্যাটেরিয়াল | 6:11 | [Watch](https://youtu.be/1xfskrZD_4M) |
+| 19 | পাইল এবং পাইল ক্যাপ | 12:07 | [Watch](https://youtu.be/Y-6yPW1hU1E) |
+| 20 | Part 2 গিয়ার ডিজাইন | 5:34 | [Watch](https://youtu.be/Fy8Tjcu0Nnk) |
+| 21 | বিভিন্ন প্রকার স্প্রিং | 28:28 | [Watch](https://youtu.be/RMhvLESqrj0) |
+| 22 | বেল্টের প্রকারভেদ | 22:04 | [Watch](https://youtu.be/rwMuD1c6B-4?si=us4bDmydikgwbMfc) |
+| 23 | পাওয়ার স্ক্রুতে ব্যবহৃত বিভিন্ন প্রকার স্ক্রু থ্রেড | 20:13 | [Watch](https://youtu.be/3it9Qssduac?si=pfp5PLWJvFZLwiLG) |
+| 24 | বিভিন্ন প্রকারের শ্যাফট কাপলিং | 24:07 | [Watch](https://youtu.be/KOeFIxetcac?si=QmPtGp3pENcRpT-J) |
+| 25 | চাবির ব্যবহার | 8:29 | [Watch](https://youtu.be/4Qy_hsbtLmo?si=JvvL9YJ6-FrmjJZk) |
+| 26 | শ্যাফটে বিভিন্ন প্রকার লোড | 21:01 | [Watch](https://youtu.be/dBQhXyU_gis?si=PqqE09_Cfl1b6oJJ) |
+| 27 | নাকল জোড়া ডিজাইন এর নীতিসমূহ | 4:07 | [Watch](https://youtu.be/ifFY2DKLZ-4) |
 | 28 | থিন ও থিক প্রেসার ভেসেলের মধ্যে পার্থক্য | 3:24 | [Watch](https://youtu.be/-PEhM-FcNBY) |
 | 29 | মেশিন ডিজাইনে বা ডিজাইন অব মেশিন এলিমেন্টেস সাধারণ বিবেচ্য বিষয়সমূহ | 14:30 | [Watch](https://youtu.be/0NoxHodMjvM) |
 | 30 | Part - 1 ব্রেকের ফ্রিকশনাল টর্ক | 29:35 | [Watch](https://youtu.be/rhM96Ez0HFM) |

@@ -1,6 +1,5 @@
 # Apps Development Project
-
-> 74 videos | Computer Science & Technology
+> 72 videos | Computer Science & Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -68,15 +67,13 @@
 | 62 | Recycle View | 4:31 | [Watch](https://youtu.be/WNO1N6zXvbs?si=ZyyKsrZJAC92PJ-b) |
 | 63 | ওভারলোডিং মেথডের উদাহরণ | 10:16 | [Watch](https://youtu.be/minNjCdIkhk?si=0_qzsG-AHoBp9SKv) |
 | 64 | জ্যাটপ্যাক কম্পোজ | 5:14 | [Watch](https://youtu.be/GK8ZmnMSfzk?si=ZCqqYueB242ESGrw) |
-| 65 | অ্যাবস্ট্রাকশন (Abstraction) | 6:04 | - |
-| 66 | Part-1 নেভিগেশনের প্রকারভেদ | 5:16 | - |
-| 67 | বেসিক কম্পোজেবল  এবং লেআউট | 6:14 | [Watch](https://youtu.be/tY6-6SNwfBE?si=HyieO-wEgBLT2fji) |
-| 68 | অ্যান্ড্রয়েড অ্যাপ্লিকেশন প্রজেক্ট স্ট্রাকচার | 8:14 | [Watch](https://youtu.be/DSPvpcisFc0?si=1oCgLWtHSY_E7BFZ) |
-| 69 | Part-2 নেভিগেশনের প্রকারভেদ | 13:10 | [Watch](https://youtu.be/K_qaXWuazyc) |
-| 70 | কম্পোজের মধ্যে স্টেট ম্যানেজমেন্ট | 3:10 | [Watch](https://youtu.be/3AYy2pCnRfo?si=xKtPsiGA_Hl0EkYX) |
-| 71 | res (Resources) ফোল্ডার | 10:31 | [Watch](https://youtu.be/QXzO45XjFNE?si=SkhFhq19kXn8x_xl) |
-| 72 | নেভিগেশন কম্পোনেন্টের সুবিধা | 1:02 | [Watch](https://youtu.be/zS1Nswaj8Tg) |
-| 73 | XML লেআউট এবং প্রোগ্রাম্যাটিক লে-আউটের মধ্যে পার্থক্য | 3:26 | [Watch](https://youtu.be/-pEFInSgSsg?si=8X-RPqym4xqMpqlm) |
-| 74 | Manifest  Folder | 11:22 | [Watch](https://youtu.be/olmakQBFuug?si=5aH78xS-v5muonI7) |
+| 65 | বেসিক কম্পোজেবল  এবং লেআউট | 6:14 | [Watch](https://youtu.be/tY6-6SNwfBE?si=HyieO-wEgBLT2fji) |
+| 66 | অ্যান্ড্রয়েড অ্যাপ্লিকেশন প্রজেক্ট স্ট্রাকচার | 8:14 | [Watch](https://youtu.be/DSPvpcisFc0?si=1oCgLWtHSY_E7BFZ) |
+| 67 | Part-2 নেভিগেশনের প্রকারভেদ | 13:10 | [Watch](https://youtu.be/K_qaXWuazyc) |
+| 68 | কম্পোজের মধ্যে স্টেট ম্যানেজমেন্ট | 3:10 | [Watch](https://youtu.be/3AYy2pCnRfo?si=xKtPsiGA_Hl0EkYX) |
+| 69 | res (Resources) ফোল্ডার | 10:31 | [Watch](https://youtu.be/QXzO45XjFNE?si=SkhFhq19kXn8x_xl) |
+| 70 | নেভিগেশন কম্পোনেন্টের সুবিধা | 1:02 | [Watch](https://youtu.be/zS1Nswaj8Tg) |
+| 71 | XML লেআউট এবং প্রোগ্রাম্যাটিক লে-আউটের মধ্যে পার্থক্য | 3:26 | [Watch](https://youtu.be/-pEFInSgSsg?si=8X-RPqym4xqMpqlm) |
+| 72 | Manifest  Folder | 11:22 | [Watch](https://youtu.be/olmakQBFuug?si=5aH78xS-v5muonI7) |
 
-*74 videos total*
+*72 videos total*

@@ -1,22 +1,21 @@
 # Automobile Fundamentals
-
 > 104 videos | Automobile Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | ইঞ্জিনের ক্ষমতার সংজ্ঞা | 11:16 | [Watch](https://youtu.be/5EY3icdcbss) |
-| 2 | মোটরযান ওয়ার্কশপে ব্যবহৃত স্পেশাল হ্যান্ড টুলস | 17:21 | [Watch](https://youtu.be/uQL5hcyNbjA) |
-| 3 | ভেহিক্যাল 360° এর চতুর্দিকের দৃশ্য প্রযুক্তির সংজ্ঞা | 6:26 | [Watch](https://youtu.be/XXPp7fau5Rk) |
-| 4 | মোটরযানের প্রয়োগকৃত বিভিন্ন প্রকার ভেহিক্যাল পাওয়ার পদ্ধতি | 6:34 | [Watch](https://youtu.be/JWH25HyT06k) |
-| 5 | মোটরযানের বিভিন্ন পদ্ধতিসমূহ | 8:35 | [Watch](https://youtu.be/Hw8t-HZXUz0) |
-| 6 | মোটরযান ইঞ্জিন | 8:08 | [Watch](https://youtu.be/hcDwkK4eSz0) |
-| 7 | মোটরযানের চেসিস পরিমাপ | 13:02 | [Watch](https://youtu.be/kv9gw4xmWQc) |
-| 8 | চেসিস ও বডির সংজ্ঞা | 11:18 | [Watch](https://youtu.be/5O3UPGnxiYo) |
-| 9 | মোটরযানের স্পেসিফিকেশন | 8:08 | [Watch](https://youtu.be/4xCqaIt1C6g) |
-| 10 | মোটরযানের লে- আউট | 12:13 | [Watch](https://youtu.be/QH88mWzKRbs) |
-| 11 | অটোমোটিভ ভেহিক্যালস এর সংজ্ঞা | 4:54 | [Watch](https://youtu.be/M6-QXaIXquo?si=KnZX0G-yNCLJXAZG) |
-| 12 | মোটরযান শিল্পকারখানা ও ডিলার | 10:25 | [Watch](https://youtu.be/Ij5iU73srNg) |
-| 13 | মোটরযান (Automobile) | 7:04 | [Watch](https://youtu.be/qg5f-xsDSkE) |
+| 1 | মোটরযান (Automobile) | 7:04 | [Watch](https://youtu.be/qg5f-xsDSkE) |
+| 2 | ইঞ্জিনের ক্ষমতার সংজ্ঞা | 11:16 | [Watch](https://youtu.be/5EY3icdcbss) |
+| 3 | মোটরযান ওয়ার্কশপে ব্যবহৃত স্পেশাল হ্যান্ড টুলস | 17:21 | [Watch](https://youtu.be/uQL5hcyNbjA) |
+| 4 | ভেহিক্যাল 360° এর চতুর্দিকের দৃশ্য প্রযুক্তির সংজ্ঞা | 6:26 | [Watch](https://youtu.be/XXPp7fau5Rk) |
+| 5 | মোটরযানের প্রয়োগকৃত বিভিন্ন প্রকার ভেহিক্যাল পাওয়ার পদ্ধতি | 6:34 | [Watch](https://youtu.be/JWH25HyT06k) |
+| 6 | মোটরযানের বিভিন্ন পদ্ধতিসমূহ | 8:35 | [Watch](https://youtu.be/Hw8t-HZXUz0) |
+| 7 | মোটরযান ইঞ্জিন | 8:08 | [Watch](https://youtu.be/hcDwkK4eSz0) |
+| 8 | মোটরযানের চেসিস পরিমাপ | 13:02 | [Watch](https://youtu.be/kv9gw4xmWQc) |
+| 9 | চেসিস ও বডির সংজ্ঞা | 11:18 | [Watch](https://youtu.be/5O3UPGnxiYo) |
+| 10 | মোটরযানের স্পেসিফিকেশন | 8:08 | [Watch](https://youtu.be/4xCqaIt1C6g) |
+| 11 | মোটরযানের লে- আউট | 12:13 | [Watch](https://youtu.be/QH88mWzKRbs) |
+| 12 | অটোমোটিভ ভেহিক্যালস এর সংজ্ঞা | 4:54 | [Watch](https://youtu.be/M6-QXaIXquo?si=KnZX0G-yNCLJXAZG) |
+| 13 | মোটরযান শিল্পকারখানা ও ডিলার | 10:25 | [Watch](https://youtu.be/Ij5iU73srNg) |
 | 14 | যানবাহনের নিরাপত্তা | 7:23 | [Watch](https://youtu.be/wVPSbKcgA0A) |
 | 15 | অটোমোবাইল ফান্ডামেন্টালস সম্পর্কিত আলোচনা | 11:29 | [Watch](https://youtu.be/p1g8tfGNGRs) |
 | 16 | ইএফআই, ভিভিটিআই, জিডিআই এবং হাইব্রিড মোটরযানের সংজ্ঞা | 12:10 | [Watch](https://youtu.be/L04QqMhia9Q) |

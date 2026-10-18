@@ -1,5 +1,4 @@
 # Principles of Marketing
-
 > 178 videos | Automobile Technology
 
 | # | Title | Duration | Link |

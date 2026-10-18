@@ -1,5 +1,4 @@
 # Industrial Management
-
 > 111 videos | Electrical Technology
 
 | # | Title | Duration | Link |

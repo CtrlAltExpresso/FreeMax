@@ -1,22 +1,21 @@
 # Hydrology
-
 > 228 videos | Construction Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
 | 1 | পানিচক্র (Hydrologic Cycle) | 23:13 | [Watch](https://youtu.be/fbmRTFzLgo0) |
-| 2 | ইঞ্জিনিয়ারিং হাইড্রোলজির ধারণা | 41:08 | [Watch](https://youtu.be/5JVCs8usH50) |
-| 3 | বাংলাদেশের ডেল্টা প্ল্যান | 14:28 | [Watch](https://youtu.be/OMeMjwnhzBY) |
-| 4 | ব্ল ইকোনোমি  নীল অর্থনীতির সুবিধা | 13:26 | [Watch](https://youtu.be/pgcadsNx9SA) |
-| 5 | ফ্লাড রাউটিং | 11:25 | [Watch](https://youtu.be/pQ_siZ7inTQ) |
-| 6 | হাইড্রোগ্রাফ | 13:04 | [Watch](https://youtu.be/ptVLqYUj4Ko) |
-| 7 | রানঅফ | 9:01 | [Watch](https://youtu.be/QCquG0Aeb2E) |
-| 8 | অনুশ্রবণ বা অনুপ্রবেশ | 17:22 | [Watch](https://youtu.be/HwUfOLbbb70) |
-| 9 | বাষ্পীভবন | 11:31 | [Watch](https://youtu.be/cPeF0R2mAIs) |
-| 10 | স্ট্রিম প্রবাহ | 14:26 | [Watch](https://youtu.be/vlHBNRz5K10) |
-| 11 | বৃষ্টিপাতের তথ্য | 7:21 | [Watch](https://youtu.be/UsBY-cVqEwU) |
-| 12 | অধঃক্ষেপন পরিমাপের গুরুত্ব | 15:26 | [Watch](https://youtu.be/iCwIbHRxyJA) |
-| 13 | অধঃক্ষেপণ Precipitation | 13:35 | [Watch](https://youtu.be/d7T9-4aiQGI) |
+| 2 | অধঃক্ষেপণ Precipitation | 13:35 | [Watch](https://youtu.be/d7T9-4aiQGI) |
+| 3 | ইঞ্জিনিয়ারিং হাইড্রোলজির ধারণা | 41:08 | [Watch](https://youtu.be/5JVCs8usH50) |
+| 4 | বাংলাদেশের ডেল্টা প্ল্যান | 14:28 | [Watch](https://youtu.be/OMeMjwnhzBY) |
+| 5 | ব্ল ইকোনোমি  নীল অর্থনীতির সুবিধা | 13:26 | [Watch](https://youtu.be/pgcadsNx9SA) |
+| 6 | ফ্লাড রাউটিং | 11:25 | [Watch](https://youtu.be/pQ_siZ7inTQ) |
+| 7 | হাইড্রোগ্রাফ | 13:04 | [Watch](https://youtu.be/ptVLqYUj4Ko) |
+| 8 | রানঅফ | 9:01 | [Watch](https://youtu.be/QCquG0Aeb2E) |
+| 9 | অনুশ্রবণ বা অনুপ্রবেশ | 17:22 | [Watch](https://youtu.be/HwUfOLbbb70) |
+| 10 | বাষ্পীভবন | 11:31 | [Watch](https://youtu.be/cPeF0R2mAIs) |
+| 11 | স্ট্রিম প্রবাহ | 14:26 | [Watch](https://youtu.be/vlHBNRz5K10) |
+| 12 | বৃষ্টিপাতের তথ্য | 7:21 | [Watch](https://youtu.be/UsBY-cVqEwU) |
+| 13 | অধঃক্ষেপন পরিমাপের গুরুত্ব | 15:26 | [Watch](https://youtu.be/iCwIbHRxyJA) |
 | 14 | হাইড্রোমেটিওরোলজি | 7:22 | [Watch](https://youtu.be/GCj2F3At5-I) |
 | 15 | পানি চক্র | 11:05 | [Watch](https://youtu.be/2h3Z-an95I4) |
 | 16 | হাইড্রোলজি কাকে বলে? | 10:03 | [Watch](https://youtu.be/mT37f-dRktw) |

@@ -1,5 +1,4 @@
 # Strength of Materials
-
 > 1 videos | Mechanical Technology
 
 | # | Title | Duration | Link |

@@ -1,5 +1,4 @@
 # Industrial Management
-
 > 111 videos | Marine Technology
 
 | # | Title | Duration | Link |

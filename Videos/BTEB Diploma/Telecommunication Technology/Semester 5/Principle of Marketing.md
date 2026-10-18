@@ -1,58 +1,57 @@
 # Principle of Marketing
-
 > 113 videos | Telecommunication Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | বাজারজাতকরণ নৈতিকতা | 5:29 | [Watch](https://youtu.be/qPQ1XcxfYYE) |
-| 2 | ভোক্তার আচরণ | 7:15 | [Watch](https://youtu.be/cJEVqb19XA8) |
-| 3 | ব্র্যান্ডিং | 10:31 | [Watch](https://youtu.be/7RR2TTQqKqg) |
-| 4 | Promotion বা প্রচারণা | 10:04 | [Watch](https://youtu.be/yYnzH0RtTa4) |
-| 5 | বাজার বিভক্তিকরণ | 13:04 | [Watch](https://youtu.be/57EAQNsMsHY) |
-| 6 | বন্টন প্রনালীর সংজ্ঞা | 9:19 | [Watch](https://youtu.be/iL8TZ7DhUOA) |
-| 7 | পণ্য | 11:29 | [Watch](https://youtu.be/mRZIg_mi5F4) |
-| 8 | বাজার পরিবেশ Marketing Environment | 9:35 | [Watch](https://youtu.be/YPDsA22zxKI) |
-| 9 | বিপণন তত্ত্ব এবং কৌশল | 6:34 | [Watch](https://youtu.be/fc-72rdGjPg) |
-| 10 | Introduction of Marketing | 13:16 | [Watch](https://youtu.be/3x1CmpgEi-k) |
-| 11 | নৈতিক বিপণনের নীতি | 5:11 | [Watch](https://youtu.be/rm5RaYVnS7M) |
-| 12 | ভোক্তার আচরণের বৈশিষ্ট্যসমূহ | 19:33 | [Watch](https://youtu.be/ZB1tVtE3coM) |
-| 13 | ব্র্যান্ডিং এর উপাদানসমূহ | 4:30 | [Watch](https://youtu.be/dS0mq20LDk4) |
-| 14 | Promotion বা প্রচারণার বৈশিষ্ট্য | 5:08 | [Watch](https://youtu.be/hxTiROFKkZo) |
-| 15 | বাজার বিভক্তিকরণের বৈশিষ্ট্য | 6:26 | [Watch](https://youtu.be/SF6bsN-pwZI) |
-| 16 | পন্য বন্টন প্রণালী বলতে কি বুঝ | 6:01 | [Watch](https://youtu.be/Aq5oJZGKY70) |
-| 17 | সেবা | 13:30 | [Watch](https://youtu.be/KzfpxADcqSg) |
-| 18 | বিপণন পরিবেশ এর প্রকারভেদ | 10:01 | [Watch](https://youtu.be/urvkW48w0JQ) |
-| 19 | প্রয়োজন, অভাব ও চাহিদা Needs, Wants and Demands | 12:27 | [Watch](https://youtu.be/Sqykga9ldEM) |
-| 20 | মার্কেটিং কি এবং এর ক্ষেত্র বা পর্যায় কি কি | 19:34 | [Watch](https://youtu.be/e1cODikPp8I) |
-| 21 | বাজারজাতকরণ নৈতিকতার ভূমিকা | 6:00 | [Watch](https://youtu.be/o_k56xQAbac) |
-| 22 | পাঁচ ধাপের ভোক্তা ক্রয় সিদ্ধান্ত গ্রহণের প্রক্রিয়া | 20:24 | [Watch](https://youtu.be/ny0q32wQUno) |
-| 23 | ব্র্যান্ড বার্তা | 19:15 | [Watch](https://youtu.be/9ccIJnpnKS8) |
-| 24 | বিপণন প্রচার বা মার্কেটিং প্রমোশনের মৌলিক বিষয় | 3:07 | [Watch](https://youtu.be/_qLIcxbHMPo) |
-| 25 | ভোক্তা বাজার বিভক্তিকরণের ভিত্তি সমূহ | 4:19 | [Watch](https://youtu.be/sOc60Xzv0UE) |
-| 26 | বাজারজাতকরণে বন্টন প্রনালীর প্রয়োজনীয়তা বা গুরুত্ব | 15:05 | [Watch](https://youtu.be/F1XtRscRQ9A) |
-| 27 | পণ্য জীবনচক্র | 20:05 | [Watch](https://youtu.be/6q7F-6OUIc8) |
-| 28 | ব্যষ্টিক পরিবেশ Microenvironment | 3:30 | [Watch](https://youtu.be/1IT3AjyMnuU) |
-| 29 | পন্য, সেবা, অভিজ্ঞতা কাকে বলে | 6:06 | [Watch](https://youtu.be/ILzyB3FrDJk) |
-| 30 | বাজারজাতকরণ কার্যাবলি বলতে কি বুঝায় | 10:25 | [Watch](https://youtu.be/c1WMFvfuPIM) |
-| 31 | ডিজিটাল বিপণনে নৈতিকতা অনুশীলন | 14:13 | [Watch](https://youtu.be/XvLRFp-eVEQ) |
-| 32 | ভোক্তার আচরণের গুরুত্ব এবং প্রয়োজনীয়তা | 19:03 | [Watch](https://youtu.be/4GVpon2NC1Q) |
-| 33 | ব্র্যান্ডিং এর প্রয়োজনীয়তা | 10:34 | [Watch](https://youtu.be/tKzvGJGl0Ic) |
-| 34 | বিক্রয় প্রসার | 7:14 | [Watch](https://youtu.be/q_fI_5dGTGk) |
-| 35 | ভৌগোলিক বিভক্তিকরণ | 17:24 | [Watch](https://youtu.be/4be53E6OI8E) |
-| 36 | ভোগ্যপণ্যের বন্টন প্রণালী | 8:00 | [Watch](https://youtu.be/sfHCy-Cmi9I) |
-| 37 | পণ্যের উন্নয়ন স্তর | 24:20 | [Watch](https://youtu.be/GS0kZRzN1t8) |
-| 38 | গুরুত্বপূর্ণ প্রশ্নসমূহ | 16:15 | [Watch](https://youtu.be/fJTeLY6jpes) |
-| 39 | ভ্যালু, ক্রেতা,ক্রেতা সন্তুষ্টি বিনিময় বলতে কি বুঝায় | 10:28 | [Watch](https://youtu.be/Xw_ByljGhJ0) |
-| 40 | বিপণন কার্যাবলী  Functions of Marketing | 11:21 | [Watch](https://youtu.be/oEHV5qO5r40) |
-| 41 | সাইবার বুলিং | 1:34 | [Watch](https://youtu.be/r4dyVrtljoc) |
-| 42 | ভোক্তার আচরণের মডেল | 14:32 | [Watch](https://youtu.be/RqQMjrAiESc) |
-| 43 | বিক্রেতার নিকট ব্র্যান্ডিং এর গুরুত্ব | 9:18 | [Watch](https://youtu.be/0yk-v6qXcQA) |
-| 44 | বিজ্ঞাপন | 7:11 | [Watch](https://youtu.be/u0bOd2GRbhk) |
-| 45 | মনস্তাত্ত্বিক  বিভক্তিকরণ | 15:07 | [Watch](https://youtu.be/ZSUB6-OyVcU) |
-| 46 | সরাসরি বন্টন বা শূন্যস্তর বিশিষ্ট বন্টন প্রণালী | 24:06 | [Watch](https://youtu.be/zCV6hPEHOmo) |
-| 47 | পূর্ণতা বা পরিণত স্তর | 17:06 | [Watch](https://youtu.be/_VMqfn9TqIM) |
-| 48 | ক্রেতা Customers | 19:09 | [Watch](https://youtu.be/59J7JkZ_Hr0) |
-| 49 | বিনিময়,লেনদেন এবং সম্পর্ক Exchange, Transactions and Relationships | 8:02 | [Watch](https://youtu.be/7Q9GE-R3cmc) |
+| 1 | প্রয়োজন, অভাব ও চাহিদা Needs, Wants and Demands | 12:27 | [Watch](https://youtu.be/Sqykga9ldEM) |
+| 2 | বিনিময়,লেনদেন এবং সম্পর্ক Exchange, Transactions and Relationships | 8:02 | [Watch](https://youtu.be/7Q9GE-R3cmc) |
+| 3 | বাজারজাতকরণ নৈতিকতা | 5:29 | [Watch](https://youtu.be/qPQ1XcxfYYE) |
+| 4 | ভোক্তার আচরণ | 7:15 | [Watch](https://youtu.be/cJEVqb19XA8) |
+| 5 | ব্র্যান্ডিং | 10:31 | [Watch](https://youtu.be/7RR2TTQqKqg) |
+| 6 | Promotion বা প্রচারণা | 10:04 | [Watch](https://youtu.be/yYnzH0RtTa4) |
+| 7 | বাজার বিভক্তিকরণ | 13:04 | [Watch](https://youtu.be/57EAQNsMsHY) |
+| 8 | বন্টন প্রনালীর সংজ্ঞা | 9:19 | [Watch](https://youtu.be/iL8TZ7DhUOA) |
+| 9 | পণ্য | 11:29 | [Watch](https://youtu.be/mRZIg_mi5F4) |
+| 10 | বাজার পরিবেশ Marketing Environment | 9:35 | [Watch](https://youtu.be/YPDsA22zxKI) |
+| 11 | বিপণন তত্ত্ব এবং কৌশল | 6:34 | [Watch](https://youtu.be/fc-72rdGjPg) |
+| 12 | Introduction of Marketing | 13:16 | [Watch](https://youtu.be/3x1CmpgEi-k) |
+| 13 | নৈতিক বিপণনের নীতি | 5:11 | [Watch](https://youtu.be/rm5RaYVnS7M) |
+| 14 | ভোক্তার আচরণের বৈশিষ্ট্যসমূহ | 19:33 | [Watch](https://youtu.be/ZB1tVtE3coM) |
+| 15 | ব্র্যান্ডিং এর উপাদানসমূহ | 4:30 | [Watch](https://youtu.be/dS0mq20LDk4) |
+| 16 | Promotion বা প্রচারণার বৈশিষ্ট্য | 5:08 | [Watch](https://youtu.be/hxTiROFKkZo) |
+| 17 | বাজার বিভক্তিকরণের বৈশিষ্ট্য | 6:26 | [Watch](https://youtu.be/SF6bsN-pwZI) |
+| 18 | পন্য বন্টন প্রণালী বলতে কি বুঝ | 6:01 | [Watch](https://youtu.be/Aq5oJZGKY70) |
+| 19 | সেবা | 13:30 | [Watch](https://youtu.be/KzfpxADcqSg) |
+| 20 | বিপণন পরিবেশ এর প্রকারভেদ | 10:01 | [Watch](https://youtu.be/urvkW48w0JQ) |
+| 21 | মার্কেটিং কি এবং এর ক্ষেত্র বা পর্যায় কি কি | 19:34 | [Watch](https://youtu.be/e1cODikPp8I) |
+| 22 | বাজারজাতকরণ নৈতিকতার ভূমিকা | 6:00 | [Watch](https://youtu.be/o_k56xQAbac) |
+| 23 | পাঁচ ধাপের ভোক্তা ক্রয় সিদ্ধান্ত গ্রহণের প্রক্রিয়া | 20:24 | [Watch](https://youtu.be/ny0q32wQUno) |
+| 24 | ব্র্যান্ড বার্তা | 19:15 | [Watch](https://youtu.be/9ccIJnpnKS8) |
+| 25 | বিপণন প্রচার বা মার্কেটিং প্রমোশনের মৌলিক বিষয় | 3:07 | [Watch](https://youtu.be/_qLIcxbHMPo) |
+| 26 | ভোক্তা বাজার বিভক্তিকরণের ভিত্তি সমূহ | 4:19 | [Watch](https://youtu.be/sOc60Xzv0UE) |
+| 27 | বাজারজাতকরণে বন্টন প্রনালীর প্রয়োজনীয়তা বা গুরুত্ব | 15:05 | [Watch](https://youtu.be/F1XtRscRQ9A) |
+| 28 | পণ্য জীবনচক্র | 20:05 | [Watch](https://youtu.be/6q7F-6OUIc8) |
+| 29 | ব্যষ্টিক পরিবেশ Microenvironment | 3:30 | [Watch](https://youtu.be/1IT3AjyMnuU) |
+| 30 | পন্য, সেবা, অভিজ্ঞতা কাকে বলে | 6:06 | [Watch](https://youtu.be/ILzyB3FrDJk) |
+| 31 | বাজারজাতকরণ কার্যাবলি বলতে কি বুঝায় | 10:25 | [Watch](https://youtu.be/c1WMFvfuPIM) |
+| 32 | ডিজিটাল বিপণনে নৈতিকতা অনুশীলন | 14:13 | [Watch](https://youtu.be/XvLRFp-eVEQ) |
+| 33 | ভোক্তার আচরণের গুরুত্ব এবং প্রয়োজনীয়তা | 19:03 | [Watch](https://youtu.be/4GVpon2NC1Q) |
+| 34 | ব্র্যান্ডিং এর প্রয়োজনীয়তা | 10:34 | [Watch](https://youtu.be/tKzvGJGl0Ic) |
+| 35 | বিক্রয় প্রসার | 7:14 | [Watch](https://youtu.be/q_fI_5dGTGk) |
+| 36 | ভৌগোলিক বিভক্তিকরণ | 17:24 | [Watch](https://youtu.be/4be53E6OI8E) |
+| 37 | ভোগ্যপণ্যের বন্টন প্রণালী | 8:00 | [Watch](https://youtu.be/sfHCy-Cmi9I) |
+| 38 | পণ্যের উন্নয়ন স্তর | 24:20 | [Watch](https://youtu.be/GS0kZRzN1t8) |
+| 39 | গুরুত্বপূর্ণ প্রশ্নসমূহ | 16:15 | [Watch](https://youtu.be/fJTeLY6jpes) |
+| 40 | ভ্যালু, ক্রেতা,ক্রেতা সন্তুষ্টি বিনিময় বলতে কি বুঝায় | 10:28 | [Watch](https://youtu.be/Xw_ByljGhJ0) |
+| 41 | বিপণন কার্যাবলী  Functions of Marketing | 11:21 | [Watch](https://youtu.be/oEHV5qO5r40) |
+| 42 | সাইবার বুলিং | 1:34 | [Watch](https://youtu.be/r4dyVrtljoc) |
+| 43 | ভোক্তার আচরণের মডেল | 14:32 | [Watch](https://youtu.be/RqQMjrAiESc) |
+| 44 | বিক্রেতার নিকট ব্র্যান্ডিং এর গুরুত্ব | 9:18 | [Watch](https://youtu.be/0yk-v6qXcQA) |
+| 45 | বিজ্ঞাপন | 7:11 | [Watch](https://youtu.be/u0bOd2GRbhk) |
+| 46 | মনস্তাত্ত্বিক  বিভক্তিকরণ | 15:07 | [Watch](https://youtu.be/ZSUB6-OyVcU) |
+| 47 | সরাসরি বন্টন বা শূন্যস্তর বিশিষ্ট বন্টন প্রণালী | 24:06 | [Watch](https://youtu.be/zCV6hPEHOmo) |
+| 48 | পূর্ণতা বা পরিণত স্তর | 17:06 | [Watch](https://youtu.be/_VMqfn9TqIM) |
+| 49 | ক্রেতা Customers | 19:09 | [Watch](https://youtu.be/59J7JkZ_Hr0) |
 | 50 | বিক্রয়ের  সংজ্ঞা  Defination of Sales | 15:02 | [Watch](https://youtu.be/_qsYxTJu0yU) |
 | 51 | ব্যবসায়ে সামাজিক দায়বদ্ধতার ধারণা | 2:32 | [Watch](https://youtu.be/neEyloA3W7A) |
 | 52 | ব্র্যান্ড গঠনের প্রক্রিয়ার ধাপসমূহ | 23:04 | [Watch](https://youtu.be/DItLjVATAvw) |

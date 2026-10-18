@@ -1,5 +1,4 @@
 # Basic Estimating & Costing
-
 > 23 videos | Architecture Technology
 
 | # | Title | Duration | Link |

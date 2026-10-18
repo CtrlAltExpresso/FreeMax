@@ -1,79 +1,78 @@
 # Electrical & Electronic Measurements-I
-
 > 133 videos | Electromedical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | ডিজিটাল ভোল্টমিটার ও ডিজিটাল এনার্জি মিটারের ধারণা | 20:13 | [Watch](https://youtu.be/XmAu2n7w_2M) |
-| 2 | ডিজিটাল ইন্সট্রুমেন্টের পরিচালন নীতি | 11:17 | [Watch](https://youtu.be/_Hwamf1NsCg) |
-| 3 | এনার্জি মিটারের মূলনীতি | 11:26 | [Watch](https://youtu.be/y6AhpRBeV8M) |
-| 4 | তিন ফেজ সার্কিটের পাওয়ার পরিমাপের পদ্ধতিসমূহ | 9:24 | [Watch](https://youtu.be/45oaPwAYQaY?si=UCxQB_gZcF5idL-m) |
-| 5 | ওয়াটমিটার এবং এর প্রকারভেদ | 6:19 | [Watch](https://youtu.be/uPWyOaFFcIM) |
-| 6 | মুভিং কয়েল ইনস্ট্রুমেন্টের প্রকারভেদ | 6:19 | [Watch](https://youtu.be/mNkiO1ekMnE?si=tdxI7yJrszQZ7J_y) |
-| 7 | মুভিং আয়রন ইনস্ট্রমেন্ট | 8:08 | [Watch](https://youtu.be/zW2gDZz_ACI) |
-| 8 | পরিমাপ যন্ত্রের অপরিহার্য অংশ | 7:28 | [Watch](https://youtu.be/8UoUc9dRAyY) |
-| 9 | ইন্ডিকেটিং ইনস্ট্রুমেন্টে প্রয়োগকৃত বিভিন্ন বল বা টর্ক যা মুভিং সিস্টেমের উপর ব্যবহৃত | 12:12 | [Watch](https://youtu.be/2WoBcQX0kWI) |
-| 10 | মেজারিং ইনস্ট্রুমেন্ট | 4:13 | [Watch](https://youtu.be/F_hVkO6M5pY) |
-| 11 | বৈদ্যুতিক রাশি পরিমাপের সংজ্ঞা | 16:17 | [Watch](https://youtu.be/s91sdJIJHH0) |
-| 12 | র‌্যাম্প টাইপ ডিজিটাল ভোল্টমিটার অপারেশন | 21:16 | [Watch](https://youtu.be/Z-xERl-I8JQ) |
-| 13 | ডিজিটাল ইন্সট্রুমেন্টের সুবিধা | 8:28 | [Watch](https://youtu.be/GTz1NNV9RcE) |
-| 14 | এনার্জি মিটারের প্রকারভেদ | 3:02 | [Watch](https://youtu.be/ow0ga0iJsxE) |
-| 15 | দুই ওয়াটমিটার পদ্ধতিতে তিন ফেজ পাওয়ার পরিমাপ | 12:32 | [Watch](https://youtu.be/Q9awtdqPWyY?si=IhgEFMTRndU16O2K) |
-| 16 | ডায়নামোমিটার টাইপ ওয়াটমিটারের গঠন ও কার্যপ্রণালি। | 4:25 | [Watch](https://youtu.be/o0O0GahzjRc) |
-| 17 | পারমানেন্ট ম্যাগনেট মুভিং কয়েল টাইপ ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রণালী | 7:23 | [Watch](https://youtu.be/JtwA-RGQfRk?si=lwAVAcyFVNwV6wdF) |
-| 18 | মুভিং আয়রন অ্যাট্রাকশন টাইপ ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রনালি | 8:17 | [Watch](https://youtu.be/Vif7fBfNF9s) |
-| 19 | বিভিন্ন যন্ত্রাংশের বর্ণনা | 13:24 | [Watch](https://youtu.be/aZ2da4zXp34) |
-| 20 | স্প্রিং কন্ট্রোল সিস্টেম | 19:33 | [Watch](https://youtu.be/0C82WrM0f2Y) |
-| 21 | অ্যাবসলিউট এবং সেকেন্ডারি ইনস্ট্রুমেন্ট | 12:14 | [Watch](https://youtu.be/2jID1svCodM) |
-| 22 | পরিমাপনের গুরুত্ব Significance of Measurements | 5:11 | [Watch](https://youtu.be/sRwqvYVDM-Q) |
-| 23 | সাকসেসিভ অ্যাপ্রোক্সিমেশনডিজিটাল ভোল্টমিটার অপারেশন | 24:10 | [Watch](https://youtu.be/luCrGnPkTXY) |
-| 24 | অ্যানালগ ও ডিজিটাল ইন্সট্রুমেন্টের তুলনা | 8:02 | [Watch](https://youtu.be/RiVvY5ITUno) |
-| 25 | মোটর মিটারের কার্যনীতি | 24:02 | [Watch](https://youtu.be/j7lPSr3HN2Q) |
-| 26 | Part- 1 দুই ওয়াটমিটার পদ্ধতিতে পাওয়ার এবং পাওয়ার ফ্যাক্টরের সমীকরণ | 23:24 | [Watch](https://youtu.be/_PYjToEfKp8?si=Ou9W_Vx4DqA8OMnW) |
-| 27 | Part -1 দেখাও যে, ডিফ্লেকটিং টর্ক,Tm ∝ VI cos ϕ ∝ প্রকৃত পাওয়ার | 16:21 | [Watch](https://youtu.be/h-vBxW2gVNo) |
-| 28 | পূর্বের আলোচনাকৃত প্রশ্নের preview | 2:32 | [Watch](https://youtu.be/Z_4p5_buI5M?si=2NGr-CTaQ018XZi-) |
-| 29 | মুভিং আয়রন অ্যাট্রাকশন টাইপ ইনস্ট্রুমেন্টের টর্ক সমীকরণ | 19:10 | [Watch](https://youtu.be/ENVAvPHkaUU) |
-| 30 | ঘূর্ণন ওজন অনুপাত সম্পর্কে আলোচনা | 11:04 | [Watch](https://youtu.be/C6Wdm3Fjahg) |
-| 31 | গ্রাভিটি কন্ট্রোল সিস্টেম | 14:01 | [Watch](https://youtu.be/7ui26Vb8NRw) |
-| 32 | ইন্ডিকেটিং, রেকডিং এবং ইন্টিগ্রেডিং ইনস্ট্রুমেন্টের বর্ণনা | 11:05 | [Watch](https://youtu.be/CeO2CABSYqM) |
-| 33 | অ্যাকুরেসি, প্রিসিশন, সেনসিভিটি এবং রেজুলেশন অতবা ডিসক্রিমিনেশন এর বর্ণনা | 23:07 | [Watch](https://youtu.be/QzGmz9H2v3c) |
-| 34 | ডিজিটাল সিঙ্গেল ফেজ এনার্জি মিটারের পরিচালনা নীতি | 17:10 | [Watch](https://youtu.be/guJll44Rkk8) |
-| 35 | ডিজিটাল ডিসপ্লে সিস্টেমের প্রকারভেদ | 14:11 | [Watch](https://youtu.be/Q8GMy_zB2uY) |
-| 36 | মার্কারি মোটর মিটারের গঠন ও কার্যনীতি | 7:25 | [Watch](https://youtu.be/4l1bxTr2q-o) |
-| 37 | Part -2 দুই ওয়াটমিটার পদ্ধতিতে পাওয়ার এবং পাওয়ার ফ্যাক্টরের সমীকরণ | 8:24 | [Watch](https://youtu.be/TrC1Pb4Df7s?si=xKuJq3XoUdyd_kdK) |
-| 38 | Part -2 দেখাও যে, ডিফ্লেকটিং টর্ক,Tm ∝ VI cos ϕ ∝ প্রকৃত পাওয়ার | 16:02 | [Watch](https://youtu.be/him46mrP09o) |
-| 39 | মুভিং কয়েল পারমানেন্ট ম্যাগমেট ইনস্ট্রুমেন্টের টর্ক সমীকরণ | 13:22 | [Watch](https://youtu.be/79UrEwg8ixc?si=R7SxEXGLsgEhFit_) |
-| 40 | টর্কের ইকুয়েশন | 23:02 | [Watch](https://youtu.be/a-7UacOhbgc) |
-| 41 | অ্যামিটার ও ভোল্টমিটারের পরিচালনা নীতি | 19:07 | [Watch](https://youtu.be/CNpZ5kPRnWA) |
-| 42 | স্প্রিং এবং গ্রাভিটি কন্ট্রোল সিস্টেমের মধ্যে তুলনা | 9:28 | [Watch](https://youtu.be/LPLFWCOeXeg) |
-| 43 | পরিমাপক যন্ত্রে ব্যবহৃত বৈদ্যুতিক কারেন্ট অথবা ভোল্টেজের ক্রিয়াসমূহ | 7:03 | [Watch](https://youtu.be/PUeB34Uf9Co) |
-| 44 | পরিমাপে ভ্রম Errors in measurements | 15:33 | [Watch](https://youtu.be/ae3K5dZyCwM) |
-| 45 | ডিজিটাল থ্রি- ফেজ এনার্জি মিটারের ব্লক ডায়াগ্রাম ও কার্যনীতি | 10:05 | [Watch](https://youtu.be/hM1y2FQQhxw) |
-| 46 | Active Display এবং Passive Display এর পার্থক্য | 4:30 | [Watch](https://youtu.be/k7SoQO8R1aM) |
-| 47 | পলিফেজ ইন্ডাকশন টাইপ এনার্জি মিটার এর কার্যনীতি | 24:11 | [Watch](https://youtu.be/bRFKa8CO5Kg) |
-| 48 | দুই ওয়াটমিটার পদ্ধতিতে তিন ফেজ পাওয়ার পরিমাপ সম্পর্কে কিছু প্রশ্ন | 8:19 | [Watch](https://youtu.be/zeIGCRUINe8?si=NABGkJ-Gz5-EGtSw) |
-| 49 | ডাইনামোমিটার টাইপ ওয়াটমিটারের সুবিধা | 4:07 | [Watch](https://youtu.be/ObNRgku9GNg) |
-| 50 | পারমানেন্ট ম্যাগনেটিং মুভিং কয়েল ইনস্ট্রুমেন্টের সুবিধা ও অসুবিধা | 6:26 | [Watch](https://youtu.be/5aLUMrcuzZ4?si=aIhXyjAbsSYVOIgU) |
-| 51 | আয়রন ইনস্ট্রুমেন্টের স্কেল সমরুপ নয় কেন   টর্ক সমীকরণটি ব্যাখ্যা | 4:11 | [Watch](https://youtu.be/2lIPP3lo1OY) |
-| 52 | রিলেটিভ এরর, স্ট্যাটিক কারেকশন,স্ট্যাটিক এরর | 16:20 | [Watch](https://youtu.be/yFmPhbA63O8) |
-| 53 | অ্যামিটার ও ভোল্টমিটারের পরিচালনা নীতি-২ | 12:01 | [Watch](https://youtu.be/8gNxaqkNcTE) |
-| 54 | স্প্রিং এবং গ্রাভিটি কন্ট্রোল ইনস্ট্রুমেন্ট মাঝে পার্থক্য উল্লেখ কর। | 11:13 | [Watch](https://youtu.be/lUMTmc-gKbk) |
-| 55 | ইন্ডিকেটিং ও ইন্টিগ্রেডিং ইনস্ট্রুমেমেন্টের মধ্যে পার্থক্য কী | 6:31 | [Watch](https://youtu.be/q53ggaC1m3A) |
-| 56 | প্রিপেইড মিটারিং পদ্ধতি সম্পর্কে প্রাথমিক তথ্য | 9:28 | [Watch](https://youtu.be/RWs6Qnb90zI) |
-| 57 | সেভেন সেগমেন্ট ডিসপ্লে | 18:29 | [Watch](https://youtu.be/H1wpfrcTJBI) |
-| 58 | পলিফেজ ইন্ডাকশন টাইপ এনার্জি মিটারের সংযোগ চিত্র | 3:29 | [Watch](https://youtu.be/5KL8prNSphw) |
-| 59 | তিন ফেজ, দুই ওয়াটমিটার পদ্ধতিতে কত  একটি ওয়াটমিটারে শূণ্যপাঠ ও অপরটি মোট পাওয়ার পাঠ দেখাবে | 4:25 | [Watch](https://youtu.be/NRWEIVaUMxs?si=RagipzRGI5w44Z9o) |
-| 60 | ডাইনামোমিটার টাইপ ওয়াটমিটারের অসুবিধা | 2:32 | [Watch](https://youtu.be/MM7tT7h4rF0) |
-| 61 | ডায়নামোমিটার টাইপ মুভিং কয়েল ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রণালি | 10:48 | [Watch](https://youtu.be/2_8qrsiT2Kw?si=ZwSA8kIgzy7zDvv0) |
-| 62 | রিপালশন টাইপ মুভিং আয়রন ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রণালি | 7:11 | [Watch](https://youtu.be/dDpDGlLgj8Q) |
-| 63 | লিমিটিং এরর এবং পারসেনটেজ লিমিটিং এরর | 11:06 | [Watch](https://youtu.be/-gFUokzU-q8) |
-| 64 | অ্যামিটার এবং ভোল্টমিটারের মূল কর্যনীতির মধ্যে পার্থক্য | 11:02 | [Watch](https://youtu.be/esyyF-kY2uA) |
-| 65 | ড্যাম্পিং টর্ক | 11:17 | [Watch](https://youtu.be/gxeiUmatj2M) |
-| 66 | 3 × 5 ডট ম্যাট্রিক Display | 4:02 | [Watch](https://youtu.be/uyDlsV1sQzU) |
-| 67 | এনার্জি মিটার পরীক্ষা প্রয়োজনীয়তা | 6:23 | [Watch](https://youtu.be/k-OEnsE3Y9o) |
-| 68 | পাওয়ার ফ্যাক্টরের মান শূণ্য হলে, দুই ওয়াটমিটার পদ্ধতিতে তিন ফেজ  পরিমাপ | 4:02 | [Watch](https://youtu.be/oSNoKRmOIlo?si=bMzU9-lUpO-GIGWa) |
-| 69 | ইন্ডাকশন টাইপ ওয়াটমিটারের গঠন | 10:21 | [Watch](https://youtu.be/NVMYRvUAGf8) |
-| 70 | Dynamometer instrument Torque equation | 10:06 | [Watch](https://youtu.be/Mwiw9SAxWqY?si=WDo4UISh8hHBxqCA) |
+| 1 | পরিমাপনের গুরুত্ব Significance of Measurements | 5:11 | [Watch](https://youtu.be/sRwqvYVDM-Q) |
+| 2 | পরিমাপে ভ্রম Errors in measurements | 15:33 | [Watch](https://youtu.be/ae3K5dZyCwM) |
+| 3 | Dynamometer instrument Torque equation | 10:06 | [Watch](https://youtu.be/Mwiw9SAxWqY?si=WDo4UISh8hHBxqCA) |
+| 4 | Active Display এবং Passive Display এর পার্থক্য | 4:30 | [Watch](https://youtu.be/k7SoQO8R1aM) |
+| 5 | 3 × 5 ডট ম্যাট্রিক Display | 4:02 | [Watch](https://youtu.be/uyDlsV1sQzU) |
+| 6 | ডিজিটাল ভোল্টমিটার ও ডিজিটাল এনার্জি মিটারের ধারণা | 20:13 | [Watch](https://youtu.be/XmAu2n7w_2M) |
+| 7 | ডিজিটাল ইন্সট্রুমেন্টের পরিচালন নীতি | 11:17 | [Watch](https://youtu.be/_Hwamf1NsCg) |
+| 8 | এনার্জি মিটারের মূলনীতি | 11:26 | [Watch](https://youtu.be/y6AhpRBeV8M) |
+| 9 | তিন ফেজ সার্কিটের পাওয়ার পরিমাপের পদ্ধতিসমূহ | 9:24 | [Watch](https://youtu.be/45oaPwAYQaY?si=UCxQB_gZcF5idL-m) |
+| 10 | ওয়াটমিটার এবং এর প্রকারভেদ | 6:19 | [Watch](https://youtu.be/uPWyOaFFcIM) |
+| 11 | মুভিং কয়েল ইনস্ট্রুমেন্টের প্রকারভেদ | 6:19 | [Watch](https://youtu.be/mNkiO1ekMnE?si=tdxI7yJrszQZ7J_y) |
+| 12 | মুভিং আয়রন ইনস্ট্রমেন্ট | 8:08 | [Watch](https://youtu.be/zW2gDZz_ACI) |
+| 13 | পরিমাপ যন্ত্রের অপরিহার্য অংশ | 7:28 | [Watch](https://youtu.be/8UoUc9dRAyY) |
+| 14 | ইন্ডিকেটিং ইনস্ট্রুমেন্টে প্রয়োগকৃত বিভিন্ন বল বা টর্ক যা মুভিং সিস্টেমের উপর ব্যবহৃত | 12:12 | [Watch](https://youtu.be/2WoBcQX0kWI) |
+| 15 | মেজারিং ইনস্ট্রুমেন্ট | 4:13 | [Watch](https://youtu.be/F_hVkO6M5pY) |
+| 16 | বৈদ্যুতিক রাশি পরিমাপের সংজ্ঞা | 16:17 | [Watch](https://youtu.be/s91sdJIJHH0) |
+| 17 | র‌্যাম্প টাইপ ডিজিটাল ভোল্টমিটার অপারেশন | 21:16 | [Watch](https://youtu.be/Z-xERl-I8JQ) |
+| 18 | ডিজিটাল ইন্সট্রুমেন্টের সুবিধা | 8:28 | [Watch](https://youtu.be/GTz1NNV9RcE) |
+| 19 | এনার্জি মিটারের প্রকারভেদ | 3:02 | [Watch](https://youtu.be/ow0ga0iJsxE) |
+| 20 | দুই ওয়াটমিটার পদ্ধতিতে তিন ফেজ পাওয়ার পরিমাপ | 12:32 | [Watch](https://youtu.be/Q9awtdqPWyY?si=IhgEFMTRndU16O2K) |
+| 21 | ডায়নামোমিটার টাইপ ওয়াটমিটারের গঠন ও কার্যপ্রণালি। | 4:25 | [Watch](https://youtu.be/o0O0GahzjRc) |
+| 22 | পারমানেন্ট ম্যাগনেট মুভিং কয়েল টাইপ ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রণালী | 7:23 | [Watch](https://youtu.be/JtwA-RGQfRk?si=lwAVAcyFVNwV6wdF) |
+| 23 | মুভিং আয়রন অ্যাট্রাকশন টাইপ ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রনালি | 8:17 | [Watch](https://youtu.be/Vif7fBfNF9s) |
+| 24 | বিভিন্ন যন্ত্রাংশের বর্ণনা | 13:24 | [Watch](https://youtu.be/aZ2da4zXp34) |
+| 25 | স্প্রিং কন্ট্রোল সিস্টেম | 19:33 | [Watch](https://youtu.be/0C82WrM0f2Y) |
+| 26 | অ্যাবসলিউট এবং সেকেন্ডারি ইনস্ট্রুমেন্ট | 12:14 | [Watch](https://youtu.be/2jID1svCodM) |
+| 27 | সাকসেসিভ অ্যাপ্রোক্সিমেশনডিজিটাল ভোল্টমিটার অপারেশন | 24:10 | [Watch](https://youtu.be/luCrGnPkTXY) |
+| 28 | অ্যানালগ ও ডিজিটাল ইন্সট্রুমেন্টের তুলনা | 8:02 | [Watch](https://youtu.be/RiVvY5ITUno) |
+| 29 | মোটর মিটারের কার্যনীতি | 24:02 | [Watch](https://youtu.be/j7lPSr3HN2Q) |
+| 30 | Part- 1 দুই ওয়াটমিটার পদ্ধতিতে পাওয়ার এবং পাওয়ার ফ্যাক্টরের সমীকরণ | 23:24 | [Watch](https://youtu.be/_PYjToEfKp8?si=Ou9W_Vx4DqA8OMnW) |
+| 31 | Part -1 দেখাও যে, ডিফ্লেকটিং টর্ক,Tm ∝ VI cos ϕ ∝ প্রকৃত পাওয়ার | 16:21 | [Watch](https://youtu.be/h-vBxW2gVNo) |
+| 32 | পূর্বের আলোচনাকৃত প্রশ্নের preview | 2:32 | [Watch](https://youtu.be/Z_4p5_buI5M?si=2NGr-CTaQ018XZi-) |
+| 33 | মুভিং আয়রন অ্যাট্রাকশন টাইপ ইনস্ট্রুমেন্টের টর্ক সমীকরণ | 19:10 | [Watch](https://youtu.be/ENVAvPHkaUU) |
+| 34 | ঘূর্ণন ওজন অনুপাত সম্পর্কে আলোচনা | 11:04 | [Watch](https://youtu.be/C6Wdm3Fjahg) |
+| 35 | গ্রাভিটি কন্ট্রোল সিস্টেম | 14:01 | [Watch](https://youtu.be/7ui26Vb8NRw) |
+| 36 | ইন্ডিকেটিং, রেকডিং এবং ইন্টিগ্রেডিং ইনস্ট্রুমেন্টের বর্ণনা | 11:05 | [Watch](https://youtu.be/CeO2CABSYqM) |
+| 37 | অ্যাকুরেসি, প্রিসিশন, সেনসিভিটি এবং রেজুলেশন অতবা ডিসক্রিমিনেশন এর বর্ণনা | 23:07 | [Watch](https://youtu.be/QzGmz9H2v3c) |
+| 38 | ডিজিটাল সিঙ্গেল ফেজ এনার্জি মিটারের পরিচালনা নীতি | 17:10 | [Watch](https://youtu.be/guJll44Rkk8) |
+| 39 | ডিজিটাল ডিসপ্লে সিস্টেমের প্রকারভেদ | 14:11 | [Watch](https://youtu.be/Q8GMy_zB2uY) |
+| 40 | মার্কারি মোটর মিটারের গঠন ও কার্যনীতি | 7:25 | [Watch](https://youtu.be/4l1bxTr2q-o) |
+| 41 | Part -2 দুই ওয়াটমিটার পদ্ধতিতে পাওয়ার এবং পাওয়ার ফ্যাক্টরের সমীকরণ | 8:24 | [Watch](https://youtu.be/TrC1Pb4Df7s?si=xKuJq3XoUdyd_kdK) |
+| 42 | Part -2 দেখাও যে, ডিফ্লেকটিং টর্ক,Tm ∝ VI cos ϕ ∝ প্রকৃত পাওয়ার | 16:02 | [Watch](https://youtu.be/him46mrP09o) |
+| 43 | মুভিং কয়েল পারমানেন্ট ম্যাগমেট ইনস্ট্রুমেন্টের টর্ক সমীকরণ | 13:22 | [Watch](https://youtu.be/79UrEwg8ixc?si=R7SxEXGLsgEhFit_) |
+| 44 | টর্কের ইকুয়েশন | 23:02 | [Watch](https://youtu.be/a-7UacOhbgc) |
+| 45 | অ্যামিটার ও ভোল্টমিটারের পরিচালনা নীতি | 19:07 | [Watch](https://youtu.be/CNpZ5kPRnWA) |
+| 46 | স্প্রিং এবং গ্রাভিটি কন্ট্রোল সিস্টেমের মধ্যে তুলনা | 9:28 | [Watch](https://youtu.be/LPLFWCOeXeg) |
+| 47 | পরিমাপক যন্ত্রে ব্যবহৃত বৈদ্যুতিক কারেন্ট অথবা ভোল্টেজের ক্রিয়াসমূহ | 7:03 | [Watch](https://youtu.be/PUeB34Uf9Co) |
+| 48 | ডিজিটাল থ্রি- ফেজ এনার্জি মিটারের ব্লক ডায়াগ্রাম ও কার্যনীতি | 10:05 | [Watch](https://youtu.be/hM1y2FQQhxw) |
+| 49 | পলিফেজ ইন্ডাকশন টাইপ এনার্জি মিটার এর কার্যনীতি | 24:11 | [Watch](https://youtu.be/bRFKa8CO5Kg) |
+| 50 | দুই ওয়াটমিটার পদ্ধতিতে তিন ফেজ পাওয়ার পরিমাপ সম্পর্কে কিছু প্রশ্ন | 8:19 | [Watch](https://youtu.be/zeIGCRUINe8?si=NABGkJ-Gz5-EGtSw) |
+| 51 | ডাইনামোমিটার টাইপ ওয়াটমিটারের সুবিধা | 4:07 | [Watch](https://youtu.be/ObNRgku9GNg) |
+| 52 | পারমানেন্ট ম্যাগনেটিং মুভিং কয়েল ইনস্ট্রুমেন্টের সুবিধা ও অসুবিধা | 6:26 | [Watch](https://youtu.be/5aLUMrcuzZ4?si=aIhXyjAbsSYVOIgU) |
+| 53 | আয়রন ইনস্ট্রুমেন্টের স্কেল সমরুপ নয় কেন   টর্ক সমীকরণটি ব্যাখ্যা | 4:11 | [Watch](https://youtu.be/2lIPP3lo1OY) |
+| 54 | রিলেটিভ এরর, স্ট্যাটিক কারেকশন,স্ট্যাটিক এরর | 16:20 | [Watch](https://youtu.be/yFmPhbA63O8) |
+| 55 | অ্যামিটার ও ভোল্টমিটারের পরিচালনা নীতি-২ | 12:01 | [Watch](https://youtu.be/8gNxaqkNcTE) |
+| 56 | স্প্রিং এবং গ্রাভিটি কন্ট্রোল ইনস্ট্রুমেন্ট মাঝে পার্থক্য উল্লেখ কর। | 11:13 | [Watch](https://youtu.be/lUMTmc-gKbk) |
+| 57 | ইন্ডিকেটিং ও ইন্টিগ্রেডিং ইনস্ট্রুমেমেন্টের মধ্যে পার্থক্য কী | 6:31 | [Watch](https://youtu.be/q53ggaC1m3A) |
+| 58 | প্রিপেইড মিটারিং পদ্ধতি সম্পর্কে প্রাথমিক তথ্য | 9:28 | [Watch](https://youtu.be/RWs6Qnb90zI) |
+| 59 | সেভেন সেগমেন্ট ডিসপ্লে | 18:29 | [Watch](https://youtu.be/H1wpfrcTJBI) |
+| 60 | পলিফেজ ইন্ডাকশন টাইপ এনার্জি মিটারের সংযোগ চিত্র | 3:29 | [Watch](https://youtu.be/5KL8prNSphw) |
+| 61 | তিন ফেজ, দুই ওয়াটমিটার পদ্ধতিতে কত  একটি ওয়াটমিটারে শূণ্যপাঠ ও অপরটি মোট পাওয়ার পাঠ দেখাবে | 4:25 | [Watch](https://youtu.be/NRWEIVaUMxs?si=RagipzRGI5w44Z9o) |
+| 62 | ডাইনামোমিটার টাইপ ওয়াটমিটারের অসুবিধা | 2:32 | [Watch](https://youtu.be/MM7tT7h4rF0) |
+| 63 | ডায়নামোমিটার টাইপ মুভিং কয়েল ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রণালি | 10:48 | [Watch](https://youtu.be/2_8qrsiT2Kw?si=ZwSA8kIgzy7zDvv0) |
+| 64 | রিপালশন টাইপ মুভিং আয়রন ইনস্ট্রুমেন্টের গঠন ও কার্যপ্রণালি | 7:11 | [Watch](https://youtu.be/dDpDGlLgj8Q) |
+| 65 | লিমিটিং এরর এবং পারসেনটেজ লিমিটিং এরর | 11:06 | [Watch](https://youtu.be/-gFUokzU-q8) |
+| 66 | অ্যামিটার এবং ভোল্টমিটারের মূল কর্যনীতির মধ্যে পার্থক্য | 11:02 | [Watch](https://youtu.be/esyyF-kY2uA) |
+| 67 | ড্যাম্পিং টর্ক | 11:17 | [Watch](https://youtu.be/gxeiUmatj2M) |
+| 68 | এনার্জি মিটার পরীক্ষা প্রয়োজনীয়তা | 6:23 | [Watch](https://youtu.be/k-OEnsE3Y9o) |
+| 69 | পাওয়ার ফ্যাক্টরের মান শূণ্য হলে, দুই ওয়াটমিটার পদ্ধতিতে তিন ফেজ  পরিমাপ | 4:02 | [Watch](https://youtu.be/oSNoKRmOIlo?si=bMzU9-lUpO-GIGWa) |
+| 70 | ইন্ডাকশন টাইপ ওয়াটমিটারের গঠন | 10:21 | [Watch](https://youtu.be/NVMYRvUAGf8) |
 | 71 | রিপালশন টাইপ মুভিং আয়রন ইনস্ট্রুমেন্টের টর্ক সমীকরণ | 29:11 | [Watch](https://youtu.be/XewEwmIfDMw) |
 | 72 | অ্যামিটার এবং ভোল্টমিটারের প্রকারভেদ | 20:02 | [Watch](https://youtu.be/yuXUHRYXwCI) |
 | 73 | প্যারালাক্স এরর বলতে কী বুঝ | 2:12 | [Watch](https://youtu.be/h3DHudgR-CI) |

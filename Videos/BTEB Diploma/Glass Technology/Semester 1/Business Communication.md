@@ -1,5 +1,4 @@
 # Business Communication
-
 > 65 videos | Glass Technology
 
 | # | Title | Duration | Link |

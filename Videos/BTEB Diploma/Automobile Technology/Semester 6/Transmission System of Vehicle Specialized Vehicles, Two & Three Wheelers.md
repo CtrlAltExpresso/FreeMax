@@ -1,60 +1,59 @@
 # Transmission System of Vehicle Specialized Vehicles, Two & Three Wheelers
-
 > 98 videos | Automobile Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের রক্ষণাবেক্ষণ, মেরামত, প্রতিস্থাপন ও ডায়াগনস্টিকস | 21:21 | [Watch](https://youtu.be/oZP8jcE8ewM) |
-| 2 | Part - 1 হাইব্রিড এবং ইলেকট্রিক যানবাহনের ব্যাক্তিগত নিরাপত্তা সরঞ্জাম | 12:11 | [Watch](https://youtu.be/v8tIH1yWimM) |
-| 3 | হাইব্রিড ও ইলেকট্রিক যানবাহনের ড্রাইভ ট্রেইন | 20:08 | [Watch](https://youtu.be/W8WmRTs-GGU) |
-| 4 | ইলেকট্রিক যানবাহন এবং হাইব্রিড ইলেকট্রিক যানবাহন ব্রেকিং সিস্টেমের প্রকারভেদ উল্লেখ কর | 10:35 | [Watch](https://youtu.be/0S-iRVEY3IM) |
-| 5 | হাইব্রিড ইলেকট্রিক যানবাহনে পাওয়ার ইলেকট্রনিক্স উপাদানসমূহের তালিকা | 12:04 | [Watch](https://youtu.be/OYHC147ZeAk) |
-| 6 | মোটর (Motor) | 13:00 | [Watch](https://youtu.be/RLVzTyNXrh8) |
-| 7 | চার্জিং স্টেশনের প্রকারভেদ | 20:13 | [Watch](https://youtu.be/1gtfcuaXxk0) |
-| 8 | ব্যাটারি Battery কাকে বলে | 13:03 | [Watch](https://youtu.be/6baKHw0mtAQ) |
-| 9 | হাইব্রিড এবং ইলেকট্রিক যানবাহনে শক্তি সঞ্চয়ের প্রয়োজনীয়তা | 10:31 | [Watch](https://youtu.be/E7iM8OCUMM4) |
-| 10 | হাইব্রিড যানবাহন | 8:07 | [Watch](https://youtu.be/tOeUK4gr0AI) |
-| 11 | হাইব্রিড যানবাহন | 8:07 | [Watch](https://youtu.be/tOeUK4gr0AI) |
-| 12 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের রক্ষণাবেক্ষণের ধরন | 21:10 | [Watch](https://youtu.be/uJ-gohMekd8) |
-| 13 | Part - 2 হাইব্রিড এবং ইলেকট্রিক যানবাহনের ব্যাক্তিগত নিরাপত্তা সরঞ্জাম | 3:33 | [Watch](https://youtu.be/HBc9bpDbdZU) |
-| 14 | ইলেকট্রিক যানবাহনের ড্রাইভ ট্রেইন | 14:23 | [Watch](https://youtu.be/qDeg8OsqKqs) |
-| 15 | যান্ত্রিক ব্রেক Mechanical Brake | 18:26 | [Watch](https://youtu.be/jAy-WAHA5So) |
-| 16 | রেক্টিফায়ার (Rectifiers) | 14:15 | [Watch](https://youtu.be/xElzQKLwzsA) |
-| 17 | Part - 1 ডিসি মোটরের গঠন বা নির্মাণ | 20:27 | [Watch](https://youtu.be/oCi7Nc8l_I8) |
-| 18 | বিদ্যুৎ আউটপুটের প্রকারভেদের উপর ভিত্তি | 10:11 | [Watch](https://youtu.be/1zdcLImWInA) |
-| 19 | হাইব্রিড এবং ইলেকট্রিক যানবাহন ব্যাটারিসমূহের প্রকারভেদ | 19:11 | [Watch](https://youtu.be/4_Ma2D8C87I) |
-| 20 | শক্তি সঞ্চয়ের বিভিন্ন ভিত্তি | 19:10 | [Watch](https://youtu.be/Bf7H9GzWuzk) |
-| 21 | হাইব্রিড যানবাহনের যন্ত্রাংশসমূহ | 8:35 | [Watch](https://youtu.be/OwenVuxT7rM) |
+| 1 | সলিড স্টেট ব্যাটারি Solid state Battery | 12:10 | [Watch](https://youtu.be/rgTW55q7Kko) |
+| 2 | যান্ত্রিক ব্রেক Mechanical Brake | 18:26 | [Watch](https://youtu.be/jAy-WAHA5So) |
+| 3 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের রক্ষণাবেক্ষণ, মেরামত, প্রতিস্থাপন ও ডায়াগনস্টিকস | 21:21 | [Watch](https://youtu.be/oZP8jcE8ewM) |
+| 4 | Part - 1 হাইব্রিড এবং ইলেকট্রিক যানবাহনের ব্যাক্তিগত নিরাপত্তা সরঞ্জাম | 12:11 | [Watch](https://youtu.be/v8tIH1yWimM) |
+| 5 | হাইব্রিড ও ইলেকট্রিক যানবাহনের ড্রাইভ ট্রেইন | 20:08 | [Watch](https://youtu.be/W8WmRTs-GGU) |
+| 6 | ইলেকট্রিক যানবাহন এবং হাইব্রিড ইলেকট্রিক যানবাহন ব্রেকিং সিস্টেমের প্রকারভেদ উল্লেখ কর | 10:35 | [Watch](https://youtu.be/0S-iRVEY3IM) |
+| 7 | হাইব্রিড ইলেকট্রিক যানবাহনে পাওয়ার ইলেকট্রনিক্স উপাদানসমূহের তালিকা | 12:04 | [Watch](https://youtu.be/OYHC147ZeAk) |
+| 8 | মোটর (Motor) | 13:00 | [Watch](https://youtu.be/RLVzTyNXrh8) |
+| 9 | চার্জিং স্টেশনের প্রকারভেদ | 20:13 | [Watch](https://youtu.be/1gtfcuaXxk0) |
+| 10 | ব্যাটারি Battery কাকে বলে | 13:03 | [Watch](https://youtu.be/6baKHw0mtAQ) |
+| 11 | হাইব্রিড এবং ইলেকট্রিক যানবাহনে শক্তি সঞ্চয়ের প্রয়োজনীয়তা | 10:31 | [Watch](https://youtu.be/E7iM8OCUMM4) |
+| 12 | হাইব্রিড যানবাহন | 8:07 | [Watch](https://youtu.be/tOeUK4gr0AI) |
+| 13 | হাইব্রিড যানবাহন | 8:07 | [Watch](https://youtu.be/tOeUK4gr0AI) |
+| 14 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের রক্ষণাবেক্ষণের ধরন | 21:10 | [Watch](https://youtu.be/uJ-gohMekd8) |
+| 15 | Part - 2 হাইব্রিড এবং ইলেকট্রিক যানবাহনের ব্যাক্তিগত নিরাপত্তা সরঞ্জাম | 3:33 | [Watch](https://youtu.be/HBc9bpDbdZU) |
+| 16 | ইলেকট্রিক যানবাহনের ড্রাইভ ট্রেইন | 14:23 | [Watch](https://youtu.be/qDeg8OsqKqs) |
+| 17 | রেক্টিফায়ার (Rectifiers) | 14:15 | [Watch](https://youtu.be/xElzQKLwzsA) |
+| 18 | Part - 1 ডিসি মোটরের গঠন বা নির্মাণ | 20:27 | [Watch](https://youtu.be/oCi7Nc8l_I8) |
+| 19 | বিদ্যুৎ আউটপুটের প্রকারভেদের উপর ভিত্তি | 10:11 | [Watch](https://youtu.be/1zdcLImWInA) |
+| 20 | হাইব্রিড এবং ইলেকট্রিক যানবাহন ব্যাটারিসমূহের প্রকারভেদ | 19:11 | [Watch](https://youtu.be/4_Ma2D8C87I) |
+| 21 | শক্তি সঞ্চয়ের বিভিন্ন ভিত্তি | 19:10 | [Watch](https://youtu.be/Bf7H9GzWuzk) |
 | 22 | হাইব্রিড যানবাহনের যন্ত্রাংশসমূহ | 8:35 | [Watch](https://youtu.be/OwenVuxT7rM) |
-| 23 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের ইঞ্জিন, ট্রান্সমিশন পদ্ধতি এবং ইলেকট্রিক্যাল পদ্ধতির রক্ষণাবেক্ষণ | 19:20 | [Watch](https://youtu.be/lA3EF7JJpZI) |
-| 24 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের সাধারণ নিরাপত্তাসমূহের তালিকা | 17:07 | [Watch](https://youtu.be/KjUqFOiVE9A) |
-| 25 | হাইব্রিড ইলেকট্রিক ভেহিক্যালের প্রকার | 12:07 | [Watch](https://youtu.be/D6ILhoYHC9A) |
-| 26 | হাইড্রোলিক ব্রেক (Hydraulic Brake) | 13:25 | [Watch](https://youtu.be/UYYuumVdVoc) |
-| 27 | ভোল্টেজ সোর্স ইনভার্টার (Voltage Source Inverter) | 6:19 | [Watch](https://youtu.be/akiIHpbti5A) |
-| 28 | Part - 2 ডিসি মোটরের গঠন বা নির্মাণ | 7:20 | [Watch](https://youtu.be/i6KI1mHS7v0) |
-| 29 | হাইব্রিড এবং বৈদ্যুতিক ব্যাটারি চার্জিং স্টেশনের কাজ | 19:02 | [Watch](https://youtu.be/MXnKq8Eo4wM) |
-| 30 | নিকেল মেটাল হাইড্রাইড ব্যাটারি | 7:24 | [Watch](https://youtu.be/-kGOJuGGw6A) |
-| 31 | থার্মাল এনার্জি স্টোরেজ | 13:09 | [Watch](https://youtu.be/Rx2Pd9R7XUM) |
-| 32 | ইলেকট্রিক ভেহিকেল-এর ধরন | 14:00 | [Watch](https://youtu.be/Ccupsm9Su50) |
+| 23 | হাইব্রিড যানবাহনের যন্ত্রাংশসমূহ | 8:35 | [Watch](https://youtu.be/OwenVuxT7rM) |
+| 24 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের ইঞ্জিন, ট্রান্সমিশন পদ্ধতি এবং ইলেকট্রিক্যাল পদ্ধতির রক্ষণাবেক্ষণ | 19:20 | [Watch](https://youtu.be/lA3EF7JJpZI) |
+| 25 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের সাধারণ নিরাপত্তাসমূহের তালিকা | 17:07 | [Watch](https://youtu.be/KjUqFOiVE9A) |
+| 26 | হাইব্রিড ইলেকট্রিক ভেহিক্যালের প্রকার | 12:07 | [Watch](https://youtu.be/D6ILhoYHC9A) |
+| 27 | হাইড্রোলিক ব্রেক (Hydraulic Brake) | 13:25 | [Watch](https://youtu.be/UYYuumVdVoc) |
+| 28 | ভোল্টেজ সোর্স ইনভার্টার (Voltage Source Inverter) | 6:19 | [Watch](https://youtu.be/akiIHpbti5A) |
+| 29 | Part - 2 ডিসি মোটরের গঠন বা নির্মাণ | 7:20 | [Watch](https://youtu.be/i6KI1mHS7v0) |
+| 30 | হাইব্রিড এবং বৈদ্যুতিক ব্যাটারি চার্জিং স্টেশনের কাজ | 19:02 | [Watch](https://youtu.be/MXnKq8Eo4wM) |
+| 31 | নিকেল মেটাল হাইড্রাইড ব্যাটারি | 7:24 | [Watch](https://youtu.be/-kGOJuGGw6A) |
+| 32 | থার্মাল এনার্জি স্টোরেজ | 13:09 | [Watch](https://youtu.be/Rx2Pd9R7XUM) |
 | 33 | ইলেকট্রিক ভেহিকেল-এর ধরন | 14:00 | [Watch](https://youtu.be/Ccupsm9Su50) |
-| 34 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের ব্রেকিং পদ্ধতি ও স্টিয়ারিং মেকানিজম | 16:26 | [Watch](https://youtu.be/Fp3ovpOYeGY) |
-| 35 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের সাধারণ নিরাপত্তর গাইডলাইন বা নির্দেশিকা | 20:05 | [Watch](https://youtu.be/VF8suZpiiMw) |
-| 36 | ডিস্ক ব্রেক (Disc Brake) | 15:33 | [Watch](https://youtu.be/xZGAX6dVcCs) |
-| 37 | ভোল্টেজ সোর্স ইনভার্টারের কাজের প্রক্রিয়া | 7:14 | [Watch](https://youtu.be/gb7ZvXic3eY) |
-| 38 | ইন্ডাকশন মোটর (Induction Motor) | 17:12 | [Watch](https://youtu.be/aTK7Ey4d3ic) |
-| 39 | বিভিন্ন প্রকার চার্জিং স্টেশনের কাজ | 9:02 | [Watch](https://youtu.be/DvCPf4XWiqo) |
-| 40 | লিড আ্যাসিড ব্যাটারি Lead acid Battery | 11:34 | [Watch](https://youtu.be/559GsrGNujY) |
-| 41 | ব্যাটারি ভিত্তিক শক্তি সঞ্চয় | 15:20 | [Watch](https://youtu.be/jqLFEX-fAoI) |
-| 42 | হাইব্রিড ইলেকট্রিক যানবাহন | 14:05 | [Watch](https://youtu.be/74b86d4D_Zo) |
+| 34 | ইলেকট্রিক ভেহিকেল-এর ধরন | 14:00 | [Watch](https://youtu.be/Ccupsm9Su50) |
+| 35 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের ব্রেকিং পদ্ধতি ও স্টিয়ারিং মেকানিজম | 16:26 | [Watch](https://youtu.be/Fp3ovpOYeGY) |
+| 36 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের সাধারণ নিরাপত্তর গাইডলাইন বা নির্দেশিকা | 20:05 | [Watch](https://youtu.be/VF8suZpiiMw) |
+| 37 | ডিস্ক ব্রেক (Disc Brake) | 15:33 | [Watch](https://youtu.be/xZGAX6dVcCs) |
+| 38 | ভোল্টেজ সোর্স ইনভার্টারের কাজের প্রক্রিয়া | 7:14 | [Watch](https://youtu.be/gb7ZvXic3eY) |
+| 39 | ইন্ডাকশন মোটর (Induction Motor) | 17:12 | [Watch](https://youtu.be/aTK7Ey4d3ic) |
+| 40 | বিভিন্ন প্রকার চার্জিং স্টেশনের কাজ | 9:02 | [Watch](https://youtu.be/DvCPf4XWiqo) |
+| 41 | লিড আ্যাসিড ব্যাটারি Lead acid Battery | 11:34 | [Watch](https://youtu.be/559GsrGNujY) |
+| 42 | ব্যাটারি ভিত্তিক শক্তি সঞ্চয় | 15:20 | [Watch](https://youtu.be/jqLFEX-fAoI) |
 | 43 | হাইব্রিড ইলেকট্রিক যানবাহন | 14:05 | [Watch](https://youtu.be/74b86d4D_Zo) |
-| 44 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের ডায়াগনোস্টিক পদ্ধতি | 18:14 | [Watch](https://youtu.be/CyZCq4SZKm8) |
-| 45 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের সাধারণ ঝুঁকি এবং তাদের হ্রাস শনাক্তকরণ | 13:19 | [Watch](https://youtu.be/v-0QTSFXkJ8) |
-| 46 | হাইব্রিড ইলেকট্রিক ভেহিকলের প্রকার | 12:20 | [Watch](https://youtu.be/MfTPAybJY3c) |
-| 47 | পাওয়ার ব্রেক (Power Brake) | 2:26 | [Watch](https://youtu.be/nVnxRaRtM6I) |
-| 48 | কারেন্ট সোর্স ইনভার্টার Current source Inverter | 12:10 | [Watch](https://youtu.be/wdD6jDdXvus) |
-| 49 | পার্মানেন্ট মোটর | 12:20 | [Watch](https://youtu.be/osizFjtS8nc) |
-| 50 | EVSC, OBC ও BMS-এর পূর্ণরূপ | 2:34 | [Watch](https://youtu.be/3RgYbv1kOfc) |
-| 51 | সলিড স্টেট ব্যাটারি Solid state Battery | 12:10 | [Watch](https://youtu.be/rgTW55q7Kko) |
+| 44 | হাইব্রিড ইলেকট্রিক যানবাহন | 14:05 | [Watch](https://youtu.be/74b86d4D_Zo) |
+| 45 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের ডায়াগনোস্টিক পদ্ধতি | 18:14 | [Watch](https://youtu.be/CyZCq4SZKm8) |
+| 46 | হাইব্রিড এবং ইলেকট্রিক যানবাহনের সাধারণ ঝুঁকি এবং তাদের হ্রাস শনাক্তকরণ | 13:19 | [Watch](https://youtu.be/v-0QTSFXkJ8) |
+| 47 | হাইব্রিড ইলেকট্রিক ভেহিকলের প্রকার | 12:20 | [Watch](https://youtu.be/MfTPAybJY3c) |
+| 48 | পাওয়ার ব্রেক (Power Brake) | 2:26 | [Watch](https://youtu.be/nVnxRaRtM6I) |
+| 49 | কারেন্ট সোর্স ইনভার্টার Current source Inverter | 12:10 | [Watch](https://youtu.be/wdD6jDdXvus) |
+| 50 | পার্মানেন্ট মোটর | 12:20 | [Watch](https://youtu.be/osizFjtS8nc) |
+| 51 | EVSC, OBC ও BMS-এর পূর্ণরূপ | 2:34 | [Watch](https://youtu.be/3RgYbv1kOfc) |
 | 52 | ফুয়েল সেল বেসড এনার্জি স্টোরেজ বা ফুয়েল সেল ভিত্তিক শক্তি সঞ্চয় | 11:34 | [Watch](https://youtu.be/S4WhS3iEgTA) |
 | 53 | গ্যাসোলিন-সিএনজি পাওয়ার সোর্স অনুসারে যানবাহনের প্রকারভেদ | 12:19 | [Watch](https://youtu.be/0YuhlbOee0A) |
 | 54 | গ্যাসোলিন-সিএনজি পাওয়ার সোর্স অনুসারে যানবাহনের প্রকারভেদ | 12:19 | [Watch](https://youtu.be/0YuhlbOee0A) |
