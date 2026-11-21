@@ -343,6 +343,53 @@ It:
 
 ## 7. Known gaps
 
+### 7.0 Re-discovery update (2026-11-21)
+
+The pass-book PDF endpoint was successfully re-discovered and verified end-to-end.
+
+**Working endpoint:** `GET ebooks/esubject/user/` (`MY_EBOOK` in the app `.env`).
+
+Critical detail: the response is **flat** — `active_semester_books` and
+`others_semester_books` are top-level keys (there is no `.data` wrapper).
+Each book carries `eChapters[]` whose `eChapterPreview` is a **signed S3 PDF URL**
+valid for 3600 s. No separate chapter-description resolver is needed.
+
+```bash
+BASE=https://softmaxmanager.xyz/api/v1
+curl -s "$BASE/ebooks/esubject/user/" \
+  -H "authorization: Bearer $TOKEN" \
+  -H "x-app-key: l0dtpwvzzmM" \
+  -H "User-Agent: Dart/3.2 (dart:io)" \
+  -H "accept: application/json"
+```
+
+Reusable script: `scripts/fetch_new_books.py` (resume-safe, validates every PDF
+with `pdfinfo`, merges chapters with `qpdf`).
+
+Verification run (2026-11-21): 4 purchased books / 50 chapters, **0 failures**:
+
+| id | book | chapters | merged pages | status vs repo |
+|----|------|----------|--------------|----------------|
+| 57 | পাস বুক - ম্যাথমেটিক্স ০৩ | 15 | 155 | text-identical to `Mathematics-III.pdf` |
+| 64 | পাস বুক - আইটি সাপোর্ট সার্ভিস | 12 | 99 | text-identical to `IT Support Services.pdf` |
+| 126 | পাস বুক- ম্যাথমেটিক্স-২ | 13 | 106 | text-identical to `Mathematics-II.pdf` |
+| 134 | পাস বুক - সোস্যাল সাইন্স | 10 | 115 | **differs** (see below) |
+
+The API defines exactly 10 chapters for book 134. All 27 `Social Science.pdf`
+copies in `Books/` contain those 10 chapters **plus a spurious chapter 14 copied
+from `Basic Electricity`** (electromagnetism content, confirmed by text diff).
+The freshly downloaded copy matches the API and is the cleaner version.
+
+Notes on dead ends (so they are not re-tried):
+- The other 35 pass books in `all_pass_books.json` are **purchase-gated** — no
+  endpoint returns fresh signed URLs for them. `ebooks/subject-details/` returns
+  `null` for pass-book ids.
+- The S3 bucket is private: unsigned objects return `403`. The 2,331 URLs in
+  `echapters_with_preview.json` were signed 2026-08-26 and are long expired.
+- `https://softmaxmanager.xyz/media/...` (documented in §4d) now returns `404`;
+  `/api/v1/media/...` is a catch-all that returns `401 "Request header did not match"`.
+- `academic/suggestions/` returns `data: null` for the current account.
+
 ### Books
 - **628 PDFs** across 28 technologies — all verified
 - One chapter (*Water Supply Engineering*, chapter 5) is missing server-side (S3 `NoSuchKey`)
