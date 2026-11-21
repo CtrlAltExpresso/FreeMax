@@ -3,26 +3,45 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
+
+## Unit 1 — MEASUREMENT SYSTEM
+| # | Title | Duration | Link |
+|---|-------|----------|------|
 | 1 | control systems | 5:28 | [Watch](https://youtu.be/UBI-Gn2KyUY) |
 | 2 | AC Signal Conditioning System | 10:08 | [Watch](https://youtu.be/SdRD3wZ7Kxg) |
 | 3 | control systems 2 | 6:18 | [Watch](https://youtu.be/krr12zjvqLA) |
 | 4 | open loop & closed loop control system | 6:11 | [Watch](https://youtu.be/WHsAPRfEoFo) |
 | 5 | analog  data acquisition system | 12:22 | [Watch](https://youtu.be/2HeriVMmBu4) |
-| 6 | Temperature, compensation | 2:35 | [Watch](https://youtu.be/xehtvF22Gx0) |
-| 7 | temperature by using thermometer | 6:35 | [Watch](https://youtu.be/3uLyZrCPHVc) |
+
+
+## Unit 6 — PRESSURE SPRING THERMOMETER AND OPTICAL DEVICES
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 6 | temperature by using thermometer | 6:35 | [Watch](https://youtu.be/3uLyZrCPHVc) |
+
+
+## Unit 8 — LEVEL MEASUREMENT AND MEASURING DEVICES
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 7 | ডাই ইলেকট্রিক গেজের সাহায্যে তরলের লেভেল পরিমাপ | 12:32 | [Watch](https://youtu.be/ozqKRpdpTbo) |
+
+
+## Extra / not in syllabus
+| # | Title | Duration | Link |
+|---|-------|----------|------|
 | 8 | DC servo, AC servo, stepper motor, electrical modulator, hydraulic | 4:14 | [Watch](https://youtu.be/NzEWXAsgcUE) |
 | 9 | data acquisition | 5:15 | [Watch](https://youtu.be/_55CkuKh7yQ) |
-| 10 | রেকর্ডারের বৈশিষ্ট্য | 6:14 | [Watch](https://youtu.be/FBOGyYKX0xQ) |
-| 11 | লোড সেল | 4:22 | [Watch](https://youtu.be/1BQTsCN5weU) |
-| 12 | ফটো ভোল্টাইক সেল | 13:31 | [Watch](https://youtu.be/aEikHa49J4I) |
-| 13 | প্যাসিভ ট্রান্সডিউসারের নিয়ে প্রাথমিক আলোচনা | 10:34 | [Watch](https://youtu.be/kdTHdmKAbw4) |
-| 14 | সিলেবাস নিয়ে আলোচনা | 6:20 | [Watch](https://youtu.be/gOwHUeG4Ovg) |
-| 15 | সার্ভো কন্ট্রোল সম্পর্কে ধারণা | 5:11 | [Watch](https://youtu.be/RZ0NQ9I9BIA) |
-| 16 | data acquisition মূলনীতি | 17:05 | [Watch](https://youtu.be/mOuMZssmCis) |
-| 17 | Thermocouple | 0:30 | [Watch](https://youtu.be/G3vv3v7urA0) |
-| 18 | প্রকারভেদ | 6:19 | [Watch](https://youtu.be/Q0wQb03scVI) |
-| 19 | Telemetry কি প্রকারভেদ? | 6:34 | [Watch](https://youtu.be/IqOAkhfgNwo) |
-| 20 | ডাই ইলেকট্রিক গেজের সাহায্যে তরলের লেভেল পরিমাপ | 12:32 | [Watch](https://youtu.be/ozqKRpdpTbo) |
+| 10 | Temperature, compensation | 2:35 | [Watch](https://youtu.be/xehtvF22Gx0) |
+| 11 | রেকর্ডারের বৈশিষ্ট্য | 6:14 | [Watch](https://youtu.be/FBOGyYKX0xQ) |
+| 12 | লোড সেল | 4:22 | [Watch](https://youtu.be/1BQTsCN5weU) |
+| 13 | ফটো ভোল্টাইক সেল | 13:31 | [Watch](https://youtu.be/aEikHa49J4I) |
+| 14 | প্যাসিভ ট্রান্সডিউসারের নিয়ে প্রাথমিক আলোচনা | 10:34 | [Watch](https://youtu.be/kdTHdmKAbw4) |
+| 15 | সিলেবাস নিয়ে আলোচনা | 6:20 | [Watch](https://youtu.be/gOwHUeG4Ovg) |
+| 16 | সার্ভো কন্ট্রোল সম্পর্কে ধারণা | 5:11 | [Watch](https://youtu.be/RZ0NQ9I9BIA) |
+| 17 | data acquisition মূলনীতি | 17:05 | [Watch](https://youtu.be/mOuMZssmCis) |
+| 18 | Thermocouple | 0:30 | [Watch](https://youtu.be/G3vv3v7urA0) |
+| 19 | প্রকারভেদ | 6:19 | [Watch](https://youtu.be/Q0wQb03scVI) |
+| 20 | Telemetry কি প্রকারভেদ? | 6:34 | [Watch](https://youtu.be/IqOAkhfgNwo) |
 | 21 | পিজো ইলেকট্রিক ইফেক্ট | 13:01 | [Watch](https://youtu.be/X87Bedqd_vY) |
 | 22 | ইলেকট্রোমেকানিক্যাল রেজিস্ট্যান্স ট্রান্সডিউসার, স্ট্রেইন গেজ ট্রান্সডিউসার | 7:08 | [Watch](https://youtu.be/dgrxE9yinK0) |
 | 23 | ট্রান্সিডিউসারের  মৌলিক বৈশিষ্ট্য | 4:30 | [Watch](https://youtu.be/hVPJ52otjz0) |

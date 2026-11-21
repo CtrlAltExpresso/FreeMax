@@ -4,706 +4,780 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | Understand the distribution system | 12:03 | [Watch](https://youtu.be/zsF-jckjJWU) |
-| 2 | করোনা | 16:08 | [Watch](https://youtu.be/FMxh18aL8Cg) |
-| 3 | সাসপেনশন টাইপ ইনসুলেটর | 15:33 | [Watch](https://youtu.be/jyf5UsRDaUs) |
-| 4 | বেসিক আলোচনা | 3:05 | [Watch](https://youtu.be/R2FGPrBqnTA) |
-| 5 | স্যাগ | 5:10 | [Watch](https://youtu.be/0B7rT7ndclc) |
-| 6 | ইনসুলেটর ম্যাটেরিয়ালস | 18:11 | [Watch](https://youtu.be/i3j39D-jrOI) |
-| 7 | line conductor | 9:24 | [Watch](https://youtu.be/gLDah__hagg) |
-| 8 | lime support | 11:04 | [Watch](https://youtu.be/KmRsMM_Ecig) |
-| 9 | Understand the Grid system classification | 5:25 | [Watch](https://youtu.be/W7QztU12XqM) |
-| 10 | ট্রান্সমিশন এন্ড ডিস্ট্রিবিউশন অব ইলেকট্রিক্যাল পাওয়ার-১ | 12:06 | [Watch](https://youtu.be/x2n91f6aCv0) |
-| 11 | একটি ডিস্ট্রিবিউশন সিস্টেমের সার্কিট ডায়াগ্রাম ও সাবস্টেশনের প্রধান উপাদান 3টি | 9:00 | [Watch](https://youtu.be/OI1hR4YOkXU) |
-| 12 | বিভিন্ন ধরনের ক্যাবল ফল্ট | 5:16 | [Watch](https://youtu.be/IJqsNJO5RCo) |
-| 13 | অ্যান্ডারগ্রাউন্ড ক্যাবলের বর্ণনা | 3:30 | [Watch](https://youtu.be/9Ufoyf4_oAM) |
-| 14 | গ্রিড সিস্টেম Grid Systems | 11:32 | [Watch](https://youtu.be/LNO2hXNSvCY) |
-| 15 | ডিস্ট্রিবিউশন ব্যবস্থা | 6:04 | [Watch](https://youtu.be/ETqdKZUyg8I) |
-| 16 | স্মার্ট গ্রিড সিস্টেম | 14:32 | [Watch](https://youtu.be/966V_TyhQPc) |
-| 17 | গ্রিড সিস্টেম | 5:26 | [Watch](https://youtu.be/khqhgbAl3ng) |
-| 18 | সাবস্টেশনের ডিসি ডিস্ট্রিবিউশন সিস্টেম | 7:08 | [Watch](https://youtu.be/D1DEx4DPZqo) |
-| 19 | ডিস্ট্রিবিউশন লাইনের রক্ষণাবেক্ষণ | 16:22 | [Watch](https://youtu.be/JXtNrLby_xM) |
-| 20 | ডিস্ট্রিবিউশন লাইনের অপারেশন | 9:31 | [Watch](https://youtu.be/tN8sOzA-mew) |
-| 21 | ক্যাবলের ত্রুটি | 13:34 | [Watch](https://youtu.be/WyBDXZuggvA?si=Ir7-bkLSbHvZMOFE) |
-| 22 | আন্ডারগ্রাউন্ড ক্যাবলের ক্যাপাসিট্যান্স | 25:11 | [Watch](https://youtu.be/SIzwOv5i9H8?si=1mNlIccE6ZJpDiuY) |
-| 23 | ক্যাবলের ইনসুলেশন রেজিস্ট্যান্স এবং ডাই ইলকট্রিক স্ট্রেস | 13:17 | [Watch](https://youtu.be/XiMz5lWitHs?si=oqKh0bMIxX-kw2Pw) |
-| 24 | আন্ডারগ্রাউন্ড ক্যাবল স্থাপন, জয়েন্টিং এবং টার্মিনেশন | 9:11 | [Watch](https://youtu.be/TTuhYjsibM8?si=rwZamrF_JT-6jWn3) |
-| 25 | আন্ডারগ্রাউন্ড ক্যাবল | 11:18 | [Watch](https://youtu.be/qyBVaBbvAQc?si=WOee5Qxaeq-XWavB) |
-| 26 | এসি ডিস্ট্রিবিউশন সিস্টেম | 7:34 | [Watch](https://youtu.be/7HwAHAUDFQA?si=mylHQxMryJ5TiixT) |
-| 27 | ডিসি ডিস্ট্রিবিউশন সিস্টেম | 10:18 | [Watch](https://youtu.be/eICIPXH5hwY?si=o-4LfTHJRHKavWQg) |
-| 28 | উচ্চ ভোল্টেজে ডিসি পরিবহন | 7:25 | [Watch](https://youtu.be/u6hRV64HgUA?si=aO3R1yrpv5RkSBbq) |
-| 29 | দীর্ঘ্য পরিবহন লাইন ও লাইন ধ্রুবকের প্রভাব | 9:26 | [Watch](https://youtu.be/TDYSYR8Pdso) |
-| 30 | মধ্যম পরিবহন লাইন | 12:05 | [Watch](https://youtu.be/hx4RHlU_vdE) |
-| 31 | ট্রান্সমিশন লাইনের দক্ষতা কী কী বিষয়ের উপর নির্ভর করে | 8:01 | [Watch](https://youtu.be/dXhWi8ozAR0) |
-| 32 | ওভারহেড ট্রান্সমিশন লাইনে ক্যাপাসিট্যান্সের ইফেক্ট | 9:17 | [Watch](https://youtu.be/YikaUfdZ9k4) |
-| 33 | ইন্ডাকট্যান্স | 7:19 | [Watch](https://youtu.be/56FVXmm8X14?si=KEaZBLZwkHVcTIbM) |
-| 34 | পরিবহন লাইনের স্কিন ইফেক্ট | 10:29 | [Watch](https://youtu.be/kldsxSMUk8U?si=ZWmvltNEuZYSQhI7) |
-| 35 | ট্রান্সমিশন  লাইনের পরিবাহীর তার | 7:28 | [Watch](https://youtu.be/G-UV0cv3nY4?si=7bTcPyLdiAgpYEzr) |
-| 36 | ওভারহেড ট্রান্সমিশন ডিস্ট্রিবিউশন লাইনে পোল স্থাপন পদ্ধতি | 5:24 | [Watch](https://youtu.be/7HqWnelidLA) |
-| 37 | ওভারহেড ট্রান্সমিশন লাইনের করোনা | 6:13 | [Watch](https://youtu.be/5gRwTCHEAlQ) |
-| 38 | সাসপেনশন ইনসুলেটরের ভোল্টেজ ডিস্ট্রিবিউশন | 6:09 | [Watch](https://youtu.be/-D1yXRRzOtY) |
-| 39 | ট্রান্সমিশন বাই ডিস্ট্রিবিউশন লাইনের জরিপ পদ্ধতি | 4:04 | [Watch](https://youtu.be/1azJbRnwwfY) |
-| 40 | স্যাগ | 6:25 | [Watch](https://youtu.be/2YV644K1iIk) |
-| 41 | লাইন ইনসুলেটর | 7:23 | [Watch](https://youtu.be/R82oti68CeE) |
-| 42 | পরিবাহী এবং পরিবাহী পদার্থ | 4:21 | [Watch](https://youtu.be/R0YtLK-lHis) |
-| 43 | ওভার হেড লাইনের সাপোর্ট | 5:01 | [Watch](https://youtu.be/-wkTnfj_c-M) |
-| 44 | ট্রান্সমিশন সিস্টেমের বিভিন্ন দৃষ্টিভঙ্গি | 6:01 | [Watch](https://youtu.be/s3zpajA3GCY) |
-| 45 | ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন অব ইলেকট্রিক্যাল পাওয়ার | 11:22 | [Watch](https://youtu.be/SPoYkVDMXGI) |
-| 46 | ওভারহেড ট্রান্সমিশন অথবা ডিস্ট্রিবিউশন লাইনে পোল স্থাপন | 13:16 | [Watch](https://youtu.be/T5Co-A8kQtI) |
-| 47 | ট্রান্সমিশন লাইনের শ্রেণীবিভাগ | 10:06 | [Watch](https://youtu.be/qZgds0bQMPI) |
-| 48 | লাইন ক্যাপাসিট্যান্স | 10:03 | [Watch](https://youtu.be/-4ZZBC7mPGo) |
-| 49 | Skin effect of transmission | 7:22 | [Watch](https://youtu.be/R8c8xSd4-HM) |
-| 50 | লাইন রেজিস্ট্যান্স | 11:05 | [Watch](https://youtu.be/k8nn7Qdo-34) |
-| 51 | বেসিক ট্রান্সমিশন এন্ড ডিস্ট্রিবিউশন সিস্টেম: | 28:17 | [Watch](https://youtu.be/KU90bIc-cAs) |
-| 52 | ডিসি ডিস্ট্রিবিউশন সিস্টেম | 10:32 | [Watch](https://youtu.be/Y2oZTZqkJfs) |
-| 53 | Two Wire Method | 3:20 | [Watch](https://youtu.be/VYLTrcBttDo) |
-| 54 | Common Fault occurs on underground cable | 5:19 | [Watch](https://youtu.be/xEMqNrsBjys) |
-| 55 | Underground Cable Capacitance Effect | 16:28 | [Watch](https://youtu.be/POpoghtUikI) |
-| 56 | ইনসুলেটর রেজিস্ট্যান্স, ডাই ইলেকট্রিক স্ট্রেস, পটেনশিয়াল গ্রাডিয়ান্ট | 7:33 | [Watch](https://youtu.be/SjTEtUCevV4) |
-| 57 | Insulating materials | 6:33 | [Watch](https://youtu.be/m34yCk1_MZg) |
-| 58 | Underground Cable | 14:28 | [Watch](https://youtu.be/NH4jX0gDMZ4) |
-| 59 | AC distribution system | 14:16 | [Watch](https://youtu.be/a-BycpF-UoE) |
-| 60 | ডিসি ট্রান্সমিশন সিস্টেম | 14:19 | [Watch](https://youtu.be/tjCoDWz23v4) |
-| 61 | Long Transmission Line | 19:18 | [Watch](https://youtu.be/ox3ANxawWDg) |
-| 62 | Intro Class | 5:07 | [Watch](https://youtu.be/RRLh-YqQDdg) |
-| 63 | সিঙ্গেল লাইন | 9:17 | [Watch](https://youtu.be/e_3xWelSHAY) |
-| 64 | CRITICAL DISRUPTIVE VOLTAGE | 11:33 | [Watch](https://youtu.be/O5Jm0pA2fR8) |
-| 65 | সাসপেনশন সমস্যার সমাধান 1 | 11:11 | [Watch](https://youtu.be/pwcHJ3bnwDA) |
-| 66 | Elements of surveying purpose | 8:18 | [Watch](https://youtu.be/vvZpeBS_qcQ) |
-| 67 | স্যাগ ক্যালকুলেশন | 10:25 | [Watch](https://youtu.be/eBMZMVFomjo) |
-| 68 | ইনসুলেটরের ম্যাটেরিয়ালস ব্যবহার করে কত ধরনের ইনসুলেটর তৈরি করতে পারি | 11:07 | [Watch](https://youtu.be/n4uuXw-NwJw) |
-| 69 | NLDC | 8:21 | [Watch](https://youtu.be/DhqTvrgITz0) |
-| 70 | পাওয়ার ফ্যাক্টর | 20:23 | [Watch](https://youtu.be/50l_tuOPCgo) |
-| 71 | ডিসি ডিস্ট্রিবিউটর ফেড টু ওয়ান ইন্ড | 6:15 | [Watch](https://youtu.be/HxXaJwrjqGs) |
-| 72 | সাবস্টেশনের প্যানেল বোর্ডে কী কী থাকে | 5:14 | [Watch](https://youtu.be/dCE9KS5YXuo) |
-| 73 | ক্যাবল ফল্টের কারণসমূহ | 5:14 | [Watch](https://youtu.be/wUQ2r3XmhII) |
-| 74 | অ্যান্ডারগ্রাউন্ড ক্যাবলের  সুবিধা ও অসুবিধা | 14:28 | [Watch](https://youtu.be/kUEaqZaO7vc) |
-| 75 | গ্রিড কাকে বলে, গ্রিড সিস্টেম কী | 4:18 | [Watch](https://youtu.be/_pRTeNem3Vc) |
-| 76 | সরবরাহ ব্যবস্থা | 5:01 | [Watch](https://youtu.be/U8tRFqUqM_E) |
-| 77 | স্মার্ট গ্রিড সিস্টেম কী | 14:26 | [Watch](https://youtu.be/A8XM_xZLG04) |
-| 78 | গ্রিড সিন্টেমের প্রয়োজনীয়তা | 12:13 | [Watch](https://youtu.be/_OAFiFsgWWE) |
-| 79 | এসি থেকে ডিসি রেকটিফিকেশন | 7:20 | [Watch](https://youtu.be/U3ykwOK0gLA) |
-| 80 | জরুরি অবস্থার সময় রুটিন ইন্সপেকশন সাপ্তাহিক,মাসিক | 12:26 | [Watch](https://youtu.be/4WiqrsY_Twg) |
-| 81 | ডিস্ট্রিবিউশন সিস্টেমের সার্কিট ডায়াগ্রাম | 7:10 | [Watch](https://youtu.be/BZFchQk27WM) |
-| 82 | ক্যাবলের ত্রুটি চিহ্নিতকরণের বিভিন্ন পদ্ধতিসমূহ | 6:17 | [Watch](https://youtu.be/724jci1XW_U?si=05aZFVrEHXbs8xSZ) |
-| 83 | সিঙ্গেল কোর ক্যাবলের ক্যাপাসিট্যান্স নির্ণয়ের গাণিতিক সমস্যাবলি | 15:20 | [Watch](https://youtu.be/j8DUr1v0nv0?si=aOutreoTcUTwv0kC) |
-| 84 | সিঙ্গেল কোর ক্যাবলের ইনসুলেশন রেজিস্ট্যান্স এর সমীকরণ | 13:29 | [Watch](https://youtu.be/KMjKUokWEmg?si=wNZqU9M-ne_Dggm0) |
-| 85 | আন্ডারগ্রাউন্ড ক্যাবল  স্থাপনে ডাইরেক্ট লেয়িং পদ্ধতি বর্ণনা | 8:25 | [Watch](https://youtu.be/2FGvHJAxfcs?si=rpfY5PVrFw3VliPm) |
-| 86 | বিভিন্ন প্রকার আন্ডারগ্রাউন্ড ক্যাবল | 10:21 | [Watch](https://youtu.be/YidFdohut2Y?si=dh7BBno4cDeERvzP) |
-| 87 | ডিসি এবং এসি ডিস্ট্রিবিউশন সিস্টেমের মাঝে উল্লেখযোগ্য পার্থক্যসমূহ | 13:05 | [Watch](https://youtu.be/JFiKB4Jt_e4?si=ZsQMxIw0b1i-_QwM) |
-| 88 | ডিস্ট্রিবিউশন সিস্টেমের প্রকারভেদ, | 9:09 | [Watch](https://youtu.be/Clq15G_rpNM?si=7Hfb5BrX6WQWawG3) |
-| 89 | হাই ভোল্টেজ ডিসি | 10:02 | [Watch](https://youtu.be/AvBQvqzby_0?si=C2Pn789Xvc1g-EDr) |
-| 90 | রিগোবাস পদ্ধতিতে  ভোল্টেজ ও কারেন্ট নির্ণয় | 11:00 | [Watch](https://youtu.be/HkaC4wpdchw) |
-| 91 | মধ্যম পরিবহন লাইনের ধ্রুবকসমূহের মান নির্ণয়ের পদ্ধতি | 4:13 | [Watch](https://youtu.be/W4AmSpWfePw) |
-| 92 | ট্রান্সমিশন লাইনের শ্রেণিবিন্যাস দেখাও | 5:04 | [Watch](https://youtu.be/ZQBLetdFVGQ) |
-| 93 | ওভারহেড লাইনে উন্নয়নের ক্যাপাসিট্যান্সের ভূমিকা | 6:14 | [Watch](https://youtu.be/1BKZWuNU14c) |
-| 94 | ওভারঅল ফ্লাক্স লিংকেজের  সূত্র | 4:23 | [Watch](https://youtu.be/F6rhORvMgkY?si=eOEYHXGsq83XAE6Y) |
-| 95 | স্কিন ইফেক্টকে প্রভাবিত করার ফ্যাক্টরসমূহ | 10:19 | [Watch](https://youtu.be/iRVSuWKjuCM?si=4J1lHbW3NMtBrUvH) |
-| 96 | লাইন পরিবাহীর রেজিস্ট্যান্স | 7:22 | [Watch](https://youtu.be/RD2Z-dbc0WY?si=jZo-KMr7pL1PEb6n) |
-| 97 | নদী পারাপার ও পাহাড়ি এলাকায় স্টিল টাওয়ার অধিক উপযোগী কেন | 13:19 | [Watch](https://youtu.be/Q6UMIgRL27Q) |
-| 98 | করোনার কারণে সৃষ্ট ওজোন গ্যাস ক্ষতি সমূহ | 3:31 | [Watch](https://youtu.be/MOaK_TJclrQ) |
-| 99 | ইনসুলেটর শান্ট ক্যাপাসিট্যান্স | 16:21 | [Watch](https://youtu.be/6gfIuRglk9o) |
-| 100 | ট্রান্সমিশন বাই ডিস্ট্রিবিউশন লাইন জরিপের জন্য প্রয়োজনীয় জরিপ ইস্ট্রুমেন্টের তালিকা | 8:06 | [Watch](https://youtu.be/mHr2D2iXOw4) |
-| 101 | স্যাগের প্রয়োজনীয়তা | 4:28 | [Watch](https://youtu.be/BLzXQr-PjfA) |
-| 102 | ইনসুলেটর কী, ইনসুলেটর এর কাজ কী | 7:02 | [Watch](https://youtu.be/gBD0OQWBp-Y\) |
-| 103 | ওভারহেড ট্রান্সমিশন ও ডিস্ট্রিবিউশন লাইনে বিভিন্ন প্রকার লাইন কন্ডাকটর | 7:33 | [Watch](https://youtu.be/iGFxsMsG4fI) |
-| 104 | ওভার হেড লাইনের প্রধান অংশসমূহ | 14:30 | [Watch](https://youtu.be/4v5-2PsZlDA) |
-| 105 | কেলভিনের সূত্রের সাহায্যে সর্বোচ্চ সাশ্রয়ী সাইজ নির্ণয় সূত্র বিবৃতকরণ | 11:19 | [Watch](https://youtu.be/cF2yGeghxw0) |
-| 106 | বাংলাদেশের বিদ্যুৎ কেন্দ্রসমূহের জেনারেটিং ভোল্টেজ | 8:35 | [Watch](https://youtu.be/4Tu29XsiyEk) |
-| 107 | Lattice pole | 4:17 | [Watch](https://youtu.be/hhxqI1F0Jj8) |
-| 108 | শর্ট ট্রান্সমিশন লাইনের পারফরমেন্স | 10:18 | [Watch](https://youtu.be/uEK_fyU-UeU) |
-| 109 | সিঙ্গেল ফেজ লাইনের ক্যাপাসিট্যান্স | 10:04 | [Watch](https://youtu.be/ih0Ahuibw5k) |
-| 110 | Proximity effect of transmission line | 4:28 | [Watch](https://youtu.be/qNaQ_JCTb38) |
-| 111 | রেজিস্ট্যান্স ক্যালকুলেশন(প্রমাণ) | 10:01 | [Watch](https://youtu.be/uYue_tETZ-4) |
-| 112 | বেসিক ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন | 6:10 | [Watch](https://youtu.be/9LlwrFiJmeU) |
-| 113 | Two Wire method to determination of Insulator | 15:01 | [Watch](https://youtu.be/kwMij_jZ9Fg) |
-| 114 | Different methods for locating cable fault | 9:29 | [Watch](https://youtu.be/-oM6oLZYVJg) |
-| 115 | Underground Cable Capacitance নির্ণয় এর সমীকরণ | 7:23 | [Watch](https://youtu.be/t1KxU6F5vCw) |
-| 116 | ইনসুলেশন রেজিস্ট্যান্স মেজারমেন্ট | 11:23 | [Watch](https://youtu.be/NhnB7rS7RPY) |
-| 117 | Direct laying of UC | 4:26 | [Watch](https://youtu.be/uy5zi9-wO6A) |
-| 118 | Classification of underground cable | 14:29 | [Watch](https://youtu.be/OCFeQeI24FI) |
-| 119 | Radial System | 6:25 | [Watch](https://youtu.be/TBSBQE19y4s) |
-| 120 | ডিসি ট্রান্সমিশন সিস্টেমের( HVDC ) | 9:28 | [Watch](https://youtu.be/BN0Wzq7aYGs) |
-| 121 | Rigorous method | 42:07 | [Watch](https://youtu.be/0804Vp16HMA) |
-| 122 | ট্রান্সমিশন লাইনের শ্রেণীবিভাগ | 10:06 | [Watch](https://youtu.be/su71WTeoIbU) |
-| 123 | ডিস্ট্রিবিউশন লাইন রক্ষনাবেক্ষন | 7:14 | [Watch](https://youtu.be/-PzJbbTeiqI) |
-| 124 | করোনার গাণিতিক সমাধান | 8:16 | [Watch](https://youtu.be/OByQ08ZC3Vs) |
-| 125 | সাসপেনশন গাণিতিক সমাধান 1 | 9:32 | [Watch](https://youtu.be/iF9njvEyJlE) |
-| 126 | ওভারহেড লাইন রুটিং এর বিবেচ্য বিষয় | 7:10 | [Watch](https://youtu.be/gNudAAuN5Kw) |
-| 127 | স্যাগ ক্যালকুলেশন (যখন সাপোর্টদ্বয় অসম উচ্চতায় থাকে) | 13:16 | [Watch](https://youtu.be/qXWLwwGUz8A) |
-| 128 | ইনসুলেটর টেস্টিং | 5:32 | [Watch](https://youtu.be/W4A2uT61uFw) |
-| 129 | পাওয়ার ফ্যাক্টর ইফেক্ট | 13:16 | [Watch](https://youtu.be/TUl5U8yBzfY) |
-| 130 | ডিসি ডিস্ট্রিবিউটর ফেড টু ওয়ান ইন্ড গানিতিক সমাধান | 8:09 | [Watch](https://youtu.be/66Mln9XI5B4) |
-| 131 | লোড ডিসপ্যাচ সেন্টার | 12:01 | [Watch](https://youtu.be/aylifbS4-D4) |
-| 132 | ক্যাবলের ত্রুটি চিহ্নিতকরণের পদ্ধতি | 4:27 | [Watch](https://youtu.be/Eia1bj3tsL4) |
-| 133 | অ্যান্ডারগ্রাউন্ড ক্যাবলের  অসুবিধা | 7:14 | [Watch](https://youtu.be/VE4GDE3o5Kw) |
-| 134 | আন্তঃসংযোগ পদ্ধতি | 5:16 | [Watch](https://youtu.be/RSaW1tTvbP4) |
-| 135 | ডিস্ট্রিবিউশন  বলতে কি বুঝায় | 4:07 | [Watch](https://youtu.be/1xvwJMXusMk) |
-| 136 | স্মার্ট গ্রিড প্রযুক্তির বর্ণনা | 10:29 | [Watch](https://youtu.be/Gh9RJIcy_hA) |
-| 137 | বিভিন্ন প্রকার গ্রিড সিস্টেম | 13:20 | [Watch](https://youtu.be/UwwCRV9gD30) |
-| 138 | ব্যাটারি ব্যাঙ্ক এর নকশা | 8:16 | [Watch](https://youtu.be/vl1NWScXcws) |
-| 139 | ডিস্ট্রিবিউশন লাইনের ত্রুটি ও ক্ষয়ক্ষতি মেরামতের পদ্ধতি | 15:16 | [Watch](https://youtu.be/u-zv4-MDuXU) |
-| 140 | ট্রান্সমিশন সিস্টেমের প্যানেল বোর্ডের কার্যপ্রণালি | 19:10 | [Watch](https://youtu.be/-OK0Xig6p9A) |
-| 141 | মারি লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 10:17 | [Watch](https://youtu.be/6-HVUTg82RQ?si=V-aNH9rR0B67GjD_) |
-| 142 | তিন কোর আন্ডারগ্রাউন্ড ক্যাবলের ক্যাপাসিট্যান্স এবং নির্ণয়ের সমীকরণ | 14:29 | [Watch](https://youtu.be/EpycEAZhQOo?si=rShwxusn9rDSBAGu) |
-| 143 | একটি এক কোর ক্যাবলের ব্যাসার্ধ 1cm...ইনসুলেশন রেজিস্ট্যান্স কত হবে | 8:25 | [Watch](https://youtu.be/use1gzwvsVI?si=ZVrM7lN3X6Y9boo7) |
-| 144 | সরাসরি স্থাপন (Direct laying) | 7:31 | [Watch](https://youtu.be/iqSl2O9oXRM?si=u2X6OTapdo_6ZH_L) |
-| 145 | আন্ডারগ্রাউন্ড ক্যাবলের সুবিধা ও অসুবিধা | 7:31 | [Watch](https://youtu.be/saXcfHkJ-Bo?si=BiK4Rjs1mzi3GPNS) |
-| 146 | Part - 1 বিভিন্ন প্রকার এসি ডিস্ট্রিবিউশন সিস্টেম | 7:24 | [Watch](https://youtu.be/TT9hH3Cr0Og?si=-QPocuTtqDX_XQdx) |
-| 147 | একপ্রান্তে ফিড করা ডিসি ডিস্ট্রিবিউশন | 15:25 | [Watch](https://youtu.be/qU_JRfK0uFk?si=IUKXUfqc1zz-eo27) |
-| 148 | রিগোবাস পদ্ধতিতে  ভোল্টেজ ও কারেন্ট নির্ণয় পার্ট২ | 13:25 | [Watch](https://youtu.be/X7zS5Y_Odqc) |
-| 149 | মিডিয়াম ট্রান্সমিশন লাইন বলতে কী বুঝায় | 19:34 | [Watch](https://youtu.be/T2YO6BNVQxA) |
-| 150 | স্বল্পদৈর্ঘ্য , মধ্যম ও দীর্ঘ ট্রান্সমিশন লাইনের লাইন ধ্রুবকসমূহের চিত্রসহ প্রতিপাদন | 5:11 | [Watch](https://youtu.be/JJ_bXmEj6o0) |
-| 151 | ট্রান্সমিশন লাইনে বৈদ্যুতিক বিভব | 6:27 | [Watch](https://youtu.be/vFZXjdONJAc) |
-| 152 | ম্যাগনেটাইজিং ফোর্স | 8:35 | [Watch](https://youtu.be/MRo70CPrjm8?si=7Fn-u0l-Mli_lutI) |
-| 153 | স্কিন ইফেক্ট নির্ণয়ের সমীকরণ | 6:14 | [Watch](https://youtu.be/nuYqNWNFuwg?si=cocOAlHORR6VO0Wo) |
-| 154 | ট্রান্সমিশন লাইনের লাইন কনস্ট্যান্ট | 4:17 | [Watch](https://youtu.be/GXTzQBqPPEA?si=bObS5bcjGLNGtFxe) |
-| 155 | ওভাহেড ডিস্ট্রিবিউশন লাইনে কী ধরনের পোল ব্যবহৃত | 4:01 | [Watch](https://youtu.be/Yu8TUA3QJHY) |
-| 156 | করোনা কীভাবে সংঘটিত হয়, তা বিস্তারিত বর্ণনা | 6:10 | [Watch](https://youtu.be/7q259y_LbUM) |
-| 157 | সাসপেনশন ইনসুলেটরের স্ট্রিং বরে ভোল্টেজ বন্টনের পয়েন্টগুলো | 8:20 | [Watch](https://youtu.be/r9mDEra6M1Y) |
-| 158 | সার্ভেইং ইনস্ট্রুমেন্টের ব্যবহার | 3:29 | [Watch](https://youtu.be/iicN6KEJ8NE) |
-| 159 | স্যাগ মাপার পদ্ধতি | 2:31 | [Watch](https://youtu.be/JiAC_Q02SjA) |
-| 160 | কন্ডাকটর পদার্থের গুণাবলি | 10:31 | [Watch](https://youtu.be/AxALMLs88JQ) |
-| 161 | লাইনের সাপোর্টের প্রকারভেদ | 12:34 | [Watch](https://youtu.be/SDvtbe0kKdc) |
-| 162 | শক্তি পরিবহনের মোট খরচে কেলভিন কত খাতে বিভক্ত করেছেন এবং খাতগুলোর সংক্ষিপ্ত বর্ণনা | 15:11 | [Watch](https://youtu.be/gtzQryGttEs) |
-| 163 | গ্রিড সিস্টেম | 6:08 | [Watch](https://youtu.be/hK9EFCF-RTo) |
-| 164 | পোল সোজা করা | 4:17 | [Watch](https://youtu.be/iLH6rTUy6tM) |
-| 165 | একটি (3-𝜱) short   transmission লাইন…………লাইনটির   ট্রান্সমিশন দক্ষতা নির্ণয় কর। | 11:16 | [Watch](https://youtu.be/mB7sdJZXEKs) |
-| 166 | ৩-ফেজ লাইনের ক্যাপাসিট্যান্স | 14:20 | [Watch](https://youtu.be/-xJx1PqGqgg) |
-| 167 | একটি   (3-𝜱) ট্রান্সমশন ……………লাইনের প্রতি ফেজে কত রেজিস্ট্যান্স রাখাতে হবে? | 7:14 | [Watch](https://youtu.be/v_uiF6KB0VE) |
-| 168 | ট্রান্সমিশন সিস্টেমের শ্রেণীবিভাগ: | 10:10 | [Watch](https://youtu.be/yeSE4KM9eqA) |
-| 169 | Three Wire method to determination of Insulator | 14:25 | [Watch](https://youtu.be/gksKIycDOrQ) |
-| 170 | Underground Cable এর চার্জিং কারেন্ট নির্ণয়ের গাণিতিক সমাধান | 8:11 | [Watch](https://youtu.be/WSmJ6u8W3LY) |
-| 171 | Potential gradient expression | 13:17 | [Watch](https://youtu.be/p7LsjOOT-mI) |
-| 172 | Draw in system | 4:05 | [Watch](https://youtu.be/nC30Cxece08) |
-| 173 | Structure of underground cable | 8:13 | [Watch](https://youtu.be/k9V_5dgydME) |
-| 174 | Ring Main System | 8:04 | [Watch](https://youtu.be/g3MEcf9Fmv8) |
-| 175 | রিগোরাস পদ্ধতির মাধ্যমে গাণিতিক সমাধান | 30:23 | [Watch](https://youtu.be/sXXI7RTm5Ps) |
-| 176 | Performance of medium transmission line | 13:17 | [Watch](https://youtu.be/erFNPKcX39Y) |
-| 177 | একটি প্রিজমের আকৃতি সমবাহু ত্রিভুজ...........আয়তন ও পার্শ্বেতলের ক্ষেত্রফল নির্ণয় কর। | 14:09 | [Watch](https://youtu.be/wp7z5SKcuR4) |
-| 178 | Distribution line Inspection এর সময় যা যা সাথে রাখতে হবে | 3:25 | [Watch](https://youtu.be/Zr2SCx0g1H8) |
-| 179 | সাসপেনশন গাণিতিক সমাধান 2 | 8:27 | [Watch](https://youtu.be/L7lBYkzL-IQ) |
-| 180 | স্যাগ ক্যালকুলেশন (যখন পরিবাহির উপর বরফ ও বাতাসের প্রভাব থাকে) | 16:35 | [Watch](https://youtu.be/2qUrrm5aT0U) |
-| 181 | ইসুলেটর টেস্টিং | 8:22 | [Watch](https://youtu.be/s9oIbCiI7KM) |
-| 182 | পাওয়ার ফ্যাক্টর গাণিতক সমাধান | 8:22 | [Watch](https://youtu.be/HysXIGmLtpI) |
-| 183 | Distribution Fed from both sides | 9:11 | [Watch](https://youtu.be/IKFQWsJcADc) |
-| 184 | বাংলাদেশের কোথায় লোড ডিসপ্যাচ সেন্টার অবস্থিত | 3:31 | [Watch](https://youtu.be/Wo1lkJLW_8c) |
-| 185 | আন্ডারগ্রাউন্ড ফল্টের কোন ক্ষেত্রে ইন্ডাকশন টেস্ট করা হয় | 4:10 | [Watch](https://youtu.be/vtDFb7B3rbs) |
-| 186 | বিভিন্ন ধরনের অ্যান্ডারগ্রাউন্ড ক্যাবল | 11:34 | [Watch](https://youtu.be/d73TDdvid1Y) |
-| 187 | গ্রিড সিস্টেমের প্রয়োজনীয়তা | 8:18 | [Watch](https://youtu.be/pjKXOjl32Zg) |
-| 188 | ডিসি ডিস্ট্রিবিউশন এর বর্ণনা | 8:07 | [Watch](https://youtu.be/hIyO8G1FR_M) |
-| 189 | Part - 1 মারি লুপ টেস্টের সাহায্যে শর্ট  সার্কিট ফল্ট নির্ণয় | 9:12 | [Watch](https://youtu.be/P8whCydDLbk) |
-| 190 | স্মার্ট গ্রিড সিস্টেমের নেট মিটারিং | 5:31 | [Watch](https://youtu.be/MlanV7uxnAY) |
-| 191 | গ্রিড সিস্টেমের সুবিধা | 7:07 | [Watch](https://youtu.be/RZaeiQWCunc) |
-| 192 | ব্যাটারি চার্জারের কার্যকারিতা | 5:24 | [Watch](https://youtu.be/Ul7NWivNur4) |
-| 193 | ডিস্ট্রিবিউশন লাইনের মেরামত এবং  রক্ষণাবেক্ষণ জন্য ব্যবহৃত ব্যাক্তিগত প্রতিরক্ষামূলক যন্ত্রপাতির | 6:25 | [Watch](https://youtu.be/9bw0NFeZqKE) |
-| 194 | লোড ডিসপ্যাচ সেন্টার (এলডিসি) | 7:19 | [Watch](https://youtu.be/SoXgI_aZ8mk) |
-| 195 | একটি 3φ,33kV, 50Hz, 200km...চার্জিং কারেন্ট নির্ণয় | 5:04 | [Watch](https://youtu.be/FXPrZhPygRQ?si=sravFdqy7eqp_r0l) |
-| 196 | 1km দীর্ঘ ক্যাবলের পরিবাহীর ব্যাস 1.5cm...2.5cm করা হলে রোধ কত হবে | 14:32 | [Watch](https://youtu.be/bukP-oknrUY) |
-| 197 | টানা ব্যবস্থায় ক্যাবল স্থাপন পদ্ধতি | 9:04 | [Watch](https://youtu.be/-A6EICFwsk8?si=MF0N7X_-r58urmF2) |
-| 198 | আন্ডারগ্রাউন্ড ক্যাবলের ব্যবহৃত ইনসুলেটিং ম্যাটেরিয়ালগুলোর তালিকা | 6:00 | [Watch](https://youtu.be/iz97s-1THy8?si=BMak_H8Jdw3OGDo9) |
-| 199 | Part - 2 বিভিন্ন প্রকার এসি ডিস্ট্রিবিউশন সিস্টেম | 5:29 | [Watch](https://youtu.be/S2nul--PW8M?si=g7ykkHt3xVh9gy25) |
-| 200 | ফিডার লাইন ডিজাইনে প্রধান বিবেচ্য বিষয় | 15:11 | [Watch](https://youtu.be/EMwDFQ07l5g?si=LtS42dP4KJgA-siS) |
-| 201 | ডিসি ট্রান্সমিশনের সীমাবদ্ধতা | 9:22 | [Watch](https://youtu.be/589puYLkVhk?si=IftVoHP16lDBg0GT) |
-| 202 | রিগোবাস পদ্ধতিতে  ভোল্টেজ ও কারেন্ট নির্ণয় পার্ট ৩ | 15:21 | [Watch](https://youtu.be/scUMflbiTyc) |
-| 203 | মধ্যম পরিবহন লাইনের ধ্রুবকের প্রভাব | 15:31 | [Watch](https://youtu.be/-vEBK1bM1j4) |
-| 204 | স্বল্পদৈর্ঘ্য ওভারহেড পরিবহন লাইনের ভোল্টেজ রেগুলেশন হিসাবের সমীকরণ | 22:28 | [Watch](https://youtu.be/ULKWtDVeOJU) |
-| 205 | লোড পাওয়ার খুব কম হলে ট্রান্সমিশন লাইনে প্রতিক্রিয়া | 3:29 | [Watch](https://youtu.be/t3_5ds60_4Q) |
-| 206 | বান্ডিল কন্ডাক্টর Bundle Conductor | 7:11 | [Watch](https://youtu.be/yTARJFdxvTo) |
-| 207 | ট্রান্সমিশন লাইনের ধ্রুবক | 5:26 | [Watch](https://youtu.be/MI1CNz7nt2g?si=BDITOK7tdOJ_5MFt) |
-| 208 | ট্রান্সমিশন লাইনে স্কিন ইফেক্টের প্রভাব | 11:31 | [Watch](https://youtu.be/_XKKaF4Sjaw?si=bdWY1x8dhiF2JCbO) |
-| 209 | ট্রান্সমিশন লাইন কনস্ট্যান্ট | 2:19 | [Watch](https://youtu.be/nsqCF9e4gFU?si=zVfX-tyO6bj3yU0O) |
-| 210 | কাঠের পোল তেমন ব্যবহার করা হয় না কেন | 7:30 | [Watch](https://youtu.be/svA1muuQ9D8) |
-| 211 | করোনার প্রতিক্রিয়াসমূহ | 6:17 | [Watch](https://youtu.be/gHd9VocJ_WM) |
-| 212 | সাসপেনশন ইনসুলেটরের ক্ষেত্রে পরিবাহীর নিকটতম ডিস্কের ভোল্টেজ সর্বাধিক | 6:18 | [Watch](https://youtu.be/2Vs5eDDx4Rs) |
-| 213 | থিওডোলাইট | 5:34 | [Watch](https://youtu.be/6-HE55z5pH4) |
-| 214 | স্যাগ বোর্ডের সাহায্যে স্যাগ পরিমাপ করার পদ্ধতি | 4:01 | [Watch](https://youtu.be/3WUIVMh431k?si=89WwsAy6X2COr75l) |
-| 215 | বিভিন্ন প্রকার ইনসুলেটিং উপাদান | 6:15 | [Watch](https://youtu.be/OaEHOWTh8Yo) |
-| 216 | কাঠের পোল | 4:09 | [Watch](https://youtu.be/IJIUZit7fMs) |
-| 217 | গ্রাফের সাহায্যে কেলভিনের সূত্রের ব্যাখ্যা | 9:24 | [Watch](https://youtu.be/gST7IqpLYI4) |
-| 218 | বৈদ্যুতিক সিস্টেমের সিঙ্গেল লাইন ডায়াগ্রাম | 15:05 | [Watch](https://youtu.be/5bJyqyN4Ix4) |
-| 219 | গিন পোল পদ্ধতি | 6:31 | [Watch](https://youtu.be/WsXASa6Jv54) |
-| 220 | একটি  1-𝜱 ট্রান্সমিশন লাইনের দুই …………..লাইনে প্রবাহিত চার্জিং কারেন্ট কত? | 5:25 | [Watch](https://youtu.be/t_UPy8oJqRc) |
-| 221 | একটি   (3-𝜱) ট্রান্সমশন লাইনের ………….কত দুরত্বে 15MW POWER প্রেরণ করা যাবে? | 5:34 | [Watch](https://youtu.be/UDVxA-yydAM) |
-| 222 | দেখাও যে  উচ্চ ভোল্টেজে পাওয়ার ট্রান্সমিশনে পরিবাহীর আয়তন কম | 8:10 | [Watch](https://youtu.be/Z1crbohnibw) |
-| 223 | দুই ওয়্যার ডিস্ট্রিবিউটরের দুই লাইন ও আর্থের মধ্যে ইনসুলেশন রেজিস্ট্যান্স নির্ণয় | 4:23 | [Watch](https://youtu.be/jb7txHqchc8) |
-| 224 | Multicore Cable এর সূত্র | 8:00 | [Watch](https://youtu.be/_cxF3tCMsq8) |
-| 225 | ইনসুলেশন রেজিস্ট্যান্স নির্ণয় এর গাণিতিক সমাধান | 7:00 | [Watch](https://youtu.be/ZAVG_M261B8) |
-| 226 | Solid laying system of UC | 2:14 | [Watch](https://youtu.be/TBm0qLW_9Ik) |
-| 227 | AC Distribution System Example 01 | 15:26 | [Watch](https://youtu.be/lgum6O0pmC0) |
-| 228 | End condenser method | 20:35 | [Watch](https://youtu.be/TBlseH16ep4) |
-| 229 | Distribution line Common fault | 3:29 | [Watch](https://youtu.be/m8ynBZdD9yU) |
-| 230 | স্ট্রিং এবং স্ট্রিং ইফিসিয়েন্সি | 12:25 | [Watch](https://youtu.be/rnpUz4ghYAA) |
-| 231 | SAG গাণিতিক সমাধান 1 | 11:17 | [Watch](https://youtu.be/QAkZ5xHzXeA) |
-| 232 | পাওয়ার ফ্যাক্টর ইমপ্রুভমেন্ট | 11:19 | [Watch](https://youtu.be/Fme8RW3VvHU) |
-| 233 | Distribution Fed from both sides cont | 13:15 | [Watch](https://youtu.be/TVR-jDQ_iII) |
-| 234 | সাবস্টেশনে লোড ডিসপ্যাচ কার্যক্রম | 5:07 | [Watch](https://youtu.be/stHx2EKodoY) |
-| 235 | মারি লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 13:25 | [Watch](https://youtu.be/zM2qSuq6Gks) |
-| 236 | অ্যান্ডারগ্রাউন্ড ক্যাবলের ইনসুলেটিং ম্যাটেরিয়ালসের তালিকা | 7:17 | [Watch](https://youtu.be/8-bsJNZSF3U) |
-| 237 | গ্রিড সিস্টেমের প্রয়োজনীয়তা লেখ | 4:33 | [Watch](https://youtu.be/rce8POnmtr4) |
-| 238 | ফিডার লাইন ডিজাইনে প্রধান বিবেচ্য বিষয় | 6:22 | [Watch](https://youtu.be/fLEWBydaW9c) |
-| 239 | Part - 2 মারি লুপ টেস্টের সাহায্যে শর্ট  সার্কিট ফল্ট নির্ণয় | 11:25 | [Watch](https://youtu.be/PDUcuhRaSBE) |
-| 240 | প্রচলিত এবং স্মার্ট গ্রিড সিস্টেমের মধ্যে পার্থক্য | 4:20 | [Watch](https://youtu.be/PcXMRA50w-M) |
-| 241 | বাংলাদেশের স্থাপনকৃত ইস্ট-ওয়েস্ট গ্রিড ইন্টারকানেকটর | 7:32 | [Watch](https://youtu.be/GaquBdKwYIc) |
-| 242 | ডিসি ডিস্ট্রিবিউশন বোর্ডের উপাদানসমূহ | 5:31 | [Watch](https://youtu.be/6vofJJLeTPw) |
-| 243 | ডিস্ট্রিবিউশন সিস্টেমের অপারেশন | 14:16 | [Watch](https://youtu.be/hR6OsSQaxhs) |
-| 244 | একটি তিন ফেজ বেলটেড ক্যাবলকে...লাইনের চার্জিং কারেন্ট কত হবে | 10:09 | [Watch](https://youtu.be/4JeCmK-_4eU?si=53nkKWNVnWWgwpbm) |
-| 245 | সিঙ্গেল কোর ক্যাবলের ডাই ইলেকট্রিক স্ট্রেস এর সমীকরণ | 17:29 | [Watch](https://youtu.be/fzDb1z-8uus) |
-| 246 | আন্ডারগ্রাউন্ড ক্যাবলের প্রান্তীয় বিন্যাস পদ্ধতি | 17:32 | [Watch](https://youtu.be/Ar36rsBYGkw?si=FYadpw9xtmGHJxJ-) |
-| 247 | সলিড সিস্টেমে বা নিরেট ব্যবস্থায় স্থাপন | 4:17 | [Watch](https://youtu.be/8ghObgql0RU?si=VoACwaTLlp9i_NIo) |
-| 248 | আন্ডারগ্রাউন্ড ক্যাবলের ইনসুলেটিং ম্যাটেরিয়ালগুলো গুণাবলি | 11:04 | [Watch](https://youtu.be/17sFACWLxbk?si=jOsqxdv4QoujtklC) |
-| 249 | গ্রহণ প্রন্তের ভোল্টেজ বিবেচনা পাওয়ার ফ্যাক্টর | 11:02 | [Watch](https://youtu.be/hC7z5QLFVtM?si=4TGdK2e6pve4M1rb) |
-| 250 | Part - 1 সমহারে লোডেড ডিস্ট্রিবিউটর | 2:13 | [Watch](https://youtu.be/cm8A5TlDh44?si=gk8rjZaRFpNnvzMz) |
-| 251 | এসি ও ডিসি ট্রান্সমিশন সিস্টেমের মধ্যে অর্থনৈতিক তুলনা | 10:33 | [Watch](https://youtu.be/rFchy_I8roo?si=HSvflPemJcw8ab2D) |
-| 252 | কনস্ট্যান্ট ভোল্টেজ ট্রান্সমিশন | 7:29 | [Watch](https://youtu.be/PlWg2nCnr-4) |
-| 253 | মধ্যম ট্রান্সমিশন লাইনের প্রন্তিক ক্যাপাসিটর পদ্ধতি ও ফেজর ডায়াগ্রাম | 20:32 | [Watch](https://youtu.be/stKHWkWUsxk) |
-| 254 | লিডিং পাওয়ার ফ্যাক্টর | 19:06 | [Watch](https://youtu.be/SOfQ66kGdcM) |
-| 255 | চার্জযুক্ত একক পরিবাহীর ক্ষেত্রে বৈদ্যুতিক বিভবের সমীকরণ নির্ণয় | 6:27 | [Watch](https://youtu.be/GJ6rQlQT548) |
-| 256 | সেলফ জিএমডি এবং মিউচুয়াল জিএমডির ধারণা | 7:01 | [Watch](https://youtu.be/NChPgU4vwAY) |
-| 257 | ট্রান্সমিশন লাইনের ইন্ডাকট্যান্স যে যে বিষয়ের উপর নির্ভর করে | 6:11 | [Watch](https://youtu.be/eL6dn9ZPl2E?si=APEr3SZmkjPX9jvR) |
-| 258 | স্কিন ইফেক্ট হ্রাস করার পদ্ধতি | 8:08 | [Watch](https://youtu.be/Ucw8twAXMi8?si=nmeRaVBmF-GN12-x) |
-| 259 | লাইন কনস্ট্যান্টগুলোকে লাইনে প্রকাশ | 5:08 | [Watch](https://youtu.be/yvEFeV5_Hj0?si=w6sO9hizUVvnRFPU) |
-| 260 | স্টিলের পোল এবং কংক্রিট পোলের তুলনামূলক সুবিধা অসুবিধা | 11:10 | [Watch](https://youtu.be/jg6mPN7fAGA) |
-| 261 | করোনার লসের ফলে লাইনে কী কী প্রতিক্রিয়া ঘটে, তা আলোচনা | 7:14 | [Watch](https://youtu.be/dE9IPvNnKc0) |
-| 262 | স্ট্রিং দক্ষতা | 6:20 | [Watch](https://youtu.be/XBJ1NH37XSU) |
-| 263 | রেঞ্জিং রড | 5:08 | [Watch](https://youtu.be/1Qs8Oe-Pj04) |
-| 264 | ডায়নামোমিটারের সাহায্যে স্যাগ মাপা | 4:22 | [Watch](https://youtu.be/Iz8ttAZNKBk) |
-| 265 | পোর্সিলিন বা চীনামাটি | 7:23 | [Watch](https://youtu.be/CliLukUmyeo) |
-| 266 | কাঠের পোলের দৈর্ঘ্য | 3:08 | [Watch](https://youtu.be/JCPdW3yeWNU) |
-| 267 | কেলভিনের ইকোনমিক সূত্রের গাণিতিক প্রমাণ | 11:07 | [Watch](https://youtu.be/Sr8pfyZhmtc) |
-| 268 | বাংলাদেশে বিদ্যুৎ পরিবহন ও বিতরন ব্যবস্থায় ব্যবহৃত স্ট্যান্ডার্ড ভোল্টেজের মান নির্ণয় | 6:13 | [Watch](https://youtu.be/tqVea2GCe8Q) |
-| 269 | কাঁচি পদ্ধতি | 7:21 | [Watch](https://youtu.be/NftOzrk5_Vs\) |
-| 270 | 30km দীর্ঘ একটি (3-𝜱) transmission লাইনে… ……….  প্রত্যেক তারের capacitance নির্ণয় কর। | 4:10 | [Watch](https://youtu.be/CcaBvRmko-Y) |
-| 271 | লাইন কন্ডাক্টর রেজিস্ট্যান্স | 3:13 | [Watch](https://youtu.be/SMnp-NmCrVw) |
-| 272 | দেখাও যে   উচ্চ ভোল্টেজে ট্রান্সমিশন লাইনের দক্ষতা বৃদ্ধি পায়: | 7:11 | [Watch](https://youtu.be/IXgv1lIlW94) |
-| 273 | ইনসুলেশন রেজিস্ট্যান্স নির্ণয় এর  গাণিতিক সমাধান | 9:28 | [Watch](https://youtu.be/3KphAtL2MzY) |
-| 274 | Multicore Cable এর চার্জিং কারেন্ট নির্ণয়ের গাণিতিক সমাধান | 5:13 | [Watch](https://youtu.be/i94z3dPSZTM) |
-| 275 | অপারেটিং ভোল্টেজ কত? এর গাণিতিক সমাধান | 3:34 | [Watch](https://youtu.be/O6qrjYVO58c) |
-| 276 | একটি এক ফেজ এসি ডিস্ট্রিবিউটরের গাণিতিক সমাধান | 15:19 | [Watch](https://youtu.be/tTe7lUwEERQ) |
-| 277 | এন্ড কনডেন্সার পদ্ধতির মাধ্যমে গাণিতিক সমাধান | 24:09 | [Watch](https://youtu.be/EtF406CtObw) |
-| 278 | Murray Loop test | 13:28 | [Watch](https://youtu.be/GTj7ngO0KKs) |
-| 279 | Suspension tyA Insulator (প্রমাণ) | 12:20 | [Watch](https://youtu.be/VXzFqpp-m2I) |
-| 280 | SAG গাণিতিক সমাধান 2 | 23:23 | [Watch](https://youtu.be/9Afz5gtkidI) |
-| 281 | Most economical power factor | 23:08 | [Watch](https://youtu.be/TeeH1e5yUAc) |
-| 282 | Distribution Fed from both sides Example 02 | 22:28 | [Watch](https://youtu.be/3DCDiK_9Z04) |
-| 283 | 33KV লাইন থেকে কনজুমার পর্যন্ত কী কী লস হয়, লোড শেডিং কী | 7:19 | [Watch](https://youtu.be/fEFVWwgdm4E) |
-| 284 | মারি লুপ টেস্টের সাহায্যে শর্ট সার্কিট ফল্ট নির্ণয় | 12:24 | [Watch](https://youtu.be/88YI5dTphSU) |
-| 285 | VR দিয়ে ইনসুলেটিং পদ্ধতি | 4:10 | [Watch](https://youtu.be/2OEXesKgV78) |
-| 286 | গ্রিড সিস্টেমে বিদ্যুৎ কেন্দ্রের বেস লো ও পিক লোড ব্যবস্থাপনা | 11:00 | [Watch](https://youtu.be/PR_5tZ1vjPY) |
-| 287 | এসি ডিস্ট্রিবিউশন | 7:23 | [Watch](https://youtu.be/ZQDlbEiHqQg) |
-| 288 | ভারবি লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 15:07 | [Watch](https://youtu.be/VvRfbgjYEa0) |
-| 289 | বাংলাদেশে প্রতিশ্রুতিশীল স্মার্ট গ্রিড সিস্টেমের তালিকা | 6:05 | [Watch](https://youtu.be/K7vlyndJyqA) |
-| 290 | সাবস্টেশন সরঞ্জামে পাওয়ার বিতরণ | 10:20 | [Watch](https://youtu.be/yye2n2ivFVc) |
-| 291 | একটি তিন ফেজ 66 কেভি...থাকলে চার্জিং কারেন্ট নির্ণয় | 7:08 | [Watch](https://youtu.be/x5Dq3WTW9s0) |
-| 292 | একটি সিঙ্গেল কোর ক্যাবলের সর্ব্বোচ্চ এবং সর্বনিম্ন...এদের অপারেটিং ভোল্টেজ নির্ণয় | 7:35 | [Watch](https://youtu.be/cKfn9DPafdw?si=xlQ04rkB6bc7hJ5W) |
-| 293 | এলটি Indoor/Outdoor টার্মিনেশন | 10:15 | [Watch](https://youtu.be/QXacJIgz5m0?si=KOAOm3bzJ63wXeaT) |
-| 294 | একটি ক্যাবলের সাধারণ গঠন | 5:32 | [Watch](https://youtu.be/CIyovtTiblI?si=b15mYqjcGWBAzJnq) |
-| 295 | নিচের চিত্রে একটি সিঙ্গেল ফেজ এসি...প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় | 26:08 | [Watch](https://youtu.be/u2j2AGGkofY?si=5h-DbT3XS7k_s1FE) |
-| 296 | Part - 2 সমহারে লোডেড ডিস্ট্রিবিউটর | 8:17 | [Watch](https://youtu.be/9XHIzbR1KdM?si=Vs-s5VMVqjWAGzUB) |
-| 297 | উচ্চ ভোল্টেজ ডিসি ট্রান্সমিশন এর সুবিধা ও অসুবিধা | 15:26 | [Watch](https://youtu.be/w3-vNyA7K5g?si=YAPVMlEugP2hynOb) |
-| 298 | গ্রহণ প্রান্তে ট্রান্সমিশন লাইনের সিরিজ ইম্পিড্যান্স | 14:26 | [Watch](https://youtu.be/A8uFjtAbx1s?si=Ee7ed4o9Fwmj150B) |
-| 299 | মধ্যম ট্রান্সমিশন লাইনের নমিনাল T পদ্ধতি ও ফেজর ডায়াগ্রাম | 21:31 | [Watch](https://youtu.be/C805_b7DQQg) |
-| 300 | স্বল্পদৈর্ঘ্যের ট্রান্সমিশন লাইনে ক্যাপাসিট্যান্স প্রতিক্রিয়া উপেক্ষা করা হয় কেন | 3:20 | [Watch](https://youtu.be/rhphXO1q68o) |
-| 301 | চার্জযুক্ত একগুচ্ছ পরিবাহীর মধ্যস্থ একটি পরিবাহীর পটেনশিয়াল নির্ণয়ের সমীকরণ দেখাও | 22:32 | [Watch](https://youtu.be/ZS1gywxPud0) |
-| 302 | সেলফ জিএমডি ব্যবহার করি কখন | 3:21 | [Watch](https://youtu.be/pF0Va1MtBok) |
-| 303 | ট্রান্সমিশন লাইন কনস্ট্যান্ট | 5:06 | [Watch](https://youtu.be/SmB5CSKmojE?si=jPmBwI-1H-gP5XnZ) |
-| 304 | প্রক্সিমিটি ইফেক্ট | 8:24 | [Watch](https://youtu.be/Ip-2dQt2gME?si=Up6B1EdrWa8f5pmE) |
-| 305 | লাইন পরিবাহীর রেজিস্ট্যান্স নিরূপণের সমীকরণ নির্ণয় | 9:05 | [Watch](https://youtu.be/dKMw-gJjc40?si=0s5xo1_-KbMUZ9_B) |
-| 306 | পোলের গর্ত খনন পদ্ধতি | 5:14 | [Watch](https://youtu.be/KFcYYYBGkEE) |
-| 307 | ওভারহেড ট্রান্সমিশন লাইনের করোনা ইফেক্টকে প্রভাবিত করার ফ্যাক্টরসমূহ | 6:26 | [Watch](https://youtu.be/yRYK4K1ciio) |
-| 308 | স্ট্রিং দক্ষতা কম বা বেশি হলে কী হয় | 4:29 | [Watch](https://youtu.be/ApeHym3yXrs) |
-| 309 | ওলন, রেঞ্জিং রড | 7:29 | [Watch](https://youtu.be/hl1OvNRVh3k) |
-| 310 | তরঙ্গের সময় মেপে স্যাগ মাপা | 5:01 | [Watch](https://youtu.be/1yVcbMx83-U) |
-| 311 | গ্লাস | 5:08 | [Watch](https://youtu.be/mx08WGsPJFs) |
-| 312 | কাঠের পোলকে ট্রিটমেন্ট করার জন্য কী ব্যবহৃত হয় | 11:29 | [Watch](https://youtu.be/0MZ00IzfYyY) |
-| 313 | কেলভিন‘স `ল‘ তে ইনসুলেশন খরচের প্রভাব | 6:00 | [Watch](https://youtu.be/oP2Clg09Ebs) |
-| 314 | বাংলাদেশের সর্বোচ্চ ট্রান্সমিশন ভোল্টেজ নির্ণয় | 11:04 | [Watch](https://youtu.be/vAEBu9uCTNs) |
-| 315 | স্টে অথবা গাই ওয়্যার স্থাপন | 13:13 | [Watch](https://youtu.be/uJ-APX6hVJ0) |
-| 316 | ফ্যারান্টি ইফেক্টের ধারণা | 7:04 | [Watch](https://youtu.be/JmvnspujwSA) |
-| 317 | In Temperature effect(প্রমাণ) | 7:14 | [Watch](https://youtu.be/9g7n_BGRUXc) |
-| 318 | ডিসি ৩ তার এবং এসি ৩ ফেজ ৩ তারের মধ্যে তুলনা | 16:22 | [Watch](https://youtu.be/qkXW98beT7s) |
-| 319 | প্রতিটি মেইন ও আর্থের মধ্যে ইনসুলেশন রেজিস্ট্যান্স নির্ণয় | 8:05 | [Watch](https://youtu.be/EfEqRFofbVY) |
-| 320 | এক কিলোমিটার দীর্ঘ একটি এক ফেজ এসি ডিস্ট্রিবিউটরের প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় এর গাণিতিক সমাধান | 20:14 | [Watch](https://youtu.be/4vlDQugeOuA) |
-| 321 | Nominal T Method | 21:16 | [Watch](https://youtu.be/vB_t0STPGFk) |
-| 322 | Varley loop test | 9:19 | [Watch](https://youtu.be/MHSYPO1xrEc) |
-| 323 | ট্রান্সমিশন গাণিতিক সমাধান 1 | 18:31 | [Watch](https://youtu.be/c33qTGPu5cc) |
-| 324 | Distribution Fed from both sides Example 02 Second Part | 10:12 | [Watch](https://youtu.be/XL4Hx-Qvtpc) |
-| 325 | ট্রান্সমিশন লাইনে আর্থ তারের কাজ কী,ডিস্ট্রিবিউশন লাইনে সাধারণত কী কী ত্রুটি থাকে | 7:23 | [Watch](https://youtu.be/gvvRhWsDTVw) |
-| 326 | ভারলি  লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 14:16 | [Watch](https://youtu.be/769ggSH51h8) |
-| 327 | XLPE ক্যাবল | 10:35 | [Watch](https://youtu.be/9987Myt4HfQ) |
-| 328 | গ্রিড সিস্টেমের প্রকারভেদ | 7:14 | [Watch](https://youtu.be/1G-5W2Yy7yw) |
-| 329 | ডিস্ট্রিবিউশন লাইনের ভোল্টেজ রেটিংগুলো কত | 2:16 | [Watch](https://youtu.be/U4LKGWAvIZk) |
-| 330 | ভারবি লুপ টেস্টের সাহায্যে শর্ট সার্কিট ফল্ট নির্ণয় | 12:08 | [Watch](https://youtu.be/sV6R61KXL0s) |
-| 331 | ডিসি সরবরাহের জন্য মনিটরিং সিস্টেম বাস্তবায়ন | 10:27 | [Watch](https://youtu.be/AtTLcpfiCR8) |
-| 332 | ক্যাবলের গ্রেডিং (Grading of cables) | 6:13 | [Watch](https://youtu.be/Sq0AU4m_1pI?si=B_jinkDoZAdtKIYM) |
-| 333 | একটি সিঙ্গেল কোর ক্যাবলের সর্ব্বোচ্চ...ইনসুলেশন পুরুত্ব এবং অপারেটিং ভোল্টেজ নির্ণয় | 11:00 | [Watch](https://youtu.be/OooxOctrE_s?si=BunuBVDrCJzArIeo) |
-| 334 | হিট শ্রিঙ্ক টাইপ এবং কোল্ড শ্রিঙ্ক টাইপ ক্যাবল জয়েন্টিং | 7:16 | [Watch](https://youtu.be/mnMUSDw91tA?si=LFpnZxWsYJ1Di9h2) |
-| 335 | আন্ডারগ্রাউন্ড ক্যাবল | 14:16 | [Watch](https://youtu.be/0Dnb3qiltvY?si=LLNmtH8ciaUMh_dw) |
-| 336 | Part - 1 এক কিলোমিটার দীর্ঘ সিঙ্গেল ফেজ AC...প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় | 15:15 | [Watch](https://youtu.be/AXWa51PBjQI?si=SMprMpkkhCTziSAD) |
-| 337 | রিং ডিস্ট্রিবিউটর | 9:23 | [Watch](https://youtu.be/qW0VxLubFZU?si=2DvhQkodVDMmZ4OU) |
-| 338 | HVDC লিংকের প্রকারভেদ | 16:29 | [Watch](https://youtu.be/9-tBJoyovbk?si=x9IPW1bLC4raoIgZ) |
-| 339 | মধ্যম ট্রান্সমিশন লাইনের নমিনাল π পদ্ধতি ও ফেজর ডায়াগ্রাম | 19:10 | [Watch](https://youtu.be/fYD7dRcEh9I) |
-| 340 | স্বল্পদৈর্ঘ্য ওভারহেড পরিবহন লাইনের দক্ষতা হিসাবের সমীকরণ | 6:07 | [Watch](https://youtu.be/4wZ4owJ9og8) |
-| 341 | সিঙ্গেল ফেজ ওভারহেড লাইনের ক্যাপাসিট্যান্স নির্ণয়ের সমীকরণ | 18:24 | [Watch](https://youtu.be/zjygnJKTCiw) |
-| 342 | বান্ডিল কন্ডাক্টরের সুবিধাসমূহ | 7:07 | [Watch](https://youtu.be/CNAWK2zoDOo) |
-| 343 | অভ্যন্তরীণ এবং বহিঃস্থ ফ্লাক্সের কারণে একটি কন্ডাক্টরের ফ্লাক্সের লিংকেজ | 3:26 | [Watch](https://youtu.be/r_xOmNWTklU?si=IjtkUuYOanx2P3YC) |
-| 344 | প্রক্সিমিটি ইফেক্ট প্রক্সিমিটি ইফেক্টের জন্য বিবেচ্য ফ্যাক্টর | 6:33 | [Watch](https://youtu.be/SUKHoN9rlGA?si=fDXTymbMIdadscKY) |
-| 345 | তারটির রোধ 1.7 ওহম হলে প্রস্থচ্ছেদ নির্ণয় | 3:17 | [Watch](https://youtu.be/1o0XF8hytZ8?si=uI43sSKdNI_RiTJ0) |
-| 346 | ডেরিক পোল পদ্ধতিতে কীভাবে পোল তোলা হয় | 9:31 | [Watch](https://youtu.be/ANO9cSlCN7o) |
-| 347 | কন্ডাকটর সাইজ বৃদ্ধি করলে করোনা ইফেক্ট কমে কেন, আলোচনা | 4:19 | [Watch](https://youtu.be/HWOVG13RRl4) |
-| 348 | স্ট্রিং দক্ষতা বাড়াতে হলে  কি করতে হবে | 7:19 | [Watch](https://youtu.be/jBa_NZ9HpHg) |
-| 349 | টেপ ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 11:01 | [Watch](https://youtu.be/JeIm_l0_6io) |
-| 350 | ওভারহেড লাইনে স্যাগের গুরুত্ব | 8:13 | [Watch](https://youtu.be/63UPEKsxNCM) |
-| 351 | গ্লাস ইনসুলেটরের গুণাবলি | 6:13 | [Watch](https://youtu.be/Zsf5ay5ndcg) |
-| 352 | কাঠের পোলের অসুবিধা | 9:23 | [Watch](https://youtu.be/DUoi1hx8wKg) |
-| 353 | পরিবাহীর সাশ্রয়ী সাইজ নির্ণয়ে কেলভিনের সূত্র প্রয়োগের ক্ষেত্রে সীমাবদ্ধতা | 7:29 | [Watch](https://youtu.be/KgA-pY3tz9c) |
-| 354 | বৈদ্যুতিক সিস্টেমের সিঙ্গেল লাইন ডায়াগ্রাম | 11:35 | [Watch](https://youtu.be/QyUdr-7rKto) |
-| 355 | স্টিলের পোল এবং কংক্রিট পোলের তুলনামূলক সুবিধা অসুবিধা | 6:08 | [Watch](https://youtu.be/cbVsuhq5uqs) |
-| 356 | একটি   (3-𝜱) ট্রান্সমশন লাইনের ………….লাইনের প্রতি ফেজে কত রেজিস্ট্যান্স হতে হবে? | 6:14 | [Watch](https://youtu.be/tf6gAYxmcnM) |
-| 357 | ডিসি ২ তার এবং এসি ৩ ফেজ ৩ তারের মধ্যে তুলনা | 17:28 | [Watch](https://youtu.be/yxtKZL69Iyg) |
-| 358 | প্রতিটি কোর ও আর্থের মধ্যে ভোল্টেজ কত হবে ? | 13:34 | [Watch](https://youtu.be/c_rt0U-mvk0) |
-| 359 | ত্রিভুজ আকৃতির  ডিস্ট্রিবিউটরের কারেন্ট নির্ণয় | 22:31 | [Watch](https://youtu.be/-L-LsDCyQP8) |
-| 360 | নোমিনাল টি-পদ্ধতির মাধ্যমে গাণিতিক সমাধান | 25:25 | [Watch](https://youtu.be/xt5G7DOCd18) |
-| 361 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 1 | 20:19 | [Watch](https://youtu.be/V1mWA4msAm4) |
-| 362 | ট্রান্সমিশন গাণিতিক সমাধান 2 | 8:25 | [Watch](https://youtu.be/95BZoIh_gR0) |
-| 363 | Distribution Fed from both sides Example 03 | 23:22 | [Watch](https://youtu.be/EGwzBOhoWDc) |
-| 364 | ডিস্ট্রিবিউশন লাইনে রুটিন ইনস্পেকশন করার উদ্দেশ্য | 4:15 | [Watch](https://youtu.be/x5ztRBwm_88) |
-| 365 | চিত্রসহ ভারলি লুপ টেস্টের সাহায্যে শর্ট সার্কিট ফল্ট নির্ণয়ের পদ্ধতি আলোচনা কর | 9:34 | [Watch](https://youtu.be/cQr2_i9qevw) |
-| 366 | ক্যাবলের ইনসুলেটিং ম্যাটেরিয়ালের গুণাবলি | 13:07 | [Watch](https://youtu.be/SbEwe99z5-Q) |
-| 367 | রেডিয়াল গ্রিড সিস্টেম | 5:19 | [Watch](https://youtu.be/-6nzjN3Z9o4) |
-| 368 | এসি এবং ডিসি ডিস্ট্রিবিউশন তুলনা | 14:11 | [Watch](https://youtu.be/nYRgt8I-yBo) |
-| 369 | ব্যাটারি এবং চার্জারের রক্ষণাবেক্ষণ পদ্ধতি | 12:08 | [Watch](https://youtu.be/VUBTsSKh4YM) |
-| 370 | একটি 500 মিটার দৈর্ঘ্যের ফিডার ক্যাবলের...ফল্ট রেজিস্ট্যান্স নির্ণয় | 15:31 | [Watch](https://youtu.be/1vNhY8Fc6zw) |
-| 371 | ক্যাপাসিট্যান্স গ্রেডিং (Capacitance grading) | 7:26 | [Watch](https://youtu.be/4QafGUFAsOU?si=x_7xax9yJhXsJwN6) |
-| 372 | তিন-কোর ক্যাবলের ইনসুলেশন রেজিস্ট্যান্স | 3:32 | [Watch](https://youtu.be/dvWmP14QKhU?si=DkRzCR2xeddnWbGI) |
-| 373 | লো-ভোল্টেজ ক্যাবল এর গঠনপ্রণালি | 10:10 | [Watch](https://youtu.be/SM_eFo3nofk?si=DaSv6HCTJLSJRFH3) |
-| 374 | এক কিলোমিটার দীর্ঘ সিঙ্গেল ফেজ AC...প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় | 7:20 | [Watch](https://youtu.be/7CECTLXZnG0?si=r6vxbHrlwXUC3dri) |
-| 375 | Part - 1 চিত্র রিং ডিস্ট্রিবিউটরের প্রতি তারের...এবং ঐ বিন্দুর তারের ভোল্টেজ নির্ণয় | 15:19 | [Watch](https://youtu.be/MVwLKULuC-o?si=bBAdZR1YUadzYyTU) |
-| 376 | Part - 1 একটি 3 Φ উচ্চ ভোল্টেজ ট্রান্সমিশন লাইনের রেজিস্ট্যান্স...ভোল্টেজ ও কারেন্ট নির্ণয় | 12:25 | [Watch](https://youtu.be/ab5TtxpkyAM?si=oan-XauLXVl5zxUj) |
-| 377 | একটি 100 কিলোমিটার দীর্ঘ 132 কে ভি 3 ফেজ...প্রেরক প্রান্তের ভেল্টেজ ও পাওয়ার ফ্যাক্টর নির্ণয় | 30:04 | [Watch](https://youtu.be/esRa4NBlrew) |
-| 378 | স্বল্পদৈর্ঘ্য ওভারহেড লাইনের সার্কিট ও ভেক্টর ডায়াগ্রাম অঙ্কন | 6:11 | [Watch](https://youtu.be/TszVJTwWsfE) |
-| 379 | তিন ফেজ ওভারহেড লাইনের ক্যাপাসিট্যান্স নির্ণয় | 19:17 | [Watch](https://youtu.be/GVu4M1lx-j8) |
-| 380 | একক কারেন্টবাহী কন্ডাক্টরে ফ্লাক্স লিংকেজ | 3:13 | [Watch](https://youtu.be/-lp5PLSgyvY?si=C46b0GjgebdljmJk) |
-| 381 | প্রক্সিমিটি ইফেক্ট  কমানোর উপায়সমূহ | 8:22 | [Watch](https://youtu.be/wHR2RENhMec?si=v5UfB2ZxozPENA8r) |
-| 382 | একটি তিন ফেজ ট্রান্সমিশন লাইনের প্রতি   পাওয়ার ফ্যাক্টরে কত দূরত্বে 10MW পাওয়ার প্রেরণ করা যাবে | 13:27 | [Watch](https://youtu.be/vlSx8JiH9KU?si=GgRPEz_-02pWaAAR) |
-| 383 | গিন পোল পদ্ধতিতে কীভাবে পোল গর্তে স্থাপন করা হয় | 7:07 | [Watch](https://youtu.be/i_W8DUcSka0) |
-| 384 | আবহাওয়ামণ্ডল এবং কন্ডাক্টর সাইজ কীভাবে করোনাকে প্রভাবিত করে, তা আলোচনা | 6:05 | [Watch](https://youtu.be/PD3HuRTgaC8) |
-| 385 | স্ট্রিং দক্ষতা উন্নয়নের পদ্ধতিসমূহ | 11:34 | [Watch](https://youtu.be/CzoUhFZ__RM) |
-| 386 | মেজারিং টেপের পরম দৈর্ঘ্যের জন্য সংষোধনী প্রক্রিয়া বর্ণনা | 10:11 | [Watch](https://youtu.be/9sljGaPTlpM) |
-| 387 | স্যাগ এর উপর প্রভাব বিস্তারকারী বিষয়সমূহ | 12:20 | [Watch](https://youtu.be/fwCtVOdI8P0) |
-| 388 | স্টিয়েটাইট | 4:10 | [Watch](https://youtu.be/CJtMgcuJYDk) |
-| 389 | কপার কন্ডাকটর | 6:21 | [Watch](https://youtu.be/ImwYP4UeX2g) |
-| 390 | স্টিলের পোল | 4:19 | [Watch](https://youtu.be/h1mJkD-1nlM) |
-| 391 | 132kV / 11kV Outdoor Substation | 17:23 | [Watch](https://youtu.be/qTtttz8Ayew) |
-| 392 | সেকেন্ডারি ড্রিস্ট্রিবিউশন | 6:29 | [Watch](https://youtu.be/ALxDQRX62Lk) |
-| 393 | ট্রান্সমিশন সিস্টেমের সাশ্রয়ী ভোল্টেজ নির্বাচন | 13:31 | [Watch](https://youtu.be/xl7I4XwZqcQ) |
-| 394 | যদি নেগেটিভ ও আর্থ তার পরস্পর যুক্ত থাকে, তবে ক্যাবলটির ইনসুলেশন রেজিস্ট্যান্স নির্ণয় | 11:22 | [Watch](https://youtu.be/Sz6iuVPHJgw) |
-| 395 | রিং ডিস্ট্রিবিউটরের কারেন্ট নির্ণয় | 21:03 | [Watch](https://youtu.be/rwRSlNuHE4g) |
-| 396 | নোমিনাল পাই মেথড | 13:05 | [Watch](https://youtu.be/FXTQYAIfAF0) |
-| 397 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 2 | 21:31 | [Watch](https://youtu.be/NTblrk4TLLY) |
-| 398 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 1 | 15:24 | [Watch](https://youtu.be/52S4IOVM5HA) |
-| 399 | মারি ও ভারলি লুপ টেস্টের মধ্যে পার্থক্য | 5:01 | [Watch](https://youtu.be/XtXSRX6BrWo) |
-| 400 | লো, হাই এবং সুপার হাই ভোল্টেজের ক্ষেত্রে অ্যান্ডারগ্রাউনই ক্যাবলের গঠনগত বৈশিষ্ট্য | 7:30 | [Watch](https://youtu.be/ldPhxijHwjY) |
-| 401 | রিং গ্রিড সিস্টেম | 2:27 | [Watch](https://youtu.be/E1RmgzA4PU4) |
-| 402 | ওভারহেড এবং আন্ডারগ্রাউন্ড ডিস্ট্রিবিউশন পদ্ধতির তুলনা | 3:11 | [Watch](https://youtu.be/ieWUQylISaw) |
-| 403 | ইন্টারকানেক্টেড ও এসি ইন্টারকানেক্টেড সিস্টেম | 14:34 | [Watch](https://youtu.be/rhks3dIswLY) |
-| 404 | একটি 1000 মিটার ক্যাবলের রেজিস্ট্যান্স...হতে ফল্টের দূরত্ব নির্ণয় | 8:08 | [Watch](https://youtu.be/EpfB7X6CHRY) |
-| 405 | একটি এক কোর ক্যাবল কন্ডাক্টর ব্যাস 2cm...ইন্টারশিথের ভোল্টেজ নির্ণয় | 21:08 | [Watch](https://youtu.be/lAuCiv7zdjg?si=iJGUZdkapNJEoVGd) |
-| 406 | একটি তিন কোরবিশিষ্ট বেলটেড ক্যাবলের গঠনপ্রণালি | 6:20 | [Watch](https://youtu.be/bSjhx5dX2pE?si=vz8YV8yc1_5He2Sh) |
-| 407 | Part - 2 চিত্র রিং ডিস্ট্রিবিউটরের প্রতি তারের... এবং ঐ বিন্দুর তারের ভোল্টেজ নির্ণয় | 6:19 | [Watch](https://youtu.be/KM87GCYLB4c?si=UocxBxRivyczLQAN) |
-| 408 | Part - 2 একটি 3 Φ উচ্চ ভোল্টেজ ট্রান্সমিশন লাইনের রেজিস্ট্যান্স...ভোল্টেজ ও কারেন্ট নির্ণয় | 7:34 | [Watch](https://youtu.be/4rgVagjC2gM?si=QKAa_ylP2oDWwVsv) |
-| 409 | একটি 100Km 3ϕ পরিবহন লাইন 132 Kv...পরিবহন লাইনের ভোল্টেজ রেগুলেশন ও দক্ষতা নির্ণয় | 20:34 | [Watch](https://youtu.be/B2mPYGIDVUU) |
-| 410 | স্বল্পদৈর্ঘ্য ওভারহেড ট্রান্সমিশন  লাইনের   ও দক্ষতার উপর লোড পাওয়ার ফ্যাক্টরের প্রভাব | 6:28 | [Watch](https://youtu.be/-CMsWSsIrfE) |
-| 411 | দুই তারের মধ্যে বিরাজমান ক্যাপাসিট্যান্সের তুলনায় এক তারের ক্যাপাসিট্যান্স কত গুণ হয় ও কেন | 5:05 | [Watch](https://youtu.be/fGNIqyVqlU0) |
-| 412 | অভ্যন্তরীণ ফ্লাক্সের কারণে একটি কন্ডাক্টরে ফ্লাক্স লিংকেজ | 26:10 | [Watch](https://youtu.be/jZs2DT7K1t0) |
-| 413 | 0.8 পাওয়ার ফ্যাক্টরে কত দূরত্বে 15MW পাওয়ার প্রেরণ   প্রান্তের ভোল্টেজ 132kV এবং লাইন অপচয় 5% | 9:30 | [Watch](https://youtu.be/do5ptQVxbW0?si=rC2XDOHjy6t_WKZF) |
-| 414 | পোল তোলার কাঁচি পদ্ধতি | 5:17 | [Watch](https://youtu.be/A-OBt-zXWn0) |
-| 415 | করোনার সুবিধাসমূহ | 5:01 | [Watch](https://youtu.be/g0R5zyaCkYM) |
-| 416 | স্ট্রিং ইফিসিয়েন্সি উন্নয়নের প্রয়োজন | 4:29 | [Watch](https://youtu.be/nukXsfAsEL8) |
-| 417 | তাপমাত্রার জন্য সংশোধনী প্রক্রিয়া বর্ণনা | 4:24 | [Watch](https://youtu.be/GB7O1P_j0aA%E0%A7%8E) |
-| 418 | স্প্যান | 7:08 | [Watch](https://youtu.be/-C8cXqkj5Go) |
-| 419 | স্টিয়েটাইট ইনসুলেটরের গুণাগুণ | 4:04 | [Watch](https://youtu.be/6irtPiweYl0) |
-| 420 | অ্যালুমিনিয়াম কন্ডাকটর | 6:02 | [Watch](https://youtu.be/ZaM1HEqY3QI?si=RfZ1NCStghKPPskc) |
-| 421 | স্টিলের টিউবুলার কত প্রকার ও কী কী | 6:33 | [Watch](https://youtu.be/DALehetqFxs) |
-| 422 | সিস্টেম লস | 11:07 | [Watch](https://youtu.be/KXRNpP-0I1g) |
-| 423 | ট্রান্সমিশন এবং ডিস্ট্রিবিউশন সিস্টেমের শ্রেণিবিন্যাস | 8:18 | [Watch](https://youtu.be/BWC7CZ_Qpjk) |
-| 424 | ডিসি ৩ তার এবং এসি ৩ ফেজ ৪ তারের মধ্যে তুলনা | 19:24 | [Watch](https://youtu.be/UPOMunwkjK0) |
-| 425 | একটি তিন ফেজ, চার তার ব্যালেন্স ডিস্ট্রিবিউটরের সাপ্লাই ভোল্টেজ নির্ণয়ের | 18:28 | [Watch](https://youtu.be/p3PNX8AijP0) |
-| 426 | নোমিনাল পাই-পদ্ধতির মাধ্যমে গাণিতক সমাধান | 17:29 | [Watch](https://youtu.be/hDYRI7eMNvI) |
-| 427 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 3 | 11:34 | [Watch](https://youtu.be/TAccKebFRSU) |
-| 428 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 2 | 14:02 | [Watch](https://youtu.be/X-1RqtxIaLE) |
-| 429 | আন্ডারগ্রাউন্ড ক্যাবল স্থাপন এবং জয়েন্টিং | 5:10 | [Watch](https://youtu.be/EJX9eDpoECc) |
-| 430 | আন্তঃসংযোগ গ্রিড সিস্টেম | 3:19 | [Watch](https://youtu.be/a5qdt8mPTCE) |
-| 431 | ওভারহেড এবং আন্ডারগ্রাউন্ড সিস্টেমের তুলনামূলক পার্থক্য | 18:11 | [Watch](https://youtu.be/xyLKWwynxaE) |
-| 432 | একটি 1-θ রিং ডিস্ট্রিবিউশন PQR এর p...প্রতিটি সেকশনের কারেন্ট বের কর | 11:30 | [Watch](https://youtu.be/DchRNNoQOWM) |
-| 433 | এক্সট্রা হাই-ভোল্টেজ ক্যাবল (66 কেভি পর্যন্ত প্রেসার ক্যাবল) এক কোর  তৈল ভর্তি ক্যাবল | 11:29 | [Watch](https://youtu.be/N_FnsK-ZEAg?si=74HphiNQVK4wn75-) |
-| 434 | একটি দু’তার 600mদীর্ঘ AB ডিস্ট্রিবিউটরের A বিন্দু হতে...সর্বনিম্ন ভোল্টেজ নির্ণয় | 21:32 | [Watch](https://youtu.be/WqtgzCq9i2A?si=QRxPZ1OVNDSexqe5) |
-| 435 | Part - 3 একটি 3 Φ উচ্চ ভোল্টেজ ট্রান্সমিশন লাইনের রেজিস্ট্যান্স...ভোল্টেজ ও কারেন্ট নির্ণয় | 21:07 | [Watch](https://youtu.be/oHYqIoQq9O4?si=18R68_6eGLWZY2vD) |
-| 436 | একটি 3 ফেজ পরিবহন লাইন 66 KV 55 Hz 100...পাওয়ার ফ্যাক্টরে 25 MVA পাওয়ার লোড সরবরাহ কর | 33:13 | [Watch](https://youtu.be/CGHQ9MiJExk) |
-| 437 | ট্রান্সমিশন লাইনের ভোল্টেজ রেগুলেশন এর উপর লোডের পাওয়ার ফ্যাক্টরের প্রভাব | 17:05 | [Watch](https://youtu.be/fsHT0vIprBc) |
-| 438 | তিন ফেজ ওভারহেড লাইনের প্রতিসম ক্যাপাসিট্যান্স নির্ণয়ের সূত্র | 4:01 | [Watch](https://youtu.be/W3CnqgNjwUQ) |
-| 439 | জ্যামিতিক গড় দূরত্ব এবং জ্যামিতিক গড় ব্যাসার্ধের   ট্রান্সমিশন লাইনের ইন্ডাকট্যান্সের সমীকরণ | 12:14 | [Watch](https://youtu.be/yntA0-vRwTk) |
-| 440 | 3.3kV তে সর্বোচ্য কত দূরত্বে 200kW পাওয়ার সরবরাহ করা যেতে পারে | 16:14 | [Watch](https://youtu.be/R-aHu41DOVs?si=Q-etJxob7Hxo7hb6) |
-| 441 | ওভারহেড ট্রান্সমিশন লাইনে টাওয়ার নির্মাণ প্রক্রিয়া | 4:04 | [Watch](https://youtu.be/BcB-8TQPMd8) |
-| 442 | করোনার অসুবিধাসমূহ | 6:19 | [Watch](https://youtu.be/Uw3xFk50qME) |
-| 443 | স্ট্রিং দক্ষতা উন্নয়নের সর্বাধিক প্রচলিত পদাধতির বর্ণনা | 6:12 | [Watch](https://youtu.be/aezhIOGRfig) |
-| 444 | মেজরিং টেপের ক্ষেত্রে ঝুল এবং ঢালের জন্য সংশোধনী প্রক্রিয়া বর্ণনা | 11:05 | [Watch](https://youtu.be/bDxIzzysTYc) |
-| 445 | কন্ডাক্টরের মধ্যে ব্যবধান | 6:26 | [Watch](https://youtu.be/Qsiz3dvdm4k) |
-| 446 | পাইরেক্স | 1:30 | [Watch](https://youtu.be/uwPes2EiVQ4) |
-| 447 | অ্যালুমিনিয়াম কন্ডাকটরের টান সহনক্ষমতা কিভাবে বাড়ানো হয় | 7:07 | [Watch](https://youtu.be/MUSBiA0jo7c) |
-| 448 | স্টিলের পোলের গুণাবলি | 5:23 | [Watch](https://youtu.be/VU2D9fjgTeQ) |
-| 449 | সিস্টেম লস System loss | 5:11 | [Watch](https://youtu.be/D99qzkdgaQ4) |
-| 450 | বৈদ্যুতিক শক্তির ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন পদ্ধতির শ্রেণিবিন্যাস | 19:28 | [Watch](https://youtu.be/KJQCzz6Ejwg) |
-| 451 | কত ভোল্টেজ এবং পাওয়ার ফ্যাক্টর রাখতে হবে এর গাণিতিক সমাধান | 13:28 | [Watch](https://youtu.be/z9dKckRXBak) |
-| 452 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 4 | 8:08 | [Watch](https://youtu.be/Zfs1WoXqQNw) |
-| 453 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 3 | 29:17 | [Watch](https://youtu.be/1WvfBGsYW3I) |
-| 454 | যেকোন এক প্রকার ক্যাবল জয়েন্টের সংক্ষিপ্ত বর্ণনা | 3:19 | [Watch](https://youtu.be/QYmPNe3MiSM) |
-| 455 | ক্যাবল এ আর্মারিং কেন করা হয় | 6:23 | [Watch](https://youtu.be/hV86C3egJMY) |
-| 456 | গ্রিড সিস্টেমের সুবিধা | 16:33 | [Watch](https://youtu.be/PrjHC2Ueh2Y) |
-| 457 | ব্যবহারসহ বিভিন্ন প্রকার ডিসি ডিস্ট্রিবিউশন সিস্টেমের তালিকা | 7:35 | [Watch](https://youtu.be/_dAAmj4skaM) |
-| 458 | ক্যাবলের সাইজ নির্ধারণে বিবেচ্য বিষয়সমূহ | 7:05 | [Watch](https://youtu.be/IxlHEOUdWWI?si=GHebPNeVDV08X3X9) |
-| 459 | চিত্রে প্রদর্শিত রিং ডিস্ট্রিবিউটরের প্রতি তার...সর্বনিম্ন বিন্দু এবং ঐ ভোল্টেজ নির্ণয় | 18:27 | [Watch](https://youtu.be/S2heMtDAjyk?si=dJVcxkeWKry6H1bN) |
-| 460 | Part - 1 একটি 66kV, 3 Φ ওভারহেড লাইনে 0.85...ভোল্টেজ ও কারেন্ট নির্ণয় | 8:30 | [Watch](https://youtu.be/0UhOCVwJjVs?si=cntjyxJUcfZpd_QX) |
-| 461 | একটি 3 ϕ 50 সাইকেল সরবারাহ লাইনের রোধ রিয়্যাকট্যান্স...ভোল্টেজ রেগুলেশন বের কর | 27:15 | [Watch](https://youtu.be/_RVsWUCjkqM) |
-| 462 | একটি তিন ফেজ ওভারহেড ট্রান্সমিশন লাইনে 33kV   হলে লাইনের ভোল্টেজ রেগুলেশন ও দক্ষতার নির্ণয় | 13:02 | [Watch](https://youtu.be/GJxoeHwaPck) |
-| 463 | তিন ফেজ ট্রান্সমিশন লাইনে অসম দূরত্বে অবস্থিত পরিবাহীর ক্যাপাসিট্যান্স নিরূপণ | 29:13 | [Watch](https://youtu.be/AyfOHhKp1XY) |
-| 464 | GMD ও GMR | 5:31 | [Watch](https://youtu.be/cq98EFOLV8A) |
-| 465 | অ্যানেলিং টেম্পারেচার 60°C হলে পরিবাহী পদার্থের রেজিস্ট্যান্স কত | 9:07 | [Watch](https://youtu.be/JGb6JmQPH2U?si=sPiIqVp4WAGGWmB9) |
-| 466 | ইস্পাতের টাওয়ার স্থাপনের জন্য স্টাব সেটিং | 4:15 | [Watch](https://youtu.be/BH0Xku1K-eM) |
-| 467 | ডিসরাপটিভ ক্রিটিক্যাল ভোল্টেজ | 20:19 | [Watch](https://youtu.be/MGFTTKY01P4) |
-| 468 | লম্বা ক্রস আর্ম ব্যবহার করে স্ট্রিং  এর দক্ষতা উন্নয়ন | 5:14 | [Watch](https://youtu.be/Rl1BswJoMmw) |
-| 469 | থিওডোলাইট ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 13:17 | [Watch](https://youtu.be/x4xKmeYQEHk) |
-| 470 | সেফটি ফ্যাক্টর | 6:10 | [Watch](https://youtu.be/rEdLC_I0kUo) |
-| 471 | ইনসুলেটিং উপাদানের গুণাগুণ | 15:03 | [Watch](https://youtu.be/cCutOvK-5uo) |
-| 472 | ACSR ও AAC এর পূর্ণরূপ | 3:25 | [Watch](https://youtu.be/R5sfzfrLSoE) |
-| 473 | কংক্রিটের পোল | 4:07 | [Watch](https://youtu.be/neDBqbFpHr4) |
-| 474 | বিদ্যুৎ পরিবহন ও বিতরণ কাজে যন্ত্রপাতির অপচয় | 11:02 | [Watch](https://youtu.be/HHduyjyQZZU) |
-| 475 | ফিডার এবং ডিস্ট্রিবিউটর | 9:06 | [Watch](https://youtu.be/-c7vm9ZhoPA) |
-| 476 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 4 | 27:14 | [Watch](https://youtu.be/LohPMZhIDtU) |
-| 477 | স্ট্রেইট থ্রু জয়েন্ট | 3:04 | [Watch](https://youtu.be/XwQlMu5ZGgc) |
-| 478 | পিভিসি টাইপ ইনসুলেটিং | 2:23 | [Watch](https://youtu.be/buOzTJ51Fro) |
-| 479 | ইন্টারকানেক্টেড সিস্টেম | 3:01 | [Watch](https://youtu.be/jJH00zD1Is4) |
-| 480 | বিভিন্ন প্রকার ডিস্ট্রিবিউটরের তালিকা | 7:22 | [Watch](https://youtu.be/FpWfMKXGgvE) |
-| 481 | এরিয়াল ক্যাবল ও সাবমেরিন ক্যাবল | 7:13 | [Watch](https://youtu.be/J2HiDUS6XVk?si=X7wsmy0OScmwObKD) |
-| 482 | একটি দুই তার বিশিষ্ট 300 m দীর্ঘ রিং ডিস্ট্রিবিউটরের A...B ও C বিন্দুতে ভোল্টেজ নির্ণয় | 13:29 | [Watch](https://youtu.be/TlopSsqe6pM?si=Vg7rh6t87Dc9bY8o) |
-| 483 | Part - 2 একটি 66kV, 3 Φ ওভারহেড লাইনে 0.85...ভোল্টেজ ও কারেন্ট নির্ণয় | 2:15 | [Watch](https://youtu.be/XKfynOE_ll8?si=sV8cufsoEgDeMQUo) |
-| 484 | প্রতিটি পরিবাহীর রোধ ও রিয়্যাকট্যান্স যথাক্রমে 6Ω   প্রেরণ প্রন্তের ভোল্টেজ নির্ণয় | 19:21 | [Watch](https://youtu.be/L4PD2K9nkQA) |
-| 485 | 6km দীর্ঘ একটি তিন ফেজ, 33kV  পরিবাহীর ব্যাস 3 সেন্টিমিটার হলে লাইনের চার্জিং কারেন্ট নির্ণয় | 12:08 | [Watch](https://youtu.be/esrS3t5iCSo) |
-| 486 | সিঙ্গেল ফেজ লাইনের লুপ  ইন্ডাকট্যান্সের সূত্র | 7:01 | [Watch](https://youtu.be/TEE7dT4GLbg) |
-| 487 | পিস মিল পদ্ধতিতে টাওয়ার নির্মাণ কৌশল | 5:06 | [Watch](https://youtu.be/bA_OlMXSu0c) |
-| 488 | ভিজুয়াল ক্রিটিক্যাল ভোল্টেজ | 10:05 | [Watch](https://youtu.be/_B2tf6B1qPA) |
-| 489 | ইনসুলেটর গ্রেডিং এর মাধ্যমে স্ট্রিং এর দক্ষতা উন্নয়ন | 5:20 | [Watch](https://youtu.be/FFA7zHfaD58) |
-| 490 | ডাম্পি লেভেল ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 8:25 | [Watch](https://youtu.be/7icC2QLXjfY) |
-| 491 | ওয়ার্কিং স্ট্রেস, ব্রেকিং টেনশন, ওয়াকিং টেনশন | 9:01 | [Watch](https://youtu.be/a4eMDbgsj80) |
-| 492 | পিন ও সাসপেনশন টাইপ ইনসুলেটরের বর্ণনা | 5:22 | [Watch](https://youtu.be/AUqISDwFjCY) |
-| 493 | Part- 1 গ্যালভানাইজড স্টিল কন্ডাক্টর | 5:13 | [Watch](https://youtu.be/U5z_TO0-4UU) |
-| 494 | কোন ধরনের লাইনে কংক্রিটের পোল ব্যবহত হয়, কোন ধরনের পোলের যান্ত্রিক শক্তি বেশি | 7:04 | [Watch](https://youtu.be/1jh8zC3ffk4) |
-| 495 | সিস্টেম লসের কারণসমূহ | 8:35 | [Watch](https://youtu.be/Wq3-347ANps) |
-| 496 | ফিডার এবং ডিস্ট্রিবিউটরের তুলনা | 11:22 | [Watch](https://youtu.be/CmGUXeKeHhA) |
-| 497 | ঠান্ডা সংকোচন জয়েন্ট | 3:00 | [Watch](https://youtu.be/N7MZejJHk-s) |
-| 498 | হাই ভোল্টেজ ক্যাবল 11 কেভি পর্যন্ত, বেটেড ক্যাবল এর গঠনপ্রণালি | 6:01 | [Watch](https://youtu.be/I53IFzcv_I0) |
-| 499 | বাংলাদেশের গ্রিড সিস্টেমের সামগ্রিক চিত্র | 4:07 | [Watch](https://youtu.be/VQm3fc6Jy7k) |
-| 500 | ইউনিফরমলি লোডেড ডিস্ট্রিবিউটর | 4:20 | [Watch](https://youtu.be/5O_lk6-RXqc) |
-| 501 | আন্ডারগ্রাউন্ড ক্যাবল বিনষ্ট হবার কারণ | 10:23 | [Watch](https://youtu.be/Z6lEsTtvgmc?si=0IR2YeECIrRdOhM6) |
-| 502 | এক কিলোমিটার দীর্ঘ 0.05 A by m ইউনিফরমলি...মোট ভোল্টেজ ড্রপ নির্ণয় | 5:28 | [Watch](https://youtu.be/vr2Cx7nGvZ8?si=-RbN6IhjOGdfAvst) |
-| 503 | Part - 3 একটি 66kV, 3 Φ ওভারহেড লাইনে 0.85...ভোল্টেজ ও কারেন্ট নির্ণয় | 17:21 | [Watch](https://youtu.be/gClvROW0Q3Q?si=e-qsv6n7lPjBAhdh) |
-| 504 | একটি শিল্পকারখানায় তিন ফেজ লোড 0 .8  শতকরা ভোল্টেজ রেগুলেশন ও ট্রান্সমিশন দক্ষতা নির্ণয় | 14:33 | [Watch](https://youtu.be/6auR154mc3Y) |
-| 505 | একটি তিন ফেজ 50Hz লাইনের দৈর্ঘ্য 200km হলে প্রতি ফেজের চার্জিং কারেন্ট নির্ণয় | 10:07 | [Watch](https://youtu.be/FnOayiKT0Jg) |
-| 506 | জিএমডি এবং জিএমআর বিবেচনায় থ্রি ফেজ ওভারহেড ট্রান্সমিশন লাইনের ইন্ডাকট্যান্সের সমীকরণ | 14:01 | [Watch](https://youtu.be/EYPY69dxKLs) |
-| 507 | সেকশন পদ্ধতিতে টাওয়ার নির্মাণ কৌশল | 4:30 | [Watch](https://youtu.be/UG0En3GmqWo) |
-| 508 | করোনা পাওয়ার লস | 12:26 | [Watch](https://youtu.be/KeVjoAvc8o4) |
-| 509 | গার্ড রিং ব্যবহার করে স্ট্রিং  এর দক্ষতা উন্নয়ন | 3:22 | [Watch](https://youtu.be/UYs7l8rmmlM) |
-| 510 | লেভেলিং দন্ড ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 11:04 | [Watch](https://youtu.be/UZV-Nxyl434) |
-| 511 | সমউচ্চতায় দুটি সাপোর্টের মাঝের পরিবাহীর স্যাগ নির্ণয়ের সূত্র লেখ | 18:33 | [Watch](https://youtu.be/GHk2tYTLRc0) |
-| 512 | পিন ও সাসপেনশন টাইপ ইনসুলেটরের বিস্তারিত আলোচনা | 15:27 | [Watch](https://youtu.be/OSV4lsUcQ2Q?si=OE1cwnHhGIeGvuyt) |
-| 513 | Part- 2 গ্যালভানাইজড স্টিল কন্ডাক্টর | 5:16 | [Watch](https://youtu.be/QiyaRPunj2o) |
-| 514 | ইস্পাতের টাওয়ার | 4:20 | [Watch](https://youtu.be/qEdadugPjQM) |
-| 515 | কারিগরি লস | 4:26 | [Watch](https://youtu.be/dfADg85ACoY) |
-| 516 | ডিস্ট্রিবিউটর ও সার্ভিস মেইনের মধ্যে পার্থক্য | 5:26 | [Watch](https://youtu.be/8ttino7HWDY) |
-| 517 | আন্ডারগ্রাউন্ড ক্যাবল স্থাপনের বিভিন্ন পদ্ধতি | 10:19 | [Watch](https://youtu.be/rf0QbeVLo8Q) |
-| 518 | চিত্রসহ একটি হাই ভোল্টেজ ক্যাবলের গঠন প্রকৃতি বর্ণনা কর | 4:22 | [Watch](https://youtu.be/2P5dQMcWcYAৎ) |
-| 519 | গ্রিড Grid | 5:32 | [Watch](https://youtu.be/zQgH3T0ntkQ) |
-| 520 | বিভিন্ন প্রকার লোডিং এর তালিকা | 3:24 | [Watch](https://youtu.be/CU2QV93k4-w) |
-| 521 | সমহারে লোডেড ডিস্ট্রিবিউটর | 10:17 | [Watch](https://youtu.be/BuhG4WsVeFU) |
-| 522 | একটি শিল্পকারখানায় তিন ফেজ 11kV   পাওয়ার ফ্যাক্টরে  ভোল্টেজ রেগুলেশন ও দক্ষতা নির্ণয় | 6:32 | [Watch](https://youtu.be/as0AkXq02JE) |
-| 523 | কন্ডাকটরগুলো আনসিমেট্রিক্যাল স্পেসিং হিসাবে অবস্থান | 4:19 | [Watch](https://youtu.be/guxClyV1ehk) |
-| 524 | ক্রস আর্ম এবং ইনসুলেটর সংযোজন প্রক্রিয়া | 2:34 | [Watch](https://youtu.be/NqYqNXXWz1g) |
-| 525 | করোনা কমানোর উপায় | 7:12 | [Watch](https://youtu.be/nArrvjuH9Yk) |
-| 526 | গার্ড রিং লাইনের সাথে কীভাবে সংযুক্ত থাকে এবং এর কাজ | 8:01 | [Watch](https://youtu.be/9_OYd6dbpj0) |
-| 527 | কম্পাস স্টেশন দিয়ে কোণ মাপার পদ্ধতি | 11:30 | [Watch](https://youtu.be/iB9Cb5rOT5Y) |
-| 528 | স্যাগের হিসাব, যখন কন্ডাক্টরের উপর কেবল বাতাসের বেগ বা ঝড়ের প্রভাব কাজ করে | 10:13 | [Watch](https://youtu.be/N2Dt36ZQaCM) |
-| 529 | পিন টাইপ ইসুলেটর | 9:00 | [Watch](https://youtu.be/qQy3uOG9FfU?si=aBoebtU5REnI0EHl) |
-| 530 | গ্যালভানাইজড স্টিল কন্ডাক্টর কোথায় ব্যবহৃত হয় | 6:10 | [Watch](https://youtu.be/TiXYuySH8tE) |
-| 531 | কোন কোন ক্ষেত্রে ইস্পাতের টাওয়ার ব্যবহত হয় | 3:28 | [Watch](https://youtu.be/-91-LfDdNJ4) |
-| 532 | অকারিগরি লস | 10:26 | [Watch](https://youtu.be/T29RVUUFuXs) |
-| 533 | ওভারহেড ও আন্ডারগ্রাউন্ড পদ্ধতিতে ট্রান্সমিশন ও ডিস্ট্রিবিউশন  এর তুলনা | 20:14 | [Watch](https://youtu.be/EMqr8BWtqhw) |
-| 534 | টানা ব্যবস্থায় ক্যাবল স্থাপন পদ্ধতি | 8:23 | [Watch](https://youtu.be/gYnBbRuzoOI) |
-| 535 | একটি তিন ফেজ ক্যাবলের গঠন চিত্র অঙ্কনপূর্বক বিভিন্ন অংশ চিহ্নিত কর | 5:11 | [Watch](https://youtu.be/nzkc8PJbLVg) |
-| 536 | জাতীয় গ্রিড National grid | 4:31 | [Watch](https://youtu.be/5NIMWsCrxk8) |
-| 537 | দুই প্রান্তে ফিড করা ডিস্ট্রিবিউটরের সুবিধা কী কী | 4:14 | [Watch](https://youtu.be/ZhuhLCzrsa4) |
-| 538 | একটি 11 কেভি তিন ফেজ সরবরাহ লাইনের মাধ্যমে 0.8  শতকরা ভোল্টেজ রেগুলেশন নির্ণয় | 9:05 | [Watch](https://youtu.be/Pwx3Kxdib6s) |
-| 539 | লাইন পরিবাহীর ট্রান্সপজিশন | 13:02 | [Watch](https://youtu.be/2U1KK7U7qZw) |
-| 540 | ক্রস আর্ম কী কী বহন করে | 5:32 | [Watch](https://youtu.be/3LaPSgck8uo) |
-| 541 | যদি তাপমাত্রা 60°সেন্টিগ্রেট    তবে খেইযুক্ত কন্ডাক্টরের ক্ষেত্রে কিলোমিটার লাইনের লস নির্ণয় | 14:05 | [Watch](https://youtu.be/JbdukiN8p1w) |
-| 542 | কন্ডাকটিং গ্লেজ ব্যবহার করে স্ট্রিং –এর দক্ষতা উন্নয়ন | 6:27 | [Watch](https://youtu.be/doaRKQ39Hik) |
-| 543 | অনুভূমিক কোণ পরিমাপ প্রক্রিয়া | 10:29 | [Watch](https://youtu.be/hmHxlsHjHAw) |
-| 544 | স্যাগের হিসাব, যখন কন্ডাক্টরের উপর বরফ ও ঝড় একই সঙ্গে ক্রিয়া করে | 24:16 | [Watch](https://youtu.be/Q0gdCX_xfJM) |
-| 545 | পিন ও সাসপেনশন ইনসুলেটরের তুলনামূলক সুবিধা ও অসুবিধা | 16:09 | [Watch](https://youtu.be/Of45t9frlNU?si=WnJKdV9Fs3qGVqoB) |
-| 546 | ক্যাডমিয়াম কপার কন্ডাক্টর | 4:05 | [Watch](https://youtu.be/7WGHv3qEZjA) |
-| 547 | লাইন সাপোর্টের বৈশিষ্ট্য | 4:22 | [Watch](https://youtu.be/_sUoTT6LGSk) |
-| 548 | কিভাবে সিস্টেম লস কমানো যায় | 14:23 | [Watch](https://youtu.be/6T4ET0E5M98) |
-| 549 | নিম্ন ভোল্টেজ ট্রান্সমিশনের তুলনায় উচ্চ ভোল্টেজ ট্রান্সমিশনের সুবিধা | 16:28 | [Watch](https://youtu.be/hdKB6M2BmAE) |
-| 550 | সলিড সিস্টেম বা নিরেট ব্যবস্থায় স্থাপন | 5:03 | [Watch](https://youtu.be/NwnX8Ib_C48) |
-| 551 | ইন্ডিয়া থেকে জাতীয় গ্রিড এ সংযোগ | 2:28 | [Watch](https://youtu.be/KXowDSD5yx4) |
-| 552 | রিং ডিস্ট্রিবিউটর | 2:29 | [Watch](https://youtu.be/XJDqwbIgtaU) |
-| 553 | একটি 3 ফেজ ট্রান্সমিশন লাইনের মাধ্যমে 0.8   লাইনের ভোল্টেজ ও ট্রন্সমিশন দক্ষতা নির্ণয় | 11:08 | [Watch](https://youtu.be/ZmKRqAIp8Yo) |
-| 554 | ট্রান্সপজিশনের উদ্দেশ্য | 6:19 | [Watch](https://youtu.be/iEDIqZANykg) |
-| 555 | পোলে বা টাওয়ারে ক্রস আর্ম সংযোজন পদ্ধতি | 4:11 | [Watch](https://youtu.be/4Kx1uEw2-tE) |
-| 556 | যদি তাপমাত্রা 40°সেন্টিগ্রেট এবং বায়ুমন্ডলের চাপ    তবে প্রতি কিলোমিটার লাইনের করোনা লস নির্ণয় | 19:10 | [Watch](https://youtu.be/LairetXrBZY) |
-| 557 | চার ইউনিটের একটি সাসপেনশন ইনসুলেটরের মিউচুয়াল ও আর্থ ক্যাপাসিট্যান্সের FORMULA | 14:08 | [Watch](https://youtu.be/WS9tOS8GByg) |
-| 558 | লেভেলিং | 4:05 | [Watch](https://youtu.be/85ie7Mcpd9c) |
-| 559 | অসম উচ্চতায় দুটি পোলের পরিবাহীর মধ্যে স্যাগের সূত্র নির্ণয় | 12:13 | [Watch](https://youtu.be/t6S67ynJrOc) |
-| 560 | শ্যাকল,রিল বা স্পুল টাইপ ইনসুলেটর | 5:19 | [Watch](https://youtu.be/0O3OuOSqh6A?si=CkCTOU9PHo8uDwHI) |
-| 561 | কপার ক্ল্যাড এবং ক্যাডমিয়াম কপার কন্ডাক্টর ব্যবহার কোথায় ব্যবহৃত হয় | 4:34 | [Watch](https://youtu.be/Tmlg1IHuFBw) |
-| 562 | পোল ও টাওয়ারের মধ্যে পার্থক্য | 12:30 | [Watch](https://youtu.be/KZcOHVI-BzE) |
-| 563 | একটি ওভারহেড লাইনের প্রাথমিক খরচ 2000 A টাকা…লাইন তারের জন্য অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 25:03 | [Watch](https://youtu.be/JkJ2VGoGV_s) |
-| 564 | দেখাও যে, উচ্চ ভোল্টেজে পাওয়ার ট্রান্সমিশনে পরিবাহীর আয়তন কম লাগে তিন তার | 21:10 | [Watch](https://youtu.be/3wYZpnmzcjM) |
-| 565 | আন্ডারগ্রাউন্ড ক্যাবলের প্রান্তীয় বিন্যাস পদ্ধতি | 6:32 | [Watch](https://youtu.be/A_BVxbQX4Ik) |
-| 566 | সুপার হাই ভোল্টেজ ক্যাবল 33 কেভি | 5:28 | [Watch](https://youtu.be/esnRaqqQCIc) |
-| 567 | HVDC (High Voltage Direct Current) | 5:07 | [Watch](https://youtu.be/TbysjS0gc1k) |
-| 568 | একটি রিং ডিস্ট্রিবিউটরের চিত্র অঙ্কন কর | 3:07 | [Watch](https://youtu.be/tpX6SCJpwtk) |
-| 569 | একটি শিল্পকারখানায় 3 ফেজ 0.8 ল্যাগিং  শতকরা ভোল্টেজ রেগুলেশন ও ট্রন্সমিশন দক্ষতা নির্ণয় | 13:02 | [Watch](https://youtu.be/UjAy6VcBaN8) |
-| 570 | ট্রান্সপজিশনের সুবিধা ও অসুবিধা | 9:11 | [Watch](https://youtu.be/OACTzWUtW14\) |
-| 571 | ক্রস আর্ম এবং ইনসুলেটর সংযোজন প্রক্রিয়া | 9:01 | [Watch](https://youtu.be/9ceCT-eQpLE) |
-| 572 | একটি সমবাহু আকারে বিন্যাস্ত থ্রি ফেজ ট্রান্সমিশন লাইনের 106 কেভিতে   তাহলে 113 করোনা লস নির্ণয় | 16:08 | [Watch](https://youtu.be/knitRMkS4no) |
-| 573 | চার ইউনিটের একটি সাসপেনশন ইনসুলেটরের মিউচুয়াল ও আর্থ ক্যাপাসিট্যান্সের অনুপাত 8 অনুপাত | 13:26 | [Watch](https://youtu.be/gaRKMiwu_EI) |
-| 574 | লেভেলিং কাজে কোন ধরনের চেনের ব্যবহার বেশি | 7:19 | [Watch](https://youtu.be/_IeL1SZjneE) |
-| 575 | Formula | 13:17 | [Watch](https://youtu.be/g8iMBjZ3z0I) |
-| 576 | পিন টাইপ ইসুলেটর কোথায় ব্যবহৃত হয় | 2:05 | [Watch](https://youtu.be/z651KzQe_us?si=XPeyJBv8ExcENc4x) |
-| 577 | ফসফর ব্রোঞ্জ কন্ডাক্টর | 1:34 | [Watch](https://youtu.be/w4T0aKso3d8) |
-| 578 | পোল ও টাওয়ারের উচ্চতা নির্ধারণের জন্য বিবেচ্যসমূহ | 11:19 | [Watch](https://youtu.be/RV8t_z7VumQ) |
-| 579 | একটি তিন ফেজ ওভারহেড লাইনের প্রতি কিলোমিটারের প্রাথমিক খরচ 2500 A টাকা..লাইন তারের | 20:11 | [Watch](https://youtu.be/wR5141yzzcE) |
-| 580 | দেখাও যে, উচ্চ ভোল্টেজে ট্রান্সমিশন লাইনের দক্ষতা বৃদ্ধি পায় | 21:13 | [Watch](https://youtu.be/0KDNwju7zbc) |
-| 581 | এসএল টাইপ ক্যাবলের সুবিধা | 8:13 | [Watch](https://youtu.be/WBWx5M_hwYQ) |
-| 582 | এলটি Indoor Outdoor টার্মিনেশন | 4:21 | [Watch](https://youtu.be/lW6z5hjmscA) |
-| 583 | High Demand Low Generation & High Generation Low Demand অঞ্চল | 18:24 | [Watch](https://youtu.be/cq4ecyNNyYE) |
-| 584 | একটি 10 কিমি দীর্ঘ তিন ফেজ ট্রান্সমিশন    পরিবহন দক্ষতা এবং ভোল্টেজ রেগুলেশন নির্ণয় | 11:13 | [Watch](https://youtu.be/XPYK3eRswQk) |
-| 585 | লাইন ট্রান্সপজিশন কেন করা হয় | 3:14 | [Watch](https://youtu.be/eL0TugJ6Vbw) |
-| 586 | ওভারহেড লাইনে কন্ডাকটর টানা | 10:00 | [Watch](https://youtu.be/Jaur6cRgedk) |
-| 587 | 4 ইউনিটের সাসপেনশন ইনসুলেটরের মাধ্যমে টানা হয়েছে, প্রতি ইউনিট ও আর্থ ক্যাপাসিট্যান্স এর অনুপাত | 11:09 | [Watch](https://youtu.be/BY6lR-IEMqA) |
-| 588 | অ্যালাইনমেন্ট | 7:25 | [Watch](https://youtu.be/RWyZ9qWcyAg) |
-| 589 | যদি পরিবাহীর পীড়ন 1500 কেজি হয়, তবে মধ্যবিন্দুতে পানির উপরিভাগ হতে তারের উচ্চতা নির্ণয় | 11:30 | [Watch](https://youtu.be/s_FrnjtpMGc) |
-| 590 | স্ট্রেইন ইনসুলেটর | 6:35 | [Watch](https://youtu.be/dROxtmcBxPY?si=oBZ9t6gY3WyoVo7W) |
-| 591 | ফসফর ব্রোঞ্জ বা সিলিকন কন্ডাক্টর কোথায় ব্যবহৃত হয় | 3:26 | [Watch](https://youtu.be/gMvt3zMfPjA) |
-| 592 | স্টিল পোল ও কংক্রিট পোলের মাঝে পার্থক্য | 11:33 | [Watch](https://youtu.be/d_Kg1QaHmM8) |
-| 593 | পরিবাহীর রোধ প্রতি কিলোমিটারে প্রতি বর্গসেন্টিমিটারে 0 24Ω হয়, তবে অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 15:14 | [Watch](https://youtu.be/EGJfLxUXDTI) |
-| 594 | অধিক উচ্চ ট্রান্সমিশন ভোল্টেজের সীমাবদ্ধতা | 11:35 | [Watch](https://youtu.be/1ts3CC_-OdI) |
-| 595 | SI টাইপ ক্যাবল কী | 2:30 | [Watch](https://youtu.be/Ya379Nc7bJU) |
-| 596 | টার্মিনেশন করার মালামালের তালিকা | 6:10 | [Watch](https://youtu.be/BPDswukgEWI) |
-| 597 | PGCB কোন ধরনের প্রতিষ্ঠান | 5:08 | [Watch](https://youtu.be/E2qAxIJ1O0M) |
-| 598 | একটি তিন ফেজ ট্রান্সমিশন লাইনের প্রেরণ প্রান্তের 33   লাইনের প্রতি ফেজের রেজিট্যান্স নির্ণয় | 6:33 | [Watch](https://youtu.be/u93ocAnG3w0) |
-| 599 | প্রতিটির ব্যাস 1.5 সেমি হলে লাইনের প্রতি কিলোমিটারের লুপ ইন্ডাকট্যান্স বের কর | 13:14 | [Watch](https://youtu.be/V8dfjL50jyU) |
-| 600 | অ্যালুনিমিয়াম কন্ডাকটরে স্টিল রেইনফোর্সড | 7:13 | [Watch](https://youtu.be/27LHwD7PnzE) |
-| 601 | প্রতিটি ইনসুলেটর পিন ও আর্থের মধ্যবর্তী ক্যাপাসিট্যান্স, ইনসুলেটরের নিজস্ব ক্যাপাসিট্যান্স | 7:26 | [Watch](https://youtu.be/YKE_emz0mKE) |
-| 602 | সার্ভেয়িং | 7:26 | [Watch](https://youtu.be/cWAu5vhCwj4) |
-| 603 | বাতাসের চাপ 4. 9 গ্রাম ও ফ্যাক্টর 3 এবং প্রতি ঘন সেমি বরফের ওজন 0 .93 গ্রাম হলে স্যাগ নির্ণয় | 29:31 | [Watch](https://youtu.be/a7YA7uMKIb8) |
-| 604 | পোস্ট ইসুলেটর | 4:34 | [Watch](https://youtu.be/TM5hZxeYppM?si=7XFZItC0HYVZeBnY) |
-| 605 | কপার পরিবাহীর গুণাগুণ বা বৈশিষ্ট্য | 10:04 | [Watch](https://youtu.be/lKucD24gn48) |
-| 606 | বৎসরে ফুললোড কারেন্ট 70% প্রবাহিত হয় তবে লাইন তারের জন্য সর্বোচ্চ অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 15:08 | [Watch](https://youtu.be/IUv_aTRWWJE) |
-| 607 | ট্রান্সমিশনের ক্ষেত্রে ডিসি এবং ডিস্ট্রিবিউশনের ক্ষেত্রে এসি অধিক সুবিধাজনক | 12:34 | [Watch](https://youtu.be/z5KyHouRITI) |
-| 608 | একস্ট্রা হাই ভোল্টেজ ক্যাবল 66 কেভি পর্যন্ত প্রেসার ক্যাবল | 5:34 | [Watch](https://youtu.be/VXQ9JKhA6uA) |
-| 609 | ক্যাবল টার্মিনেশনে সংযোজন বক্সের নকশা | 3:08 | [Watch](https://youtu.be/fdaKJEQSRuM) |
-| 610 | বাংলাদেশে স্থাপনকৃত ইস্ট ওয়েস্ট গ্রিড ইন্টরকানেক্টরের তথ্যাদি | 5:08 | [Watch](https://youtu.be/IVkZCVB8wZw) |
-| 611 | 2 কেভি এক ফেজ লাইন 500 কেভি এ লোডের সাথে যুক্ত   ভোল্টেজ রেগুলেশন নির্ণয় | 7:04 | [Watch](https://youtu.be/1GDVe9JIpQc) |
-| 612 | প্রতিটি তারের ব্যাস 1.25 সেমি হলে 150 কিলোমিটার লাইনের ইন্ডাকট্যান্স নির্ণয় | 9:31 | [Watch](https://youtu.be/pOTyh7I7iik) |
-| 613 | পরিবহন লাইন আর্থিং করার সুবিধা | 7:03 | [Watch](https://youtu.be/O2zmLiuItls) |
-| 614 | যদি মিউচুয়াল ক্যাপাসিট্যান্স ইনসুলেটর ও আর্থের  ..তবে প্রত্যেক ইনসুলেটরের ভোল্টেজ নির্ণয় | 15:06 | [Watch](https://youtu.be/SBBmq3MaPBE) |
-| 615 | পেগিং | 3:34 | [Watch](https://youtu.be/JBe2X9CLfy0) |
-| 616 | যদি পরিবাহীর পীড়ন 1200kg Per cm2 ও বাতাসের চাপ 20kg Per m2 হয় তবে, নদীর মধ্যবিন্দুতে পানির উপরি | 17:18 | [Watch](https://youtu.be/imZGU7w0PeQ) |
-| 617 | স্টে বা গাই ইনসুলেটর | 3:07 | [Watch](https://youtu.be/viomv8xh_20?si=rxQeqAKAcyum8Zw_) |
-| 618 | অ্যালুমিনিয়াম পরিবাহীর গুণাগুণ বা বৈশিষ্ট্য | 14:04 | [Watch](https://youtu.be/AUGpdUUfhHs) |
-| 619 | বৎসরে ফুললোড কারেন্ট 65% প্রবাহিত হয় তবে লাইন তারের জন্য সর্বোচ্চ অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 12:19 | [Watch](https://youtu.be/wT4IJ-NaOXc) |
-| 620 | বিভিন্ন ওভারহেড সিস্টেমে পরিবাহীর কপার সাশ্রয়ের তুলনা | 8:14 | [Watch](https://youtu.be/vj-zwfE2RiM) |
-| 621 | তিন কোর ওয়েল ক্যাবল | 4:24 | [Watch](https://youtu.be/_jMiCQG_bT8) |
-| 622 | বাংলাদেশের সবচেয়ে দীর্ঘতম ট্রান্সমিশন লাইন | 3:22 | [Watch](https://youtu.be/GPBgfaU7Qow) |
-| 623 | একটি 11kV একফেজ ট্রান্সমিশন লাইন 0.8   প্রেরণ প্রান্তের ভোল্টেজ ,শতকরা রেগুলেশন নির্ণয় | 7:13 | [Watch](https://youtu.be/5QbbjcznlhE) |
-| 624 | প্রতিটি পরিবাহীর ব্যাস 1.27cm হলে 100km দীর্ঘ লাইনের জন্য ইন্ডাকট্যান্স নির্ণয় | 11:04 | [Watch](https://youtu.be/NitPlHaMTbs) |
-| 625 | ক্যাপাসিট্যান্স ও নিজস্ব ক্যাপাসিট্যান্স এর অনুপাত নির্ণয় | 12:35 | [Watch](https://youtu.be/yVh2Ep97Vp0) |
-| 626 | বৈদ্যুতিক খুঁটির উলম্ব উচ্চতা ও অনুভূমিক দূরত্ব পরিমাপ পদ্ধতি | 9:07 | [Watch](https://youtu.be/vTOb6M30SIs) |
-| 627 | কার্যকরী পীড়ন বর্গ সেমি এ 1050kg, প্রতি ঘনমিটার বরফের ওজন 913 50kg হলে Sag নির্ণয় | 16:23 | [Watch](https://youtu.be/srL6gjf-3SI) |
-| 628 | ইনসুলেটর অকেজো হওয়ার কারণসমূহ | 18:32 | [Watch](https://youtu.be/nXjslRxensM) |
-| 629 | অ্যালুমিনিয়াম কন্ডাকটর স্টিল রিইনফোর্সড এর গুণাগুণ বা বৈশিষ্ট্য | 7:17 | [Watch](https://youtu.be/H1BB8ncI4vY) |
-| 630 | বৎসরে ফুললোড কারেন্ট 60% প্রবাহিত হয় তবে লাইন তারের জন্য সর্বোচ্চ অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 13:02 | [Watch](https://youtu.be/m38NQS-JRIU) |
-| 631 | Part- 1 ওভারহেড লাইনে কপারের তুলনা করার ক্ষেত্রে বিবেচ্য বিষয় সমূহ | 16:11 | [Watch](https://youtu.be/ipbtUQLYKN4) |
-| 632 | তৈল ভর্তি ক্যাবল এর সুবিধা ও অসুবিধা | 10:15 | [Watch](https://youtu.be/jGBuerQeGco) |
-| 633 | ইন্টারকানেক্টর | 2:34 | [Watch](https://youtu.be/D9R29VSS7OU) |
-| 634 | একটি ট্রান্সমিশন লাইনের প্রহণ প্রান্তে 2MW   প্রেরণ প্রান্তের ভোল্টেজ ও কারেন্ট নির্ণয় | 4:31 | [Watch](https://youtu.be/9OEI9KL26SU) |
-| 635 | যদি পরিবাহীর ব্যাস 1.24 সেমি এবং সরবরাহ ভোল্টেজ   হয় তবে প্রতিটি তারের চার্জিং কারেন্ট নির্ণয় | 14:05 | [Watch](https://youtu.be/_c-giW_h5sE) |
-| 636 | স্টে বাই গাই ওয়্যার স্থাপন | 6:32 | [Watch](https://youtu.be/k1CaS9yITEQ) |
-| 637 | সাসপেনশন ইনসুলেটরের স্ট্রিং এর প্রতিটি ইউনিটের আড়াআড়ি ভোল্টেজ ডিস্ট্রিবিউশনের সমীকরণ | 24:05 | [Watch](https://youtu.be/Q0q9NDrC6yI) |
-| 638 | ওভারহেড পরিবহন লাইনে রাউটিং এর প্রধান বিবেচ্য বিষয়সমূহ | 13:34 | [Watch](https://youtu.be/-TL3A5r6uY4) |
-| 639 | বরফের ঘনত্ব 0. 91 গ্রাম বাই ঘনসেমি এবং এবং সেফটি ফ্যাক্টর 3 হলে, উলম্ব স্যাগ নির্ণয় | 25:05 | [Watch](https://youtu.be/ABYjdbwNaSo) |
-| 640 | ইনসুলেটর পরীক্ষা করার বিভিন্ন পদ্ধতি | 5:05 | [Watch](https://youtu.be/0FEQ7RV97IM) |
-| 641 | উচ্চ ভোল্টেজ পরিবহনে অ্যালুমিনিয়াম পরিবাহীর ব্যবহার করা হয় কেন | 2:34 | [Watch](https://youtu.be/RR88qTwTO5E) |
-| 642 | সর্বোত্তম সাশ্রয়ী পাওয়ার ফ্যাক্টর | 6:05 | [Watch](https://youtu.be/eWMJErXL1zE) |
-| 643 | Part- 2 ওভারহেড লাইনে কপারের তুলনা করার ক্ষেত্রে বিবেচ্য বিষয় সমূহ | 20:24 | [Watch](https://youtu.be/yZp986P_jUY) |
-| 644 | সর্ব্বোত্তম সাশ্রয়ী পাওয়ার ফ্যাক্টর | 16:28 | [Watch](https://youtu.be/MVavSgQ7BFU?si=-osfn7CWv_RSu-jO) |
-| 645 | একটি 3 ফেজ, 50Hz, 16 কিলোমিটার দীর্ঘ্য    ভোল্টেজ রেগুলেশন এবং ট্রান্সমিশন দক্ষতা নির্ণয় | 10:09 | [Watch](https://youtu.be/zTUy4s_cN6M) |
-| 646 | GMR এবং GMD সম্পর্কিত ইন্ডাকট্যান্সের সমস্যা  সমাধানের সূত্র | 8:19 | [Watch](https://youtu.be/-NFd_5BfRjo) |
-| 647 | স্টে সেটে যেসকল জিনিস থাকে সেগুলোর নাম | 4:27 | [Watch](https://youtu.be/8nx7hnso65E) |
-| 648 | যদি তারের টেনশন 1500 কেজি হয়, তবে দুটি সাপোর্টের মাঝামাঝি স্থানে তার পানি হতে কত মিটার উপরে থাক | 17:21 | [Watch](https://youtu.be/lEbrkMKAqqg) |
-| 649 | ফ্লাস ওভার টেস্ট | 20:11 | [Watch](https://youtu.be/_mE-xrCXtEU) |
-| 650 | কপার ও অ্যালুমিনিয়াম পরিবাহীর তুলনামূলক বৈশিষ্ট্য | 5:13 | [Watch](https://youtu.be/-71stwPCiEQ) |
-| 651 | ওভারহেড সিস্টেমের সাথে আন্ডারগ্রাউন্ড সিস্টেম পরিবাহীর কপার সাশ্রয়ের তুলনা | 8:10 | [Watch](https://youtu.be/niIpMc1j6jg) |
-| 652 | এরিয়াল ক্যাবল ও সাবমেরিন ক্যাবল | 3:25 | [Watch](https://youtu.be/O_4jleuh9qo) |
-| 653 | সিঙ্গেল ফেজ লাইন  ডাবল সার্কিট | 10:00 | [Watch](https://youtu.be/CVCOrr8Waq8) |
-| 654 | গার্ড রিং ব্যবহার করে সাসপেনশন ইনসুলেটররের ভোল্টেজ সমান করার পদ্ধতিসমূহ | 10:07 | [Watch](https://youtu.be/3dQ7XSFG3Sw) |
-| 655 | প্রতি রানিং মিটারে 1 কেজি এবং সর্বোচ্চ টেনশন 1500 কেজি হয়, তবে টাওয়ার দুটির মধ্যবর্তী স্থানে | 12:31 | [Watch](https://youtu.be/EdAHVgXgC-A) |
-| 656 | পারফরমেন্স টেস্ট | 14:20 | [Watch](https://youtu.be/PSH-7OrXTzA) |
-| 657 | গ্যালভানাইজড স্টিল কন্ডাকটরের টান সহনক্ষমতা অনেক বেশি, এটি তেমন ব্যবহৃত হয় না কেন? | 5:05 | [Watch](https://youtu.be/3SlS7aU5UpE) |
-| 658 | পাওয়ার ফ্যাক্টর উন্নয়নের পদ্ধতিগুলোর নাম | 5:14 | [Watch](https://youtu.be/0xnqQVbfuns?si=bnvpAvPdSuwh9k8U) |
-| 659 | বৈদ্যুতিক শক্তির ক্ষেত্রে ট্রান্সমিশনের সর্বাপেক্ষা মিতব্যয়ী কার্যকরী ভোল্টেজ | 7:28 | [Watch](https://youtu.be/eYqOVTZGJi0) |
-| 660 | এরিয়াল ক্যাবল কী, এরিয়াল ক্যাবল কোথায় ব্যবহৃত হয় এবং কেন ব্যবহৃত হয় | 3:02 | [Watch](https://youtu.be/0oKlZGiOvgY) |
-| 661 | সিঙ্গেল ফেজ লাইন  স্প্লিট ফেজ টাইপ | 6:00 | [Watch](https://youtu.be/7A_GExKmv48) |
-| 662 | Part-1 প্রতিটি ইনসুলেটর পিন ও আর্থের ক্যাপাসিট্যান্স 0 .15C এবং লাইনের মধ্যবর্তী ক্যাপাসিট্যাান্ | 17:34 | [Watch](https://youtu.be/m3W1bHTZOrw) |
-| 663 | প্রতি মিটার তারের ওজন 0 8 কেজি হলে নদীর মধ্যবর্তী স্থানে পানির তল হতে পরিবাহীর কত উপরে থাকবে | 17:20 | [Watch](https://youtu.be/kfzfgsmPqHQ) |
-| 664 | পারফরমেন্স টেস্টের প্রকারভেদ | 7:11 | [Watch](https://youtu.be/Cp-p8vfE0GI) |
-| 665 | পরিবাহী হিসেবে স্ট্রান্ডেড কপার কন্ডাক্টর ব্যবহার করার কারণ কী | 7:01 | [Watch](https://youtu.be/4r13-MVeBE4) |
-| 666 | নিম্নমানের পাওয়ার ফ্যাক্টর পরিবাহীর আয়তনের উপর প্রভাব | 5:16 | [Watch](https://youtu.be/c0op1LFIHeM?si=x8vVxrZzb5XEHx6P) |
-| 667 | সর্বোচ্চ মিতব্যয়ী ট্রান্সমিশন ভোল্টেজের সূত্র | 4:21 | [Watch](https://youtu.be/j8EzmBh2DeA) |
-| 668 | থ্রি ফেজ সিঙ্গেল সার্কিট সমদূরত্বের পরিবাহী লাইন | 4:32 | [Watch](https://youtu.be/UI1w2E45JBU) |
-| 669 | Part- 2 প্রতিটি ইনসুলেটর পিন ও আর্থের ক্যাপাসিট্যান্স 0. 15C এবং লাইনের মধ্যবর্তী ক্যাপাসিট্যাান্ | 18:12 | [Watch](https://youtu.be/KUno0dTeZRs) |
-| 670 | ট্রান্সমিশন লাইনে ভাইব্রেশনের প্রভাব এবং নিবারণ প্রক্রিয়া | 5:20 | [Watch](https://youtu.be/lUbaORGKpG8) |
-| 671 | রুটিন টেস্ট | 8:26 | [Watch](https://youtu.be/pyKzE9DYdRs) |
-| 672 | নিম্নমানের পাওয়ার ফ্যাক্টরের জন্য সিস্টেমে অসুবিধাসমূহ | 8:24 | [Watch](https://youtu.be/y08tJQUCkf4?si=rRjwZAjc6qZePvQ7) |
-| 673 | সমদূরত্বে সমপরিমাণ পাওয়ার সমদক্ষতায় পরিবহনের ক্ষেত্রে DC দুই তার ও AC, 3 ∅, তিন তার পদ্ধতিতে পর | 18:01 | [Watch](https://youtu.be/UXVy-kJpfow) |
-| 674 | সাবমেরিন ক্যাবল কোথায় ব্যবহৃত হয় | 5:31 | [Watch](https://youtu.be/sN7vHWw8Q3Q) |
-| 675 | থ্রি ফেজ সিঙ্গেল সার্কিট অসমান স্পেসিং বিশিষ্ট্য লাইন | 6:27 | [Watch](https://youtu.be/N587prTK30o) |
-| 676 | আর্থ এবং লাইনের সাথে ইনসুলেটর পিনের ক্যাপাসিট্যান্স যথাক্রমে 0 .2 C এবং 0. 1C, | 22:19 | [Watch](https://youtu.be/JkkkTR4UM14) |
-| 677 | ভাইব্রেশন ডাম্পারের কার্যাবলি | 5:26 | [Watch](https://youtu.be/9NUkwjFfl0E) |
-| 678 | স্পার্ক ওভার ভোল্টেজ, পাংচার ভোল্টেজ, সেফটি ফ্যাক্টর | 15:21 | [Watch](https://youtu.be/LRZnNE5SpLo) |
-| 679 | স্ট্যাটিক ক্যাপাসিটর | 5:22 | [Watch](https://youtu.be/6MdwDZ6PeEM) |
-| 680 | ট্রান্সমিশন লাইনের মাধ্যমে 250MW, 0. 8 lagging পাওয়ার ফ্যাক্টরে 30km দূরে পরিবহন করতে হবে। | 5:07 | [Watch](https://youtu.be/u0HtFoCWK6k) |
-| 681 | সাবমেরিন ক্যাবলের ক্রস সেকশন বা বিভিন্ন অংশ চিহ্নিত করন | 3:28 | [Watch](https://youtu.be/8NpfHtJBTlI) |
-| 682 | GMR ও GMD বিবেচনায় প্রতি কিলোমিটার দৈর্ঘ্যের লাইনের লুপ ইন্ডাকট্যান্স মিলি হেনরিতে নির্ণয় | 15:35 | [Watch](https://youtu.be/oeb1AbxJicw) |
-| 683 | বিভিন্ন প্রকার ভাইব্রেশন | 4:34 | [Watch](https://youtu.be/quJc4NorMdk) |
-| 684 | সিনক্রোনাস কন্ডেনসার | 7:28 | [Watch](https://youtu.be/c9rP3Gdg9Ac?si=WUiY968nKt4KrBJW) |
-| 685 | একটি 40KW, 0. 8 ল্যাগিং পাওয়ার ফ্যাক্টরে 100km দীর্ঘ ট্রান্সমিশন লাইনের জন্য সর্বোচ্চ সাশ্রয়ী | 3:08 | [Watch](https://youtu.be/EGVdtzhRz5U) |
-| 686 | আন্ডারগ্রাউন্ড ক্যাবল বিনষ্ট হবার কারণসমূহ | 4:11 | [Watch](https://youtu.be/WwP8MvJzBAc) |
-| 687 | প্রতিটি বাহুর দূরত্ব 120 সেমি হলে  GMR ও GMD বিবেচনায় প্রতি ফেজের ইন্ডাকট্যান্স নির্ণয় | 13:13 | [Watch](https://youtu.be/mjmphMnfYCA) |
-| 688 | পরিবহন লাইনে ভাইব্রেশনের প্রভাব | 8:11 | [Watch](https://youtu.be/xsKVuIvRd2Q) |
-| 689 | ফেজ অ্যাডভান্সার | 4:18 | [Watch](https://youtu.be/kCRei4XEHmM?si=qkVeZPoVrTBq8G6Z) |
-| 690 | একটি সিঙ্গেল ফেজ ট্রান্সমিশন লাইনের যখন কন্ডাকটর পদার্থ কপার ও রিলেটিভ পারমিয়েবিলিটি | 13:35 | [Watch](https://youtu.be/rbLhkhgFWWo) |
-| 691 | পরিবহন লাইনে ভাইব্রেশনের প্রভাব নিরশনের পদক্ষেপসমূহ | 5:14 | [Watch](https://youtu.be/wDFmmEzI3tY) |
-| 692 | Part - 1 সর্বাপেক্ষা অধিক সাশ্রয়ী পাওয়ার ফ্যাক্টরের সমীকরণ | 19:15 | [Watch](https://youtu.be/xamopenrkhY?si=puIUG_tqh5OeG_87) |
-| 693 | Part - 2 সর্বাপেক্ষা অধিক সাশ্রয়ী পাওয়ার ফ্যাক্টরের সমীকরণ | 11:11 | [Watch](https://youtu.be/qkG8LwsqS_o?si=dl04F6kx4snr1YHT) |
-| 694 | সর্বোত্তম  সাশ্রয়ী পাওয়ার ফ্যাক্টরের সমীকরণটি লেখ | 3:14 | [Watch](https://youtu.be/VPvS1wrBogo?si=Zcc27NSOD_dAJ3Wp) |
-| 695 | শিল্পকারখানায় সরবরাহের পাওয়ার ফ্যাক্টরের মান এককে উন্নীত  ..কনডেনসার লিডিং সংযোগ করতে হবে | 16:35 | [Watch](https://youtu.be/PCgWDa4NTRo?si=pTvVFkq7IrjrJD7V) |
-| 696 | যদি স্ট্যাটিক ক্যাপাসিটর স্টার ও ডেল্টা তে .. তাহলে উভয় ক্ষেত্রেকত মানের ক্যাপাসিটর দরকার হবে | 12:34 | [Watch](https://youtu.be/mYy-NNuN04g?si=qkmF97W2bATQEqza) |
-| 697 | পাওয়ার ফ্যাক্টর 0. 9 ল্যাগিং এ উন্নীত করতে হলে প্রতি ফেজের ক্যাপাসিট্যান্সের মান নির্ণয় | 10:08 | [Watch](https://youtu.be/Q83tKDMTDD8?si=Xe8OO0kMQS-jhi03) |
-| 698 | Part -1 200 কিলোওয়াট 0 8 ল্যাগিং পাওয়ার ফ্যাক্টর  মোটর কর্তৃক সরবরাহকৃত লেডিং পওয়ার KVAR এর মান | 11:15 | [Watch](https://youtu.be/Xh6nCxTq06s?si=rhdJ9Pn7DJTtOpAR) |
-| 699 | Part- 2  200 কিলোওয়াট 0 8 ল্যাগিং পাওয়ার ফ্যাক্টর  মোটর কর্তৃক সরবরাহকৃত লেডিং পওয়ার KVAR এর মান | 21:05 | [Watch](https://youtu.be/PnBHsBS34l4?si=XDMER4J33MlCdT-4) |
-| 700 | 500 কিলোওয়াট 0. 8 ল্যাগিং পাওয়ার ফ্যাক্টর  সামগ্রিক লোডের পওয়ার ফ্যাক্টর কত হবে | 17:29 | [Watch](https://youtu.be/WHoGodWumA0?si=5jPngZrnn3u_YHxf) |
+
+## Unit 1 — TRANSMISSION SYSTEM OF ELECTRICAL POWER
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 1 | ট্রান্সমিশন এন্ড ডিস্ট্রিবিউশন অব ইলেকট্রিক্যাল পাওয়ার-১ | 12:06 | [Watch](https://youtu.be/x2n91f6aCv0) |
+| 2 | ট্রান্সমিশন লাইনের দক্ষতা কী কী বিষয়ের উপর নির্ভর করে | 8:01 | [Watch](https://youtu.be/dXhWi8ozAR0) |
+| 3 | ট্রান্সমিশন সিস্টেমের বিভিন্ন দৃষ্টিভঙ্গি | 6:01 | [Watch](https://youtu.be/s3zpajA3GCY) |
+| 4 | ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন অব ইলেকট্রিক্যাল পাওয়ার | 11:22 | [Watch](https://youtu.be/SPoYkVDMXGI) |
+| 5 | ট্রান্সমিশন লাইনের শ্রেণীবিভাগ | 10:06 | [Watch](https://youtu.be/qZgds0bQMPI) |
+| 6 | বেসিক ট্রান্সমিশন এন্ড ডিস্ট্রিবিউশন সিস্টেম: | 28:17 | [Watch](https://youtu.be/KU90bIc-cAs) |
+| 7 | ডিসি ট্রান্সমিশন সিস্টেম | 14:19 | [Watch](https://youtu.be/tjCoDWz23v4) |
+| 8 | পাওয়ার ফ্যাক্টর | 20:23 | [Watch](https://youtu.be/50l_tuOPCgo) |
+| 9 | ট্রান্সমিশন লাইনের শ্রেণিবিন্যাস দেখাও | 5:04 | [Watch](https://youtu.be/ZQBLetdFVGQ) |
+| 10 | শর্ট ট্রান্সমিশন লাইনের পারফরমেন্স | 10:18 | [Watch](https://youtu.be/uEK_fyU-UeU) |
+| 11 | বেসিক ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন | 6:10 | [Watch](https://youtu.be/9LlwrFiJmeU) |
+| 12 | Radial System | 6:25 | [Watch](https://youtu.be/TBSBQE19y4s) |
+| 13 | ডিসি ট্রান্সমিশন সিস্টেমের( HVDC ) | 9:28 | [Watch](https://youtu.be/BN0Wzq7aYGs) |
+| 14 | ট্রান্সমিশন লাইনের শ্রেণীবিভাগ | 10:06 | [Watch](https://youtu.be/su71WTeoIbU) |
+| 15 | পাওয়ার ফ্যাক্টর ইফেক্ট | 13:16 | [Watch](https://youtu.be/TUl5U8yBzfY) |
+| 16 | মিডিয়াম ট্রান্সমিশন লাইন বলতে কী বুঝায় | 19:34 | [Watch](https://youtu.be/T2YO6BNVQxA) |
+| 17 | স্বল্পদৈর্ঘ্য , মধ্যম ও দীর্ঘ ট্রান্সমিশন লাইনের লাইন ধ্রুবকসমূহের চিত্রসহ প্রতিপাদন | 5:11 | [Watch](https://youtu.be/JJ_bXmEj6o0) |
+| 18 | ট্রান্সমিশন লাইনে বৈদ্যুতিক বিভব | 6:27 | [Watch](https://youtu.be/vFZXjdONJAc) |
+| 19 | শক্তি পরিবহনের মোট খরচে কেলভিন কত খাতে বিভক্ত করেছেন এবং খাতগুলোর সংক্ষিপ্ত বর্ণনা | 15:11 | [Watch](https://youtu.be/gtzQryGttEs) |
+| 20 | একটি   (3-𝜱) ট্রান্সমশন ……………লাইনের প্রতি ফেজে কত রেজিস্ট্যান্স রাখাতে হবে? | 7:14 | [Watch](https://youtu.be/v_uiF6KB0VE) |
+| 21 | ট্রান্সমিশন সিস্টেমের শ্রেণীবিভাগ: | 10:10 | [Watch](https://youtu.be/yeSE4KM9eqA) |
+| 22 | Draw in system | 4:05 | [Watch](https://youtu.be/nC30Cxece08) |
+| 23 | Ring Main System | 8:04 | [Watch](https://youtu.be/g3MEcf9Fmv8) |
+| 24 | পাওয়ার ফ্যাক্টর গাণিতক সমাধান | 8:22 | [Watch](https://youtu.be/HysXIGmLtpI) |
+| 25 | ডিসি ট্রান্সমিশনের সীমাবদ্ধতা | 9:22 | [Watch](https://youtu.be/589puYLkVhk?si=IftVoHP16lDBg0GT) |
+| 26 | লোড পাওয়ার খুব কম হলে ট্রান্সমিশন লাইনে প্রতিক্রিয়া | 3:29 | [Watch](https://youtu.be/t3_5ds60_4Q) |
+| 27 | ট্রান্সমিশন লাইনের ধ্রুবক | 5:26 | [Watch](https://youtu.be/MI1CNz7nt2g?si=BDITOK7tdOJ_5MFt) |
+| 28 | ট্রান্সমিশন লাইনে স্কিন ইফেক্টের প্রভাব | 11:31 | [Watch](https://youtu.be/_XKKaF4Sjaw?si=bdWY1x8dhiF2JCbO) |
+| 29 | একটি  1-𝜱 ট্রান্সমিশন লাইনের দুই …………..লাইনে প্রবাহিত চার্জিং কারেন্ট কত? | 5:25 | [Watch](https://youtu.be/t_UPy8oJqRc) |
+| 30 | একটি   (3-𝜱) ট্রান্সমশন লাইনের ………….কত দুরত্বে 15MW POWER প্রেরণ করা যাবে? | 5:34 | [Watch](https://youtu.be/UDVxA-yydAM) |
+| 31 | পাওয়ার ফ্যাক্টর ইমপ্রুভমেন্ট | 11:19 | [Watch](https://youtu.be/Fme8RW3VvHU) |
+| 32 | গ্রহণ প্রন্তের ভোল্টেজ বিবেচনা পাওয়ার ফ্যাক্টর | 11:02 | [Watch](https://youtu.be/hC7z5QLFVtM?si=4TGdK2e6pve4M1rb) |
+| 33 | এসি ও ডিসি ট্রান্সমিশন সিস্টেমের মধ্যে অর্থনৈতিক তুলনা | 10:33 | [Watch](https://youtu.be/rFchy_I8roo?si=HSvflPemJcw8ab2D) |
+| 34 | মধ্যম ট্রান্সমিশন লাইনের প্রন্তিক ক্যাপাসিটর পদ্ধতি ও ফেজর ডায়াগ্রাম | 20:32 | [Watch](https://youtu.be/stKHWkWUsxk) |
+| 35 | লিডিং পাওয়ার ফ্যাক্টর | 19:06 | [Watch](https://youtu.be/SOfQ66kGdcM) |
+| 36 | ট্রান্সমিশন লাইনের ইন্ডাকট্যান্স যে যে বিষয়ের উপর নির্ভর করে | 6:11 | [Watch](https://youtu.be/eL6dn9ZPl2E?si=APEr3SZmkjPX9jvR) |
+| 37 | 30km দীর্ঘ একটি (3-𝜱) transmission লাইনে… ……….  প্রত্যেক তারের capacitance নির্ণয় কর। | 4:10 | [Watch](https://youtu.be/CcaBvRmko-Y) |
+| 38 | Most economical power factor | 23:08 | [Watch](https://youtu.be/TeeH1e5yUAc) |
+| 39 | সাবস্টেশন সরঞ্জামে পাওয়ার বিতরণ | 10:20 | [Watch](https://youtu.be/yye2n2ivFVc) |
+| 40 | গ্রহণ প্রান্তে ট্রান্সমিশন লাইনের সিরিজ ইম্পিড্যান্স | 14:26 | [Watch](https://youtu.be/A8uFjtAbx1s?si=Ee7ed4o9Fwmj150B) |
+| 41 | মধ্যম ট্রান্সমিশন লাইনের নমিনাল T পদ্ধতি ও ফেজর ডায়াগ্রাম | 21:31 | [Watch](https://youtu.be/C805_b7DQQg) |
+| 42 | স্বল্পদৈর্ঘ্যের ট্রান্সমিশন লাইনে ক্যাপাসিট্যান্স প্রতিক্রিয়া উপেক্ষা করা হয় কেন | 3:20 | [Watch](https://youtu.be/rhphXO1q68o) |
+| 43 | ট্রান্সমিশন গাণিতিক সমাধান 1 | 18:31 | [Watch](https://youtu.be/c33qTGPu5cc) |
+| 44 | মধ্যম ট্রান্সমিশন লাইনের নমিনাল π পদ্ধতি ও ফেজর ডায়াগ্রাম | 19:10 | [Watch](https://youtu.be/fYD7dRcEh9I) |
+| 45 | একটি   (3-𝜱) ট্রান্সমশন লাইনের ………….লাইনের প্রতি ফেজে কত রেজিস্ট্যান্স হতে হবে? | 6:14 | [Watch](https://youtu.be/tf6gAYxmcnM) |
+| 46 | ট্রান্সমিশন গাণিতিক সমাধান 2 | 8:25 | [Watch](https://youtu.be/95BZoIh_gR0) |
+| 47 | একটি 100 কিলোমিটার দীর্ঘ 132 কে ভি 3 ফেজ...প্রেরক প্রান্তের ভেল্টেজ ও পাওয়ার ফ্যাক্টর নির্ণয় | 30:04 | [Watch](https://youtu.be/esRa4NBlrew) |
+| 48 | একটি তিন ফেজ ট্রান্সমিশন লাইনের প্রতি   পাওয়ার ফ্যাক্টরে কত দূরত্বে 10MW পাওয়ার প্রেরণ করা যাবে | 13:27 | [Watch](https://youtu.be/vlSx8JiH9KU?si=GgRPEz_-02pWaAAR) |
+| 49 | স্বল্পদৈর্ঘ্য ওভারহেড ট্রান্সমিশন  লাইনের   ও দক্ষতার উপর লোড পাওয়ার ফ্যাক্টরের প্রভাব | 6:28 | [Watch](https://youtu.be/-CMsWSsIrfE) |
+| 50 | 0.8 পাওয়ার ফ্যাক্টরে কত দূরত্বে 15MW পাওয়ার প্রেরণ   প্রান্তের ভোল্টেজ 132kV এবং লাইন অপচয় 5% | 9:30 | [Watch](https://youtu.be/do5ptQVxbW0?si=rC2XDOHjy6t_WKZF) |
+| 51 | ট্রান্সমিশন এবং ডিস্ট্রিবিউশন সিস্টেমের শ্রেণিবিন্যাস | 8:18 | [Watch](https://youtu.be/BWC7CZ_Qpjk) |
+| 52 | একটি 3 ফেজ পরিবহন লাইন 66 KV 55 Hz 100...পাওয়ার ফ্যাক্টরে 25 MVA পাওয়ার লোড সরবরাহ কর | 33:13 | [Watch](https://youtu.be/CGHQ9MiJExk) |
+| 53 | ট্রান্সমিশন লাইনের ভোল্টেজ রেগুলেশন এর উপর লোডের পাওয়ার ফ্যাক্টরের প্রভাব | 17:05 | [Watch](https://youtu.be/fsHT0vIprBc) |
+| 54 | জ্যামিতিক গড় দূরত্ব এবং জ্যামিতিক গড় ব্যাসার্ধের   ট্রান্সমিশন লাইনের ইন্ডাকট্যান্সের সমীকরণ | 12:14 | [Watch](https://youtu.be/yntA0-vRwTk) |
+| 55 | 3.3kV তে সর্বোচ্য কত দূরত্বে 200kW পাওয়ার সরবরাহ করা যেতে পারে | 16:14 | [Watch](https://youtu.be/R-aHu41DOVs?si=Q-etJxob7Hxo7hb6) |
+| 56 | সিস্টেম লস System loss | 5:11 | [Watch](https://youtu.be/D99qzkdgaQ4) |
+| 57 | বৈদ্যুতিক শক্তির ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন পদ্ধতির শ্রেণিবিন্যাস | 19:28 | [Watch](https://youtu.be/KJQCzz6Ejwg) |
+| 58 | কত ভোল্টেজ এবং পাওয়ার ফ্যাক্টর রাখতে হবে এর গাণিতিক সমাধান | 13:28 | [Watch](https://youtu.be/z9dKckRXBak) |
+| 59 | কোন ধরনের লাইনে কংক্রিটের পোল ব্যবহত হয়, কোন ধরনের পোলের যান্ত্রিক শক্তি বেশি | 7:04 | [Watch](https://youtu.be/1jh8zC3ffk4) |
+| 60 | করোনা পাওয়ার লস | 12:26 | [Watch](https://youtu.be/KeVjoAvc8o4) |
+| 61 | একটি শিল্পকারখানায় তিন ফেজ 11kV   পাওয়ার ফ্যাক্টরে  ভোল্টেজ রেগুলেশন ও দক্ষতা নির্ণয় | 6:32 | [Watch](https://youtu.be/as0AkXq02JE) |
+| 62 | একটি সমবাহু আকারে বিন্যাস্ত থ্রি ফেজ ট্রান্সমিশন লাইনের 106 কেভিতে   তাহলে 113 করোনা লস নির্ণয় | 16:08 | [Watch](https://youtu.be/knitRMkS4no) |
+| 63 | একটি তিন ফেজ ট্রান্সমিশন লাইনের প্রেরণ প্রান্তের 33   লাইনের প্রতি ফেজের রেজিট্যান্স নির্ণয় | 6:33 | [Watch](https://youtu.be/u93ocAnG3w0) |
+| 64 | ট্রান্সমিশনের ক্ষেত্রে ডিসি এবং ডিস্ট্রিবিউশনের ক্ষেত্রে এসি অধিক সুবিধাজনক | 12:34 | [Watch](https://youtu.be/z5KyHouRITI) |
+| 65 | বাংলাদেশের সবচেয়ে দীর্ঘতম ট্রান্সমিশন লাইন | 3:22 | [Watch](https://youtu.be/GPBgfaU7Qow) |
+| 66 | সর্বোত্তম সাশ্রয়ী পাওয়ার ফ্যাক্টর | 6:05 | [Watch](https://youtu.be/eWMJErXL1zE) |
+| 67 | সর্ব্বোত্তম সাশ্রয়ী পাওয়ার ফ্যাক্টর | 16:28 | [Watch](https://youtu.be/MVavSgQ7BFU?si=-osfn7CWv_RSu-jO) |
+| 68 | পাওয়ার ফ্যাক্টর উন্নয়নের পদ্ধতিগুলোর নাম | 5:14 | [Watch](https://youtu.be/0xnqQVbfuns?si=bnvpAvPdSuwh9k8U) |
+| 69 | ট্রান্সমিশন লাইনে ভাইব্রেশনের প্রভাব এবং নিবারণ প্রক্রিয়া | 5:20 | [Watch](https://youtu.be/lUbaORGKpG8) |
+| 70 | নিম্নমানের পাওয়ার ফ্যাক্টরের জন্য সিস্টেমে অসুবিধাসমূহ | 8:24 | [Watch](https://youtu.be/y08tJQUCkf4?si=rRjwZAjc6qZePvQ7) |
+| 71 | সমদূরত্বে সমপরিমাণ পাওয়ার সমদক্ষতায় পরিবহনের ক্ষেত্রে DC দুই তার ও AC, 3 ∅, তিন তার পদ্ধতিতে পর | 18:01 | [Watch](https://youtu.be/UXVy-kJpfow) |
+| 72 | ট্রান্সমিশন লাইনের মাধ্যমে 250MW, 0. 8 lagging পাওয়ার ফ্যাক্টরে 30km দূরে পরিবহন করতে হবে। | 5:07 | [Watch](https://youtu.be/u0HtFoCWK6k) |
+| 73 | একটি 40KW, 0. 8 ল্যাগিং পাওয়ার ফ্যাক্টরে 100km দীর্ঘ ট্রান্সমিশন লাইনের জন্য সর্বোচ্চ সাশ্রয়ী | 3:08 | [Watch](https://youtu.be/EGVdtzhRz5U) |
+| 74 | একটি সিঙ্গেল ফেজ ট্রান্সমিশন লাইনের যখন কন্ডাকটর পদার্থ কপার ও রিলেটিভ পারমিয়েবিলিটি | 13:35 | [Watch](https://youtu.be/rbLhkhgFWWo) |
+| 75 | Part - 1 সর্বাপেক্ষা অধিক সাশ্রয়ী পাওয়ার ফ্যাক্টরের সমীকরণ | 19:15 | [Watch](https://youtu.be/xamopenrkhY?si=puIUG_tqh5OeG_87) |
+| 76 | Part - 2 সর্বাপেক্ষা অধিক সাশ্রয়ী পাওয়ার ফ্যাক্টরের সমীকরণ | 11:11 | [Watch](https://youtu.be/qkG8LwsqS_o?si=dl04F6kx4snr1YHT) |
+| 77 | সর্বোত্তম  সাশ্রয়ী পাওয়ার ফ্যাক্টরের সমীকরণটি লেখ | 3:14 | [Watch](https://youtu.be/VPvS1wrBogo?si=Zcc27NSOD_dAJ3Wp) |
+| 78 | শিল্পকারখানায় সরবরাহের পাওয়ার ফ্যাক্টরের মান এককে উন্নীত  ..কনডেনসার লিডিং সংযোগ করতে হবে | 16:35 | [Watch](https://youtu.be/PCgWDa4NTRo?si=pTvVFkq7IrjrJD7V) |
+| 79 | পাওয়ার ফ্যাক্টর 0. 9 ল্যাগিং এ উন্নীত করতে হলে প্রতি ফেজের ক্যাপাসিট্যান্সের মান নির্ণয় | 10:08 | [Watch](https://youtu.be/Q83tKDMTDD8?si=Xe8OO0kMQS-jhi03) |
+| 80 | Part -1 200 কিলোওয়াট 0 8 ল্যাগিং পাওয়ার ফ্যাক্টর  মোটর কর্তৃক সরবরাহকৃত লেডিং পওয়ার KVAR এর মান | 11:15 | [Watch](https://youtu.be/Xh6nCxTq06s?si=rhdJ9Pn7DJTtOpAR) |
+| 81 | Part- 2  200 কিলোওয়াট 0 8 ল্যাগিং পাওয়ার ফ্যাক্টর  মোটর কর্তৃক সরবরাহকৃত লেডিং পওয়ার KVAR এর মান | 21:05 | [Watch](https://youtu.be/PnBHsBS34l4?si=XDMER4J33MlCdT-4) |
+| 82 | 500 কিলোওয়াট 0. 8 ল্যাগিং পাওয়ার ফ্যাক্টর  সামগ্রিক লোডের পওয়ার ফ্যাক্টর কত হবে | 17:29 | [Watch](https://youtu.be/WHoGodWumA0?si=5jPngZrnn3u_YHxf) |
+
+
+## Unit 2 — DISTRIBUTION SYSTEMS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 83 | Understand the distribution system | 12:03 | [Watch](https://youtu.be/zsF-jckjJWU) |
+| 84 | AC distribution system | 14:16 | [Watch](https://youtu.be/a-BycpF-UoE) |
+| 85 | Distribution Fed from both sides | 9:11 | [Watch](https://youtu.be/IKFQWsJcADc) |
+| 86 | AC Distribution System Example 01 | 15:26 | [Watch](https://youtu.be/lgum6O0pmC0) |
+| 87 | Distribution Fed from both sides cont | 13:15 | [Watch](https://youtu.be/TVR-jDQ_iII) |
+| 88 | Distribution Fed from both sides Example 02 | 22:28 | [Watch](https://youtu.be/3DCDiK_9Z04) |
+| 89 | Distribution Fed from both sides Example 02 Second Part | 10:12 | [Watch](https://youtu.be/XL4Hx-Qvtpc) |
+| 90 | Distribution Fed from both sides Example 03 | 23:22 | [Watch](https://youtu.be/EGwzBOhoWDc) |
+| 91 | বিদ্যুৎ পরিবহন ও বিতরণ কাজে যন্ত্রপাতির অপচয় | 11:02 | [Watch](https://youtu.be/HHduyjyQZZU) |
+
+
+## Unit 4 — GRID SYSTEM
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 92 | Understand the Grid system classification | 5:25 | [Watch](https://youtu.be/W7QztU12XqM) |
+| 93 | গ্রিড সিস্টেম Grid Systems | 11:32 | [Watch](https://youtu.be/LNO2hXNSvCY) |
+| 94 | গ্রিড Grid | 5:32 | [Watch](https://youtu.be/zQgH3T0ntkQ) |
+| 95 | জাতীয় গ্রিড National grid | 4:31 | [Watch](https://youtu.be/5NIMWsCrxk8) |
+
+
+## Unit 5 — OVERHEAD LINES AND SUPPORTS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 96 | lime support | 11:04 | [Watch](https://youtu.be/KmRsMM_Ecig) |
+| 97 | ওভারহেড ট্রান্সমিশন লাইনে ক্যাপাসিট্যান্সের ইফেক্ট | 9:17 | [Watch](https://youtu.be/YikaUfdZ9k4) |
+| 98 | ওভারহেড ট্রান্সমিশন ডিস্ট্রিবিউশন লাইনে পোল স্থাপন পদ্ধতি | 5:24 | [Watch](https://youtu.be/7HqWnelidLA) |
+| 99 | ওভারহেড ট্রান্সমিশন লাইনের করোনা | 6:13 | [Watch](https://youtu.be/5gRwTCHEAlQ) |
+| 100 | ওভারহেড ট্রান্সমিশন অথবা ডিস্ট্রিবিউশন লাইনে পোল স্থাপন | 13:16 | [Watch](https://youtu.be/T5Co-A8kQtI) |
+| 101 | ওভারহেড লাইনে উন্নয়নের ক্যাপাসিট্যান্সের ভূমিকা | 6:14 | [Watch](https://youtu.be/1BKZWuNU14c) |
+| 102 | ওভারহেড লাইন রুটিং এর বিবেচ্য বিষয় | 7:10 | [Watch](https://youtu.be/gNudAAuN5Kw) |
+| 103 | স্বল্পদৈর্ঘ্য ওভারহেড পরিবহন লাইনের ভোল্টেজ রেগুলেশন হিসাবের সমীকরণ | 22:28 | [Watch](https://youtu.be/ULKWtDVeOJU) |
+| 104 | ওভারহেড ট্রান্সমিশন লাইনের করোনা ইফেক্টকে প্রভাবিত করার ফ্যাক্টরসমূহ | 6:26 | [Watch](https://youtu.be/yRYK4K1ciio) |
+| 105 | স্বল্পদৈর্ঘ্য ওভারহেড পরিবহন লাইনের দক্ষতা হিসাবের সমীকরণ | 6:07 | [Watch](https://youtu.be/4wZ4owJ9og8) |
+| 106 | সিঙ্গেল ফেজ ওভারহেড লাইনের ক্যাপাসিট্যান্স নির্ণয়ের সমীকরণ | 18:24 | [Watch](https://youtu.be/zjygnJKTCiw) |
+| 107 | ওভারহেড লাইনে স্যাগের গুরুত্ব | 8:13 | [Watch](https://youtu.be/63UPEKsxNCM) |
+| 108 | তিন ফেজ ওভারহেড লাইনের ক্যাপাসিট্যান্স নির্ণয় | 19:17 | [Watch](https://youtu.be/GVu4M1lx-j8) |
+| 109 | ওভারহেড এবং আন্ডারগ্রাউন্ড ডিস্ট্রিবিউশন পদ্ধতির তুলনা | 3:11 | [Watch](https://youtu.be/ieWUQylISaw) |
+| 110 | ওভারহেড এবং আন্ডারগ্রাউন্ড সিস্টেমের তুলনামূলক পার্থক্য | 18:11 | [Watch](https://youtu.be/xyLKWwynxaE) |
+| 111 | তিন ফেজ ওভারহেড লাইনের প্রতিসম ক্যাপাসিট্যান্স নির্ণয়ের সূত্র | 4:01 | [Watch](https://youtu.be/W3CnqgNjwUQ) |
+| 112 | ওভারহেড ট্রান্সমিশন লাইনে টাওয়ার নির্মাণ প্রক্রিয়া | 4:04 | [Watch](https://youtu.be/BcB-8TQPMd8) |
+| 113 | Part - 1 একটি 66kV, 3 Φ ওভারহেড লাইনে 0.85...ভোল্টেজ ও কারেন্ট নির্ণয় | 8:30 | [Watch](https://youtu.be/0UhOCVwJjVs?si=cntjyxJUcfZpd_QX) |
+| 114 | Part - 2 একটি 66kV, 3 Φ ওভারহেড লাইনে 0.85...ভোল্টেজ ও কারেন্ট নির্ণয় | 2:15 | [Watch](https://youtu.be/XKfynOE_ll8?si=sV8cufsoEgDeMQUo) |
+| 115 | Part - 3 একটি 66kV, 3 Φ ওভারহেড লাইনে 0.85...ভোল্টেজ ও কারেন্ট নির্ণয় | 17:21 | [Watch](https://youtu.be/gClvROW0Q3Q?si=e-qsv6n7lPjBAhdh) |
+| 116 | জিএমডি এবং জিএমআর বিবেচনায় থ্রি ফেজ ওভারহেড ট্রান্সমিশন লাইনের ইন্ডাকট্যান্সের সমীকরণ | 14:01 | [Watch](https://youtu.be/EYPY69dxKLs) |
+| 117 | ওভারহেড ও আন্ডারগ্রাউন্ড পদ্ধতিতে ট্রান্সমিশন ও ডিস্ট্রিবিউশন  এর তুলনা | 20:14 | [Watch](https://youtu.be/EMqr8BWtqhw) |
+| 118 | একটি ওভারহেড লাইনের প্রাথমিক খরচ 2000 A টাকা…লাইন তারের জন্য অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 25:03 | [Watch](https://youtu.be/JkJ2VGoGV_s) |
+| 119 | একটি তিন ফেজ ওভারহেড লাইনের প্রতি কিলোমিটারের প্রাথমিক খরচ 2500 A টাকা..লাইন তারের | 20:11 | [Watch](https://youtu.be/wR5141yzzcE) |
+| 120 | Part- 1 ওভারহেড লাইনে কপারের তুলনা করার ক্ষেত্রে বিবেচ্য বিষয় সমূহ | 16:11 | [Watch](https://youtu.be/ipbtUQLYKN4) |
+| 121 | ওভারহেড পরিবহন লাইনে রাউটিং এর প্রধান বিবেচ্য বিষয়সমূহ | 13:34 | [Watch](https://youtu.be/-TL3A5r6uY4) |
+| 122 | Part- 2 ওভারহেড লাইনে কপারের তুলনা করার ক্ষেত্রে বিবেচ্য বিষয় সমূহ | 20:24 | [Watch](https://youtu.be/yZp986P_jUY) |
+
+
+## Unit 6 — INSULATORS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 123 | ইনসুলেটর ম্যাটেরিয়ালস | 18:11 | [Watch](https://youtu.be/i3j39D-jrOI) |
+| 124 | লাইন ইনসুলেটর | 7:23 | [Watch](https://youtu.be/R82oti68CeE) |
+| 125 | ইনসুলেটর রেজিস্ট্যান্স, ডাই ইলেকট্রিক স্ট্রেস, পটেনশিয়াল গ্রাডিয়ান্ট | 7:33 | [Watch](https://youtu.be/SjTEtUCevV4) |
+| 126 | ইনসুলেটরের ম্যাটেরিয়ালস ব্যবহার করে কত ধরনের ইনসুলেটর তৈরি করতে পারি | 11:07 | [Watch](https://youtu.be/n4uuXw-NwJw) |
+| 127 | ইনসুলেটর শান্ট ক্যাপাসিট্যান্স | 16:21 | [Watch](https://youtu.be/6gfIuRglk9o) |
+| 128 | ইনসুলেটর কী, ইনসুলেটর এর কাজ কী | 7:02 | [Watch](https://youtu.be/gBD0OQWBp-Y\) |
+| 129 | Two Wire method to determination of Insulator | 15:01 | [Watch](https://youtu.be/kwMij_jZ9Fg) |
+| 130 | Three Wire method to determination of Insulator | 14:25 | [Watch](https://youtu.be/gksKIycDOrQ) |
+| 131 | আন্ডারগ্রাউন্ড ক্যাবলের ব্যবহৃত ইনসুলেটিং ম্যাটেরিয়ালগুলোর তালিকা | 6:00 | [Watch](https://youtu.be/iz97s-1THy8?si=BMak_H8Jdw3OGDo9) |
+| 132 | বিভিন্ন প্রকার ইনসুলেটিং উপাদান | 6:15 | [Watch](https://youtu.be/OaEHOWTh8Yo) |
+| 133 | অ্যান্ডারগ্রাউন্ড ক্যাবলের ইনসুলেটিং ম্যাটেরিয়ালসের তালিকা | 7:17 | [Watch](https://youtu.be/8-bsJNZSF3U) |
+| 134 | আন্ডারগ্রাউন্ড ক্যাবলের ইনসুলেটিং ম্যাটেরিয়ালগুলো গুণাবলি | 11:04 | [Watch](https://youtu.be/17sFACWLxbk?si=jOsqxdv4QoujtklC) |
+| 135 | VR দিয়ে ইনসুলেটিং পদ্ধতি | 4:10 | [Watch](https://youtu.be/2OEXesKgV78) |
+| 136 | গ্লাস ইনসুলেটরের গুণাবলি | 6:13 | [Watch](https://youtu.be/Zsf5ay5ndcg) |
+| 137 | ক্যাবলের ইনসুলেটিং ম্যাটেরিয়ালের গুণাবলি | 13:07 | [Watch](https://youtu.be/SbEwe99z5-Q) |
+| 138 | স্টিয়েটাইট ইনসুলেটরের গুণাগুণ | 4:04 | [Watch](https://youtu.be/6irtPiweYl0) |
+| 139 | ইনসুলেটিং উপাদানের গুণাগুণ | 15:03 | [Watch](https://youtu.be/cCutOvK-5uo) |
+| 140 | পিভিসি টাইপ ইনসুলেটিং | 2:23 | [Watch](https://youtu.be/buOzTJ51Fro) |
+| 141 | ক্রস আর্ম এবং ইনসুলেটর সংযোজন প্রক্রিয়া | 2:34 | [Watch](https://youtu.be/NqYqNXXWz1g) |
+| 142 | শ্যাকল,রিল বা স্পুল টাইপ ইনসুলেটর | 5:19 | [Watch](https://youtu.be/0O3OuOSqh6A?si=CkCTOU9PHo8uDwHI) |
+| 143 | ক্রস আর্ম এবং ইনসুলেটর সংযোজন প্রক্রিয়া | 9:01 | [Watch](https://youtu.be/9ceCT-eQpLE) |
+| 144 | স্ট্রেইন ইনসুলেটর | 6:35 | [Watch](https://youtu.be/dROxtmcBxPY?si=oBZ9t6gY3WyoVo7W) |
+| 145 | প্রতিটি ইনসুলেটর পিন ও আর্থের মধ্যবর্তী ক্যাপাসিট্যান্স, ইনসুলেটরের নিজস্ব ক্যাপাসিট্যান্স | 7:26 | [Watch](https://youtu.be/YKE_emz0mKE) |
+| 146 | স্টে বা গাই ইনসুলেটর | 3:07 | [Watch](https://youtu.be/viomv8xh_20?si=rxQeqAKAcyum8Zw_) |
+| 147 | ইনসুলেটর অকেজো হওয়ার কারণসমূহ | 18:32 | [Watch](https://youtu.be/nXjslRxensM) |
+| 148 | ইনসুলেটর পরীক্ষা করার বিভিন্ন পদ্ধতি | 5:05 | [Watch](https://youtu.be/0FEQ7RV97IM) |
+| 149 | Part-1 প্রতিটি ইনসুলেটর পিন ও আর্থের ক্যাপাসিট্যান্স 0 .15C এবং লাইনের মধ্যবর্তী ক্যাপাসিট্যাান্ | 17:34 | [Watch](https://youtu.be/m3W1bHTZOrw) |
+| 150 | Part- 2 প্রতিটি ইনসুলেটর পিন ও আর্থের ক্যাপাসিট্যান্স 0. 15C এবং লাইনের মধ্যবর্তী ক্যাপাসিট্যাান্ | 18:12 | [Watch](https://youtu.be/KUno0dTeZRs) |
+| 151 | আর্থ এবং লাইনের সাথে ইনসুলেটর পিনের ক্যাপাসিট্যান্স যথাক্রমে 0 .2 C এবং 0. 1C, | 22:19 | [Watch](https://youtu.be/JkkkTR4UM14) |
+
+
+## Unit 7 — SAG
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 152 | SAG গাণিতিক সমাধান 1 | 11:17 | [Watch](https://youtu.be/QAkZ5xHzXeA) |
+| 153 | SAG গাণিতিক সমাধান 2 | 23:23 | [Watch](https://youtu.be/9Afz5gtkidI) |
+
+
+## Unit 8 — VOLTAGE DISTRIBUTION OF A STRING OF SUSPENSION INSULATORS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 154 | সাসপেনশন টাইপ ইনসুলেটর | 15:33 | [Watch](https://youtu.be/jyf5UsRDaUs) |
+| 155 | উচ্চ ভোল্টেজে ডিসি পরিবহন | 7:25 | [Watch](https://youtu.be/u6hRV64HgUA?si=aO3R1yrpv5RkSBbq) |
+| 156 | সাসপেনশন ইনসুলেটরের ভোল্টেজ ডিস্ট্রিবিউশন | 6:09 | [Watch](https://youtu.be/-D1yXRRzOtY) |
+| 157 | CRITICAL DISRUPTIVE VOLTAGE | 11:33 | [Watch](https://youtu.be/O5Jm0pA2fR8) |
+| 158 | সাসপেনশন সমস্যার সমাধান 1 | 11:11 | [Watch](https://youtu.be/pwcHJ3bnwDA) |
+| 159 | হাই ভোল্টেজ ডিসি | 10:02 | [Watch](https://youtu.be/AvBQvqzby_0?si=C2Pn789Xvc1g-EDr) |
+| 160 | রিগোবাস পদ্ধতিতে  ভোল্টেজ ও কারেন্ট নির্ণয় | 11:00 | [Watch](https://youtu.be/HkaC4wpdchw) |
+| 161 | বাংলাদেশের বিদ্যুৎ কেন্দ্রসমূহের জেনারেটিং ভোল্টেজ | 8:35 | [Watch](https://youtu.be/4Tu29XsiyEk) |
+| 162 | সাসপেনশন গাণিতিক সমাধান 1 | 9:32 | [Watch](https://youtu.be/iF9njvEyJlE) |
+| 163 | ইনসুলেটর টেস্টিং | 5:32 | [Watch](https://youtu.be/W4A2uT61uFw) |
+| 164 | রিগোবাস পদ্ধতিতে  ভোল্টেজ ও কারেন্ট নির্ণয় পার্ট২ | 13:25 | [Watch](https://youtu.be/X7zS5Y_Odqc) |
+| 165 | সাসপেনশন ইনসুলেটরের স্ট্রিং বরে ভোল্টেজ বন্টনের পয়েন্টগুলো | 8:20 | [Watch](https://youtu.be/r9mDEra6M1Y) |
+| 166 | সাসপেনশন গাণিতিক সমাধান 2 | 8:27 | [Watch](https://youtu.be/L7lBYkzL-IQ) |
+| 167 | ইসুলেটর টেস্টিং | 8:22 | [Watch](https://youtu.be/s9oIbCiI7KM) |
+| 168 | রিগোবাস পদ্ধতিতে  ভোল্টেজ ও কারেন্ট নির্ণয় পার্ট ৩ | 15:21 | [Watch](https://youtu.be/scUMflbiTyc) |
+| 169 | সাসপেনশন ইনসুলেটরের ক্ষেত্রে পরিবাহীর নিকটতম ডিস্কের ভোল্টেজ সর্বাধিক | 6:18 | [Watch](https://youtu.be/2Vs5eDDx4Rs) |
+| 170 | স্ট্রিং এবং স্ট্রিং ইফিসিয়েন্সি | 12:25 | [Watch](https://youtu.be/rnpUz4ghYAA) |
+| 171 | স্ট্রিং দক্ষতা | 6:20 | [Watch](https://youtu.be/XBJ1NH37XSU) |
+| 172 | বাংলাদেশে বিদ্যুৎ পরিবহন ও বিতরন ব্যবস্থায় ব্যবহৃত স্ট্যান্ডার্ড ভোল্টেজের মান নির্ণয় | 6:13 | [Watch](https://youtu.be/tqVea2GCe8Q) |
+| 173 | অপারেটিং ভোল্টেজ কত? এর গাণিতিক সমাধান | 3:34 | [Watch](https://youtu.be/O6qrjYVO58c) |
+| 174 | Suspension tyA Insulator (প্রমাণ) | 12:20 | [Watch](https://youtu.be/VXzFqpp-m2I) |
+| 175 | একটি সিঙ্গেল কোর ক্যাবলের সর্ব্বোচ্চ এবং সর্বনিম্ন...এদের অপারেটিং ভোল্টেজ নির্ণয় | 7:35 | [Watch](https://youtu.be/cKfn9DPafdw?si=xlQ04rkB6bc7hJ5W) |
+| 176 | নিচের চিত্রে একটি সিঙ্গেল ফেজ এসি...প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় | 26:08 | [Watch](https://youtu.be/u2j2AGGkofY?si=5h-DbT3XS7k_s1FE) |
+| 177 | স্ট্রিং দক্ষতা কম বা বেশি হলে কী হয় | 4:29 | [Watch](https://youtu.be/ApeHym3yXrs) |
+| 178 | এক কিলোমিটার দীর্ঘ একটি এক ফেজ এসি ডিস্ট্রিবিউটরের প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় এর গাণিতিক সমাধান | 20:14 | [Watch](https://youtu.be/4vlDQugeOuA) |
+| 179 | ডিস্ট্রিবিউশন লাইনের ভোল্টেজ রেটিংগুলো কত | 2:16 | [Watch](https://youtu.be/U4LKGWAvIZk) |
+| 180 | একটি সিঙ্গেল কোর ক্যাবলের সর্ব্বোচ্চ...ইনসুলেশন পুরুত্ব এবং অপারেটিং ভোল্টেজ নির্ণয় | 11:00 | [Watch](https://youtu.be/OooxOctrE_s?si=BunuBVDrCJzArIeo) |
+| 181 | Part - 1 এক কিলোমিটার দীর্ঘ সিঙ্গেল ফেজ AC...প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় | 15:15 | [Watch](https://youtu.be/AXWa51PBjQI?si=SMprMpkkhCTziSAD) |
+| 182 | স্ট্রিং দক্ষতা বাড়াতে হলে  কি করতে হবে | 7:19 | [Watch](https://youtu.be/jBa_NZ9HpHg) |
+| 183 | প্রতিটি কোর ও আর্থের মধ্যে ভোল্টেজ কত হবে ? | 13:34 | [Watch](https://youtu.be/c_rt0U-mvk0) |
+| 184 | লো-ভোল্টেজ ক্যাবল এর গঠনপ্রণালি | 10:10 | [Watch](https://youtu.be/SM_eFo3nofk?si=DaSv6HCTJLSJRFH3) |
+| 185 | এক কিলোমিটার দীর্ঘ সিঙ্গেল ফেজ AC...প্রেরণ প্রান্তের ভোল্টেজ নির্ণয় | 7:20 | [Watch](https://youtu.be/7CECTLXZnG0?si=r6vxbHrlwXUC3dri) |
+| 186 | Part - 1 চিত্র রিং ডিস্ট্রিবিউটরের প্রতি তারের...এবং ঐ বিন্দুর তারের ভোল্টেজ নির্ণয় | 15:19 | [Watch](https://youtu.be/MVwLKULuC-o?si=bBAdZR1YUadzYyTU) |
+| 187 | স্ট্রিং দক্ষতা উন্নয়নের পদ্ধতিসমূহ | 11:34 | [Watch](https://youtu.be/CzoUhFZ__RM) |
+| 188 | লো, হাই এবং সুপার হাই ভোল্টেজের ক্ষেত্রে অ্যান্ডারগ্রাউনই ক্যাবলের গঠনগত বৈশিষ্ট্য | 7:30 | [Watch](https://youtu.be/ldPhxijHwjY) |
+| 189 | একটি এক কোর ক্যাবল কন্ডাক্টর ব্যাস 2cm...ইন্টারশিথের ভোল্টেজ নির্ণয় | 21:08 | [Watch](https://youtu.be/lAuCiv7zdjg?si=iJGUZdkapNJEoVGd) |
+| 190 | Part - 2 চিত্র রিং ডিস্ট্রিবিউটরের প্রতি তারের... এবং ঐ বিন্দুর তারের ভোল্টেজ নির্ণয় | 6:19 | [Watch](https://youtu.be/KM87GCYLB4c?si=UocxBxRivyczLQAN) |
+| 191 | একটি 100Km 3ϕ পরিবহন লাইন 132 Kv...পরিবহন লাইনের ভোল্টেজ রেগুলেশন ও দক্ষতা নির্ণয় | 20:34 | [Watch](https://youtu.be/B2mPYGIDVUU) |
+| 192 | স্ট্রিং ইফিসিয়েন্সি উন্নয়নের প্রয়োজন | 4:29 | [Watch](https://youtu.be/nukXsfAsEL8) |
+| 193 | একটি তিন ফেজ, চার তার ব্যালেন্স ডিস্ট্রিবিউটরের সাপ্লাই ভোল্টেজ নির্ণয়ের | 18:28 | [Watch](https://youtu.be/p3PNX8AijP0) |
+| 194 | এক্সট্রা হাই-ভোল্টেজ ক্যাবল (66 কেভি পর্যন্ত প্রেসার ক্যাবল) এক কোর  তৈল ভর্তি ক্যাবল | 11:29 | [Watch](https://youtu.be/N_FnsK-ZEAg?si=74HphiNQVK4wn75-) |
+| 195 | একটি দু’তার 600mদীর্ঘ AB ডিস্ট্রিবিউটরের A বিন্দু হতে...সর্বনিম্ন ভোল্টেজ নির্ণয় | 21:32 | [Watch](https://youtu.be/WqtgzCq9i2A?si=QRxPZ1OVNDSexqe5) |
+| 196 | স্ট্রিং দক্ষতা উন্নয়নের সর্বাধিক প্রচলিত পদাধতির বর্ণনা | 6:12 | [Watch](https://youtu.be/aezhIOGRfig) |
+| 197 | চিত্রে প্রদর্শিত রিং ডিস্ট্রিবিউটরের প্রতি তার...সর্বনিম্ন বিন্দু এবং ঐ ভোল্টেজ নির্ণয় | 18:27 | [Watch](https://youtu.be/S2heMtDAjyk?si=dJVcxkeWKry6H1bN) |
+| 198 | একটি 3 ϕ 50 সাইকেল সরবারাহ লাইনের রোধ রিয়্যাকট্যান্স...ভোল্টেজ রেগুলেশন বের কর | 27:15 | [Watch](https://youtu.be/_RVsWUCjkqM) |
+| 199 | ইস্পাতের টাওয়ার স্থাপনের জন্য স্টাব সেটিং | 4:15 | [Watch](https://youtu.be/BH0Xku1K-eM) |
+| 200 | ডিসরাপটিভ ক্রিটিক্যাল ভোল্টেজ | 20:19 | [Watch](https://youtu.be/MGFTTKY01P4) |
+| 201 | লম্বা ক্রস আর্ম ব্যবহার করে স্ট্রিং  এর দক্ষতা উন্নয়ন | 5:14 | [Watch](https://youtu.be/Rl1BswJoMmw) |
+| 202 | একটি দুই তার বিশিষ্ট 300 m দীর্ঘ রিং ডিস্ট্রিবিউটরের A...B ও C বিন্দুতে ভোল্টেজ নির্ণয় | 13:29 | [Watch](https://youtu.be/TlopSsqe6pM?si=Vg7rh6t87Dc9bY8o) |
+| 203 | ভিজুয়াল ক্রিটিক্যাল ভোল্টেজ | 10:05 | [Watch](https://youtu.be/_B2tf6B1qPA) |
+| 204 | ইনসুলেটর গ্রেডিং এর মাধ্যমে স্ট্রিং এর দক্ষতা উন্নয়ন | 5:20 | [Watch](https://youtu.be/FFA7zHfaD58) |
+| 205 | পিন ও সাসপেনশন টাইপ ইনসুলেটরের বর্ণনা | 5:22 | [Watch](https://youtu.be/AUqISDwFjCY) |
+| 206 | হাই ভোল্টেজ ক্যাবল 11 কেভি পর্যন্ত, বেটেড ক্যাবল এর গঠনপ্রণালি | 6:01 | [Watch](https://youtu.be/I53IFzcv_I0) |
+| 207 | এক কিলোমিটার দীর্ঘ 0.05 A by m ইউনিফরমলি...মোট ভোল্টেজ ড্রপ নির্ণয় | 5:28 | [Watch](https://youtu.be/vr2Cx7nGvZ8?si=-RbN6IhjOGdfAvst) |
+| 208 | গার্ড রিং ব্যবহার করে স্ট্রিং  এর দক্ষতা উন্নয়ন | 3:22 | [Watch](https://youtu.be/UYs7l8rmmlM) |
+| 209 | পিন ও সাসপেনশন টাইপ ইনসুলেটরের বিস্তারিত আলোচনা | 15:27 | [Watch](https://youtu.be/OSV4lsUcQ2Q?si=OE1cwnHhGIeGvuyt) |
+| 210 | চিত্রসহ একটি হাই ভোল্টেজ ক্যাবলের গঠন প্রকৃতি বর্ণনা কর | 4:22 | [Watch](https://youtu.be/2P5dQMcWcYAৎ) |
+| 211 | একটি 11 কেভি তিন ফেজ সরবরাহ লাইনের মাধ্যমে 0.8  শতকরা ভোল্টেজ রেগুলেশন নির্ণয় | 9:05 | [Watch](https://youtu.be/Pwx3Kxdib6s) |
+| 212 | কন্ডাকটিং গ্লেজ ব্যবহার করে স্ট্রিং –এর দক্ষতা উন্নয়ন | 6:27 | [Watch](https://youtu.be/doaRKQ39Hik) |
+| 213 | পিন ও সাসপেনশন ইনসুলেটরের তুলনামূলক সুবিধা ও অসুবিধা | 16:09 | [Watch](https://youtu.be/Of45t9frlNU?si=WnJKdV9Fs3qGVqoB) |
+| 214 | চার ইউনিটের একটি সাসপেনশন ইনসুলেটরের মিউচুয়াল ও আর্থ ক্যাপাসিট্যান্সের FORMULA | 14:08 | [Watch](https://youtu.be/WS9tOS8GByg) |
+| 215 | সুপার হাই ভোল্টেজ ক্যাবল 33 কেভি | 5:28 | [Watch](https://youtu.be/esnRaqqQCIc) |
+| 216 | HVDC (High Voltage Direct Current) | 5:07 | [Watch](https://youtu.be/TbysjS0gc1k) |
+| 217 | চার ইউনিটের একটি সাসপেনশন ইনসুলেটরের মিউচুয়াল ও আর্থ ক্যাপাসিট্যান্সের অনুপাত 8 অনুপাত | 13:26 | [Watch](https://youtu.be/gaRKMiwu_EI) |
+| 218 | 4 ইউনিটের সাসপেনশন ইনসুলেটরের মাধ্যমে টানা হয়েছে, প্রতি ইউনিট ও আর্থ ক্যাপাসিট্যান্স এর অনুপাত | 11:09 | [Watch](https://youtu.be/BY6lR-IEMqA) |
+| 219 | একস্ট্রা হাই ভোল্টেজ ক্যাবল 66 কেভি পর্যন্ত প্রেসার ক্যাবল | 5:34 | [Watch](https://youtu.be/VXQ9JKhA6uA) |
+| 220 | 2 কেভি এক ফেজ লাইন 500 কেভি এ লোডের সাথে যুক্ত   ভোল্টেজ রেগুলেশন নির্ণয় | 7:04 | [Watch](https://youtu.be/1GDVe9JIpQc) |
+| 221 | যদি মিউচুয়াল ক্যাপাসিট্যান্স ইনসুলেটর ও আর্থের  ..তবে প্রত্যেক ইনসুলেটরের ভোল্টেজ নির্ণয় | 15:06 | [Watch](https://youtu.be/SBBmq3MaPBE) |
+| 222 | সাসপেনশন ইনসুলেটরের স্ট্রিং এর প্রতিটি ইউনিটের আড়াআড়ি ভোল্টেজ ডিস্ট্রিবিউশনের সমীকরণ | 24:05 | [Watch](https://youtu.be/Q0q9NDrC6yI) |
+| 223 | গার্ড রিং ব্যবহার করে সাসপেনশন ইনসুলেটররের ভোল্টেজ সমান করার পদ্ধতিসমূহ | 10:07 | [Watch](https://youtu.be/3dQ7XSFG3Sw) |
+| 224 | স্পার্ক ওভার ভোল্টেজ, পাংচার ভোল্টেজ, সেফটি ফ্যাক্টর | 15:21 | [Watch](https://youtu.be/LRZnNE5SpLo) |
+
+
+## Unit 9 — LINE CONSTANTS OF TRANSMISSION LINE & SKIN EFFECT
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 225 | Skin effect of transmission | 7:22 | [Watch](https://youtu.be/R8c8xSd4-HM) |
+| 226 | Long Transmission Line | 19:18 | [Watch](https://youtu.be/ox3ANxawWDg) |
+| 227 | Proximity effect of transmission line | 4:28 | [Watch](https://youtu.be/qNaQ_JCTb38) |
+| 228 | ট্রান্সমিশন লাইনের লাইন কনস্ট্যান্ট | 4:17 | [Watch](https://youtu.be/GXTzQBqPPEA?si=bObS5bcjGLNGtFxe) |
+| 229 | Performance of medium transmission line | 13:17 | [Watch](https://youtu.be/erFNPKcX39Y) |
+| 230 | ট্রান্সমিশন লাইন কনস্ট্যান্ট | 2:19 | [Watch](https://youtu.be/nsqCF9e4gFU?si=zVfX-tyO6bj3yU0O) |
+| 231 | কনস্ট্যান্ট ভোল্টেজ ট্রান্সমিশন | 7:29 | [Watch](https://youtu.be/PlWg2nCnr-4) |
+| 232 | লাইন কনস্ট্যান্টগুলোকে লাইনে প্রকাশ | 5:08 | [Watch](https://youtu.be/yvEFeV5_Hj0?si=w6sO9hizUVvnRFPU) |
+| 233 | ট্রান্সমিশন লাইন কনস্ট্যান্ট | 5:06 | [Watch](https://youtu.be/SmB5CSKmojE?si=jPmBwI-1H-gP5XnZ) |
+| 234 | In Temperature effect(প্রমাণ) | 7:14 | [Watch](https://youtu.be/9g7n_BGRUXc) |
+
+
+## Unit 10 — SURVEY OF TRANSMISSION AND DISTRIBUTION LINE ROUTE
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 235 | ট্রান্সমিশন বাই ডিস্ট্রিবিউশন লাইনের জরিপ পদ্ধতি | 4:04 | [Watch](https://youtu.be/1azJbRnwwfY) |
+| 236 | Elements of surveying purpose | 8:18 | [Watch](https://youtu.be/vvZpeBS_qcQ) |
+| 237 | ট্রান্সমিশন বাই ডিস্ট্রিবিউশন লাইন জরিপের জন্য প্রয়োজনীয় জরিপ ইস্ট্রুমেন্টের তালিকা | 8:06 | [Watch](https://youtu.be/mHr2D2iXOw4) |
+| 238 | Distribution line Inspection এর সময় যা যা সাথে রাখতে হবে | 3:25 | [Watch](https://youtu.be/Zr2SCx0g1H8) |
+
+
+## Unit 11 — ERECTION OF POLES, TOWERS AND DRAWING OF CONDUCTOR OF OVERHEAD LINE
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 239 | line conductor | 9:24 | [Watch](https://youtu.be/gLDah__hagg) |
+| 240 | ট্রান্সমিশন  লাইনের পরিবাহীর তার | 7:28 | [Watch](https://youtu.be/G-UV0cv3nY4?si=7bTcPyLdiAgpYEzr) |
+| 241 | পরিবাহী এবং পরিবাহী পদার্থ | 4:21 | [Watch](https://youtu.be/R0YtLK-lHis) |
+| 242 | লাইন পরিবাহীর রেজিস্ট্যান্স | 7:22 | [Watch](https://youtu.be/RD2Z-dbc0WY?si=jZo-KMr7pL1PEb6n) |
+| 243 | ওভারহেড ট্রান্সমিশন ও ডিস্ট্রিবিউশন লাইনে বিভিন্ন প্রকার লাইন কন্ডাকটর | 7:33 | [Watch](https://youtu.be/iGFxsMsG4fI) |
+| 244 | Lattice pole | 4:17 | [Watch](https://youtu.be/hhxqI1F0Jj8) |
+| 245 | কন্ডাকটর পদার্থের গুণাবলি | 10:31 | [Watch](https://youtu.be/AxALMLs88JQ) |
+| 246 | 1km দীর্ঘ ক্যাবলের পরিবাহীর ব্যাস 1.5cm...2.5cm করা হলে রোধ কত হবে | 14:32 | [Watch](https://youtu.be/bukP-oknrUY) |
+| 247 | বান্ডিল কন্ডাক্টর Bundle Conductor | 7:11 | [Watch](https://youtu.be/yTARJFdxvTo) |
+| 248 | দেখাও যে  উচ্চ ভোল্টেজে পাওয়ার ট্রান্সমিশনে পরিবাহীর আয়তন কম | 8:10 | [Watch](https://youtu.be/Z1crbohnibw) |
+| 249 | চার্জযুক্ত একক পরিবাহীর ক্ষেত্রে বৈদ্যুতিক বিভবের সমীকরণ নির্ণয় | 6:27 | [Watch](https://youtu.be/GJ6rQlQT548) |
+| 250 | লাইন কন্ডাক্টর রেজিস্ট্যান্স | 3:13 | [Watch](https://youtu.be/SMnp-NmCrVw) |
+| 251 | চার্জযুক্ত একগুচ্ছ পরিবাহীর মধ্যস্থ একটি পরিবাহীর পটেনশিয়াল নির্ণয়ের সমীকরণ দেখাও | 22:32 | [Watch](https://youtu.be/ZS1gywxPud0) |
+| 252 | লাইন পরিবাহীর রেজিস্ট্যান্স নিরূপণের সমীকরণ নির্ণয় | 9:05 | [Watch](https://youtu.be/dKMw-gJjc40?si=0s5xo1_-KbMUZ9_B) |
+| 253 | বান্ডিল কন্ডাক্টরের সুবিধাসমূহ | 7:07 | [Watch](https://youtu.be/CNAWK2zoDOo) |
+| 254 | অভ্যন্তরীণ এবং বহিঃস্থ ফ্লাক্সের কারণে একটি কন্ডাক্টরের ফ্লাক্সের লিংকেজ | 3:26 | [Watch](https://youtu.be/r_xOmNWTklU?si=IjtkUuYOanx2P3YC) |
+| 255 | কন্ডাকটর সাইজ বৃদ্ধি করলে করোনা ইফেক্ট কমে কেন, আলোচনা | 4:19 | [Watch](https://youtu.be/HWOVG13RRl4) |
+| 256 | পরিবাহীর সাশ্রয়ী সাইজ নির্ণয়ে কেলভিনের সূত্র প্রয়োগের ক্ষেত্রে সীমাবদ্ধতা | 7:29 | [Watch](https://youtu.be/KgA-pY3tz9c) |
+| 257 | স্বল্পদৈর্ঘ্য ওভারহেড লাইনের সার্কিট ও ভেক্টর ডায়াগ্রাম অঙ্কন | 6:11 | [Watch](https://youtu.be/TszVJTwWsfE) |
+| 258 | একক কারেন্টবাহী কন্ডাক্টরে ফ্লাক্স লিংকেজ | 3:13 | [Watch](https://youtu.be/-lp5PLSgyvY?si=C46b0GjgebdljmJk) |
+| 259 | আবহাওয়ামণ্ডল এবং কন্ডাক্টর সাইজ কীভাবে করোনাকে প্রভাবিত করে, তা আলোচনা | 6:05 | [Watch](https://youtu.be/PD3HuRTgaC8) |
+| 260 | কপার কন্ডাকটর | 6:21 | [Watch](https://youtu.be/ImwYP4UeX2g) |
+| 261 | অভ্যন্তরীণ ফ্লাক্সের কারণে একটি কন্ডাক্টরে ফ্লাক্স লিংকেজ | 26:10 | [Watch](https://youtu.be/jZs2DT7K1t0) |
+| 262 | অ্যালুমিনিয়াম কন্ডাকটর | 6:02 | [Watch](https://youtu.be/ZaM1HEqY3QI?si=RfZ1NCStghKPPskc) |
+| 263 | কন্ডাক্টরের মধ্যে ব্যবধান | 6:26 | [Watch](https://youtu.be/Qsiz3dvdm4k) |
+| 264 | অ্যালুমিনিয়াম কন্ডাকটরের টান সহনক্ষমতা কিভাবে বাড়ানো হয় | 7:07 | [Watch](https://youtu.be/MUSBiA0jo7c) |
+| 265 | তিন ফেজ ট্রান্সমিশন লাইনে অসম দূরত্বে অবস্থিত পরিবাহীর ক্যাপাসিট্যান্স নিরূপণ | 29:13 | [Watch](https://youtu.be/AyfOHhKp1XY) |
+| 266 | অ্যানেলিং টেম্পারেচার 60°C হলে পরিবাহী পদার্থের রেজিস্ট্যান্স কত | 9:07 | [Watch](https://youtu.be/JGb6JmQPH2U?si=sPiIqVp4WAGGWmB9) |
+| 267 | প্রতিটি পরিবাহীর রোধ ও রিয়্যাকট্যান্স যথাক্রমে 6Ω   প্রেরণ প্রন্তের ভোল্টেজ নির্ণয় | 19:21 | [Watch](https://youtu.be/L4PD2K9nkQA) |
+| 268 | 6km দীর্ঘ একটি তিন ফেজ, 33kV  পরিবাহীর ব্যাস 3 সেন্টিমিটার হলে লাইনের চার্জিং কারেন্ট নির্ণয় | 12:08 | [Watch](https://youtu.be/esrS3t5iCSo) |
+| 269 | Part- 1 গ্যালভানাইজড স্টিল কন্ডাক্টর | 5:13 | [Watch](https://youtu.be/U5z_TO0-4UU) |
+| 270 | সমউচ্চতায় দুটি সাপোর্টের মাঝের পরিবাহীর স্যাগ নির্ণয়ের সূত্র লেখ | 18:33 | [Watch](https://youtu.be/GHk2tYTLRc0) |
+| 271 | Part- 2 গ্যালভানাইজড স্টিল কন্ডাক্টর | 5:16 | [Watch](https://youtu.be/QiyaRPunj2o) |
+| 272 | কন্ডাকটরগুলো আনসিমেট্রিক্যাল স্পেসিং হিসাবে অবস্থান | 4:19 | [Watch](https://youtu.be/guxClyV1ehk) |
+| 273 | গ্যালভানাইজড স্টিল কন্ডাক্টর কোথায় ব্যবহৃত হয় | 6:10 | [Watch](https://youtu.be/TiXYuySH8tE) |
+| 274 | একটি তিন ফেজ ক্যাবলের গঠন চিত্র অঙ্কনপূর্বক বিভিন্ন অংশ চিহ্নিত কর | 5:11 | [Watch](https://youtu.be/nzkc8PJbLVg) |
+| 275 | লাইন পরিবাহীর ট্রান্সপজিশন | 13:02 | [Watch](https://youtu.be/2U1KK7U7qZw) |
+| 276 | যদি তাপমাত্রা 60°সেন্টিগ্রেট    তবে খেইযুক্ত কন্ডাক্টরের ক্ষেত্রে কিলোমিটার লাইনের লস নির্ণয় | 14:05 | [Watch](https://youtu.be/JbdukiN8p1w) |
+| 277 | স্যাগের হিসাব, যখন কন্ডাক্টরের উপর বরফ ও ঝড় একই সঙ্গে ক্রিয়া করে | 24:16 | [Watch](https://youtu.be/Q0gdCX_xfJM) |
+| 278 | ক্যাডমিয়াম কপার কন্ডাক্টর | 4:05 | [Watch](https://youtu.be/7WGHv3qEZjA) |
+| 279 | অসম উচ্চতায় দুটি পোলের পরিবাহীর মধ্যে স্যাগের সূত্র নির্ণয় | 12:13 | [Watch](https://youtu.be/t6S67ynJrOc) |
+| 280 | কপার ক্ল্যাড এবং ক্যাডমিয়াম কপার কন্ডাক্টর ব্যবহার কোথায় ব্যবহৃত হয় | 4:34 | [Watch](https://youtu.be/Tmlg1IHuFBw) |
+| 281 | দেখাও যে, উচ্চ ভোল্টেজে পাওয়ার ট্রান্সমিশনে পরিবাহীর আয়তন কম লাগে তিন তার | 21:10 | [Watch](https://youtu.be/3wYZpnmzcjM) |
+| 282 | একটি রিং ডিস্ট্রিবিউটরের চিত্র অঙ্কন কর | 3:07 | [Watch](https://youtu.be/tpX6SCJpwtk) |
+| 283 | ফসফর ব্রোঞ্জ কন্ডাক্টর | 1:34 | [Watch](https://youtu.be/w4T0aKso3d8) |
+| 284 | ওভারহেড লাইনে কন্ডাকটর টানা | 10:00 | [Watch](https://youtu.be/Jaur6cRgedk) |
+| 285 | যদি পরিবাহীর পীড়ন 1500 কেজি হয়, তবে মধ্যবিন্দুতে পানির উপরিভাগ হতে তারের উচ্চতা নির্ণয় | 11:30 | [Watch](https://youtu.be/s_FrnjtpMGc) |
+| 286 | ফসফর ব্রোঞ্জ বা সিলিকন কন্ডাক্টর কোথায় ব্যবহৃত হয় | 3:26 | [Watch](https://youtu.be/gMvt3zMfPjA) |
+| 287 | পরিবাহীর রোধ প্রতি কিলোমিটারে প্রতি বর্গসেন্টিমিটারে 0 24Ω হয়, তবে অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 15:14 | [Watch](https://youtu.be/EGJfLxUXDTI) |
+| 288 | অ্যালুনিমিয়াম কন্ডাকটরে স্টিল রেইনফোর্সড | 7:13 | [Watch](https://youtu.be/27LHwD7PnzE) |
+| 289 | কপার পরিবাহীর গুণাগুণ বা বৈশিষ্ট্য | 10:04 | [Watch](https://youtu.be/lKucD24gn48) |
+| 290 | যদি পরিবাহীর পীড়ন 1200kg Per cm2 ও বাতাসের চাপ 20kg Per m2 হয় তবে, নদীর মধ্যবিন্দুতে পানির উপরি | 17:18 | [Watch](https://youtu.be/imZGU7w0PeQ) |
+| 291 | অ্যালুমিনিয়াম পরিবাহীর গুণাগুণ বা বৈশিষ্ট্য | 14:04 | [Watch](https://youtu.be/AUGpdUUfhHs) |
+| 292 | বিভিন্ন ওভারহেড সিস্টেমে পরিবাহীর কপার সাশ্রয়ের তুলনা | 8:14 | [Watch](https://youtu.be/vj-zwfE2RiM) |
+| 293 | প্রতিটি পরিবাহীর ব্যাস 1.27cm হলে 100km দীর্ঘ লাইনের জন্য ইন্ডাকট্যান্স নির্ণয় | 11:04 | [Watch](https://youtu.be/NitPlHaMTbs) |
+| 294 | অ্যালুমিনিয়াম কন্ডাকটর স্টিল রিইনফোর্সড এর গুণাগুণ বা বৈশিষ্ট্য | 7:17 | [Watch](https://youtu.be/H1BB8ncI4vY) |
+| 295 | যদি পরিবাহীর ব্যাস 1.24 সেমি এবং সরবরাহ ভোল্টেজ   হয় তবে প্রতিটি তারের চার্জিং কারেন্ট নির্ণয় | 14:05 | [Watch](https://youtu.be/_c-giW_h5sE) |
+| 296 | উচ্চ ভোল্টেজ পরিবহনে অ্যালুমিনিয়াম পরিবাহীর ব্যবহার করা হয় কেন | 2:34 | [Watch](https://youtu.be/RR88qTwTO5E) |
+| 297 | কপার ও অ্যালুমিনিয়াম পরিবাহীর তুলনামূলক বৈশিষ্ট্য | 5:13 | [Watch](https://youtu.be/-71stwPCiEQ) |
+| 298 | ওভারহেড সিস্টেমের সাথে আন্ডারগ্রাউন্ড সিস্টেম পরিবাহীর কপার সাশ্রয়ের তুলনা | 8:10 | [Watch](https://youtu.be/niIpMc1j6jg) |
+| 299 | গ্যালভানাইজড স্টিল কন্ডাকটরের টান সহনক্ষমতা অনেক বেশি, এটি তেমন ব্যবহৃত হয় না কেন? | 5:05 | [Watch](https://youtu.be/3SlS7aU5UpE) |
+| 300 | প্রতি মিটার তারের ওজন 0 8 কেজি হলে নদীর মধ্যবর্তী স্থানে পানির তল হতে পরিবাহীর কত উপরে থাকবে | 17:20 | [Watch](https://youtu.be/kfzfgsmPqHQ) |
+| 301 | পরিবাহী হিসেবে স্ট্রান্ডেড কপার কন্ডাক্টর ব্যবহার করার কারণ কী | 7:01 | [Watch](https://youtu.be/4r13-MVeBE4) |
+| 302 | নিম্নমানের পাওয়ার ফ্যাক্টর পরিবাহীর আয়তনের উপর প্রভাব | 5:16 | [Watch](https://youtu.be/c0op1LFIHeM?si=x8vVxrZzb5XEHx6P) |
+| 303 | থ্রি ফেজ সিঙ্গেল সার্কিট সমদূরত্বের পরিবাহী লাইন | 4:32 | [Watch](https://youtu.be/UI1w2E45JBU) |
+
+
+## Unit 12 — VOLTAGE REGULATION AND EFFICIENCY OF SHORT TRANSMISSION LINE
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 304 | একটি (3-𝜱) short   transmission লাইন…………লাইনটির   ট্রান্সমিশন দক্ষতা নির্ণয় কর। | 11:16 | [Watch](https://youtu.be/mB7sdJZXEKs) |
+| 305 | দেখাও যে   উচ্চ ভোল্টেজে ট্রান্সমিশন লাইনের দক্ষতা বৃদ্ধি পায়: | 7:11 | [Watch](https://youtu.be/IXgv1lIlW94) |
+| 306 | উচ্চ ভোল্টেজ ডিসি ট্রান্সমিশন এর সুবিধা ও অসুবিধা | 15:26 | [Watch](https://youtu.be/w3-vNyA7K5g?si=YAPVMlEugP2hynOb) |
+| 307 | বাংলাদেশের সর্বোচ্চ ট্রান্সমিশন ভোল্টেজ নির্ণয় | 11:04 | [Watch](https://youtu.be/vAEBu9uCTNs) |
+| 308 | Part - 1 একটি 3 Φ উচ্চ ভোল্টেজ ট্রান্সমিশন লাইনের রেজিস্ট্যান্স...ভোল্টেজ ও কারেন্ট নির্ণয় | 12:25 | [Watch](https://youtu.be/ab5TtxpkyAM?si=oan-XauLXVl5zxUj) |
+| 309 | ট্রান্সমিশন সিস্টেমের সাশ্রয়ী ভোল্টেজ নির্বাচন | 13:31 | [Watch](https://youtu.be/xl7I4XwZqcQ) |
+| 310 | Part - 2 একটি 3 Φ উচ্চ ভোল্টেজ ট্রান্সমিশন লাইনের রেজিস্ট্যান্স...ভোল্টেজ ও কারেন্ট নির্ণয় | 7:34 | [Watch](https://youtu.be/4rgVagjC2gM?si=QKAa_ylP2oDWwVsv) |
+| 311 | Part - 3 একটি 3 Φ উচ্চ ভোল্টেজ ট্রান্সমিশন লাইনের রেজিস্ট্যান্স...ভোল্টেজ ও কারেন্ট নির্ণয় | 21:07 | [Watch](https://youtu.be/oHYqIoQq9O4?si=18R68_6eGLWZY2vD) |
+| 312 | একটি তিন ফেজ ওভারহেড ট্রান্সমিশন লাইনে 33kV   হলে লাইনের ভোল্টেজ রেগুলেশন ও দক্ষতার নির্ণয় | 13:02 | [Watch](https://youtu.be/GJxoeHwaPck) |
+| 313 | একটি শিল্পকারখানায় তিন ফেজ লোড 0 .8  শতকরা ভোল্টেজ রেগুলেশন ও ট্রান্সমিশন দক্ষতা নির্ণয় | 14:33 | [Watch](https://youtu.be/6auR154mc3Y) |
+| 314 | নিম্ন ভোল্টেজ ট্রান্সমিশনের তুলনায় উচ্চ ভোল্টেজ ট্রান্সমিশনের সুবিধা | 16:28 | [Watch](https://youtu.be/hdKB6M2BmAE) |
+| 315 | একটি 3 ফেজ ট্রান্সমিশন লাইনের মাধ্যমে 0.8   লাইনের ভোল্টেজ ও ট্রন্সমিশন দক্ষতা নির্ণয় | 11:08 | [Watch](https://youtu.be/ZmKRqAIp8Yo) |
+| 316 | একটি শিল্পকারখানায় 3 ফেজ 0.8 ল্যাগিং  শতকরা ভোল্টেজ রেগুলেশন ও ট্রন্সমিশন দক্ষতা নির্ণয় | 13:02 | [Watch](https://youtu.be/UjAy6VcBaN8) |
+| 317 | দেখাও যে, উচ্চ ভোল্টেজে ট্রান্সমিশন লাইনের দক্ষতা বৃদ্ধি পায় | 21:13 | [Watch](https://youtu.be/0KDNwju7zbc) |
+| 318 | একটি 10 কিমি দীর্ঘ তিন ফেজ ট্রান্সমিশন    পরিবহন দক্ষতা এবং ভোল্টেজ রেগুলেশন নির্ণয় | 11:13 | [Watch](https://youtu.be/XPYK3eRswQk) |
+| 319 | অধিক উচ্চ ট্রান্সমিশন ভোল্টেজের সীমাবদ্ধতা | 11:35 | [Watch](https://youtu.be/1ts3CC_-OdI) |
+| 320 | একটি 11kV একফেজ ট্রান্সমিশন লাইন 0.8   প্রেরণ প্রান্তের ভোল্টেজ ,শতকরা রেগুলেশন নির্ণয় | 7:13 | [Watch](https://youtu.be/5QbbjcznlhE) |
+| 321 | একটি ট্রান্সমিশন লাইনের প্রহণ প্রান্তে 2MW   প্রেরণ প্রান্তের ভোল্টেজ ও কারেন্ট নির্ণয় | 4:31 | [Watch](https://youtu.be/9OEI9KL26SU) |
+| 322 | একটি 3 ফেজ, 50Hz, 16 কিলোমিটার দীর্ঘ্য    ভোল্টেজ রেগুলেশন এবং ট্রান্সমিশন দক্ষতা নির্ণয় | 10:09 | [Watch](https://youtu.be/zTUy4s_cN6M) |
+| 323 | সর্বোচ্চ মিতব্যয়ী ট্রান্সমিশন ভোল্টেজের সূত্র | 4:21 | [Watch](https://youtu.be/j8EzmBh2DeA) |
+
+
+## Unit 13 — UNDERGROUND CABLES
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 324 | Common Fault occurs on underground cable | 5:19 | [Watch](https://youtu.be/xEMqNrsBjys) |
+| 325 | Underground Cable Capacitance Effect | 16:28 | [Watch](https://youtu.be/POpoghtUikI) |
+| 326 | Underground Cable | 14:28 | [Watch](https://youtu.be/NH4jX0gDMZ4) |
+| 327 | Underground Cable Capacitance নির্ণয় এর সমীকরণ | 7:23 | [Watch](https://youtu.be/t1KxU6F5vCw) |
+| 328 | Classification of underground cable | 14:29 | [Watch](https://youtu.be/OCFeQeI24FI) |
+| 329 | Underground Cable এর চার্জিং কারেন্ট নির্ণয়ের গাণিতিক সমাধান | 8:11 | [Watch](https://youtu.be/WSmJ6u8W3LY) |
+| 330 | Structure of underground cable | 8:13 | [Watch](https://youtu.be/k9V_5dgydME) |
+| 331 | Multicore Cable এর সূত্র | 8:00 | [Watch](https://youtu.be/_cxF3tCMsq8) |
+| 332 | Multicore Cable এর চার্জিং কারেন্ট নির্ণয়ের গাণিতিক সমাধান | 5:13 | [Watch](https://youtu.be/i94z3dPSZTM) |
+| 333 | ক্যাবলের গ্রেডিং (Grading of cables) | 6:13 | [Watch](https://youtu.be/Sq0AU4m_1pI?si=B_jinkDoZAdtKIYM) |
+| 334 | স্যাগের হিসাব, যখন কন্ডাক্টরের উপর কেবল বাতাসের বেগ বা ঝড়ের প্রভাব কাজ করে | 10:13 | [Watch](https://youtu.be/N2Dt36ZQaCM) |
+
+
+## Unit 14 — CABLE FAULT, CABLE LAYING AND CABLE JOINTING
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 335 | বিভিন্ন ধরনের ক্যাবল ফল্ট | 5:16 | [Watch](https://youtu.be/IJqsNJO5RCo) |
+| 336 | ক্যাবলের ত্রুটি | 13:34 | [Watch](https://youtu.be/WyBDXZuggvA?si=Ir7-bkLSbHvZMOFE) |
+| 337 | আন্ডারগ্রাউন্ড ক্যাবল স্থাপন, জয়েন্টিং এবং টার্মিনেশন | 9:11 | [Watch](https://youtu.be/TTuhYjsibM8?si=rwZamrF_JT-6jWn3) |
+| 338 | ক্যাবল ফল্টের কারণসমূহ | 5:14 | [Watch](https://youtu.be/wUQ2r3XmhII) |
+| 339 | ক্যাবলের ত্রুটি চিহ্নিতকরণের বিভিন্ন পদ্ধতিসমূহ | 6:17 | [Watch](https://youtu.be/724jci1XW_U?si=05aZFVrEHXbs8xSZ) |
+| 340 | Different methods for locating cable fault | 9:29 | [Watch](https://youtu.be/-oM6oLZYVJg) |
+| 341 | Direct laying of UC | 4:26 | [Watch](https://youtu.be/uy5zi9-wO6A) |
+| 342 | ক্যাবলের ত্রুটি চিহ্নিতকরণের পদ্ধতি | 4:27 | [Watch](https://youtu.be/Eia1bj3tsL4) |
+| 343 | ডিস্ট্রিবিউশন লাইনের ত্রুটি ও ক্ষয়ক্ষতি মেরামতের পদ্ধতি | 15:16 | [Watch](https://youtu.be/u-zv4-MDuXU) |
+| 344 | মারি লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 10:17 | [Watch](https://youtu.be/6-HVUTg82RQ?si=V-aNH9rR0B67GjD_) |
+| 345 | সরাসরি স্থাপন (Direct laying) | 7:31 | [Watch](https://youtu.be/iqSl2O9oXRM?si=u2X6OTapdo_6ZH_L) |
+| 346 | আন্ডারগ্রাউন্ড ফল্টের কোন ক্ষেত্রে ইন্ডাকশন টেস্ট করা হয় | 4:10 | [Watch](https://youtu.be/vtDFb7B3rbs) |
+| 347 | Part - 1 মারি লুপ টেস্টের সাহায্যে শর্ট  সার্কিট ফল্ট নির্ণয় | 9:12 | [Watch](https://youtu.be/P8whCydDLbk) |
+| 348 | Solid laying system of UC | 2:14 | [Watch](https://youtu.be/TBm0qLW_9Ik) |
+| 349 | Distribution line Common fault | 3:29 | [Watch](https://youtu.be/m8ynBZdD9yU) |
+| 350 | মারি লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 13:25 | [Watch](https://youtu.be/zM2qSuq6Gks) |
+| 351 | Part - 2 মারি লুপ টেস্টের সাহায্যে শর্ট  সার্কিট ফল্ট নির্ণয় | 11:25 | [Watch](https://youtu.be/PDUcuhRaSBE) |
+| 352 | মারি লুপ টেস্টের সাহায্যে শর্ট সার্কিট ফল্ট নির্ণয় | 12:24 | [Watch](https://youtu.be/88YI5dTphSU) |
+| 353 | ভারবি লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 15:07 | [Watch](https://youtu.be/VvRfbgjYEa0) |
+| 354 | ট্রান্সমিশন লাইনে আর্থ তারের কাজ কী,ডিস্ট্রিবিউশন লাইনে সাধারণত কী কী ত্রুটি থাকে | 7:23 | [Watch](https://youtu.be/gvvRhWsDTVw) |
+| 355 | ভারলি  লুপ টেস্টের সাহায্যে গ্রাউন্ড ফল্ট নির্ণয় | 14:16 | [Watch](https://youtu.be/769ggSH51h8) |
+| 356 | ভারবি লুপ টেস্টের সাহায্যে শর্ট সার্কিট ফল্ট নির্ণয় | 12:08 | [Watch](https://youtu.be/sV6R61KXL0s) |
+| 357 | হিট শ্রিঙ্ক টাইপ এবং কোল্ড শ্রিঙ্ক টাইপ ক্যাবল জয়েন্টিং | 7:16 | [Watch](https://youtu.be/mnMUSDw91tA?si=LFpnZxWsYJ1Di9h2) |
+| 358 | টেপ ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 11:01 | [Watch](https://youtu.be/JeIm_l0_6io) |
+| 359 | চিত্রসহ ভারলি লুপ টেস্টের সাহায্যে শর্ট সার্কিট ফল্ট নির্ণয়ের পদ্ধতি আলোচনা কর | 9:34 | [Watch](https://youtu.be/cQr2_i9qevw) |
+| 360 | একটি 500 মিটার দৈর্ঘ্যের ফিডার ক্যাবলের...ফল্ট রেজিস্ট্যান্স নির্ণয় | 15:31 | [Watch](https://youtu.be/1vNhY8Fc6zw) |
+| 361 | একটি 1000 মিটার ক্যাবলের রেজিস্ট্যান্স...হতে ফল্টের দূরত্ব নির্ণয় | 8:08 | [Watch](https://youtu.be/EpfB7X6CHRY) |
+| 362 | আন্ডারগ্রাউন্ড ক্যাবল স্থাপন এবং জয়েন্টিং | 5:10 | [Watch](https://youtu.be/EJX9eDpoECc) |
+| 363 | থিওডোলাইট ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 13:17 | [Watch](https://youtu.be/x4xKmeYQEHk) |
+| 364 | ডাম্পি লেভেল ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 8:25 | [Watch](https://youtu.be/7icC2QLXjfY) |
+| 365 | লেভেলিং দন্ড ইনস্ট্রুমেন্টের ত্রুটি, ব্যবহার ও সঠিকতা | 11:04 | [Watch](https://youtu.be/UZV-Nxyl434) |
+
+
+## Unit 15 — OPERATION AND MAINTENANCE OF DISTRIBUTION LINE
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 366 | ডিস্ট্রিবিউশন লাইনের রক্ষণাবেক্ষণ | 16:22 | [Watch](https://youtu.be/JXtNrLby_xM) |
+| 367 | ডিস্ট্রিবিউশন লাইনের অপারেশন | 9:31 | [Watch](https://youtu.be/tN8sOzA-mew) |
+| 368 | ডিস্ট্রিবিউশন লাইন রক্ষনাবেক্ষন | 7:14 | [Watch](https://youtu.be/-PzJbbTeiqI) |
+| 369 | ট্রান্সমিশন সিস্টেমের প্যানেল বোর্ডের কার্যপ্রণালি | 19:10 | [Watch](https://youtu.be/-OK0Xig6p9A) |
+| 370 | ব্যাটারি চার্জারের কার্যকারিতা | 5:24 | [Watch](https://youtu.be/Ul7NWivNur4) |
+| 371 | ডিস্ট্রিবিউশন লাইনের মেরামত এবং  রক্ষণাবেক্ষণ জন্য ব্যবহৃত ব্যাক্তিগত প্রতিরক্ষামূলক যন্ত্রপাতির | 6:25 | [Watch](https://youtu.be/9bw0NFeZqKE) |
+| 372 | সাবস্টেশনে লোড ডিসপ্যাচ কার্যক্রম | 5:07 | [Watch](https://youtu.be/stHx2EKodoY) |
+| 373 | ডিস্ট্রিবিউশন সিস্টেমের অপারেশন | 14:16 | [Watch](https://youtu.be/hR6OsSQaxhs) |
+| 374 | ব্যাটারি এবং চার্জারের রক্ষণাবেক্ষণ পদ্ধতি | 12:08 | [Watch](https://youtu.be/VUBTsSKh4YM) |
+| 375 | কার্যকরী পীড়ন বর্গ সেমি এ 1050kg, প্রতি ঘনমিটার বরফের ওজন 913 50kg হলে Sag নির্ণয় | 16:23 | [Watch](https://youtu.be/srL6gjf-3SI) |
+| 376 | বৈদ্যুতিক শক্তির ক্ষেত্রে ট্রান্সমিশনের সর্বাপেক্ষা মিতব্যয়ী কার্যকরী ভোল্টেজ | 7:28 | [Watch](https://youtu.be/eYqOVTZGJi0) |
+| 377 | ভাইব্রেশন ডাম্পারের কার্যাবলি | 5:26 | [Watch](https://youtu.be/9NUkwjFfl0E) |
+
+
+## Extra / not in syllabus
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 378 | করোনা | 16:08 | [Watch](https://youtu.be/FMxh18aL8Cg) |
+| 379 | বেসিক আলোচনা | 3:05 | [Watch](https://youtu.be/R2FGPrBqnTA) |
+| 380 | স্যাগ | 5:10 | [Watch](https://youtu.be/0B7rT7ndclc) |
+| 381 | একটি ডিস্ট্রিবিউশন সিস্টেমের সার্কিট ডায়াগ্রাম ও সাবস্টেশনের প্রধান উপাদান 3টি | 9:00 | [Watch](https://youtu.be/OI1hR4YOkXU) |
+| 382 | অ্যান্ডারগ্রাউন্ড ক্যাবলের বর্ণনা | 3:30 | [Watch](https://youtu.be/9Ufoyf4_oAM) |
+| 383 | ডিস্ট্রিবিউশন ব্যবস্থা | 6:04 | [Watch](https://youtu.be/ETqdKZUyg8I) |
+| 384 | স্মার্ট গ্রিড সিস্টেম | 14:32 | [Watch](https://youtu.be/966V_TyhQPc) |
+| 385 | গ্রিড সিস্টেম | 5:26 | [Watch](https://youtu.be/khqhgbAl3ng) |
+| 386 | সাবস্টেশনের ডিসি ডিস্ট্রিবিউশন সিস্টেম | 7:08 | [Watch](https://youtu.be/D1DEx4DPZqo) |
+| 387 | আন্ডারগ্রাউন্ড ক্যাবলের ক্যাপাসিট্যান্স | 25:11 | [Watch](https://youtu.be/SIzwOv5i9H8?si=1mNlIccE6ZJpDiuY) |
+| 388 | ক্যাবলের ইনসুলেশন রেজিস্ট্যান্স এবং ডাই ইলকট্রিক স্ট্রেস | 13:17 | [Watch](https://youtu.be/XiMz5lWitHs?si=oqKh0bMIxX-kw2Pw) |
+| 389 | আন্ডারগ্রাউন্ড ক্যাবল | 11:18 | [Watch](https://youtu.be/qyBVaBbvAQc?si=WOee5Qxaeq-XWavB) |
+| 390 | এসি ডিস্ট্রিবিউশন সিস্টেম | 7:34 | [Watch](https://youtu.be/7HwAHAUDFQA?si=mylHQxMryJ5TiixT) |
+| 391 | ডিসি ডিস্ট্রিবিউশন সিস্টেম | 10:18 | [Watch](https://youtu.be/eICIPXH5hwY?si=o-4LfTHJRHKavWQg) |
+| 392 | দীর্ঘ্য পরিবহন লাইন ও লাইন ধ্রুবকের প্রভাব | 9:26 | [Watch](https://youtu.be/TDYSYR8Pdso) |
+| 393 | মধ্যম পরিবহন লাইন | 12:05 | [Watch](https://youtu.be/hx4RHlU_vdE) |
+| 394 | ইন্ডাকট্যান্স | 7:19 | [Watch](https://youtu.be/56FVXmm8X14?si=KEaZBLZwkHVcTIbM) |
+| 395 | পরিবহন লাইনের স্কিন ইফেক্ট | 10:29 | [Watch](https://youtu.be/kldsxSMUk8U?si=ZWmvltNEuZYSQhI7) |
+| 396 | স্যাগ | 6:25 | [Watch](https://youtu.be/2YV644K1iIk) |
+| 397 | ওভার হেড লাইনের সাপোর্ট | 5:01 | [Watch](https://youtu.be/-wkTnfj_c-M) |
+| 398 | লাইন ক্যাপাসিট্যান্স | 10:03 | [Watch](https://youtu.be/-4ZZBC7mPGo) |
+| 399 | লাইন রেজিস্ট্যান্স | 11:05 | [Watch](https://youtu.be/k8nn7Qdo-34) |
+| 400 | ডিসি ডিস্ট্রিবিউশন সিস্টেম | 10:32 | [Watch](https://youtu.be/Y2oZTZqkJfs) |
+| 401 | Two Wire Method | 3:20 | [Watch](https://youtu.be/VYLTrcBttDo) |
+| 402 | Insulating materials | 6:33 | [Watch](https://youtu.be/m34yCk1_MZg) |
+| 403 | Intro Class | 5:07 | [Watch](https://youtu.be/RRLh-YqQDdg) |
+| 404 | সিঙ্গেল লাইন | 9:17 | [Watch](https://youtu.be/e_3xWelSHAY) |
+| 405 | স্যাগ ক্যালকুলেশন | 10:25 | [Watch](https://youtu.be/eBMZMVFomjo) |
+| 406 | NLDC | 8:21 | [Watch](https://youtu.be/DhqTvrgITz0) |
+| 407 | ডিসি ডিস্ট্রিবিউটর ফেড টু ওয়ান ইন্ড | 6:15 | [Watch](https://youtu.be/HxXaJwrjqGs) |
+| 408 | সাবস্টেশনের প্যানেল বোর্ডে কী কী থাকে | 5:14 | [Watch](https://youtu.be/dCE9KS5YXuo) |
+| 409 | অ্যান্ডারগ্রাউন্ড ক্যাবলের  সুবিধা ও অসুবিধা | 14:28 | [Watch](https://youtu.be/kUEaqZaO7vc) |
+| 410 | গ্রিড কাকে বলে, গ্রিড সিস্টেম কী | 4:18 | [Watch](https://youtu.be/_pRTeNem3Vc) |
+| 411 | সরবরাহ ব্যবস্থা | 5:01 | [Watch](https://youtu.be/U8tRFqUqM_E) |
+| 412 | স্মার্ট গ্রিড সিস্টেম কী | 14:26 | [Watch](https://youtu.be/A8XM_xZLG04) |
+| 413 | গ্রিড সিন্টেমের প্রয়োজনীয়তা | 12:13 | [Watch](https://youtu.be/_OAFiFsgWWE) |
+| 414 | এসি থেকে ডিসি রেকটিফিকেশন | 7:20 | [Watch](https://youtu.be/U3ykwOK0gLA) |
+| 415 | জরুরি অবস্থার সময় রুটিন ইন্সপেকশন সাপ্তাহিক,মাসিক | 12:26 | [Watch](https://youtu.be/4WiqrsY_Twg) |
+| 416 | ডিস্ট্রিবিউশন সিস্টেমের সার্কিট ডায়াগ্রাম | 7:10 | [Watch](https://youtu.be/BZFchQk27WM) |
+| 417 | সিঙ্গেল কোর ক্যাবলের ক্যাপাসিট্যান্স নির্ণয়ের গাণিতিক সমস্যাবলি | 15:20 | [Watch](https://youtu.be/j8DUr1v0nv0?si=aOutreoTcUTwv0kC) |
+| 418 | সিঙ্গেল কোর ক্যাবলের ইনসুলেশন রেজিস্ট্যান্স এর সমীকরণ | 13:29 | [Watch](https://youtu.be/KMjKUokWEmg?si=wNZqU9M-ne_Dggm0) |
+| 419 | আন্ডারগ্রাউন্ড ক্যাবল  স্থাপনে ডাইরেক্ট লেয়িং পদ্ধতি বর্ণনা | 8:25 | [Watch](https://youtu.be/2FGvHJAxfcs?si=rpfY5PVrFw3VliPm) |
+| 420 | বিভিন্ন প্রকার আন্ডারগ্রাউন্ড ক্যাবল | 10:21 | [Watch](https://youtu.be/YidFdohut2Y?si=dh7BBno4cDeERvzP) |
+| 421 | ডিসি এবং এসি ডিস্ট্রিবিউশন সিস্টেমের মাঝে উল্লেখযোগ্য পার্থক্যসমূহ | 13:05 | [Watch](https://youtu.be/JFiKB4Jt_e4?si=ZsQMxIw0b1i-_QwM) |
+| 422 | ডিস্ট্রিবিউশন সিস্টেমের প্রকারভেদ, | 9:09 | [Watch](https://youtu.be/Clq15G_rpNM?si=7Hfb5BrX6WQWawG3) |
+| 423 | মধ্যম পরিবহন লাইনের ধ্রুবকসমূহের মান নির্ণয়ের পদ্ধতি | 4:13 | [Watch](https://youtu.be/W4AmSpWfePw) |
+| 424 | ওভারঅল ফ্লাক্স লিংকেজের  সূত্র | 4:23 | [Watch](https://youtu.be/F6rhORvMgkY?si=eOEYHXGsq83XAE6Y) |
+| 425 | স্কিন ইফেক্টকে প্রভাবিত করার ফ্যাক্টরসমূহ | 10:19 | [Watch](https://youtu.be/iRVSuWKjuCM?si=4J1lHbW3NMtBrUvH) |
+| 426 | নদী পারাপার ও পাহাড়ি এলাকায় স্টিল টাওয়ার অধিক উপযোগী কেন | 13:19 | [Watch](https://youtu.be/Q6UMIgRL27Q) |
+| 427 | করোনার কারণে সৃষ্ট ওজোন গ্যাস ক্ষতি সমূহ | 3:31 | [Watch](https://youtu.be/MOaK_TJclrQ) |
+| 428 | স্যাগের প্রয়োজনীয়তা | 4:28 | [Watch](https://youtu.be/BLzXQr-PjfA) |
+| 429 | ওভার হেড লাইনের প্রধান অংশসমূহ | 14:30 | [Watch](https://youtu.be/4v5-2PsZlDA) |
+| 430 | কেলভিনের সূত্রের সাহায্যে সর্বোচ্চ সাশ্রয়ী সাইজ নির্ণয় সূত্র বিবৃতকরণ | 11:19 | [Watch](https://youtu.be/cF2yGeghxw0) |
+| 431 | সিঙ্গেল ফেজ লাইনের ক্যাপাসিট্যান্স | 10:04 | [Watch](https://youtu.be/ih0Ahuibw5k) |
+| 432 | রেজিস্ট্যান্স ক্যালকুলেশন(প্রমাণ) | 10:01 | [Watch](https://youtu.be/uYue_tETZ-4) |
+| 433 | ইনসুলেশন রেজিস্ট্যান্স মেজারমেন্ট | 11:23 | [Watch](https://youtu.be/NhnB7rS7RPY) |
+| 434 | Rigorous method | 42:07 | [Watch](https://youtu.be/0804Vp16HMA) |
+| 435 | করোনার গাণিতিক সমাধান | 8:16 | [Watch](https://youtu.be/OByQ08ZC3Vs) |
+| 436 | স্যাগ ক্যালকুলেশন (যখন সাপোর্টদ্বয় অসম উচ্চতায় থাকে) | 13:16 | [Watch](https://youtu.be/qXWLwwGUz8A) |
+| 437 | ডিসি ডিস্ট্রিবিউটর ফেড টু ওয়ান ইন্ড গানিতিক সমাধান | 8:09 | [Watch](https://youtu.be/66Mln9XI5B4) |
+| 438 | লোড ডিসপ্যাচ সেন্টার | 12:01 | [Watch](https://youtu.be/aylifbS4-D4) |
+| 439 | অ্যান্ডারগ্রাউন্ড ক্যাবলের  অসুবিধা | 7:14 | [Watch](https://youtu.be/VE4GDE3o5Kw) |
+| 440 | আন্তঃসংযোগ পদ্ধতি | 5:16 | [Watch](https://youtu.be/RSaW1tTvbP4) |
+| 441 | ডিস্ট্রিবিউশন  বলতে কি বুঝায় | 4:07 | [Watch](https://youtu.be/1xvwJMXusMk) |
+| 442 | স্মার্ট গ্রিড প্রযুক্তির বর্ণনা | 10:29 | [Watch](https://youtu.be/Gh9RJIcy_hA) |
+| 443 | বিভিন্ন প্রকার গ্রিড সিস্টেম | 13:20 | [Watch](https://youtu.be/UwwCRV9gD30) |
+| 444 | ব্যাটারি ব্যাঙ্ক এর নকশা | 8:16 | [Watch](https://youtu.be/vl1NWScXcws) |
+| 445 | তিন কোর আন্ডারগ্রাউন্ড ক্যাবলের ক্যাপাসিট্যান্স এবং নির্ণয়ের সমীকরণ | 14:29 | [Watch](https://youtu.be/EpycEAZhQOo?si=rShwxusn9rDSBAGu) |
+| 446 | একটি এক কোর ক্যাবলের ব্যাসার্ধ 1cm...ইনসুলেশন রেজিস্ট্যান্স কত হবে | 8:25 | [Watch](https://youtu.be/use1gzwvsVI?si=ZVrM7lN3X6Y9boo7) |
+| 447 | আন্ডারগ্রাউন্ড ক্যাবলের সুবিধা ও অসুবিধা | 7:31 | [Watch](https://youtu.be/saXcfHkJ-Bo?si=BiK4Rjs1mzi3GPNS) |
+| 448 | Part - 1 বিভিন্ন প্রকার এসি ডিস্ট্রিবিউশন সিস্টেম | 7:24 | [Watch](https://youtu.be/TT9hH3Cr0Og?si=-QPocuTtqDX_XQdx) |
+| 449 | একপ্রান্তে ফিড করা ডিসি ডিস্ট্রিবিউশন | 15:25 | [Watch](https://youtu.be/qU_JRfK0uFk?si=IUKXUfqc1zz-eo27) |
+| 450 | ম্যাগনেটাইজিং ফোর্স | 8:35 | [Watch](https://youtu.be/MRo70CPrjm8?si=7Fn-u0l-Mli_lutI) |
+| 451 | স্কিন ইফেক্ট নির্ণয়ের সমীকরণ | 6:14 | [Watch](https://youtu.be/nuYqNWNFuwg?si=cocOAlHORR6VO0Wo) |
+| 452 | ওভাহেড ডিস্ট্রিবিউশন লাইনে কী ধরনের পোল ব্যবহৃত | 4:01 | [Watch](https://youtu.be/Yu8TUA3QJHY) |
+| 453 | করোনা কীভাবে সংঘটিত হয়, তা বিস্তারিত বর্ণনা | 6:10 | [Watch](https://youtu.be/7q259y_LbUM) |
+| 454 | সার্ভেইং ইনস্ট্রুমেন্টের ব্যবহার | 3:29 | [Watch](https://youtu.be/iicN6KEJ8NE) |
+| 455 | স্যাগ মাপার পদ্ধতি | 2:31 | [Watch](https://youtu.be/JiAC_Q02SjA) |
+| 456 | লাইনের সাপোর্টের প্রকারভেদ | 12:34 | [Watch](https://youtu.be/SDvtbe0kKdc) |
+| 457 | গ্রিড সিস্টেম | 6:08 | [Watch](https://youtu.be/hK9EFCF-RTo) |
+| 458 | পোল সোজা করা | 4:17 | [Watch](https://youtu.be/iLH6rTUy6tM) |
+| 459 | ৩-ফেজ লাইনের ক্যাপাসিট্যান্স | 14:20 | [Watch](https://youtu.be/-xJx1PqGqgg) |
+| 460 | Potential gradient expression | 13:17 | [Watch](https://youtu.be/p7LsjOOT-mI) |
+| 461 | রিগোরাস পদ্ধতির মাধ্যমে গাণিতিক সমাধান | 30:23 | [Watch](https://youtu.be/sXXI7RTm5Ps) |
+| 462 | একটি প্রিজমের আকৃতি সমবাহু ত্রিভুজ...........আয়তন ও পার্শ্বেতলের ক্ষেত্রফল নির্ণয় কর। | 14:09 | [Watch](https://youtu.be/wp7z5SKcuR4) |
+| 463 | স্যাগ ক্যালকুলেশন (যখন পরিবাহির উপর বরফ ও বাতাসের প্রভাব থাকে) | 16:35 | [Watch](https://youtu.be/2qUrrm5aT0U) |
+| 464 | বাংলাদেশের কোথায় লোড ডিসপ্যাচ সেন্টার অবস্থিত | 3:31 | [Watch](https://youtu.be/Wo1lkJLW_8c) |
+| 465 | বিভিন্ন ধরনের অ্যান্ডারগ্রাউন্ড ক্যাবল | 11:34 | [Watch](https://youtu.be/d73TDdvid1Y) |
+| 466 | গ্রিড সিস্টেমের প্রয়োজনীয়তা | 8:18 | [Watch](https://youtu.be/pjKXOjl32Zg) |
+| 467 | ডিসি ডিস্ট্রিবিউশন এর বর্ণনা | 8:07 | [Watch](https://youtu.be/hIyO8G1FR_M) |
+| 468 | স্মার্ট গ্রিড সিস্টেমের নেট মিটারিং | 5:31 | [Watch](https://youtu.be/MlanV7uxnAY) |
+| 469 | গ্রিড সিস্টেমের সুবিধা | 7:07 | [Watch](https://youtu.be/RZaeiQWCunc) |
+| 470 | লোড ডিসপ্যাচ সেন্টার (এলডিসি) | 7:19 | [Watch](https://youtu.be/SoXgI_aZ8mk) |
+| 471 | একটি 3φ,33kV, 50Hz, 200km...চার্জিং কারেন্ট নির্ণয় | 5:04 | [Watch](https://youtu.be/FXPrZhPygRQ?si=sravFdqy7eqp_r0l) |
+| 472 | টানা ব্যবস্থায় ক্যাবল স্থাপন পদ্ধতি | 9:04 | [Watch](https://youtu.be/-A6EICFwsk8?si=MF0N7X_-r58urmF2) |
+| 473 | Part - 2 বিভিন্ন প্রকার এসি ডিস্ট্রিবিউশন সিস্টেম | 5:29 | [Watch](https://youtu.be/S2nul--PW8M?si=g7ykkHt3xVh9gy25) |
+| 474 | ফিডার লাইন ডিজাইনে প্রধান বিবেচ্য বিষয় | 15:11 | [Watch](https://youtu.be/EMwDFQ07l5g?si=LtS42dP4KJgA-siS) |
+| 475 | মধ্যম পরিবহন লাইনের ধ্রুবকের প্রভাব | 15:31 | [Watch](https://youtu.be/-vEBK1bM1j4) |
+| 476 | কাঠের পোল তেমন ব্যবহার করা হয় না কেন | 7:30 | [Watch](https://youtu.be/svA1muuQ9D8) |
+| 477 | করোনার প্রতিক্রিয়াসমূহ | 6:17 | [Watch](https://youtu.be/gHd9VocJ_WM) |
+| 478 | থিওডোলাইট | 5:34 | [Watch](https://youtu.be/6-HE55z5pH4) |
+| 479 | স্যাগ বোর্ডের সাহায্যে স্যাগ পরিমাপ করার পদ্ধতি | 4:01 | [Watch](https://youtu.be/3WUIVMh431k?si=89WwsAy6X2COr75l) |
+| 480 | কাঠের পোল | 4:09 | [Watch](https://youtu.be/IJIUZit7fMs) |
+| 481 | গ্রাফের সাহায্যে কেলভিনের সূত্রের ব্যাখ্যা | 9:24 | [Watch](https://youtu.be/gST7IqpLYI4) |
+| 482 | বৈদ্যুতিক সিস্টেমের সিঙ্গেল লাইন ডায়াগ্রাম | 15:05 | [Watch](https://youtu.be/5bJyqyN4Ix4) |
+| 483 | গিন পোল পদ্ধতি | 6:31 | [Watch](https://youtu.be/WsXASa6Jv54) |
+| 484 | দুই ওয়্যার ডিস্ট্রিবিউটরের দুই লাইন ও আর্থের মধ্যে ইনসুলেশন রেজিস্ট্যান্স নির্ণয় | 4:23 | [Watch](https://youtu.be/jb7txHqchc8) |
+| 485 | ইনসুলেশন রেজিস্ট্যান্স নির্ণয় এর গাণিতিক সমাধান | 7:00 | [Watch](https://youtu.be/ZAVG_M261B8) |
+| 486 | End condenser method | 20:35 | [Watch](https://youtu.be/TBlseH16ep4) |
+| 487 | গ্রিড সিস্টেমের প্রয়োজনীয়তা লেখ | 4:33 | [Watch](https://youtu.be/rce8POnmtr4) |
+| 488 | ফিডার লাইন ডিজাইনে প্রধান বিবেচ্য বিষয় | 6:22 | [Watch](https://youtu.be/fLEWBydaW9c) |
+| 489 | প্রচলিত এবং স্মার্ট গ্রিড সিস্টেমের মধ্যে পার্থক্য | 4:20 | [Watch](https://youtu.be/PcXMRA50w-M) |
+| 490 | বাংলাদেশের স্থাপনকৃত ইস্ট-ওয়েস্ট গ্রিড ইন্টারকানেকটর | 7:32 | [Watch](https://youtu.be/GaquBdKwYIc) |
+| 491 | ডিসি ডিস্ট্রিবিউশন বোর্ডের উপাদানসমূহ | 5:31 | [Watch](https://youtu.be/6vofJJLeTPw) |
+| 492 | একটি তিন ফেজ বেলটেড ক্যাবলকে...লাইনের চার্জিং কারেন্ট কত হবে | 10:09 | [Watch](https://youtu.be/4JeCmK-_4eU?si=53nkKWNVnWWgwpbm) |
+| 493 | সিঙ্গেল কোর ক্যাবলের ডাই ইলেকট্রিক স্ট্রেস এর সমীকরণ | 17:29 | [Watch](https://youtu.be/fzDb1z-8uus) |
+| 494 | আন্ডারগ্রাউন্ড ক্যাবলের প্রান্তীয় বিন্যাস পদ্ধতি | 17:32 | [Watch](https://youtu.be/Ar36rsBYGkw?si=FYadpw9xtmGHJxJ-) |
+| 495 | সলিড সিস্টেমে বা নিরেট ব্যবস্থায় স্থাপন | 4:17 | [Watch](https://youtu.be/8ghObgql0RU?si=VoACwaTLlp9i_NIo) |
+| 496 | Part - 1 সমহারে লোডেড ডিস্ট্রিবিউটর | 2:13 | [Watch](https://youtu.be/cm8A5TlDh44?si=gk8rjZaRFpNnvzMz) |
+| 497 | সেলফ জিএমডি এবং মিউচুয়াল জিএমডির ধারণা | 7:01 | [Watch](https://youtu.be/NChPgU4vwAY) |
+| 498 | স্কিন ইফেক্ট হ্রাস করার পদ্ধতি | 8:08 | [Watch](https://youtu.be/Ucw8twAXMi8?si=nmeRaVBmF-GN12-x) |
+| 499 | স্টিলের পোল এবং কংক্রিট পোলের তুলনামূলক সুবিধা অসুবিধা | 11:10 | [Watch](https://youtu.be/jg6mPN7fAGA) |
+| 500 | করোনার লসের ফলে লাইনে কী কী প্রতিক্রিয়া ঘটে, তা আলোচনা | 7:14 | [Watch](https://youtu.be/dE9IPvNnKc0) |
+| 501 | রেঞ্জিং রড | 5:08 | [Watch](https://youtu.be/1Qs8Oe-Pj04) |
+| 502 | ডায়নামোমিটারের সাহায্যে স্যাগ মাপা | 4:22 | [Watch](https://youtu.be/Iz8ttAZNKBk) |
+| 503 | পোর্সিলিন বা চীনামাটি | 7:23 | [Watch](https://youtu.be/CliLukUmyeo) |
+| 504 | কাঠের পোলের দৈর্ঘ্য | 3:08 | [Watch](https://youtu.be/JCPdW3yeWNU) |
+| 505 | কেলভিনের ইকোনমিক সূত্রের গাণিতিক প্রমাণ | 11:07 | [Watch](https://youtu.be/Sr8pfyZhmtc) |
+| 506 | কাঁচি পদ্ধতি | 7:21 | [Watch](https://youtu.be/NftOzrk5_Vs\) |
+| 507 | ইনসুলেশন রেজিস্ট্যান্স নির্ণয় এর  গাণিতিক সমাধান | 9:28 | [Watch](https://youtu.be/3KphAtL2MzY) |
+| 508 | একটি এক ফেজ এসি ডিস্ট্রিবিউটরের গাণিতিক সমাধান | 15:19 | [Watch](https://youtu.be/tTe7lUwEERQ) |
+| 509 | এন্ড কনডেন্সার পদ্ধতির মাধ্যমে গাণিতিক সমাধান | 24:09 | [Watch](https://youtu.be/EtF406CtObw) |
+| 510 | Murray Loop test | 13:28 | [Watch](https://youtu.be/GTj7ngO0KKs) |
+| 511 | 33KV লাইন থেকে কনজুমার পর্যন্ত কী কী লস হয়, লোড শেডিং কী | 7:19 | [Watch](https://youtu.be/fEFVWwgdm4E) |
+| 512 | গ্রিড সিস্টেমে বিদ্যুৎ কেন্দ্রের বেস লো ও পিক লোড ব্যবস্থাপনা | 11:00 | [Watch](https://youtu.be/PR_5tZ1vjPY) |
+| 513 | এসি ডিস্ট্রিবিউশন | 7:23 | [Watch](https://youtu.be/ZQDlbEiHqQg) |
+| 514 | বাংলাদেশে প্রতিশ্রুতিশীল স্মার্ট গ্রিড সিস্টেমের তালিকা | 6:05 | [Watch](https://youtu.be/K7vlyndJyqA) |
+| 515 | একটি তিন ফেজ 66 কেভি...থাকলে চার্জিং কারেন্ট নির্ণয় | 7:08 | [Watch](https://youtu.be/x5Dq3WTW9s0) |
+| 516 | এলটি Indoor/Outdoor টার্মিনেশন | 10:15 | [Watch](https://youtu.be/QXacJIgz5m0?si=KOAOm3bzJ63wXeaT) |
+| 517 | একটি ক্যাবলের সাধারণ গঠন | 5:32 | [Watch](https://youtu.be/CIyovtTiblI?si=b15mYqjcGWBAzJnq) |
+| 518 | Part - 2 সমহারে লোডেড ডিস্ট্রিবিউটর | 8:17 | [Watch](https://youtu.be/9XHIzbR1KdM?si=Vs-s5VMVqjWAGzUB) |
+| 519 | সেলফ জিএমডি ব্যবহার করি কখন | 3:21 | [Watch](https://youtu.be/pF0Va1MtBok) |
+| 520 | প্রক্সিমিটি ইফেক্ট | 8:24 | [Watch](https://youtu.be/Ip-2dQt2gME?si=Up6B1EdrWa8f5pmE) |
+| 521 | পোলের গর্ত খনন পদ্ধতি | 5:14 | [Watch](https://youtu.be/KFcYYYBGkEE) |
+| 522 | ওলন, রেঞ্জিং রড | 7:29 | [Watch](https://youtu.be/hl1OvNRVh3k) |
+| 523 | তরঙ্গের সময় মেপে স্যাগ মাপা | 5:01 | [Watch](https://youtu.be/1yVcbMx83-U) |
+| 524 | গ্লাস | 5:08 | [Watch](https://youtu.be/mx08WGsPJFs) |
+| 525 | কাঠের পোলকে ট্রিটমেন্ট করার জন্য কী ব্যবহৃত হয় | 11:29 | [Watch](https://youtu.be/0MZ00IzfYyY) |
+| 526 | কেলভিন‘স `ল‘ তে ইনসুলেশন খরচের প্রভাব | 6:00 | [Watch](https://youtu.be/oP2Clg09Ebs) |
+| 527 | স্টে অথবা গাই ওয়্যার স্থাপন | 13:13 | [Watch](https://youtu.be/uJ-APX6hVJ0) |
+| 528 | ফ্যারান্টি ইফেক্টের ধারণা | 7:04 | [Watch](https://youtu.be/JmvnspujwSA) |
+| 529 | ডিসি ৩ তার এবং এসি ৩ ফেজ ৩ তারের মধ্যে তুলনা | 16:22 | [Watch](https://youtu.be/qkXW98beT7s) |
+| 530 | প্রতিটি মেইন ও আর্থের মধ্যে ইনসুলেশন রেজিস্ট্যান্স নির্ণয় | 8:05 | [Watch](https://youtu.be/EfEqRFofbVY) |
+| 531 | Nominal T Method | 21:16 | [Watch](https://youtu.be/vB_t0STPGFk) |
+| 532 | Varley loop test | 9:19 | [Watch](https://youtu.be/MHSYPO1xrEc) |
+| 533 | XLPE ক্যাবল | 10:35 | [Watch](https://youtu.be/9987Myt4HfQ) |
+| 534 | গ্রিড সিস্টেমের প্রকারভেদ | 7:14 | [Watch](https://youtu.be/1G-5W2Yy7yw) |
+| 535 | ডিসি সরবরাহের জন্য মনিটরিং সিস্টেম বাস্তবায়ন | 10:27 | [Watch](https://youtu.be/AtTLcpfiCR8) |
+| 536 | আন্ডারগ্রাউন্ড ক্যাবল | 14:16 | [Watch](https://youtu.be/0Dnb3qiltvY?si=LLNmtH8ciaUMh_dw) |
+| 537 | রিং ডিস্ট্রিবিউটর | 9:23 | [Watch](https://youtu.be/qW0VxLubFZU?si=2DvhQkodVDMmZ4OU) |
+| 538 | HVDC লিংকের প্রকারভেদ | 16:29 | [Watch](https://youtu.be/9-tBJoyovbk?si=x9IPW1bLC4raoIgZ) |
+| 539 | প্রক্সিমিটি ইফেক্ট প্রক্সিমিটি ইফেক্টের জন্য বিবেচ্য ফ্যাক্টর | 6:33 | [Watch](https://youtu.be/SUKHoN9rlGA?si=fDXTymbMIdadscKY) |
+| 540 | তারটির রোধ 1.7 ওহম হলে প্রস্থচ্ছেদ নির্ণয় | 3:17 | [Watch](https://youtu.be/1o0XF8hytZ8?si=uI43sSKdNI_RiTJ0) |
+| 541 | ডেরিক পোল পদ্ধতিতে কীভাবে পোল তোলা হয় | 9:31 | [Watch](https://youtu.be/ANO9cSlCN7o) |
+| 542 | কাঠের পোলের অসুবিধা | 9:23 | [Watch](https://youtu.be/DUoi1hx8wKg) |
+| 543 | বৈদ্যুতিক সিস্টেমের সিঙ্গেল লাইন ডায়াগ্রাম | 11:35 | [Watch](https://youtu.be/QyUdr-7rKto) |
+| 544 | স্টিলের পোল এবং কংক্রিট পোলের তুলনামূলক সুবিধা অসুবিধা | 6:08 | [Watch](https://youtu.be/cbVsuhq5uqs) |
+| 545 | ডিসি ২ তার এবং এসি ৩ ফেজ ৩ তারের মধ্যে তুলনা | 17:28 | [Watch](https://youtu.be/yxtKZL69Iyg) |
+| 546 | ত্রিভুজ আকৃতির  ডিস্ট্রিবিউটরের কারেন্ট নির্ণয় | 22:31 | [Watch](https://youtu.be/-L-LsDCyQP8) |
+| 547 | নোমিনাল টি-পদ্ধতির মাধ্যমে গাণিতিক সমাধান | 25:25 | [Watch](https://youtu.be/xt5G7DOCd18) |
+| 548 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 1 | 20:19 | [Watch](https://youtu.be/V1mWA4msAm4) |
+| 549 | ডিস্ট্রিবিউশন লাইনে রুটিন ইনস্পেকশন করার উদ্দেশ্য | 4:15 | [Watch](https://youtu.be/x5ztRBwm_88) |
+| 550 | রেডিয়াল গ্রিড সিস্টেম | 5:19 | [Watch](https://youtu.be/-6nzjN3Z9o4) |
+| 551 | এসি এবং ডিসি ডিস্ট্রিবিউশন তুলনা | 14:11 | [Watch](https://youtu.be/nYRgt8I-yBo) |
+| 552 | ক্যাপাসিট্যান্স গ্রেডিং (Capacitance grading) | 7:26 | [Watch](https://youtu.be/4QafGUFAsOU?si=x_7xax9yJhXsJwN6) |
+| 553 | তিন-কোর ক্যাবলের ইনসুলেশন রেজিস্ট্যান্স | 3:32 | [Watch](https://youtu.be/dvWmP14QKhU?si=DkRzCR2xeddnWbGI) |
+| 554 | প্রক্সিমিটি ইফেক্ট  কমানোর উপায়সমূহ | 8:22 | [Watch](https://youtu.be/wHR2RENhMec?si=v5UfB2ZxozPENA8r) |
+| 555 | গিন পোল পদ্ধতিতে কীভাবে পোল গর্তে স্থাপন করা হয় | 7:07 | [Watch](https://youtu.be/i_W8DUcSka0) |
+| 556 | মেজারিং টেপের পরম দৈর্ঘ্যের জন্য সংষোধনী প্রক্রিয়া বর্ণনা | 10:11 | [Watch](https://youtu.be/9sljGaPTlpM) |
+| 557 | স্যাগ এর উপর প্রভাব বিস্তারকারী বিষয়সমূহ | 12:20 | [Watch](https://youtu.be/fwCtVOdI8P0) |
+| 558 | স্টিয়েটাইট | 4:10 | [Watch](https://youtu.be/CJtMgcuJYDk) |
+| 559 | স্টিলের পোল | 4:19 | [Watch](https://youtu.be/h1mJkD-1nlM) |
+| 560 | 132kV / 11kV Outdoor Substation | 17:23 | [Watch](https://youtu.be/qTtttz8Ayew) |
+| 561 | সেকেন্ডারি ড্রিস্ট্রিবিউশন | 6:29 | [Watch](https://youtu.be/ALxDQRX62Lk) |
+| 562 | যদি নেগেটিভ ও আর্থ তার পরস্পর যুক্ত থাকে, তবে ক্যাবলটির ইনসুলেশন রেজিস্ট্যান্স নির্ণয় | 11:22 | [Watch](https://youtu.be/Sz6iuVPHJgw) |
+| 563 | রিং ডিস্ট্রিবিউটরের কারেন্ট নির্ণয় | 21:03 | [Watch](https://youtu.be/rwRSlNuHE4g) |
+| 564 | নোমিনাল পাই মেথড | 13:05 | [Watch](https://youtu.be/FXTQYAIfAF0) |
+| 565 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 2 | 21:31 | [Watch](https://youtu.be/NTblrk4TLLY) |
+| 566 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 1 | 15:24 | [Watch](https://youtu.be/52S4IOVM5HA) |
+| 567 | মারি ও ভারলি লুপ টেস্টের মধ্যে পার্থক্য | 5:01 | [Watch](https://youtu.be/XtXSRX6BrWo) |
+| 568 | রিং গ্রিড সিস্টেম | 2:27 | [Watch](https://youtu.be/E1RmgzA4PU4) |
+| 569 | ইন্টারকানেক্টেড ও এসি ইন্টারকানেক্টেড সিস্টেম | 14:34 | [Watch](https://youtu.be/rhks3dIswLY) |
+| 570 | একটি তিন কোরবিশিষ্ট বেলটেড ক্যাবলের গঠনপ্রণালি | 6:20 | [Watch](https://youtu.be/bSjhx5dX2pE?si=vz8YV8yc1_5He2Sh) |
+| 571 | দুই তারের মধ্যে বিরাজমান ক্যাপাসিট্যান্সের তুলনায় এক তারের ক্যাপাসিট্যান্স কত গুণ হয় ও কেন | 5:05 | [Watch](https://youtu.be/fGNIqyVqlU0) |
+| 572 | পোল তোলার কাঁচি পদ্ধতি | 5:17 | [Watch](https://youtu.be/A-OBt-zXWn0) |
+| 573 | করোনার সুবিধাসমূহ | 5:01 | [Watch](https://youtu.be/g0R5zyaCkYM) |
+| 574 | তাপমাত্রার জন্য সংশোধনী প্রক্রিয়া বর্ণনা | 4:24 | [Watch](https://youtu.be/GB7O1P_j0aA%E0%A7%8E) |
+| 575 | স্প্যান | 7:08 | [Watch](https://youtu.be/-C8cXqkj5Go) |
+| 576 | স্টিলের টিউবুলার কত প্রকার ও কী কী | 6:33 | [Watch](https://youtu.be/DALehetqFxs) |
+| 577 | সিস্টেম লস | 11:07 | [Watch](https://youtu.be/KXRNpP-0I1g) |
+| 578 | ডিসি ৩ তার এবং এসি ৩ ফেজ ৪ তারের মধ্যে তুলনা | 19:24 | [Watch](https://youtu.be/UPOMunwkjK0) |
+| 579 | নোমিনাল পাই-পদ্ধতির মাধ্যমে গাণিতক সমাধান | 17:29 | [Watch](https://youtu.be/hDYRI7eMNvI) |
+| 580 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 3 | 11:34 | [Watch](https://youtu.be/TAccKebFRSU) |
+| 581 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 2 | 14:02 | [Watch](https://youtu.be/X-1RqtxIaLE) |
+| 582 | আন্তঃসংযোগ গ্রিড সিস্টেম | 3:19 | [Watch](https://youtu.be/a5qdt8mPTCE) |
+| 583 | একটি 1-θ রিং ডিস্ট্রিবিউশন PQR এর p...প্রতিটি সেকশনের কারেন্ট বের কর | 11:30 | [Watch](https://youtu.be/DchRNNoQOWM) |
+| 584 | করোনার অসুবিধাসমূহ | 6:19 | [Watch](https://youtu.be/Uw3xFk50qME) |
+| 585 | মেজরিং টেপের ক্ষেত্রে ঝুল এবং ঢালের জন্য সংশোধনী প্রক্রিয়া বর্ণনা | 11:05 | [Watch](https://youtu.be/bDxIzzysTYc) |
+| 586 | পাইরেক্স | 1:30 | [Watch](https://youtu.be/uwPes2EiVQ4) |
+| 587 | স্টিলের পোলের গুণাবলি | 5:23 | [Watch](https://youtu.be/VU2D9fjgTeQ) |
+| 588 | ক্যাবল ও ক্রটি চিহ্নিতকরন গাণিতিক সমাধান 4 | 8:08 | [Watch](https://youtu.be/Zfs1WoXqQNw) |
+| 589 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 3 | 29:17 | [Watch](https://youtu.be/1WvfBGsYW3I) |
+| 590 | যেকোন এক প্রকার ক্যাবল জয়েন্টের সংক্ষিপ্ত বর্ণনা | 3:19 | [Watch](https://youtu.be/QYmPNe3MiSM) |
+| 591 | ক্যাবল এ আর্মারিং কেন করা হয় | 6:23 | [Watch](https://youtu.be/hV86C3egJMY) |
+| 592 | গ্রিড সিস্টেমের সুবিধা | 16:33 | [Watch](https://youtu.be/PrjHC2Ueh2Y) |
+| 593 | ব্যবহারসহ বিভিন্ন প্রকার ডিসি ডিস্ট্রিবিউশন সিস্টেমের তালিকা | 7:35 | [Watch](https://youtu.be/_dAAmj4skaM) |
+| 594 | ক্যাবলের সাইজ নির্ধারণে বিবেচ্য বিষয়সমূহ | 7:05 | [Watch](https://youtu.be/IxlHEOUdWWI?si=GHebPNeVDV08X3X9) |
+| 595 | GMD ও GMR | 5:31 | [Watch](https://youtu.be/cq98EFOLV8A) |
+| 596 | সেফটি ফ্যাক্টর | 6:10 | [Watch](https://youtu.be/rEdLC_I0kUo) |
+| 597 | ACSR ও AAC এর পূর্ণরূপ | 3:25 | [Watch](https://youtu.be/R5sfzfrLSoE) |
+| 598 | কংক্রিটের পোল | 4:07 | [Watch](https://youtu.be/neDBqbFpHr4) |
+| 599 | ফিডার এবং ডিস্ট্রিবিউটর | 9:06 | [Watch](https://youtu.be/-c7vm9ZhoPA) |
+| 600 | দৈর্ঘ্য পরিবহন গাণিতিক সমাধান 4 | 27:14 | [Watch](https://youtu.be/LohPMZhIDtU) |
+| 601 | স্ট্রেইট থ্রু জয়েন্ট | 3:04 | [Watch](https://youtu.be/XwQlMu5ZGgc) |
+| 602 | ইন্টারকানেক্টেড সিস্টেম | 3:01 | [Watch](https://youtu.be/jJH00zD1Is4) |
+| 603 | বিভিন্ন প্রকার ডিস্ট্রিবিউটরের তালিকা | 7:22 | [Watch](https://youtu.be/FpWfMKXGgvE) |
+| 604 | এরিয়াল ক্যাবল ও সাবমেরিন ক্যাবল | 7:13 | [Watch](https://youtu.be/J2HiDUS6XVk?si=X7wsmy0OScmwObKD) |
+| 605 | সিঙ্গেল ফেজ লাইনের লুপ  ইন্ডাকট্যান্সের সূত্র | 7:01 | [Watch](https://youtu.be/TEE7dT4GLbg) |
+| 606 | পিস মিল পদ্ধতিতে টাওয়ার নির্মাণ কৌশল | 5:06 | [Watch](https://youtu.be/bA_OlMXSu0c) |
+| 607 | ওয়ার্কিং স্ট্রেস, ব্রেকিং টেনশন, ওয়াকিং টেনশন | 9:01 | [Watch](https://youtu.be/a4eMDbgsj80) |
+| 608 | সিস্টেম লসের কারণসমূহ | 8:35 | [Watch](https://youtu.be/Wq3-347ANps) |
+| 609 | ফিডার এবং ডিস্ট্রিবিউটরের তুলনা | 11:22 | [Watch](https://youtu.be/CmGUXeKeHhA) |
+| 610 | ঠান্ডা সংকোচন জয়েন্ট | 3:00 | [Watch](https://youtu.be/N7MZejJHk-s) |
+| 611 | বাংলাদেশের গ্রিড সিস্টেমের সামগ্রিক চিত্র | 4:07 | [Watch](https://youtu.be/VQm3fc6Jy7k) |
+| 612 | ইউনিফরমলি লোডেড ডিস্ট্রিবিউটর | 4:20 | [Watch](https://youtu.be/5O_lk6-RXqc) |
+| 613 | আন্ডারগ্রাউন্ড ক্যাবল বিনষ্ট হবার কারণ | 10:23 | [Watch](https://youtu.be/Z6lEsTtvgmc?si=0IR2YeECIrRdOhM6) |
+| 614 | একটি তিন ফেজ 50Hz লাইনের দৈর্ঘ্য 200km হলে প্রতি ফেজের চার্জিং কারেন্ট নির্ণয় | 10:07 | [Watch](https://youtu.be/FnOayiKT0Jg) |
+| 615 | সেকশন পদ্ধতিতে টাওয়ার নির্মাণ কৌশল | 4:30 | [Watch](https://youtu.be/UG0En3GmqWo) |
+| 616 | ইস্পাতের টাওয়ার | 4:20 | [Watch](https://youtu.be/qEdadugPjQM) |
+| 617 | কারিগরি লস | 4:26 | [Watch](https://youtu.be/dfADg85ACoY) |
+| 618 | ডিস্ট্রিবিউটর ও সার্ভিস মেইনের মধ্যে পার্থক্য | 5:26 | [Watch](https://youtu.be/8ttino7HWDY) |
+| 619 | আন্ডারগ্রাউন্ড ক্যাবল স্থাপনের বিভিন্ন পদ্ধতি | 10:19 | [Watch](https://youtu.be/rf0QbeVLo8Q) |
+| 620 | বিভিন্ন প্রকার লোডিং এর তালিকা | 3:24 | [Watch](https://youtu.be/CU2QV93k4-w) |
+| 621 | সমহারে লোডেড ডিস্ট্রিবিউটর | 10:17 | [Watch](https://youtu.be/BuhG4WsVeFU) |
+| 622 | করোনা কমানোর উপায় | 7:12 | [Watch](https://youtu.be/nArrvjuH9Yk) |
+| 623 | গার্ড রিং লাইনের সাথে কীভাবে সংযুক্ত থাকে এবং এর কাজ | 8:01 | [Watch](https://youtu.be/9_OYd6dbpj0) |
+| 624 | কম্পাস স্টেশন দিয়ে কোণ মাপার পদ্ধতি | 11:30 | [Watch](https://youtu.be/iB9Cb5rOT5Y) |
+| 625 | পিন টাইপ ইসুলেটর | 9:00 | [Watch](https://youtu.be/qQy3uOG9FfU?si=aBoebtU5REnI0EHl) |
+| 626 | কোন কোন ক্ষেত্রে ইস্পাতের টাওয়ার ব্যবহত হয় | 3:28 | [Watch](https://youtu.be/-91-LfDdNJ4) |
+| 627 | অকারিগরি লস | 10:26 | [Watch](https://youtu.be/T29RVUUFuXs) |
+| 628 | টানা ব্যবস্থায় ক্যাবল স্থাপন পদ্ধতি | 8:23 | [Watch](https://youtu.be/gYnBbRuzoOI) |
+| 629 | দুই প্রান্তে ফিড করা ডিস্ট্রিবিউটরের সুবিধা কী কী | 4:14 | [Watch](https://youtu.be/ZhuhLCzrsa4) |
+| 630 | ক্রস আর্ম কী কী বহন করে | 5:32 | [Watch](https://youtu.be/3LaPSgck8uo) |
+| 631 | অনুভূমিক কোণ পরিমাপ প্রক্রিয়া | 10:29 | [Watch](https://youtu.be/hmHxlsHjHAw) |
+| 632 | লাইন সাপোর্টের বৈশিষ্ট্য | 4:22 | [Watch](https://youtu.be/_sUoTT6LGSk) |
+| 633 | কিভাবে সিস্টেম লস কমানো যায় | 14:23 | [Watch](https://youtu.be/6T4ET0E5M98) |
+| 634 | সলিড সিস্টেম বা নিরেট ব্যবস্থায় স্থাপন | 5:03 | [Watch](https://youtu.be/NwnX8Ib_C48) |
+| 635 | ইন্ডিয়া থেকে জাতীয় গ্রিড এ সংযোগ | 2:28 | [Watch](https://youtu.be/KXowDSD5yx4) |
+| 636 | রিং ডিস্ট্রিবিউটর | 2:29 | [Watch](https://youtu.be/XJDqwbIgtaU) |
+| 637 | ট্রান্সপজিশনের উদ্দেশ্য | 6:19 | [Watch](https://youtu.be/iEDIqZANykg) |
+| 638 | পোলে বা টাওয়ারে ক্রস আর্ম সংযোজন পদ্ধতি | 4:11 | [Watch](https://youtu.be/4Kx1uEw2-tE) |
+| 639 | যদি তাপমাত্রা 40°সেন্টিগ্রেট এবং বায়ুমন্ডলের চাপ    তবে প্রতি কিলোমিটার লাইনের করোনা লস নির্ণয় | 19:10 | [Watch](https://youtu.be/LairetXrBZY) |
+| 640 | লেভেলিং | 4:05 | [Watch](https://youtu.be/85ie7Mcpd9c) |
+| 641 | পোল ও টাওয়ারের মধ্যে পার্থক্য | 12:30 | [Watch](https://youtu.be/KZcOHVI-BzE) |
+| 642 | আন্ডারগ্রাউন্ড ক্যাবলের প্রান্তীয় বিন্যাস পদ্ধতি | 6:32 | [Watch](https://youtu.be/A_BVxbQX4Ik) |
+| 643 | ট্রান্সপজিশনের সুবিধা ও অসুবিধা | 9:11 | [Watch](https://youtu.be/OACTzWUtW14\) |
+| 644 | লেভেলিং কাজে কোন ধরনের চেনের ব্যবহার বেশি | 7:19 | [Watch](https://youtu.be/_IeL1SZjneE) |
+| 645 | Formula | 13:17 | [Watch](https://youtu.be/g8iMBjZ3z0I) |
+| 646 | পিন টাইপ ইসুলেটর কোথায় ব্যবহৃত হয় | 2:05 | [Watch](https://youtu.be/z651KzQe_us?si=XPeyJBv8ExcENc4x) |
+| 647 | পোল ও টাওয়ারের উচ্চতা নির্ধারণের জন্য বিবেচ্যসমূহ | 11:19 | [Watch](https://youtu.be/RV8t_z7VumQ) |
+| 648 | এসএল টাইপ ক্যাবলের সুবিধা | 8:13 | [Watch](https://youtu.be/WBWx5M_hwYQ) |
+| 649 | এলটি Indoor Outdoor টার্মিনেশন | 4:21 | [Watch](https://youtu.be/lW6z5hjmscA) |
+| 650 | High Demand Low Generation & High Generation Low Demand অঞ্চল | 18:24 | [Watch](https://youtu.be/cq4ecyNNyYE) |
+| 651 | লাইন ট্রান্সপজিশন কেন করা হয় | 3:14 | [Watch](https://youtu.be/eL0TugJ6Vbw) |
+| 652 | অ্যালাইনমেন্ট | 7:25 | [Watch](https://youtu.be/RWyZ9qWcyAg) |
+| 653 | স্টিল পোল ও কংক্রিট পোলের মাঝে পার্থক্য | 11:33 | [Watch](https://youtu.be/d_Kg1QaHmM8) |
+| 654 | SI টাইপ ক্যাবল কী | 2:30 | [Watch](https://youtu.be/Ya379Nc7bJU) |
+| 655 | টার্মিনেশন করার মালামালের তালিকা | 6:10 | [Watch](https://youtu.be/BPDswukgEWI) |
+| 656 | PGCB কোন ধরনের প্রতিষ্ঠান | 5:08 | [Watch](https://youtu.be/E2qAxIJ1O0M) |
+| 657 | প্রতিটির ব্যাস 1.5 সেমি হলে লাইনের প্রতি কিলোমিটারের লুপ ইন্ডাকট্যান্স বের কর | 13:14 | [Watch](https://youtu.be/V8dfjL50jyU) |
+| 658 | সার্ভেয়িং | 7:26 | [Watch](https://youtu.be/cWAu5vhCwj4) |
+| 659 | বাতাসের চাপ 4. 9 গ্রাম ও ফ্যাক্টর 3 এবং প্রতি ঘন সেমি বরফের ওজন 0 .93 গ্রাম হলে স্যাগ নির্ণয় | 29:31 | [Watch](https://youtu.be/a7YA7uMKIb8) |
+| 660 | পোস্ট ইসুলেটর | 4:34 | [Watch](https://youtu.be/TM5hZxeYppM?si=7XFZItC0HYVZeBnY) |
+| 661 | বৎসরে ফুললোড কারেন্ট 70% প্রবাহিত হয় তবে লাইন তারের জন্য সর্বোচ্চ অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 15:08 | [Watch](https://youtu.be/IUv_aTRWWJE) |
+| 662 | ক্যাবল টার্মিনেশনে সংযোজন বক্সের নকশা | 3:08 | [Watch](https://youtu.be/fdaKJEQSRuM) |
+| 663 | বাংলাদেশে স্থাপনকৃত ইস্ট ওয়েস্ট গ্রিড ইন্টরকানেক্টরের তথ্যাদি | 5:08 | [Watch](https://youtu.be/IVkZCVB8wZw) |
+| 664 | প্রতিটি তারের ব্যাস 1.25 সেমি হলে 150 কিলোমিটার লাইনের ইন্ডাকট্যান্স নির্ণয় | 9:31 | [Watch](https://youtu.be/pOTyh7I7iik) |
+| 665 | পরিবহন লাইন আর্থিং করার সুবিধা | 7:03 | [Watch](https://youtu.be/O2zmLiuItls) |
+| 666 | পেগিং | 3:34 | [Watch](https://youtu.be/JBe2X9CLfy0) |
+| 667 | বৎসরে ফুললোড কারেন্ট 65% প্রবাহিত হয় তবে লাইন তারের জন্য সর্বোচ্চ অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 12:19 | [Watch](https://youtu.be/wT4IJ-NaOXc) |
+| 668 | তিন কোর ওয়েল ক্যাবল | 4:24 | [Watch](https://youtu.be/_jMiCQG_bT8) |
+| 669 | ক্যাপাসিট্যান্স ও নিজস্ব ক্যাপাসিট্যান্স এর অনুপাত নির্ণয় | 12:35 | [Watch](https://youtu.be/yVh2Ep97Vp0) |
+| 670 | বৈদ্যুতিক খুঁটির উলম্ব উচ্চতা ও অনুভূমিক দূরত্ব পরিমাপ পদ্ধতি | 9:07 | [Watch](https://youtu.be/vTOb6M30SIs) |
+| 671 | বৎসরে ফুললোড কারেন্ট 60% প্রবাহিত হয় তবে লাইন তারের জন্য সর্বোচ্চ অর্থনৈতিক কারেন্ট ডেনসিটি নির্ণয় | 13:02 | [Watch](https://youtu.be/m38NQS-JRIU) |
+| 672 | তৈল ভর্তি ক্যাবল এর সুবিধা ও অসুবিধা | 10:15 | [Watch](https://youtu.be/jGBuerQeGco) |
+| 673 | ইন্টারকানেক্টর | 2:34 | [Watch](https://youtu.be/D9R29VSS7OU) |
+| 674 | স্টে বাই গাই ওয়্যার স্থাপন | 6:32 | [Watch](https://youtu.be/k1CaS9yITEQ) |
+| 675 | বরফের ঘনত্ব 0. 91 গ্রাম বাই ঘনসেমি এবং এবং সেফটি ফ্যাক্টর 3 হলে, উলম্ব স্যাগ নির্ণয় | 25:05 | [Watch](https://youtu.be/ABYjdbwNaSo) |
+| 676 | GMR এবং GMD সম্পর্কিত ইন্ডাকট্যান্সের সমস্যা  সমাধানের সূত্র | 8:19 | [Watch](https://youtu.be/-NFd_5BfRjo) |
+| 677 | স্টে সেটে যেসকল জিনিস থাকে সেগুলোর নাম | 4:27 | [Watch](https://youtu.be/8nx7hnso65E) |
+| 678 | যদি তারের টেনশন 1500 কেজি হয়, তবে দুটি সাপোর্টের মাঝামাঝি স্থানে তার পানি হতে কত মিটার উপরে থাক | 17:21 | [Watch](https://youtu.be/lEbrkMKAqqg) |
+| 679 | ফ্লাস ওভার টেস্ট | 20:11 | [Watch](https://youtu.be/_mE-xrCXtEU) |
+| 680 | এরিয়াল ক্যাবল ও সাবমেরিন ক্যাবল | 3:25 | [Watch](https://youtu.be/O_4jleuh9qo) |
+| 681 | সিঙ্গেল ফেজ লাইন  ডাবল সার্কিট | 10:00 | [Watch](https://youtu.be/CVCOrr8Waq8) |
+| 682 | প্রতি রানিং মিটারে 1 কেজি এবং সর্বোচ্চ টেনশন 1500 কেজি হয়, তবে টাওয়ার দুটির মধ্যবর্তী স্থানে | 12:31 | [Watch](https://youtu.be/EdAHVgXgC-A) |
+| 683 | পারফরমেন্স টেস্ট | 14:20 | [Watch](https://youtu.be/PSH-7OrXTzA) |
+| 684 | এরিয়াল ক্যাবল কী, এরিয়াল ক্যাবল কোথায় ব্যবহৃত হয় এবং কেন ব্যবহৃত হয় | 3:02 | [Watch](https://youtu.be/0oKlZGiOvgY) |
+| 685 | সিঙ্গেল ফেজ লাইন  স্প্লিট ফেজ টাইপ | 6:00 | [Watch](https://youtu.be/7A_GExKmv48) |
+| 686 | পারফরমেন্স টেস্টের প্রকারভেদ | 7:11 | [Watch](https://youtu.be/Cp-p8vfE0GI) |
+| 687 | রুটিন টেস্ট | 8:26 | [Watch](https://youtu.be/pyKzE9DYdRs) |
+| 688 | সাবমেরিন ক্যাবল কোথায় ব্যবহৃত হয় | 5:31 | [Watch](https://youtu.be/sN7vHWw8Q3Q) |
+| 689 | থ্রি ফেজ সিঙ্গেল সার্কিট অসমান স্পেসিং বিশিষ্ট্য লাইন | 6:27 | [Watch](https://youtu.be/N587prTK30o) |
+| 690 | স্ট্যাটিক ক্যাপাসিটর | 5:22 | [Watch](https://youtu.be/6MdwDZ6PeEM) |
+| 691 | সাবমেরিন ক্যাবলের ক্রস সেকশন বা বিভিন্ন অংশ চিহ্নিত করন | 3:28 | [Watch](https://youtu.be/8NpfHtJBTlI) |
+| 692 | GMR ও GMD বিবেচনায় প্রতি কিলোমিটার দৈর্ঘ্যের লাইনের লুপ ইন্ডাকট্যান্স মিলি হেনরিতে নির্ণয় | 15:35 | [Watch](https://youtu.be/oeb1AbxJicw) |
+| 693 | বিভিন্ন প্রকার ভাইব্রেশন | 4:34 | [Watch](https://youtu.be/quJc4NorMdk) |
+| 694 | সিনক্রোনাস কন্ডেনসার | 7:28 | [Watch](https://youtu.be/c9rP3Gdg9Ac?si=WUiY968nKt4KrBJW) |
+| 695 | আন্ডারগ্রাউন্ড ক্যাবল বিনষ্ট হবার কারণসমূহ | 4:11 | [Watch](https://youtu.be/WwP8MvJzBAc) |
+| 696 | প্রতিটি বাহুর দূরত্ব 120 সেমি হলে  GMR ও GMD বিবেচনায় প্রতি ফেজের ইন্ডাকট্যান্স নির্ণয় | 13:13 | [Watch](https://youtu.be/mjmphMnfYCA) |
+| 697 | পরিবহন লাইনে ভাইব্রেশনের প্রভাব | 8:11 | [Watch](https://youtu.be/xsKVuIvRd2Q) |
+| 698 | ফেজ অ্যাডভান্সার | 4:18 | [Watch](https://youtu.be/kCRei4XEHmM?si=qkVeZPoVrTBq8G6Z) |
+| 699 | পরিবহন লাইনে ভাইব্রেশনের প্রভাব নিরশনের পদক্ষেপসমূহ | 5:14 | [Watch](https://youtu.be/wDFmmEzI3tY) |
+| 700 | যদি স্ট্যাটিক ক্যাপাসিটর স্টার ও ডেল্টা তে .. তাহলে উভয় ক্ষেত্রেকত মানের ক্যাপাসিটর দরকার হবে | 12:34 | [Watch](https://youtu.be/mYy-NNuN04g?si=qkmF97W2bATQEqza) |
 | 701 | ফেজ অ্যাডভান্সিং ইকুইপমেন্টের ক্যাপাসিটি এবং বার্ষিক নেট সেভিং ইফেক্ট কত হবে | 22:05 | [Watch](https://youtu.be/CLTqQKgKmTw?si=a8EiRhDWRI82E4eb) |
 
 *701 videos total*

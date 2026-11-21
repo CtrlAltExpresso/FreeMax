@@ -4,32 +4,46 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | আয়কর (Income Tax) | 20:22 | [Watch](https://youtu.be/5idZzau1BgM) |
-| 2 | চূড়ান্ত  হিসাব কাকে বলে | 17:35 | [Watch](https://youtu.be/-PG0gqBbtcE) |
-| 3 | রেওয়ামিল  ও রেওয়ামিলের সংজ্ঞা | 13:17 | [Watch](https://youtu.be/mjoMG27SCvM) |
-| 4 | নগদান বই ও নগদান বইয়ের শ্রেণিবিভাগ | 13:10 | [Watch](https://youtu.be/XChsicNy9go) |
-| 5 | খতিয়ান | 11:01 | [Watch](https://youtu.be/iTVZVeE_bxs) |
-| 6 | জাবেদার সংজ্ঞা | 11:01 | [Watch](https://youtu.be/4MEsT8HxZeE) |
-| 7 | হিসাবের ধারণা | 5:03 | [Watch](https://youtu.be/w2uhUQirEpA) |
-| 8 | হিসাব লিখন পদ্ধতি | 6:32 | [Watch](https://youtu.be/YwktxqT3Hj0) |
-| 9 | কারবারি লেনদেন | 5:23 | [Watch](https://youtu.be/jScL9-TJPaY) |
-| 10 | হিসাব বিজ্ঞানের সংজ্ঞা | 8:16 | [Watch](https://youtu.be/Mzgh2fmbjHk) |
-| 11 | রেওয়ামিল এবং উদ্ধৃত্তপত্রের মধ্যে পার্থক্য | 17:16 | [Watch](https://youtu.be/DfnY35wgRNs) |
-| 12 | রেওয়ামিল প্রস্তুতের উদ্দেশ্যসমূহ কী কী | 10:32 | [Watch](https://youtu.be/PncwxuoeGck) |
-| 13 | নগদান বই, জাবেদা ও খতিয়ান উভয়ই | 19:34 | [Watch](https://youtu.be/AxTHpW4SE34) |
-| 14 | খতিয়ানকে হিসাবের সকল বহির রাজা বলা হয় কেন? | 9:03 | [Watch](https://youtu.be/GlJJfC25Ppo) |
-| 15 | প্রাথমিক হিসাবের জাবেদা বই | 9:01 | [Watch](https://youtu.be/WgHWAGkOeHg) |
-| 16 | হিসাবের সংজ্ঞা | 4:05 | [Watch](https://youtu.be/Brm-RlDBZdk) |
-| 17 | দু’তরফা দাখিলা পদ্ধতির মূলনীতি | 10:04 | [Watch](https://youtu.be/wWEIRPFeWhs) |
-| 18 | লেনদেনের বৈশিষ্ট্য | 16:30 | [Watch](https://youtu.be/YLVzpwgHT88) |
-| 19 | হিসাববিজ্ঞানের উদ্দেশ্য | 15:25 | [Watch](https://youtu.be/YIH8r3_gGu8) |
-| 20 | উদ্ধৃত্তপত্র কেন প্রস্তুত করা হয় | 16:22 | [Watch](https://youtu.be/8Nz9ZhlBv4o) |
-| 21 | রেওয়ামিলের দুই পার্শ্ব না মিলার কারণ | 10:19 | [Watch](https://youtu.be/XwANZf08dLU) |
-| 22 | জনাব জব্বার সাহেব এর নিম্নলিখিহ লেনদেন গুলো হতে একঘরা নগদান পস্তুত কর | 23:14 | [Watch](https://youtu.be/jDdGx5dXLZA) |
-| 23 | পৃষ্ঠা চিহ্নিকরণ কী | 6:13 | [Watch](https://youtu.be/h1wRldPI6Ts?si=YJ39KvtvzFtmRFjM) |
-| 24 | জাবেদা লেনদেন লিপিবদ্ধ পদ্ধতি | 8:19 | [Watch](https://youtu.be/p4Kp7bw4uYA) |
-| 25 | হিসাবের উদ্দেশ্য | 10:31 | [Watch](https://youtu.be/f1SU8HtUc3U) |
-| 26 | দু’তরফা দাখিলা পদ্ধত অপেক্ষা উন্নতর কেন, তার বিচার বিশ্লেষণ | 10:02 | [Watch](https://youtu.be/O0SNWP3IeMU) |
+
+## Unit 2 — TRANSACTION ANALYSIS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 1 | দু’তরফা দাখিলা পদ্ধত অপেক্ষা উন্নতর কেন, তার বিচার বিশ্লেষণ | 10:02 | [Watch](https://youtu.be/O0SNWP3IeMU) |
+
+
+## Unit 10 — INCOME TAX
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 2 | আয়কর (Income Tax) | 20:22 | [Watch](https://youtu.be/5idZzau1BgM) |
+
+
+## Extra / not in syllabus
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 3 | চূড়ান্ত  হিসাব কাকে বলে | 17:35 | [Watch](https://youtu.be/-PG0gqBbtcE) |
+| 4 | রেওয়ামিল  ও রেওয়ামিলের সংজ্ঞা | 13:17 | [Watch](https://youtu.be/mjoMG27SCvM) |
+| 5 | নগদান বই ও নগদান বইয়ের শ্রেণিবিভাগ | 13:10 | [Watch](https://youtu.be/XChsicNy9go) |
+| 6 | খতিয়ান | 11:01 | [Watch](https://youtu.be/iTVZVeE_bxs) |
+| 7 | জাবেদার সংজ্ঞা | 11:01 | [Watch](https://youtu.be/4MEsT8HxZeE) |
+| 8 | হিসাবের ধারণা | 5:03 | [Watch](https://youtu.be/w2uhUQirEpA) |
+| 9 | হিসাব লিখন পদ্ধতি | 6:32 | [Watch](https://youtu.be/YwktxqT3Hj0) |
+| 10 | কারবারি লেনদেন | 5:23 | [Watch](https://youtu.be/jScL9-TJPaY) |
+| 11 | হিসাব বিজ্ঞানের সংজ্ঞা | 8:16 | [Watch](https://youtu.be/Mzgh2fmbjHk) |
+| 12 | রেওয়ামিল এবং উদ্ধৃত্তপত্রের মধ্যে পার্থক্য | 17:16 | [Watch](https://youtu.be/DfnY35wgRNs) |
+| 13 | রেওয়ামিল প্রস্তুতের উদ্দেশ্যসমূহ কী কী | 10:32 | [Watch](https://youtu.be/PncwxuoeGck) |
+| 14 | নগদান বই, জাবেদা ও খতিয়ান উভয়ই | 19:34 | [Watch](https://youtu.be/AxTHpW4SE34) |
+| 15 | খতিয়ানকে হিসাবের সকল বহির রাজা বলা হয় কেন? | 9:03 | [Watch](https://youtu.be/GlJJfC25Ppo) |
+| 16 | প্রাথমিক হিসাবের জাবেদা বই | 9:01 | [Watch](https://youtu.be/WgHWAGkOeHg) |
+| 17 | হিসাবের সংজ্ঞা | 4:05 | [Watch](https://youtu.be/Brm-RlDBZdk) |
+| 18 | দু’তরফা দাখিলা পদ্ধতির মূলনীতি | 10:04 | [Watch](https://youtu.be/wWEIRPFeWhs) |
+| 19 | লেনদেনের বৈশিষ্ট্য | 16:30 | [Watch](https://youtu.be/YLVzpwgHT88) |
+| 20 | হিসাববিজ্ঞানের উদ্দেশ্য | 15:25 | [Watch](https://youtu.be/YIH8r3_gGu8) |
+| 21 | উদ্ধৃত্তপত্র কেন প্রস্তুত করা হয় | 16:22 | [Watch](https://youtu.be/8Nz9ZhlBv4o) |
+| 22 | রেওয়ামিলের দুই পার্শ্ব না মিলার কারণ | 10:19 | [Watch](https://youtu.be/XwANZf08dLU) |
+| 23 | জনাব জব্বার সাহেব এর নিম্নলিখিহ লেনদেন গুলো হতে একঘরা নগদান পস্তুত কর | 23:14 | [Watch](https://youtu.be/jDdGx5dXLZA) |
+| 24 | পৃষ্ঠা চিহ্নিকরণ কী | 6:13 | [Watch](https://youtu.be/h1wRldPI6Ts?si=YJ39KvtvzFtmRFjM) |
+| 25 | জাবেদা লেনদেন লিপিবদ্ধ পদ্ধতি | 8:19 | [Watch](https://youtu.be/p4Kp7bw4uYA) |
+| 26 | হিসাবের উদ্দেশ্য | 10:31 | [Watch](https://youtu.be/f1SU8HtUc3U) |
 | 27 | বিভিন্ন ধরনের লেনদেন সম্পর্কে আলোচনা | 10:08 | [Watch](https://youtu.be/8UOe-FCK-bU) |
 | 28 | হিসাববিজ্ঞানের সুবিধা | 20:13 | [Watch](https://youtu.be/6FGtasNKQR0) |
 | 29 | মূলধন জাতীয় ব্যয় বলতে কী বুঝায় | 10:22 | [Watch](https://youtu.be/DZCiTIi1zYs) |

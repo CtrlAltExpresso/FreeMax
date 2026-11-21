@@ -3,70 +3,84 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | পরিবাহী পদার্থ (Conducting Material) | 5:08 | [Watch](https://youtu.be/U1XH5Yb3tUw) |
-| 2 | অপরিবাহী পদার্থ (Non-Conducting Material) | 9:10 | [Watch](https://youtu.be/fSupX7gveB8) |
-| 3 | তরল ইনসুলেটিং ম্যাটেরিয়ালস | 7:10 | [Watch](https://youtu.be/JU1Pi-WyH6Q) |
-| 4 | সলিড কঠিন ইনসুলেটিং ম্যাটেরিয়ালস এর তালিকা | 13:02 | [Watch](https://youtu.be/w-BBHKuijUM) |
-| 5 | ইনসুলেটিং ম্যাটেরিয়ালস - এর শ্রেণিবিভাগ | 7:28 | [Watch](https://youtu.be/HEwAGWMKySQ) |
-| 6 | পদার্থের চৌম্বকীয় বৈশিষ্ট্য | 11:05 | [Watch](https://youtu.be/ZRhwm_BotWQ) |
-| 7 | ফিউজিং ম্যাটেরিয়ালস্ | 7:19 | [Watch](https://youtu.be/x-hJHGRG-dQ) |
-| 8 | হাই রেজিস্টিভ ম্যাটেরিয়ালস্ | 6:08 | [Watch](https://youtu.be/6u7oJrPFls8) |
-| 9 | কন্টাক্ট ম্যাটেরিয়ালস | 12:34 | [Watch](https://youtu.be/IwY6oQXbT0o) |
-| 10 | ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস | 20:11 | [Watch](https://youtu.be/2aD3Eyv679c) |
-| 11 | অপটিক্যাল ফাইবার এর উপাদান | 6:25 | [Watch](https://youtu.be/g8j5Fm_3EGg) |
-| 12 | ইনট্রিনসিক সেমি কন্ডাক্টর | 6:01 | [Watch](https://youtu.be/Gxiq2xGNjZA) |
-| 13 | তরল ও গ্যাসীয় অপরিবাহী পদার্থ | 10:13 | [Watch](https://youtu.be/-_ft_TsyVXQ) |
-| 14 | সলিড ইনসুলেটিং ম্যাটেরিয়ালস এর তালিকা | 8:16 | [Watch](https://youtu.be/wtvXC5EgwG8) |
-| 15 | অপরিবাহী ম্যাটেরিয়ালস | 15:01 | [Watch](https://youtu.be/WX3UabSWoDo) |
-| 16 | নরম চৌম্বক পদার্থ | 8:33 | [Watch](https://youtu.be/JLufgYI8CSg) |
-| 17 | ফিউজ ম্যাটেরিয়ালস এর গুণাবলী | 12:18 | [Watch](https://youtu.be/fk6Thbev1FY) |
-| 18 | হাই রেজিষ্টিভ ম্যাটেরিয়ালস | 13:18 | [Watch](https://youtu.be/SJsI7zs6lX8) |
-| 19 | কন্টাক্ট, ম্যাটেরিয়ালস এবং এদের বৈশিষ্ট্য | 6:23 | [Watch](https://youtu.be/bjp8_qS_fng) |
-| 20 | ইলেক্ট্রিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর শ্রেণীবিভাগ | 28:16 | [Watch](https://youtu.be/NNmMYmQeT9M) |
-| 21 | তরল এবং গ্যাসীয় অপরিবাহী পদার্থের বৈদ্যুতিক গুণাবলি বা বৈশিষ্ট্য | 7:01 | [Watch](https://youtu.be/CZDtAm1TqkI) |
-| 22 | কঠিন অপরিবাহী পদার্থের প্রয়োগ | 2:23 | [Watch](https://youtu.be/nR3K_fXkuJs) |
-| 23 | তাপমাত্রার ভিত্তিতে ইনসুলেটিং ম্যাটেরিয়ালসের শ্রেণিবিভাগের ব্যাখ্যা | 15:03 | [Watch](https://youtu.be/SAsXAnfzYds) |
-| 24 | ফেরো ম্যাগনেটিক পদার্থ,প্যারা ম্যাগনেটিক পদার্থ, ডায়া ম্যাগনেটিক পদার্থ | 7:07 | [Watch](https://youtu.be/GUzBARYeK8k) |
-| 25 | ফিউজ, মেটাল এবং অ্যালয় | 4:22 | [Watch](https://youtu.be/DVQclvmdDsw) |
-| 26 | উচ্চ রেজিস্টিভ পদার্থের ব্যবহারের তালিকা | 12:14 | [Watch](https://youtu.be/hWVXyFWPSOk) |
-| 27 | কন্টাক্ট ম্যাটেরিয়ালস এর উদাহরণ | 3:33 | [Watch](https://youtu.be/1k2TtWAEeJE) |
-| 28 | অর্ধ-পরিবাহী বা কুপরিবাহী পদার্থ | 25:12 | [Watch](https://youtu.be/qN4mzq9Rc3U) |
-| 29 | অপটিক্যাল ফাইবারের প্রকারভেদ | 15:01 | [Watch](https://youtu.be/l5xEYyjq064) |
-| 30 | সেমিকন্ডাক্টর ম্যাটেরিয়ালস এর প্রকারভেদ | 8:18 | [Watch](https://youtu.be/UP1_uu8XHKY) |
-| 31 | তরল ইনসুলেটিং ম্যাটেরিয়াল এর বৈদ্যুতিক গুণাবলী | 14:23 | [Watch](https://youtu.be/8334mxSBokA) |
-| 32 | গ্লাস ইনশুলেশনের বৈশিষ্ট্য | 11:22 | [Watch](https://youtu.be/1JdmJ9-B7YU) |
-| 33 | ইনসুলেটিং ম্যাটেরিয়ালস এর প্রয়োজনীয়তা | 11:22 | [Watch](https://youtu.be/K9GpSGcDi38) |
-| 34 | পদার্থের চৌম্বকীয় বৈশিষ্ট্য | 12:23 | [Watch](https://youtu.be/GJ5EMLtyXnk) |
-| 35 | ফিউজ ম্যাটেরিয়াল হিসাবে ধাতু ও সংকর ধাতুর সুবিধা | 4:08 | [Watch](https://youtu.be/LvAhyKxGKHc) |
-| 36 | কিছু রেজিস্টিভিটি ম্যাটেরিয়ালস এর গুণাবলী | 12:06 | [Watch](https://youtu.be/pqTDUAHCXLw) |
-| 37 | রুপা, টাংস্টেন বৈশিষ্ট্য | 7:08 | [Watch](https://youtu.be/GM40xcv-EMA) |
-| 38 | পরিবাহী, অর্ধপরিবাহী, অপরিবাহী | 15:16 | [Watch](https://youtu.be/84G-f8nLVEM) |
-| 39 | নাইট্রোজেনের বৈশিষ্ট্য | 6:07 | [Watch](https://youtu.be/flo4P6400Cs) |
-| 40 | গ্যাসকেট (Gasket) | 4:15 | [Watch](https://youtu.be/9SHoOfegbrE) |
-| 41 | একটি আদর্শ ইনসুলেটিং ম্যাটেরিয়ালের গুণাবলির তালিকা | 2:25 | [Watch](https://youtu.be/_n2D5ZLqgr8) |
-| 42 | ফেরো ম্যাগনেটিক, প্যারা ম্যাগনেটিক এবং ডায়া ম্যাগনেটিক পদার্থের মধ্যে তুলনা | 8:17 | [Watch](https://youtu.be/fl2UGuF5NCo) |
-| 43 | ফিউজ ম্যাটেরিয়ালের গুণাবলি | 3:26 | [Watch](https://youtu.be/ga4iS_c7SOA) |
-| 44 | নাইক্রোম, কনস্ট্যান্টান বা ইউরেকা, ম্যাংগানিন, জার্মান সিলভার এবং কার্বনের সাধারণ গুণাবলি | 6:22 | [Watch](https://youtu.be/iu23nSD5w5o) |
-| 45 | সিলভার, টাংস্টেন, কার্বন এবং কপারের ভৌত ও বৈদ্যুতিক গুণাবলি | 6:02 | [Watch](https://youtu.be/dVCUhZnhjEI) |
-| 46 | অপরিবাহী পদার্থ | 7:14 | [Watch](https://youtu.be/PDpaqGIkh9o) |
-| 47 | অপটিক্যাল ফাইবারের গঠন | 14:34 | [Watch](https://youtu.be/BzEtHIrWDeQ) |
-| 48 | N টাইপ এক্সটিনসিক সেমিকন্ডাক্টর | 4:11 | [Watch](https://youtu.be/jtFMB7KtvMc) |
-| 49 | গ্যাসিয়াস ইনসুলেটিং ম্যাটেরিয়াল | 5:13 | [Watch](https://youtu.be/EZvqHFukE8U) |
-| 50 | অ্যাসবেসটস ইনশুলেশনের বৈশিষ্ট্য | 8:07 | [Watch](https://youtu.be/8HvA6IE6DXY) |
-| 51 | আদর্শ ইনসুলেটিং ম্যাটেরিয়ালসের গুনাবলী | 10:03 | [Watch](https://youtu.be/Rag-dW041jo) |
-| 52 | আচরনের ভিত্তিতে চৌম্বক পদার্থ  কত প্রকার ও কি কি? | 6:25 | [Watch](https://youtu.be/RAMlmWVQBEw) |
-| 53 | হাই রেজিস্টিভিটি ম্যাটেরিয়ালস  এর উপাদানসমূহ | 7:10 | [Watch](https://youtu.be/zCWuflAJqdM) |
-| 54 | কার্বন, কপার বৈশিষ্ট্য ও ব্যবহার | 6:21 | [Watch](https://youtu.be/ZCpQeBw_S4g) |
-| 55 | পরিবাহী, অর্ধপরিবাহী,অপরিবাহী এনার্জি ব্যান্ড | 13:08 | [Watch](https://youtu.be/K9R9MgGqu48) |
-| 56 | বাতাসের বৈশিষ্ট্য | 6:22 | [Watch](https://youtu.be/cjXzr7rbuV4) |
-| 57 | লো, মিডিয়াম এবং হাই গ্রেড অপরিবাহী পদার্থের রেজিস্টিভিটির স্বাভাবিক রেঞ্জ | 2:27 | [Watch](https://youtu.be/mU3KJcR5sCA) |
-| 58 | হিস্টেরেসিস | 9:12 | [Watch](https://youtu.be/35be69C4l0o) |
-| 59 | ধাতু এবং শংকর ধাতু হিসেবে ফিউজিং শ্যাটেরিয়ালস্ এর তালিকা | 4:31 | [Watch](https://youtu.be/hhUNo75G8a0) |
-| 60 | নাইক্রোম, কনস্ট্যান্টান বা ইউরেকা, ম্যাংগানিন, জার্মান সিলভার এবং টাংস্টেন গঠন উপাদান বর্ণনা | 7:07 | [Watch](https://youtu.be/h-0eVMRbb3A) |
-| 61 | কপার, কার্বন এবং গ্রাফাইট পদার্থের ব্রাশ হিসেবে ব্যবহার | 11:10 | [Watch](https://youtu.be/XrdVLL7ySss) |
-| 62 | পদার্থের এনার্জি ব্যান্ড ডায়াগ্রামের ব্যাখ্যা | 21:20 | [Watch](https://youtu.be/2m1eqnH8yB0) |
-| 63 | অপটিক্যাল ফাইবারের সুবিধা | 8:30 | [Watch](https://youtu.be/kq49Za5b1Z4) |
-| 64 | সেমিকন্ডাক্টিং ম্যাটেরিয়্যালস এর গুরুত্ব | 14:07 | [Watch](https://youtu.be/XETyMqA5n8M) |
+
+## Unit 1 — CONDUCTING AND NON-CONDUCTING MATERIALS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 1 | সেমিকন্ডাক্টিং ম্যাটেরিয়্যালস এর গুরুত্ব | 14:07 | [Watch](https://youtu.be/XETyMqA5n8M) |
+| 2 | পরিবাহী পদার্থ (Conducting Material) | 5:08 | [Watch](https://youtu.be/U1XH5Yb3tUw) |
+| 3 | অপরিবাহী পদার্থ (Non-Conducting Material) | 9:10 | [Watch](https://youtu.be/fSupX7gveB8) |
+
+
+## Unit 5 — MAGNETIC PROPERTIES OF MATERIALS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 4 | ফেরো ম্যাগনেটিক পদার্থ,প্যারা ম্যাগনেটিক পদার্থ, ডায়া ম্যাগনেটিক পদার্থ | 7:07 | [Watch](https://youtu.be/GUzBARYeK8k) |
+| 5 | ফেরো ম্যাগনেটিক, প্যারা ম্যাগনেটিক এবং ডায়া ম্যাগনেটিক পদার্থের মধ্যে তুলনা | 8:17 | [Watch](https://youtu.be/fl2UGuF5NCo) |
+
+
+## Extra / not in syllabus
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 6 | তরল ইনসুলেটিং ম্যাটেরিয়ালস | 7:10 | [Watch](https://youtu.be/JU1Pi-WyH6Q) |
+| 7 | সলিড কঠিন ইনসুলেটিং ম্যাটেরিয়ালস এর তালিকা | 13:02 | [Watch](https://youtu.be/w-BBHKuijUM) |
+| 8 | ইনসুলেটিং ম্যাটেরিয়ালস - এর শ্রেণিবিভাগ | 7:28 | [Watch](https://youtu.be/HEwAGWMKySQ) |
+| 9 | পদার্থের চৌম্বকীয় বৈশিষ্ট্য | 11:05 | [Watch](https://youtu.be/ZRhwm_BotWQ) |
+| 10 | ফিউজিং ম্যাটেরিয়ালস্ | 7:19 | [Watch](https://youtu.be/x-hJHGRG-dQ) |
+| 11 | হাই রেজিস্টিভ ম্যাটেরিয়ালস্ | 6:08 | [Watch](https://youtu.be/6u7oJrPFls8) |
+| 12 | কন্টাক্ট ম্যাটেরিয়ালস | 12:34 | [Watch](https://youtu.be/IwY6oQXbT0o) |
+| 13 | ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস | 20:11 | [Watch](https://youtu.be/2aD3Eyv679c) |
+| 14 | অপটিক্যাল ফাইবার এর উপাদান | 6:25 | [Watch](https://youtu.be/g8j5Fm_3EGg) |
+| 15 | ইনট্রিনসিক সেমি কন্ডাক্টর | 6:01 | [Watch](https://youtu.be/Gxiq2xGNjZA) |
+| 16 | তরল ও গ্যাসীয় অপরিবাহী পদার্থ | 10:13 | [Watch](https://youtu.be/-_ft_TsyVXQ) |
+| 17 | সলিড ইনসুলেটিং ম্যাটেরিয়ালস এর তালিকা | 8:16 | [Watch](https://youtu.be/wtvXC5EgwG8) |
+| 18 | অপরিবাহী ম্যাটেরিয়ালস | 15:01 | [Watch](https://youtu.be/WX3UabSWoDo) |
+| 19 | নরম চৌম্বক পদার্থ | 8:33 | [Watch](https://youtu.be/JLufgYI8CSg) |
+| 20 | ফিউজ ম্যাটেরিয়ালস এর গুণাবলী | 12:18 | [Watch](https://youtu.be/fk6Thbev1FY) |
+| 21 | হাই রেজিষ্টিভ ম্যাটেরিয়ালস | 13:18 | [Watch](https://youtu.be/SJsI7zs6lX8) |
+| 22 | কন্টাক্ট, ম্যাটেরিয়ালস এবং এদের বৈশিষ্ট্য | 6:23 | [Watch](https://youtu.be/bjp8_qS_fng) |
+| 23 | ইলেক্ট্রিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস এর শ্রেণীবিভাগ | 28:16 | [Watch](https://youtu.be/NNmMYmQeT9M) |
+| 24 | তরল এবং গ্যাসীয় অপরিবাহী পদার্থের বৈদ্যুতিক গুণাবলি বা বৈশিষ্ট্য | 7:01 | [Watch](https://youtu.be/CZDtAm1TqkI) |
+| 25 | কঠিন অপরিবাহী পদার্থের প্রয়োগ | 2:23 | [Watch](https://youtu.be/nR3K_fXkuJs) |
+| 26 | তাপমাত্রার ভিত্তিতে ইনসুলেটিং ম্যাটেরিয়ালসের শ্রেণিবিভাগের ব্যাখ্যা | 15:03 | [Watch](https://youtu.be/SAsXAnfzYds) |
+| 27 | ফিউজ, মেটাল এবং অ্যালয় | 4:22 | [Watch](https://youtu.be/DVQclvmdDsw) |
+| 28 | উচ্চ রেজিস্টিভ পদার্থের ব্যবহারের তালিকা | 12:14 | [Watch](https://youtu.be/hWVXyFWPSOk) |
+| 29 | কন্টাক্ট ম্যাটেরিয়ালস এর উদাহরণ | 3:33 | [Watch](https://youtu.be/1k2TtWAEeJE) |
+| 30 | অর্ধ-পরিবাহী বা কুপরিবাহী পদার্থ | 25:12 | [Watch](https://youtu.be/qN4mzq9Rc3U) |
+| 31 | অপটিক্যাল ফাইবারের প্রকারভেদ | 15:01 | [Watch](https://youtu.be/l5xEYyjq064) |
+| 32 | সেমিকন্ডাক্টর ম্যাটেরিয়ালস এর প্রকারভেদ | 8:18 | [Watch](https://youtu.be/UP1_uu8XHKY) |
+| 33 | তরল ইনসুলেটিং ম্যাটেরিয়াল এর বৈদ্যুতিক গুণাবলী | 14:23 | [Watch](https://youtu.be/8334mxSBokA) |
+| 34 | গ্লাস ইনশুলেশনের বৈশিষ্ট্য | 11:22 | [Watch](https://youtu.be/1JdmJ9-B7YU) |
+| 35 | ইনসুলেটিং ম্যাটেরিয়ালস এর প্রয়োজনীয়তা | 11:22 | [Watch](https://youtu.be/K9GpSGcDi38) |
+| 36 | পদার্থের চৌম্বকীয় বৈশিষ্ট্য | 12:23 | [Watch](https://youtu.be/GJ5EMLtyXnk) |
+| 37 | ফিউজ ম্যাটেরিয়াল হিসাবে ধাতু ও সংকর ধাতুর সুবিধা | 4:08 | [Watch](https://youtu.be/LvAhyKxGKHc) |
+| 38 | কিছু রেজিস্টিভিটি ম্যাটেরিয়ালস এর গুণাবলী | 12:06 | [Watch](https://youtu.be/pqTDUAHCXLw) |
+| 39 | রুপা, টাংস্টেন বৈশিষ্ট্য | 7:08 | [Watch](https://youtu.be/GM40xcv-EMA) |
+| 40 | পরিবাহী, অর্ধপরিবাহী, অপরিবাহী | 15:16 | [Watch](https://youtu.be/84G-f8nLVEM) |
+| 41 | নাইট্রোজেনের বৈশিষ্ট্য | 6:07 | [Watch](https://youtu.be/flo4P6400Cs) |
+| 42 | গ্যাসকেট (Gasket) | 4:15 | [Watch](https://youtu.be/9SHoOfegbrE) |
+| 43 | একটি আদর্শ ইনসুলেটিং ম্যাটেরিয়ালের গুণাবলির তালিকা | 2:25 | [Watch](https://youtu.be/_n2D5ZLqgr8) |
+| 44 | ফিউজ ম্যাটেরিয়ালের গুণাবলি | 3:26 | [Watch](https://youtu.be/ga4iS_c7SOA) |
+| 45 | নাইক্রোম, কনস্ট্যান্টান বা ইউরেকা, ম্যাংগানিন, জার্মান সিলভার এবং কার্বনের সাধারণ গুণাবলি | 6:22 | [Watch](https://youtu.be/iu23nSD5w5o) |
+| 46 | সিলভার, টাংস্টেন, কার্বন এবং কপারের ভৌত ও বৈদ্যুতিক গুণাবলি | 6:02 | [Watch](https://youtu.be/dVCUhZnhjEI) |
+| 47 | অপরিবাহী পদার্থ | 7:14 | [Watch](https://youtu.be/PDpaqGIkh9o) |
+| 48 | অপটিক্যাল ফাইবারের গঠন | 14:34 | [Watch](https://youtu.be/BzEtHIrWDeQ) |
+| 49 | N টাইপ এক্সটিনসিক সেমিকন্ডাক্টর | 4:11 | [Watch](https://youtu.be/jtFMB7KtvMc) |
+| 50 | গ্যাসিয়াস ইনসুলেটিং ম্যাটেরিয়াল | 5:13 | [Watch](https://youtu.be/EZvqHFukE8U) |
+| 51 | অ্যাসবেসটস ইনশুলেশনের বৈশিষ্ট্য | 8:07 | [Watch](https://youtu.be/8HvA6IE6DXY) |
+| 52 | আদর্শ ইনসুলেটিং ম্যাটেরিয়ালসের গুনাবলী | 10:03 | [Watch](https://youtu.be/Rag-dW041jo) |
+| 53 | আচরনের ভিত্তিতে চৌম্বক পদার্থ  কত প্রকার ও কি কি? | 6:25 | [Watch](https://youtu.be/RAMlmWVQBEw) |
+| 54 | হাই রেজিস্টিভিটি ম্যাটেরিয়ালস  এর উপাদানসমূহ | 7:10 | [Watch](https://youtu.be/zCWuflAJqdM) |
+| 55 | কার্বন, কপার বৈশিষ্ট্য ও ব্যবহার | 6:21 | [Watch](https://youtu.be/ZCpQeBw_S4g) |
+| 56 | পরিবাহী, অর্ধপরিবাহী,অপরিবাহী এনার্জি ব্যান্ড | 13:08 | [Watch](https://youtu.be/K9R9MgGqu48) |
+| 57 | বাতাসের বৈশিষ্ট্য | 6:22 | [Watch](https://youtu.be/cjXzr7rbuV4) |
+| 58 | লো, মিডিয়াম এবং হাই গ্রেড অপরিবাহী পদার্থের রেজিস্টিভিটির স্বাভাবিক রেঞ্জ | 2:27 | [Watch](https://youtu.be/mU3KJcR5sCA) |
+| 59 | হিস্টেরেসিস | 9:12 | [Watch](https://youtu.be/35be69C4l0o) |
+| 60 | ধাতু এবং শংকর ধাতু হিসেবে ফিউজিং শ্যাটেরিয়ালস্ এর তালিকা | 4:31 | [Watch](https://youtu.be/hhUNo75G8a0) |
+| 61 | নাইক্রোম, কনস্ট্যান্টান বা ইউরেকা, ম্যাংগানিন, জার্মান সিলভার এবং টাংস্টেন গঠন উপাদান বর্ণনা | 7:07 | [Watch](https://youtu.be/h-0eVMRbb3A) |
+| 62 | কপার, কার্বন এবং গ্রাফাইট পদার্থের ব্রাশ হিসেবে ব্যবহার | 11:10 | [Watch](https://youtu.be/XrdVLL7ySss) |
+| 63 | পদার্থের এনার্জি ব্যান্ড ডায়াগ্রামের ব্যাখ্যা | 21:20 | [Watch](https://youtu.be/2m1eqnH8yB0) |
+| 64 | অপটিক্যাল ফাইবারের সুবিধা | 8:30 | [Watch](https://youtu.be/kq49Za5b1Z4) |
 | 65 | ফ্রেয়ন -11,12,22 এর বৈশিষ্ট্য | 6:01 | [Watch](https://youtu.be/-LNEjHtVPyc) |
 | 66 | ইনসুলেটিং ম্যাটেরিয়ালস এর উপর তাপমাত্রা ও আর্দ্রতার প্রভাব | 5:23 | [Watch](https://youtu.be/MVblbxmu4x0) |
 | 67 | নরম চৌম্বক পদার্থের গঠন ও গুণাবলি | 10:06 | [Watch](https://youtu.be/OdGLrowp2_E) |

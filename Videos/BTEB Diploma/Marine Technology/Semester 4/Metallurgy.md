@@ -3,57 +3,71 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
+
+## Unit 3 — PIG IRON
+| # | Title | Duration | Link |
+|---|-------|----------|------|
 | 1 | pig Iron | 4:00 | [Watch](https://youtu.be/22IVRGGrw0k) |
 | 2 | Pig Iron | 8:25 | [Watch](https://youtu.be/vGc69paIoTk) |
+
+
+## Unit 6 — PLAIN CARBON STEEL
+| # | Title | Duration | Link |
+|---|-------|----------|------|
 | 3 | Plain Carbon Steel | 2:32 | [Watch](https://youtu.be/FZKCLP6Agu0) |
-| 4 | পাউডার মেটালার্জির সংঙ্গা এবং গুরুত্ব | 6:25 | [Watch](https://youtu.be/jtBD8HzKcmY?si=FeztiLGTFXLzKtmD) |
-| 5 | সংকর ইস্পাত | 4:23 | [Watch](https://youtu.be/YAfPaPoTfxo) |
-| 6 | স্ক্রসিবল চুল্লির গঠন | 7:05 | [Watch](https://youtu.be/MOf-iNFKGZg) |
-| 7 | বেসিমার | 19:26 | [Watch](https://youtu.be/7n9U5k0YL-0) |
-| 8 | ঢালাইলোহা  এর সংজ্ঞা | 8:24 | [Watch](https://youtu.be/Un75AJR6M5Y) |
-| 9 | পেটা লোহা | 2:16 | [Watch](https://youtu.be/9KGJVSM0pF0) |
-| 10 | আকরিক | 8:13 | [Watch](https://youtu.be/fnpdnxUTAr0) |
-| 11 | ধাতু কি? | 5:18 | [Watch](https://youtu.be/RHQ6Ree-LRs) |
-| 12 | ধাতব গুড়া তৈরীর বিভিন্ন পদ্ধতিসমূহ | 12:16 | [Watch](https://youtu.be/ST8Djm0fBYY?si=QySUtvvJS1c-w6g2) |
-| 13 | সংকর ইস্পাতের শ্রেণীবিভাগ ও ব্যবহার | 7:01 | [Watch](https://youtu.be/HbDGUsukkgM) |
-| 14 | স্ক্রসিবল পদ্ধতিতে  ইস্পাত উৎপাদন | 6:26 | [Watch](https://youtu.be/QCEGSEM9bW0) |
-| 15 | বেসিমার পদ্ধতি | 7:29 | [Watch](https://youtu.be/KIcze1xkV1k) |
-| 16 | ঢালাইলোহা উৎপাদন পদ্ধতি | 13:11 | [Watch](https://youtu.be/TUa_-QprUSU) |
-| 17 | পেটা লোহার উপাদান | 6:01 | [Watch](https://youtu.be/EiiNnFtm47E) |
-| 18 | গলন চুল্লি | 17:18 | [Watch](https://youtu.be/yoirjntEf1Q) |
-| 19 | ধাতব আকরিক | 9:19 | [Watch](https://youtu.be/i__S83HEsBk) |
-| 20 | ধাতুবিদ্যার সংজ্ঞা | 3:13 | [Watch](https://youtu.be/yN5tuP4eL7A) |
-| 21 | বিভিন্ন প্রকার সরল কার্বন স্টিল | 6:08 | [Watch](https://youtu.be/DdYfDf3zDsc) |
-| 22 | সরল কার্বন ইস্পাতের মধ্যে পার্থক্য | 3:35 | [Watch](https://youtu.be/J0kzx5tfUsM) |
-| 23 | টিলটিং টাইপ তেল বা গ্যাস | 5:22 | [Watch](https://youtu.be/ymA6_aDgJGY) |
-| 24 | বেসিক বেসিমার পদ্ধতির পার্থক্য | 4:29 | [Watch](https://youtu.be/MIqnQgc9xxc) |
-| 25 | ঢালাইলোহা এর শ্রেণীবিভাগ | 2:11 | [Watch](https://youtu.be/xK_MDxRhKfg) |
-| 26 | পেটা লোহার ধর্ম | 2:26 | [Watch](https://youtu.be/VidD0A3RMrM) |
-| 27 | লৌহ আকরিক | 24:18 | [Watch](https://youtu.be/_G4XK-kAq-w) |
-| 28 | ধাতুবিদ্যার শ্রেণিবিভাগ | 11:21 | [Watch](https://youtu.be/lUlbXBiXk-I) |
-| 29 | সরল কার্বন ইস্পাতের শ্রেণীবিভাগ | 6:04 | [Watch](https://youtu.be/5pjUsazKX-s) |
-| 30 | ধাতব পাউডারের দ্রব্য উৎপাদন পদ্ধতি | 6:30 | [Watch](https://youtu.be/0xugb7SL008?si=mpx88bjzK98b2ntl) |
-| 31 | কতিপয় সংকর ইস্পাতের উৎপাদন পদ্ধতি | 4:34 | [Watch](https://youtu.be/ngpXdnCGB0I) |
-| 32 | ইস্পাতের  উপর বিভিন্ন উপাদানের প্রভাব | 7:22 | [Watch](https://youtu.be/0uIJepeOvtc) |
-| 33 | বিভিন্ন প্রকার ঢালাই লোহার উপাদান বৈশিষ্ট্য ও ব্যবহার | 4:25 | [Watch](https://youtu.be/59qdN_N7GpU) |
-| 34 | পেটা লোহার ব্যবহার | 2:35 | [Watch](https://youtu.be/uHgRmxOKLiE) |
-| 35 | বাত্যচুল্লির গুরুত্ব | 3:24 | [Watch](https://youtu.be/9w7rPY6pJHU) |
-| 36 | বিগলনের পূর্বে আকরিকের প্রস্তুতি | 20:22 | [Watch](https://youtu.be/zKlV3fqaAmg) |
-| 37 | প্লেইন কার্বন স্টিলের উপাদান | 5:19 | [Watch](https://youtu.be/lBKMyNCEkUM) |
-| 38 | গাণিতিক সমাধান | 11:12 | [Watch](https://youtu.be/IxxXH1XXmQI) |
-| 39 | ইস্পাতে উৎপাদনে ডুপ্লেক্সিং ও ট্রি প্লেক্সিং পদ্ধতি ব্যবহারের কারণ | 5:06 | [Watch](https://youtu.be/qwFkoJyWaiM) |
-| 40 | লিনজ ডোনাইজ এলডি পদ্ধতি | 4:35 | [Watch](https://youtu.be/PVktXsYeN38) |
-| 41 | প্লেইন কার্বন স্টিলের বিভিন্ন অনুপাত ও ব্যবহার | 6:41 | [Watch](https://youtu.be/P_jbb0D_dlo) |
-| 42 | বিভিন্ন প্রকার ঢালাই লোহার উপাদান বৈশিষ্ট্য ও ব্যবহার | 3:26 | [Watch](https://youtu.be/6tJZfxGGZlA) |
-| 43 | পেটা লোহার উৎপাদন পদ্ধতি | 13:22 | [Watch](https://youtu.be/HTMYCkzHN-k) |
-| 44 | বাত্যচুল্লির গঠন | 11:35 | [Watch](https://youtu.be/eXedOEN3E4w) |
-| 45 | বাংলাদেশে প্রাপ্য ধাতব আকরিক | 4:35 | [Watch](https://youtu.be/fT88Qo_18ms) |
-| 46 | ধাতুর ভৌত ও যান্ত্রিক ধর্ম | 7:30 | [Watch](https://youtu.be/nvR6KqoSEwo) |
-| 47 | রট আয়রনের উৎপাদন প্রক্রিয়ায় সতর্কতা পদ্ধতি | 5:26 | [Watch](https://youtu.be/Mnq3Idw03XU) |
-| 48 | সরল কার্বন ইস্পাতে বিভিন্ন সংকর উপাদান মিশ্রিত করার উদ্দেশ্য | 5:31 | [Watch](https://youtu.be/UHVHYEkDAow) |
-| 49 | বৈদ্যুতিক চুল্লির গঠন | 7:05 | [Watch](https://youtu.be/DW50holH3bY) |
-| 50 | ওপেন হার্থ চুল্লির বর্ণনা | 8:08 | [Watch](https://youtu.be/3edza-u-IeM) |
-| 51 | সরল কার্বন ইস্পাতের ব্যবহার | 12:02 | [Watch](https://youtu.be/ZROSVK73Dlc) |
+| 4 | বিভিন্ন প্রকার সরল কার্বন স্টিল | 6:08 | [Watch](https://youtu.be/DdYfDf3zDsc) |
+| 5 | সরল কার্বন ইস্পাতের মধ্যে পার্থক্য | 3:35 | [Watch](https://youtu.be/J0kzx5tfUsM) |
+| 6 | সরল কার্বন ইস্পাতের শ্রেণীবিভাগ | 6:04 | [Watch](https://youtu.be/5pjUsazKX-s) |
+| 7 | প্লেইন কার্বন স্টিলের উপাদান | 5:19 | [Watch](https://youtu.be/lBKMyNCEkUM) |
+| 8 | প্লেইন কার্বন স্টিলের বিভিন্ন অনুপাত ও ব্যবহার | 6:41 | [Watch](https://youtu.be/P_jbb0D_dlo) |
+| 9 | সরল কার্বন ইস্পাতে বিভিন্ন সংকর উপাদান মিশ্রিত করার উদ্দেশ্য | 5:31 | [Watch](https://youtu.be/UHVHYEkDAow) |
+| 10 | সরল কার্বন ইস্পাতের ব্যবহার | 12:02 | [Watch](https://youtu.be/ZROSVK73Dlc) |
+
+
+## Extra / not in syllabus
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 11 | পাউডার মেটালার্জির সংঙ্গা এবং গুরুত্ব | 6:25 | [Watch](https://youtu.be/jtBD8HzKcmY?si=FeztiLGTFXLzKtmD) |
+| 12 | সংকর ইস্পাত | 4:23 | [Watch](https://youtu.be/YAfPaPoTfxo) |
+| 13 | স্ক্রসিবল চুল্লির গঠন | 7:05 | [Watch](https://youtu.be/MOf-iNFKGZg) |
+| 14 | বেসিমার | 19:26 | [Watch](https://youtu.be/7n9U5k0YL-0) |
+| 15 | ঢালাইলোহা  এর সংজ্ঞা | 8:24 | [Watch](https://youtu.be/Un75AJR6M5Y) |
+| 16 | পেটা লোহা | 2:16 | [Watch](https://youtu.be/9KGJVSM0pF0) |
+| 17 | আকরিক | 8:13 | [Watch](https://youtu.be/fnpdnxUTAr0) |
+| 18 | ধাতু কি? | 5:18 | [Watch](https://youtu.be/RHQ6Ree-LRs) |
+| 19 | ধাতব গুড়া তৈরীর বিভিন্ন পদ্ধতিসমূহ | 12:16 | [Watch](https://youtu.be/ST8Djm0fBYY?si=QySUtvvJS1c-w6g2) |
+| 20 | সংকর ইস্পাতের শ্রেণীবিভাগ ও ব্যবহার | 7:01 | [Watch](https://youtu.be/HbDGUsukkgM) |
+| 21 | স্ক্রসিবল পদ্ধতিতে  ইস্পাত উৎপাদন | 6:26 | [Watch](https://youtu.be/QCEGSEM9bW0) |
+| 22 | বেসিমার পদ্ধতি | 7:29 | [Watch](https://youtu.be/KIcze1xkV1k) |
+| 23 | ঢালাইলোহা উৎপাদন পদ্ধতি | 13:11 | [Watch](https://youtu.be/TUa_-QprUSU) |
+| 24 | পেটা লোহার উপাদান | 6:01 | [Watch](https://youtu.be/EiiNnFtm47E) |
+| 25 | গলন চুল্লি | 17:18 | [Watch](https://youtu.be/yoirjntEf1Q) |
+| 26 | ধাতব আকরিক | 9:19 | [Watch](https://youtu.be/i__S83HEsBk) |
+| 27 | ধাতুবিদ্যার সংজ্ঞা | 3:13 | [Watch](https://youtu.be/yN5tuP4eL7A) |
+| 28 | টিলটিং টাইপ তেল বা গ্যাস | 5:22 | [Watch](https://youtu.be/ymA6_aDgJGY) |
+| 29 | বেসিক বেসিমার পদ্ধতির পার্থক্য | 4:29 | [Watch](https://youtu.be/MIqnQgc9xxc) |
+| 30 | ঢালাইলোহা এর শ্রেণীবিভাগ | 2:11 | [Watch](https://youtu.be/xK_MDxRhKfg) |
+| 31 | পেটা লোহার ধর্ম | 2:26 | [Watch](https://youtu.be/VidD0A3RMrM) |
+| 32 | লৌহ আকরিক | 24:18 | [Watch](https://youtu.be/_G4XK-kAq-w) |
+| 33 | ধাতুবিদ্যার শ্রেণিবিভাগ | 11:21 | [Watch](https://youtu.be/lUlbXBiXk-I) |
+| 34 | ধাতব পাউডারের দ্রব্য উৎপাদন পদ্ধতি | 6:30 | [Watch](https://youtu.be/0xugb7SL008?si=mpx88bjzK98b2ntl) |
+| 35 | কতিপয় সংকর ইস্পাতের উৎপাদন পদ্ধতি | 4:34 | [Watch](https://youtu.be/ngpXdnCGB0I) |
+| 36 | ইস্পাতের  উপর বিভিন্ন উপাদানের প্রভাব | 7:22 | [Watch](https://youtu.be/0uIJepeOvtc) |
+| 37 | বিভিন্ন প্রকার ঢালাই লোহার উপাদান বৈশিষ্ট্য ও ব্যবহার | 4:25 | [Watch](https://youtu.be/59qdN_N7GpU) |
+| 38 | পেটা লোহার ব্যবহার | 2:35 | [Watch](https://youtu.be/uHgRmxOKLiE) |
+| 39 | বাত্যচুল্লির গুরুত্ব | 3:24 | [Watch](https://youtu.be/9w7rPY6pJHU) |
+| 40 | বিগলনের পূর্বে আকরিকের প্রস্তুতি | 20:22 | [Watch](https://youtu.be/zKlV3fqaAmg) |
+| 41 | গাণিতিক সমাধান | 11:12 | [Watch](https://youtu.be/IxxXH1XXmQI) |
+| 42 | ইস্পাতে উৎপাদনে ডুপ্লেক্সিং ও ট্রি প্লেক্সিং পদ্ধতি ব্যবহারের কারণ | 5:06 | [Watch](https://youtu.be/qwFkoJyWaiM) |
+| 43 | লিনজ ডোনাইজ এলডি পদ্ধতি | 4:35 | [Watch](https://youtu.be/PVktXsYeN38) |
+| 44 | বিভিন্ন প্রকার ঢালাই লোহার উপাদান বৈশিষ্ট্য ও ব্যবহার | 3:26 | [Watch](https://youtu.be/6tJZfxGGZlA) |
+| 45 | পেটা লোহার উৎপাদন পদ্ধতি | 13:22 | [Watch](https://youtu.be/HTMYCkzHN-k) |
+| 46 | বাত্যচুল্লির গঠন | 11:35 | [Watch](https://youtu.be/eXedOEN3E4w) |
+| 47 | বাংলাদেশে প্রাপ্য ধাতব আকরিক | 4:35 | [Watch](https://youtu.be/fT88Qo_18ms) |
+| 48 | ধাতুর ভৌত ও যান্ত্রিক ধর্ম | 7:30 | [Watch](https://youtu.be/nvR6KqoSEwo) |
+| 49 | রট আয়রনের উৎপাদন প্রক্রিয়ায় সতর্কতা পদ্ধতি | 5:26 | [Watch](https://youtu.be/Mnq3Idw03XU) |
+| 50 | বৈদ্যুতিক চুল্লির গঠন | 7:05 | [Watch](https://youtu.be/DW50holH3bY) |
+| 51 | ওপেন হার্থ চুল্লির বর্ণনা | 8:08 | [Watch](https://youtu.be/3edza-u-IeM) |
 | 52 | মেলিয়্যাবল কাস্ট আয়রন | 2:25 | [Watch](https://youtu.be/ptkAP5VdEPo) |
 | 53 | পিগ আয়রন উৎপাদন | 26:29 | [Watch](https://youtu.be/AIRduLcLtko) |
 | 54 | দূর্গল সামগ্রী | 12:32 | [Watch](https://youtu.be/ybYsoH1zq3k) |

@@ -4,100 +4,124 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | ওয়েল্ডিং খরচ প্রাক্কলনের উদ্দেশ্য | 13:22 | [Watch](https://youtu.be/rL0k-Buu6-o) |
-| 2 | ওয়েল্ডিবিলিটি | 17:02 | [Watch](https://youtu.be/Wj_WDR4_yJA) |
-| 3 | ডিফিউশন বা বিভাজন ওয়েল্ডিং | 11:07 | [Watch](https://youtu.be/jsMYd1Qd_e4) |
-| 4 | সাবমার্জড আর্ক ওয়েল্ডিং | 7:12 | [Watch](https://youtu.be/bsAGFbxjhvs) |
-| 5 | ভার্চুয়াল রিয়েলিটি | 7:25 | [Watch](https://youtu.be/NAfDRdu26X0) |
-| 6 | ওয়েল্ডিং রোবটস | 7:14 | [Watch](https://youtu.be/MRf6dlCndOU) |
-| 7 | সাধারনত পাঁচটি প্রধান পদ্ধতিতে মেটালকে কাটিং করা যায় | 16:11 | [Watch](https://youtu.be/35SAj-_L3H4) |
-| 8 | প্লাজমা আর্ক ওয়েল্ডিং | 6:14 | [Watch](https://youtu.be/fg5sWxW8gyM) |
-| 9 | ফ্রিকশন ওয়েল্ডিং | 11:16 | [Watch](https://youtu.be/Fz268sq5_KE) |
-| 10 | আল্টসিনিক ওয়েল্ডিং | 9:14 | [Watch](https://youtu.be/XGNSdIHfSXw) |
-| 11 | লেজার বীম ওয়েল্ডিং | 7:12 | [Watch](https://youtu.be/-0usF5gbqLo) |
-| 12 | আন্ডার ওয়াটার ওয়েল্ডিং | 11:17 | [Watch](https://youtu.be/6cLzSxzAEVc) |
-| 13 | মিগ ওয়েল্ডিং | 5:01 | [Watch](https://youtu.be/iD4KqRg5YJ0) |
-| 14 | ইনার্ট গ্যাস ওয়েল্ডিং | 30:01 | [Watch](https://youtu.be/zFBzBpvqDhc) |
-| 15 | ওয়েল্ডিং পদ্ধতিসমূহের প্রধান ব্যয় উপাদানসমূহ | 10:29 | [Watch](https://youtu.be/_1uS5dNuECo) |
-| 16 | প্রি হিটিং | 20:07 | [Watch](https://youtu.be/VecNa7w0xuY) |
-| 17 | ডিফিউশন ওয়েল্ডিং এর মূলনীতি | 12:04 | [Watch](https://youtu.be/7O3w7P8l888) |
-| 18 | সাবমার্জড আর্ক ওয়েল্ডিং এর কার্যকরী কৌশল | 5:16 | [Watch](https://youtu.be/UE5j-UFvE4Y) |
-| 19 | ভার্চুয়াল রিয়েলিটি উপাদান | 13:20 | [Watch](https://youtu.be/dP004SSbK-c) |
-| 20 | ওয়েল্ডিং রোবটস ব্যবহারের সুবিধাসমূহ | 17:04 | [Watch](https://youtu.be/ySqPafZ7u2Y) |
+
+## Unit 5 — SUBMERGED ARC WELDING
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 1 | সাবমার্জড আর্ক ওয়েল্ডিং | 7:12 | [Watch](https://youtu.be/bsAGFbxjhvs) |
+| 2 | সাবমার্জড আর্ক ওয়েল্ডিং এর কার্যকরী কৌশল | 5:16 | [Watch](https://youtu.be/UE5j-UFvE4Y) |
+| 3 | সাবমার্জড আর্ক ওয়েল্ডিং ফ্লাক্স | 6:25 | [Watch](https://youtu.be/y3P8XH_MCEg) |
+| 4 | সাবমার্জড আর্ক ওয়েল্ডিং এর প্রয়োগ ক্ষেত্রসমূহ | 7:35 | [Watch](https://youtu.be/65LVcWRPpGI) |
+| 5 | সাবমার্জড আর্ক ওয়েল্ডিং এর সুবিধা | 7:02 | [Watch](https://youtu.be/bP1cBBEWRlI) |
+| 6 | সাবমার্জড আর্ক ওয়েল্ডিং এর জন্য নিরাপত্তামূলক সতর্কসমূহ | 7:33 | [Watch](https://youtu.be/gsXDYoWArpQ) |
+
+
+## Unit 6 — LASER BEAM WELDING
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 7 | লেজার বীম ওয়েল্ডিং | 7:12 | [Watch](https://youtu.be/-0usF5gbqLo) |
+| 8 | লেজার বীম ওয়েল্ডিং এর মূলনীতি | 10:02 | [Watch](https://youtu.be/c9XwMso7Gek) |
+| 9 | লেজার বীম ওয়েল্ডিং এর প্রয়োগক্ষেত্র | 6:23 | [Watch](https://youtu.be/k9vJuP3eP0Y) |
+| 10 | লেজার বীম কাটিং | 21:01 | [Watch](https://youtu.be/xZBsmeQVIs8) |
+| 11 | লেজার বীমে ওয়েল্ডিং এর বিশেষ সুবিধাসমূহ | 13:29 | [Watch](https://youtu.be/Ip8_3BtCMuk) |
+| 12 | লেজার বীম ওয়েল্ডিং এর তত্ত | 5:12 | [Watch](https://youtu.be/39FenXGfuGI) |
+| 13 | লেজার বীম ওয়েল্ডিং এ ব্যবহৃত যন্ত্রপাতি | 14:28 | [Watch](https://youtu.be/ZGgolyEEpUw) |
+| 14 | লেজার বীম ওয়েল্ডিং কার্যপদ্ধতি | 9:34 | [Watch](https://youtu.be/gxsygWFvfwE) |
+| 15 | লেজার বীম ওয়েল্ডিং এর সীমাবদ্ধতা | 9:14 | [Watch](https://youtu.be/EvHOcYN_CY4) |
+
+
+## Unit 7 — ULTRASONIC WELDING
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 16 | আল্টসিনিক ওয়েল্ডিং | 9:14 | [Watch](https://youtu.be/XGNSdIHfSXw) |
+| 17 | আল্ট্রসনিক ওয়েল্ডিং এ ব্যবহৃত মেশিন | 13:20 | [Watch](https://youtu.be/X-CjSgq_8uE) |
+| 18 | আল্ট্রসনিক ওয়েল্ডিং কার্যপদ্ধতি | 16:05 | [Watch](https://youtu.be/pPU5tQwO53w) |
+| 19 | আল্ট্রসনিক ওয়েল্ডিং প্রয়োগক্ষেত্র | 12:03 | [Watch](https://youtu.be/Z8jyOAs9ka0) |
+
+
+## Unit 10 — THERMAL CUTTING OF METALS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 20 | সাধারনত পাঁচটি প্রধান পদ্ধতিতে মেটালকে কাটিং করা যায় | 16:11 | [Watch](https://youtu.be/35SAj-_L3H4) |
 | 21 | প্লাজমা আর্ক কাটিং | 18:21 | [Watch](https://youtu.be/a9DYpl4uN2I) |
-| 22 | প্লাজমা আর্ক ওয়েল্ডিং এ ব্যবহৃত মেশিন ও যন্ত্রপাতি চিহ্নিতকরন | 12:28 | [Watch](https://youtu.be/qaqRM1hwvTc) |
-| 23 | ফ্রিকশন ওয়েল্ডিং এর মূলনীতি | 10:20 | [Watch](https://youtu.be/tibMKnihAh4) |
-| 24 | আল্ট্রসনিক ওয়েল্ডিং এ ব্যবহৃত মেশিন | 13:20 | [Watch](https://youtu.be/X-CjSgq_8uE) |
-| 25 | লেজার বীম ওয়েল্ডিং এর মূলনীতি | 10:02 | [Watch](https://youtu.be/c9XwMso7Gek) |
-| 26 | আন্ডার ওয়াটার ওয়েল্ডিংএ ব্যবহৃত যন্ত্রপাতিসমূহ | 22:23 | [Watch](https://youtu.be/FHlreQLoy7I) |
-| 27 | মিগ সরঞ্জামাদি সনাক্ত করন | 24:00 | [Watch](https://youtu.be/a8k6cp2uUb8) |
-| 28 | টিগ ওয়েল্ডিং সরঞ্জামাদি সনাক্তকরন | 50:21 | [Watch](https://youtu.be/OeYGMTHYPkw) |
-| 29 | ওয়েল্ডিং ব্যয়ে জড়িত ফ্যাক্টরসমূহ | 12:23 | [Watch](https://youtu.be/Ke2PKK_HN3Q) |
-| 30 | রট আয়রনের জন্য ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 7:13 | [Watch](https://youtu.be/BHN3FCLTPb0) |
-| 31 | প্রয়োগক্ষেত্র | 20:23 | [Watch](https://youtu.be/jUBiPkyEHSg) |
-| 32 | সাবমার্জড আর্ক ওয়েল্ডিং ফ্লাক্স | 6:25 | [Watch](https://youtu.be/y3P8XH_MCEg) |
-| 33 | ভার্চুয়াল রিয়েলিটির  প্রকারভেদ | 6:34 | [Watch](https://youtu.be/gkM3OspEoiE) |
-| 34 | প্লাজমা আর্ক কাটিং এর সুবিধাসমূহ | 7:10 | [Watch](https://youtu.be/tVKBjarQq1s) |
-| 35 | প্লাজ আর্ক ওয়েল্ডিং এর কার্যপদ্ধতি | 10:08 | [Watch](https://youtu.be/PqgWHxh_raY) |
-| 36 | ফ্রিকশন ওয়েল্ডিং ব্যবহৃত এবং যন্ত্রপাতি | 11:08 | [Watch](https://youtu.be/4DToDMAlW4o) |
-| 37 | আল্ট্রসনিক ওয়েল্ডিং কার্যপদ্ধতি | 16:05 | [Watch](https://youtu.be/pPU5tQwO53w) |
-| 38 | লেজার বীম ওয়েল্ডিং এর প্রয়োগক্ষেত্র | 6:23 | [Watch](https://youtu.be/k9vJuP3eP0Y) |
-| 39 | আন্ডার ওয়াটার ওয়েল্ডিং এর প্রয়োজনীয়তা নিরাপত্তা | 15:29 | [Watch](https://youtu.be/H2WEpsWctW4) |
-| 40 | মিগ ওয়েল্ডিং এর মূলনীতি | 7:28 | [Watch](https://youtu.be/G62uHxKweqY) |
-| 41 | টিগওয়েল্ডিং ইলেকট্রেডের শ্রেনীবিন্যাস | 24:22 | [Watch](https://youtu.be/E-_QH-P-jTU) |
-| 42 | ওয়েল্ডিং এ মৌলিক খরচ নির্ণয় পদ্ধতি | 17:32 | [Watch](https://youtu.be/rqY1-jvhUYg) |
-| 43 | আয়রনে ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 17:35 | [Watch](https://youtu.be/nTjQZuB9lwM) |
-| 44 | ডিফিউশন ওয়েল্ডিং এর সুবিধাসমূহ | 8:35 | [Watch](https://youtu.be/NGltn5JjThg) |
-| 45 | সাবমার্জড আর্ক ওয়েল্ডিং এর প্রয়োগ ক্ষেত্রসমূহ | 7:35 | [Watch](https://youtu.be/65LVcWRPpGI) |
-| 46 | ভার্চুয়াল রিয়েলিটির  ব্যবহার | 15:10 | [Watch](https://youtu.be/ITxiPwPP-RI) |
-| 47 | রোবটিক ওয়েল্ডিং পদ্ধতির লেখচিত্র বর্ণনা | 12:02 | [Watch](https://youtu.be/SbpRU1h8Lq0) |
-| 48 | লেজার বীম কাটিং | 21:01 | [Watch](https://youtu.be/xZBsmeQVIs8) |
-| 49 | প্লাজমা আর্ক ওয়েল্ডিং ব্যবহারিক ক্ষেত্রসমূহ | 11:09 | [Watch](https://youtu.be/ydwotkMz9oQ) |
-| 50 | ফ্রিকশন ওয়েল্ডিং এর ব্যবহার ক্ষেত্রসমূহ | 15:25 | [Watch](https://youtu.be/hjti_fvI-30) |
-| 51 | আল্ট্রসনিক ওয়েল্ডিং প্রয়োগক্ষেত্র | 12:03 | [Watch](https://youtu.be/Z8jyOAs9ka0) |
-| 52 | লেজার বীমে ওয়েল্ডিং এর বিশেষ সুবিধাসমূহ | 13:29 | [Watch](https://youtu.be/Ip8_3BtCMuk) |
-| 53 | ভেজা বা সিক্ত ওয়েল্ডিং | 7:34 | [Watch](https://youtu.be/YQMm8tls2sI) |
-| 54 | SMAW | 9:34 | [Watch](https://youtu.be/hA5Mm1VaDNw) |
-| 55 | টিগ এর মূলনীতি | 14:31 | [Watch](https://youtu.be/JKulX-j-txk) |
-| 56 | আর্ক ওয়েল্ডিং প্রাক্কলন | 8:18 | [Watch](https://youtu.be/S79DsJBeGuU) |
-| 57 | পূর্ব প্রস্তুতি ও ধাতু পরিষ্কার করা | 27:03 | [Watch](https://youtu.be/wgp2DVJ8uLI) |
-| 58 | ডিফিউশন ওয়েল্ডিং এর সীমাবদ্ধতা | 9:16 | [Watch](https://youtu.be/WtMTI7C55yw) |
-| 59 | সাবমার্জড আর্ক ওয়েল্ডিং এর সুবিধা | 7:02 | [Watch](https://youtu.be/bP1cBBEWRlI) |
-| 60 | ভার্চুয়াল রিয়েলিটি VR পদ্ধতি | 5:18 | [Watch](https://youtu.be/NHLE_GwB2Sc) |
-| 61 | রোবটিক ওয়েল্ডিং যেভাবে কাজ করে | 19:25 | [Watch](https://youtu.be/iUK0Up1th5Q) |
-| 62 | অক্সিজেন ল্যান্স কাটিং | 17:11 | [Watch](https://youtu.be/geV4vqAmhvI) |
-| 63 | প্লাজমা আর্ক ওয়েল্ডিং এর সীমাবদ্ধতা | 7:06 | [Watch](https://youtu.be/tB_akW_Zzwg) |
-| 64 | ফ্রিকশনওয়েল্ডিং এর সীমাবদ্ধতা | 6:07 | [Watch](https://youtu.be/v1Gan1z7NCc) |
-| 65 | ওয়েল্ডিং এর নিরাপত্তামূলক সর্তকতা | 8:13 | [Watch](https://youtu.be/5pAhVSZGcCk) |
-| 66 | লেজার বীম ওয়েল্ডিং এর তত্ত | 5:12 | [Watch](https://youtu.be/39FenXGfuGI) |
-| 67 | শুকনো ওয়েল্ডিং | 19:03 | [Watch](https://youtu.be/McnhSfxojPc) |
-| 68 | GMAW | 14:19 | [Watch](https://youtu.be/76buwBOJbak) |
-| 69 | টিগ ওয়েল্ডিং এর প্রয়োগক্ষেত্র | 6:02 | [Watch](https://youtu.be/EsmSxsPNqqg) |
-| 70 | রট আয়রনে ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 6:15 | [Watch](https://youtu.be/TK36bVf6BaM) |
-| 71 | এক্সপ্লাসিভ বা বিস্কোরক ওয়েল্ডিং | 7:11 | [Watch](https://youtu.be/lfHEhMbyZeU) |
-| 72 | সাবমার্জড আর্ক ওয়েল্ডিং এর জন্য নিরাপত্তামূলক সতর্কসমূহ | 7:33 | [Watch](https://youtu.be/gsXDYoWArpQ) |
-| 73 | ভার্চুয়াল ওয়েল্ডিং মেশিন | 4:12 | [Watch](https://youtu.be/laIjKcQp27o) |
-| 74 | ওয়েল্ডিং রোবট ব্যবহারের জন্য গুরুত্বপূর্ণ ফ্যাক্টর বিবেচনা | 12:29 | [Watch](https://youtu.be/2Kv6NtNCTEY) |
-| 75 | টাংস্টেন আর্ক কাটিং | 14:25 | [Watch](https://youtu.be/kniRSnuYpek) |
-| 76 | প্লাজমা আর্ক ওয়েল্ডিং এর প্রয়োজনীয় নিরাপত্তা | 11:19 | [Watch](https://youtu.be/UWmyNaeoyvA) |
-| 77 | ফ্রিকশন ওয়েল্ডিং এর নিরাপত্তামূলক সর্তকতাসমূহ | 8:14 | [Watch](https://youtu.be/vWqXf0LoqXQ) |
-| 78 | লেজার বীম ওয়েল্ডিং এ ব্যবহৃত যন্ত্রপাতি | 14:28 | [Watch](https://youtu.be/ZGgolyEEpUw) |
-| 79 | আন্ডার ওয়াটার ওয়েল্ডিং গুরুত্ব | 12:31 | [Watch](https://youtu.be/VNo1_avtj2I) |
-| 80 | FCAW | 15:04 | [Watch](https://youtu.be/-uT91y68pmo) |
-| 81 | টিগ ওয়েল্ডিং জয়েন্ট পরিষ্কারকরন ও প্রস্তুতির গুরুত্ব | 21:33 | [Watch](https://youtu.be/oudpslmviEw) |
-| 82 | কাষ্ট আয়রনের জন্য ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 8:32 | [Watch](https://youtu.be/U2KWvWHECVs) |
-| 83 | এক্সপ্লোসিভ ওয়েল্ডিং এর মূলনীতি | 13:15 | [Watch](https://youtu.be/71zWifM7Blg) |
-| 84 | ভার্চুয়াল ওয়েল্ডিং এর প্রয়োজনীয়তা | 5:25 | [Watch](https://youtu.be/is-YSGvcF_8) |
-| 85 | ওয়েল্ডিং রোবট ব্যবহারের জন্য গুরুত্বপূর্ণ ফ্যাক্টর বিবেচনা | 11:35 | [Watch](https://youtu.be/KrF8rkeurLQ) |
-| 86 | কেমিক্যাল ফ্লাক্স কাটিং | 19:26 | [Watch](https://youtu.be/uJQaCLZWL4Q) |
-| 87 | লেজার বীম ওয়েল্ডিং কার্যপদ্ধতি | 9:34 | [Watch](https://youtu.be/gxsygWFvfwE) |
-| 88 | মিগ ওয়েল্ডিং এ ওয়্যার ফিড মেকানিজম | 13:10 | [Watch](https://youtu.be/uN2mbE-RQwk) |
-| 89 | সাধারণত আর্ক ওয়েল্ডিং এর তুলনায় টিগ ওয়েল্ডিং এর সুবিধা ও অসুবিধা | 21:01 | [Watch](https://youtu.be/_tDztCjYX5c) |
-| 90 | কাষ্ট আয়রনের জন্য ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 12:08 | [Watch](https://youtu.be/NdIvas2D_1o) |
-| 91 | এক্সপ্লোসিভ ওয়েল্ডিং এর কার্যপদ্ধতি | 10:12 | [Watch](https://youtu.be/Y5_U4g2TGiw) |
-| 92 | কাটিং পদ্ধতিসমূহে বাহ্যিক ও মেটালজিক্যাল প্রভাব | 19:06 | [Watch](https://youtu.be/0BNN9IHWetA) |
-| 93 | ভার্চুয়াল ওয়েল্ডিং সিমুলেটর এর কার্যনীতি | 10:31 | [Watch](https://youtu.be/N4xaKHKUENs) |
-| 94 | লেজার বীম ওয়েল্ডিং এর সীমাবদ্ধতা | 9:14 | [Watch](https://youtu.be/EvHOcYN_CY4) |
+| 22 | প্লাজমা আর্ক কাটিং এর সুবিধাসমূহ | 7:10 | [Watch](https://youtu.be/tVKBjarQq1s) |
+| 23 | অক্সিজেন ল্যান্স কাটিং | 17:11 | [Watch](https://youtu.be/geV4vqAmhvI) |
+| 24 | টাংস্টেন আর্ক কাটিং | 14:25 | [Watch](https://youtu.be/kniRSnuYpek) |
+| 25 | কেমিক্যাল ফ্লাক্স কাটিং | 19:26 | [Watch](https://youtu.be/uJQaCLZWL4Q) |
+| 26 | কাটিং পদ্ধতিসমূহে বাহ্যিক ও মেটালজিক্যাল প্রভাব | 19:06 | [Watch](https://youtu.be/0BNN9IHWetA) |
+
+
+## Extra / not in syllabus
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 27 | ওয়েল্ডিং খরচ প্রাক্কলনের উদ্দেশ্য | 13:22 | [Watch](https://youtu.be/rL0k-Buu6-o) |
+| 28 | ওয়েল্ডিবিলিটি | 17:02 | [Watch](https://youtu.be/Wj_WDR4_yJA) |
+| 29 | ডিফিউশন বা বিভাজন ওয়েল্ডিং | 11:07 | [Watch](https://youtu.be/jsMYd1Qd_e4) |
+| 30 | ভার্চুয়াল রিয়েলিটি | 7:25 | [Watch](https://youtu.be/NAfDRdu26X0) |
+| 31 | ওয়েল্ডিং রোবটস | 7:14 | [Watch](https://youtu.be/MRf6dlCndOU) |
+| 32 | প্লাজমা আর্ক ওয়েল্ডিং | 6:14 | [Watch](https://youtu.be/fg5sWxW8gyM) |
+| 33 | ফ্রিকশন ওয়েল্ডিং | 11:16 | [Watch](https://youtu.be/Fz268sq5_KE) |
+| 34 | আন্ডার ওয়াটার ওয়েল্ডিং | 11:17 | [Watch](https://youtu.be/6cLzSxzAEVc) |
+| 35 | মিগ ওয়েল্ডিং | 5:01 | [Watch](https://youtu.be/iD4KqRg5YJ0) |
+| 36 | ইনার্ট গ্যাস ওয়েল্ডিং | 30:01 | [Watch](https://youtu.be/zFBzBpvqDhc) |
+| 37 | ওয়েল্ডিং পদ্ধতিসমূহের প্রধান ব্যয় উপাদানসমূহ | 10:29 | [Watch](https://youtu.be/_1uS5dNuECo) |
+| 38 | প্রি হিটিং | 20:07 | [Watch](https://youtu.be/VecNa7w0xuY) |
+| 39 | ডিফিউশন ওয়েল্ডিং এর মূলনীতি | 12:04 | [Watch](https://youtu.be/7O3w7P8l888) |
+| 40 | ভার্চুয়াল রিয়েলিটি উপাদান | 13:20 | [Watch](https://youtu.be/dP004SSbK-c) |
+| 41 | ওয়েল্ডিং রোবটস ব্যবহারের সুবিধাসমূহ | 17:04 | [Watch](https://youtu.be/ySqPafZ7u2Y) |
+| 42 | প্লাজমা আর্ক ওয়েল্ডিং এ ব্যবহৃত মেশিন ও যন্ত্রপাতি চিহ্নিতকরন | 12:28 | [Watch](https://youtu.be/qaqRM1hwvTc) |
+| 43 | ফ্রিকশন ওয়েল্ডিং এর মূলনীতি | 10:20 | [Watch](https://youtu.be/tibMKnihAh4) |
+| 44 | আন্ডার ওয়াটার ওয়েল্ডিংএ ব্যবহৃত যন্ত্রপাতিসমূহ | 22:23 | [Watch](https://youtu.be/FHlreQLoy7I) |
+| 45 | মিগ সরঞ্জামাদি সনাক্ত করন | 24:00 | [Watch](https://youtu.be/a8k6cp2uUb8) |
+| 46 | টিগ ওয়েল্ডিং সরঞ্জামাদি সনাক্তকরন | 50:21 | [Watch](https://youtu.be/OeYGMTHYPkw) |
+| 47 | ওয়েল্ডিং ব্যয়ে জড়িত ফ্যাক্টরসমূহ | 12:23 | [Watch](https://youtu.be/Ke2PKK_HN3Q) |
+| 48 | রট আয়রনের জন্য ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 7:13 | [Watch](https://youtu.be/BHN3FCLTPb0) |
+| 49 | প্রয়োগক্ষেত্র | 20:23 | [Watch](https://youtu.be/jUBiPkyEHSg) |
+| 50 | ভার্চুয়াল রিয়েলিটির  প্রকারভেদ | 6:34 | [Watch](https://youtu.be/gkM3OspEoiE) |
+| 51 | প্লাজ আর্ক ওয়েল্ডিং এর কার্যপদ্ধতি | 10:08 | [Watch](https://youtu.be/PqgWHxh_raY) |
+| 52 | ফ্রিকশন ওয়েল্ডিং ব্যবহৃত এবং যন্ত্রপাতি | 11:08 | [Watch](https://youtu.be/4DToDMAlW4o) |
+| 53 | আন্ডার ওয়াটার ওয়েল্ডিং এর প্রয়োজনীয়তা নিরাপত্তা | 15:29 | [Watch](https://youtu.be/H2WEpsWctW4) |
+| 54 | মিগ ওয়েল্ডিং এর মূলনীতি | 7:28 | [Watch](https://youtu.be/G62uHxKweqY) |
+| 55 | টিগওয়েল্ডিং ইলেকট্রেডের শ্রেনীবিন্যাস | 24:22 | [Watch](https://youtu.be/E-_QH-P-jTU) |
+| 56 | ওয়েল্ডিং এ মৌলিক খরচ নির্ণয় পদ্ধতি | 17:32 | [Watch](https://youtu.be/rqY1-jvhUYg) |
+| 57 | আয়রনে ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 17:35 | [Watch](https://youtu.be/nTjQZuB9lwM) |
+| 58 | ডিফিউশন ওয়েল্ডিং এর সুবিধাসমূহ | 8:35 | [Watch](https://youtu.be/NGltn5JjThg) |
+| 59 | ভার্চুয়াল রিয়েলিটির  ব্যবহার | 15:10 | [Watch](https://youtu.be/ITxiPwPP-RI) |
+| 60 | রোবটিক ওয়েল্ডিং পদ্ধতির লেখচিত্র বর্ণনা | 12:02 | [Watch](https://youtu.be/SbpRU1h8Lq0) |
+| 61 | প্লাজমা আর্ক ওয়েল্ডিং ব্যবহারিক ক্ষেত্রসমূহ | 11:09 | [Watch](https://youtu.be/ydwotkMz9oQ) |
+| 62 | ফ্রিকশন ওয়েল্ডিং এর ব্যবহার ক্ষেত্রসমূহ | 15:25 | [Watch](https://youtu.be/hjti_fvI-30) |
+| 63 | ভেজা বা সিক্ত ওয়েল্ডিং | 7:34 | [Watch](https://youtu.be/YQMm8tls2sI) |
+| 64 | SMAW | 9:34 | [Watch](https://youtu.be/hA5Mm1VaDNw) |
+| 65 | টিগ এর মূলনীতি | 14:31 | [Watch](https://youtu.be/JKulX-j-txk) |
+| 66 | আর্ক ওয়েল্ডিং প্রাক্কলন | 8:18 | [Watch](https://youtu.be/S79DsJBeGuU) |
+| 67 | পূর্ব প্রস্তুতি ও ধাতু পরিষ্কার করা | 27:03 | [Watch](https://youtu.be/wgp2DVJ8uLI) |
+| 68 | ডিফিউশন ওয়েল্ডিং এর সীমাবদ্ধতা | 9:16 | [Watch](https://youtu.be/WtMTI7C55yw) |
+| 69 | ভার্চুয়াল রিয়েলিটি VR পদ্ধতি | 5:18 | [Watch](https://youtu.be/NHLE_GwB2Sc) |
+| 70 | রোবটিক ওয়েল্ডিং যেভাবে কাজ করে | 19:25 | [Watch](https://youtu.be/iUK0Up1th5Q) |
+| 71 | প্লাজমা আর্ক ওয়েল্ডিং এর সীমাবদ্ধতা | 7:06 | [Watch](https://youtu.be/tB_akW_Zzwg) |
+| 72 | ফ্রিকশনওয়েল্ডিং এর সীমাবদ্ধতা | 6:07 | [Watch](https://youtu.be/v1Gan1z7NCc) |
+| 73 | ওয়েল্ডিং এর নিরাপত্তামূলক সর্তকতা | 8:13 | [Watch](https://youtu.be/5pAhVSZGcCk) |
+| 74 | শুকনো ওয়েল্ডিং | 19:03 | [Watch](https://youtu.be/McnhSfxojPc) |
+| 75 | GMAW | 14:19 | [Watch](https://youtu.be/76buwBOJbak) |
+| 76 | টিগ ওয়েল্ডিং এর প্রয়োগক্ষেত্র | 6:02 | [Watch](https://youtu.be/EsmSxsPNqqg) |
+| 77 | রট আয়রনে ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 6:15 | [Watch](https://youtu.be/TK36bVf6BaM) |
+| 78 | এক্সপ্লাসিভ বা বিস্কোরক ওয়েল্ডিং | 7:11 | [Watch](https://youtu.be/lfHEhMbyZeU) |
+| 79 | ভার্চুয়াল ওয়েল্ডিং মেশিন | 4:12 | [Watch](https://youtu.be/laIjKcQp27o) |
+| 80 | ওয়েল্ডিং রোবট ব্যবহারের জন্য গুরুত্বপূর্ণ ফ্যাক্টর বিবেচনা | 12:29 | [Watch](https://youtu.be/2Kv6NtNCTEY) |
+| 81 | প্লাজমা আর্ক ওয়েল্ডিং এর প্রয়োজনীয় নিরাপত্তা | 11:19 | [Watch](https://youtu.be/UWmyNaeoyvA) |
+| 82 | ফ্রিকশন ওয়েল্ডিং এর নিরাপত্তামূলক সর্তকতাসমূহ | 8:14 | [Watch](https://youtu.be/vWqXf0LoqXQ) |
+| 83 | আন্ডার ওয়াটার ওয়েল্ডিং গুরুত্ব | 12:31 | [Watch](https://youtu.be/VNo1_avtj2I) |
+| 84 | FCAW | 15:04 | [Watch](https://youtu.be/-uT91y68pmo) |
+| 85 | টিগ ওয়েল্ডিং জয়েন্ট পরিষ্কারকরন ও প্রস্তুতির গুরুত্ব | 21:33 | [Watch](https://youtu.be/oudpslmviEw) |
+| 86 | কাষ্ট আয়রনের জন্য ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 8:32 | [Watch](https://youtu.be/U2KWvWHECVs) |
+| 87 | এক্সপ্লোসিভ ওয়েল্ডিং এর মূলনীতি | 13:15 | [Watch](https://youtu.be/71zWifM7Blg) |
+| 88 | ভার্চুয়াল ওয়েল্ডিং এর প্রয়োজনীয়তা | 5:25 | [Watch](https://youtu.be/is-YSGvcF_8) |
+| 89 | ওয়েল্ডিং রোবট ব্যবহারের জন্য গুরুত্বপূর্ণ ফ্যাক্টর বিবেচনা | 11:35 | [Watch](https://youtu.be/KrF8rkeurLQ) |
+| 90 | মিগ ওয়েল্ডিং এ ওয়্যার ফিড মেকানিজম | 13:10 | [Watch](https://youtu.be/uN2mbE-RQwk) |
+| 91 | সাধারণত আর্ক ওয়েল্ডিং এর তুলনায় টিগ ওয়েল্ডিং এর সুবিধা ও অসুবিধা | 21:01 | [Watch](https://youtu.be/_tDztCjYX5c) |
+| 92 | কাষ্ট আয়রনের জন্য ব্যবহৃত ওয়েল্ডিং পদ্ধতিসমূহ | 12:08 | [Watch](https://youtu.be/NdIvas2D_1o) |
+| 93 | এক্সপ্লোসিভ ওয়েল্ডিং এর কার্যপদ্ধতি | 10:12 | [Watch](https://youtu.be/Y5_U4g2TGiw) |
+| 94 | ভার্চুয়াল ওয়েল্ডিং সিমুলেটর এর কার্যনীতি | 10:31 | [Watch](https://youtu.be/N4xaKHKUENs) |
 | 95 | মিগ ওয়েল্ডিং ব্যবহৃত বিভিন্ন প্রকার মেটাল ট্রান্সফার | 11:30 | [Watch](https://youtu.be/6jUaC9NwV-8) |
 | 96 | GTAW এর বর্ণনা | 16:23 | [Watch](https://youtu.be/OpprEyxPwpM) |
 | 97 | বিভিন্ন প্রকার ঢালাইলোহার গুনাগুন | 18:04 | [Watch](https://youtu.be/Xs2sdLUYUk4) |

@@ -4,169 +4,203 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | দালানের মূল্যায়ন Valuation of Building | 10:23 | [Watch](https://youtu.be/nnaK4zO_N74) |
-| 2 | পরিমাণ বিল | 12:02 | [Watch](https://youtu.be/2jyATmZPihU) |
-| 3 | মূল্যায়ন বা সম্পদের ম্যল্যায়ন বলতে কী বুঝায় | 20:04 | [Watch](https://youtu.be/mAg99TcpHMY) |
-| 4 | গণপূর্ত হিসাব এবং ফরমস | 3:06 | [Watch](https://youtu.be/oMM7NmPmyXI) |
-| 5 | মূল্য নির্ধারণ পার্ট 1 | 13:17 | [Watch](https://youtu.be/fbq23YSK-h8) |
-| 6 | প্লাম্বিং ও স্যানিটারি কাজে হিসাব নির্ণয় পদ্ধতি | 9:19 | [Watch](https://youtu.be/8goEOxVnXIo) |
-| 7 | স্টিল স্ট্রাকচার ও তার উপাংশসমূহ | 9:15 | [Watch](https://youtu.be/NONqDOCWUhc) |
-| 8 | Part - 1 পাইল ও তার শ্রেণিবিভাগ | 7:24 | [Watch](https://youtu.be/Qf7cr1o8p4Y) |
-| 9 | আরসিসি রিটেইনিং ওয়াল এবং কালভার্ট | 3:05 | [Watch](https://youtu.be/vQq7HUFCf1w) |
-| 10 | সেপটিক ট্যাংক ও সোকওয়েল | 11:08 | [Watch](https://youtu.be/CCspbYkyHfk?si=kRtOAh5c9PMvPH4L) |
-| 11 | সমাপক কাজ | 2:10 | [Watch](https://youtu.be/ZsRvefbxb6I?si=dFn2uKlEJxjeuqvu) |
-| 12 | দরজা জানালার কাঠের কাজ | 17:12 | [Watch](https://youtu.be/7d11nqMAQ2E?si=Fsmk152Ryweu7DtZ) |
-| 13 | সুপার স্ট্রাকচারের আরসিসি কাজ | 2:19 | [Watch](https://youtu.be/nDlWRzq8agY?si=6s4bwevk8SWfEzmK) |
-| 14 | ফ্রেম স্ট্রাকচারাল বহুতল ভবন ও তার উপাংশ | 12:20 | [Watch](https://youtu.be/UYSslA8fHZY) |
-| 15 | রুফ ট্রাস্ট সম্পর্কে আলোচনা | 14:13 | [Watch](https://www.youtube.com/watch?v=OCqSz0lskU8) |
-| 16 | রিটেইনিং ওয়াল কালভার্ট সম্পর্কে আলোচনা | 9:31 | [Watch](https://www.youtube.com/watch?v=LNAaOrwKa-Y) |
-| 17 | সম্পদের মুল্যায়ন প্রতি পুরক তহবিল | 23:29 | [Watch](https://youtu.be/V2JxSpiyvDE) |
-| 18 | গনপুর্ত অধিদপ্তর | 16:09 | [Watch](https://youtu.be/LE_EN-NlqS0) |
-| 19 | এস্টিমেট | 16:10 | [Watch](https://youtu.be/Kix-pDk_42A) |
-| 20 | দর বিশ্লেষণ কি?` | 19:09 | [Watch](https://youtu.be/PPrRbcGcH3Q) |
-| 21 | প্লাম্বিং | 17:17 | [Watch](https://youtu.be/6UjT1s0aQIw) |
-| 22 | স্টিল স্ট্রাকচার নিয়ে আলোচনা | 17:31 | [Watch](https://youtu.be/A4HMcBSK7tQ) |
-| 23 | সেপটিক ট্যাংক সম্পর্কে আলোচনা | 13:16 | [Watch](https://youtu.be/Puo1k8uThLo) |
-| 24 | দরজা এবং জানালায় প্রিন্টের কাজ সম্পর্কে আলোচনা | 15:24 | [Watch](https://youtu.be/Qy8gubCPYGQ) |
-| 25 | বিল্ডিং এর ছাদে সিলাপের লেয়ার কাজ সম্পর্কে আলোচনা | 17:19 | [Watch](https://youtu.be/bjppSjHen3A) |
-| 26 | সোলিং এবং কংক্রিট এর কাজ সম্পর্কে আলোচনা | 20:21 | [Watch](https://youtu.be/ZTpXzkzuRjY) |
-| 27 | দরজা ও জানালার চৌকাট সম্পর্কে আলোচনা | 26:06 | [Watch](https://youtu.be/gSBW2tCczMM) |
-| 28 | প্লাস্টারের কাজ সম্পর্কে আলোচনা | 25:10 | [Watch](https://youtu.be/UuHShnASpEs) |
-| 29 | আর.সি.সি কাজ সম্পর্কে আলোচনা | 18:31 | [Watch](https://youtu.be/5NIe0Tes-PI) |
-| 30 | বিল্ডিং কম্পোনেন্ট এসিটমেট) | 47:31 | [Watch](https://youtu.be/wAtzRdGriBs) |
-| 31 | (23.17sec) (বিলন্ডিং এ স্ট্রাকচার) (Page: 34-35) | 23:10 | [Watch](https://youtu.be/jUGm2brbNjc) |
-| 32 | BOQ -এর গুরুত্ব | 12:29 | [Watch](https://youtu.be/VW6Sp3Y9GPo) |
-| 33 | প্রতিপূরক তহবিল sinking fund কী | 20:12 | [Watch](https://youtu.be/Qau6FwFPwH4) |
-| 34 | গণপূর্ত হিসাব এবং ফরমস বিস্তারিত | 14:02 | [Watch](https://youtu.be/RkMsQmyt87U) |
-| 35 | মূল্য নির্ধারণ পার্ট 2 | 5:29 | [Watch](https://youtu.be/b3FmdJCXWQk) |
-| 36 | পানি সরবরাহ ও স্যানিটারি কাজের বিভিন্ন ফিটিংস এবং ফিচারসমূহ | 6:28 | [Watch](https://youtu.be/YvxWL7Ru2us) |
-| 37 | Part - 1 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 26:04 | [Watch](https://youtu.be/dVtFJIRMKXs) |
-| 38 | Part - 2 পাইল ও তার শ্রেণিবিভাগ | 7:04 | [Watch](https://youtu.be/Foi8PXMRQSg) |
-| 39 | Part-1 নিম্নের চিত্রের মাধ্যমে সেপটিক ট্যাংক এর মাটি কাটার পরিমাণ ও ইটের গাথুনির পরিমাণ নির্ণয় | 13:01 | [Watch](https://youtu.be/CxqniZlKNXM?si=dcZi79EC4VJcWZTO) |
-| 40 | চিত্রে প্রদত্ত দালালটির সিঁড়ি ঘর এবং বারান্দার রেলিং-এ...........স্টিলের কাজের পরিমান বের কর | 19:20 | [Watch](https://youtu.be/9-Qg8LNT3jY?si=IuaxEUpLnfWl1NI3) |
-| 41 | Part - 1 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 7:30 | [Watch](https://youtu.be/jAQiST1D7vQ?si=OuQLH_eD5u3Wcu6D) |
-| 42 | সুপার স্ট্রাকচারের রিইনফোর্সমেন্ট ডিটেইলিং | 23:23 | [Watch](https://youtu.be/FH2IkueJvns?si=-2YkvzJ-aWmUu4k3) |
-| 43 | দালানের সাবস্ট্রাকচার ও সুপারস্ট্রাকচার | 10:11 | [Watch](https://youtu.be/m2mRnYFifAM) |
-| 44 | কি পরিমান লোহা লাগবে সে সম্পর্কে আলোচনা part 1 | 6:01 | [Watch](https://www.youtube.com/watch?v=ysfFsuus4Ik) |
-| 45 | তিন রকম রিটেইনিং ওয়াল নিয়ে আলোচনা | 8:16 | [Watch](https://www.youtube.com/watch?v=uE_f1UlBuD4) |
-| 46 | বর্জন মুল্য ও উদ্বার মুল্য | 18:05 | [Watch](https://youtu.be/lRy5lThaz0A) |
-| 47 | প্রকল্প বাস্তবায়নে গনপুর্ত দপ্তরের সংগঠন | 11:08 | [Watch](https://youtu.be/1oZ7sHtW2bI) |
-| 48 | প্রাথমিক এস্টিমেট | 13:34 | [Watch](https://youtu.be/vMlYeCmpUoA) |
-| 49 | দর বিশ্লেষনের উদ্দেশ্য | 14:22 | [Watch](https://youtu.be/9JVeXGMUx4o) |
-| 50 | সরবরাহ পদ্ধতি | 11:09 | [Watch](https://youtu.be/VC8XB3eyDtg) |
-| 51 | সেপটিকের কতটুকু মাটি এবং কতটুকু ইট গাঁথুনি হবে সে সম্পর্কে আলোচনা | 8:35 | [Watch](https://youtu.be/ITCeefxiqyg) |
-| 52 | গ্রিলের রং এর সম্পর্কে আলোচনা | 7:16 | [Watch](https://youtu.be/u_jvOF3FASg) |
-| 53 | বিল্ডিং এর ছাদে সিলাপের আরসিসি কাজের পরিমাণ সম্পর্কে আলোচনা | 32:03 | [Watch](https://youtu.be/TEAwB3T9fpg) |
-| 54 | দরজা ও জানালার পাল্লার কাজ সম্পর্কে আলোচনা | 35:01 | [Watch](https://youtu.be/0NYX8uQVojg) |
-| 55 | দেওয়ালের ভিতরে প্লাস্টার সম্পর্কে আলোচনা | 17:16 | [Watch](https://youtu.be/RnqNSZx31ok) |
-| 56 | আর সি সি এর বার সম্পর্কে আলোচনা | 28:06 | [Watch](https://youtu.be/1asbDaF0zUU) |
-| 57 | মাটি কাটার কাজের পরমান নির্ণয়) | 26:21 | [Watch](https://youtu.be/yBW97Yq1uSw) |
-| 58 | BOQ -এর অসুবিধাসমূহ | 4:17 | [Watch](https://youtu.be/A2yppZCumXk) |
-| 59 | Part 1 বাজার মল্য Market Value | 8:33 | [Watch](https://youtu.be/k_6Jd_GCEAE) |
-| 60 | কার্যসম্পাদন করার পদ্ধতিসমূহের নাম | 13:03 | [Watch](https://youtu.be/bc-hNuJu-84) |
-| 61 | দালানের ড্রেনেজ কাজের হিসাব নির্ণয় পদ্ধতি | 5:20 | [Watch](https://youtu.be/dp2CAbp2ZRM) |
-| 62 | Part - 2 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 4:30 | [Watch](https://youtu.be/GKM7CRw17_0) |
-| 63 | পাইলের মাথা ভেঙ্গে ফেলা | 11:10 | [Watch](https://youtu.be/n2E8y66HUXw) |
-| 64 | Part-2 নিম্নের চিত্রের মাধ্যমে সেপটিক ট্যাংক এর মাটি কাটার পরিমাণ ও ইটের গাথুনির পরিমাণ নির্ণয় | 21:08 | [Watch](https://youtu.be/8m4bG3QOWuk?si=2pmmtVazM_GHRZL3) |
-| 65 | চিত্রে দেয়া ভবনটির দরজা ও জানালার পেইন্টিং এর কাজের পরিমাণ বের কর | 20:19 | [Watch](https://youtu.be/unacA57nq28?si=e5NDHmFx1K1juD7a) |
-| 66 | Part - 2 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 19:04 | [Watch](https://youtu.be/bfd6sJxz1Qg?si=gu5whEopuMJDz7JZ) |
-| 67 | Part - 1 ফুটিংসহ কলামের বার সিডিউল | 27:17 | [Watch](https://youtu.be/K5XZhbLFVlE?si=ID2r5lU39leN6FO_) |
-| 68 | Part   1 নিম্নের চিত্র ও তথ্যাদি হতে দালানটির ভিত্তির মাটি খননের পরিমাণ নির্ণয় | 28:34 | [Watch](https://youtu.be/rc-_JC8rTVw) |
-| 69 | কি পরিমান লোহা লাগবে সে সম্পর্কে আলোচনা part 2 | 11:14 | [Watch](https://www.youtube.com/watch?v=Hum2astCEcY) |
-| 70 | রিটেইনিং ওয়াল গুরুত্বপূর্ণ ম্যাথ সম্পর্কে আলোচনা | 20:26 | [Watch](https://www.youtube.com/watch?v=7qv_AkEFgLg) |
-| 71 | আউটগোয়িংস ও সংস্কার কাজের পরিমান | 14:17 | [Watch](https://youtu.be/xx2e_tEj4PE) |
-| 72 | গনপুর্ত হিসাব | 12:28 | [Watch](https://youtu.be/g-3IPg88qvw) |
-| 73 | পোতাক্ষেত্রফল ভিত্তিক এস্টিমেট | 14:13 | [Watch](https://youtu.be/cjV99YDJkZI) |
-| 74 | দর বিশ্লেষণ প্রক্রিয়া | 20:11 | [Watch](https://youtu.be/ZB-eHMi6u6A) |
-| 75 | প্লাম্বিং ফিটিংস সমূহ | 13:20 | [Watch](https://youtu.be/yVdZkLvH90s) |
-| 76 | সেপটিকের মাটি এবং ইট গাঁথুনির জন্য কতটুকু মালামাল দরকার সে সম্পর্কে আলোচনা (Page: 206) | 22:32 | [Watch](https://youtu.be/16MApF0PKNw) |
-| 77 | গ্রিলের কাজ সম্পর্কে আলোচনা | 8:04 | [Watch](https://youtu.be/2XSPrki_QXM) |
-| 78 | সুপার স্ট্রাকচারের ইটের গাঁথুনি সম্পর্কে আলোচনা | 37:17 | [Watch](https://youtu.be/bGWowSU7KC8) |
-| 79 | আর সি সি বিমের বার সিডিউলিং নিয়ে আলোচনা | 45:22 | [Watch](https://youtu.be/czHq6-_37JA) |
-| 80 | ব্রিক ফ্লাট সোলিং এর কাজ | 18:54 | [Watch](https://youtu.be/wCtn4Z-a_ss) |
-| 81 | দর তফসিল (Schedule of rates) | 24:10 | [Watch](https://youtu.be/RDwWnkOShrQ) |
-| 82 | Part 2 বাজার মল্য Market Value | 6:14 | [Watch](https://youtu.be/-H4H2epgpbE) |
-| 83 | সমাবেশ তালিকা (Muster Roll) | 24:12 | [Watch](https://youtu.be/KeFZeALj0RI) |
-| 84 | Part - 3 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 6:28 | [Watch](https://youtu.be/4ZZGnbrEj5A) |
-| 85 | একটি সেপটিক ট্যাংকের পাশাপাশি দুটি কক্ষের...ইটের গাঁথুনির পরিমাণ নির্ণয় | 29:13 | [Watch](https://youtu.be/nUNUcbHaPao?si=dt286eU5_K-Fo21t) |
-| 86 | একটি চার তলা দালানের প্রতি তলায় W1...থাই অ্যালুমিনিয়ামের জানালার কাজের পরিমাণ নির্ণয় | 22:11 | [Watch](https://youtu.be/HIMLekrvt1I?si=657wQrR9tCH_QRIN) |
-| 87 | Part - 3 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 5:31 | [Watch](https://youtu.be/6mglKRwMTNY?si=A5Mh5cQF4mYNemrC) |
-| 88 | Part - 2 ফুটিংসহ কলামের বার সিডিউল | 10:20 | [Watch](https://youtu.be/5ZxxuMBs1rY?si=PIPxRenPrBJPTkxv) |
-| 89 | Part   2 নিম্নের চিত্র ও তথ্যাদি হতে দালানটির ভিত্তির মাটি খননের পরিমাণ নির্ণয় | 9:00 | [Watch](https://youtu.be/Qjkwy_Qfn4w) |
-| 90 | ফুটিং কলামের MS rod এর কাজের পরিমান নির্ণয় | 10:01 | [Watch](https://youtu.be/jnpEduI0pdk) |
-| 91 | কাঠের তিনটি ট্রাসে কাঠের পরিমাণ নির্ণয় কর | 22:15 | [Watch](https://youtu.be/UfJ7NLFt5_g) |
-| 92 | রিটেইনিং ওয়ালটির লোহার পরিমাণের ম্যাথ সম্পর্কে আলোচনা | 60:00 | [Watch](https://www.youtube.com/watch?v=6kdnojgYLv8) |
-| 93 | প্রতিপূরক তহবিল এর গাণিতিক সমাধান | 7:26 | [Watch](https://youtu.be/26xqkB5X6VM) |
-| 94 | উপসহকারী প্রকৌশলীর দায়িত্ব ও কর্তব্য | 12:09 | [Watch](https://youtu.be/2NwH_dpuDCU) |
-| 95 | আর্নেষ্ট মানি নেওয়ার কারন এবং ফেরত | 21:32 | [Watch](https://youtu.be/yN2mR4q3wPY) |
-| 96 | সাধারণ ওভারহেড খরচ | 20:31 | [Watch](https://youtu.be/584f-oP90-Y) |
-| 97 | সকেট ও ইউনিয়ন | 18:17 | [Watch](https://youtu.be/4STi3auk_Tc) |
-| 98 | সোলিং এর কাজ কিভাবে করব সে সম্পর্কে আলোচনা | 17:15 | [Watch](https://youtu.be/x2-5TSvYBgo) |
-| 99 | সুপারস্ট্রাকচার এ ইটের গাঁথুনিতে যে পরিমাণ মালামাল লাগবে সে সম্পর্কে আলোচনা | 6:30 | [Watch](https://youtu.be/s0WxfyaWhK4) |
-| 100 | মাটি/বালি ভরাটের কাজ নির্ণয় | 9:06 | [Watch](https://youtu.be/-cY3golxnm4) |
-| 101 | দর বিশ্লেষণ (Rate Analysis) | 18:31 | [Watch](https://youtu.be/G4r_yTItzl8) |
-| 102 | Part - 1 পরিমাপ বহি (Measurement Book) | 14:03 | [Watch](https://youtu.be/WoVi2eyoAHs) |
-| 103 | Part - 4 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 3:32 | [Watch](https://youtu.be/uuR8_al8riw) |
-| 104 | Part - 1 পাইল ক্যাপের আসিসি ও রিইনফোর্সমেন্টের হিসাব | 29:35 | [Watch](https://youtu.be/_74-vAwH2cg) |
-| 105 | একটি সোকপিটের ভিতরে ব্যাস 160 সেমি...প্রয়োজনীয় মালামালের পরিমাণ নির্ণয় | 16:31 | [Watch](https://youtu.be/PBIph97Qpt0?si=kNukgKl1jnTJAdV7) |
-| 106 | Part - 4 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 11:10 | [Watch](https://youtu.be/W1eLmxDXky4?si=UT30OVq3Z3SMFVSD) |
-| 107 | Part - 3 ফুটিংসহ কলামের বার সিডিউল | 10:26 | [Watch](https://youtu.be/5i6isCskcbc?si=6Ycfl0HCEw8HEU9q) |
-| 108 | Part - 1 আয়তাকার ফুটিংসহ আয়তাকার কলামের বার সিডিউল | 12:07 | [Watch](https://youtu.be/2BxS0aYK5jg) |
-| 109 | চিত্রের নকশা ও তথ্যাদি হতে দালানটির মাটি খননের পরিমাণ নির্ণয় | 33:25 | [Watch](https://youtu.be/URWtTFhwXSE) |
-| 110 | কলামে রডের পরিমাণ | 6:25 | [Watch](https://youtu.be/2XjWtBF0jkE) |
-| 111 | স্টিলের ট্রাসের পরিমাণ বের করার ম্যাপ সম্পর্কে আলোচনা | 10:17 | [Watch](https://youtu.be/8oEnolnZNfs) |
-| 112 | মূলধনিক মূল্য এর গাণিতিক সমাধান | 12:17 | [Watch](https://youtu.be/5zooXUynTfM) |
-| 113 | মেজারমেন্ট বুক অ দফাহার চুক্তি | 18:25 | [Watch](https://youtu.be/cu130d1WfZY) |
-| 114 | ইটের গাথুনির দর বিশ্লেষণ | 26:08 | [Watch](https://youtu.be/sNqYiANXfiM) |
-| 115 | সোলিং এর কাজ এবং সিসির কাজ কিভাবে করবো সে সম্পর্কে আলোচনা | 11:26 | [Watch](https://youtu.be/_yHKz5-XivM) |
-| 116 | কংক্রিটের কাজ সম্পর্কে আলোচনা | 33:03 | [Watch](https://youtu.be/ujE_q0vObrI) |
-| 117 | সাধারণভাবে পরিমাণ বিল তৈরির ধাপ | 13:14 | [Watch](https://youtu.be/B_-q-wF3F4s) |
-| 118 | এক ব্যাক্তি জমির মূল্য বাদে   প্রতিপূরক তহবিল sinking fund এর বার্ষিক কিস্তি নির্ণয় | 14:07 | [Watch](https://youtu.be/mLYkxYvAK9c) |
-| 119 | Part - 2 পরিমাপ বহি (Measurement Book) | 5:10 | [Watch](https://youtu.be/qM8YOYuqaLM) |
-| 120 | Part - 1 স্টিল রুফ ট্রাস | 29:29 | [Watch](https://youtu.be/BRIa9dWvJ2Q) |
-| 121 | Part - 2 পাইল ক্যাপের আসিসি ও রিইনফোর্সমেন্টের হিসাব | 4:20 | [Watch](https://youtu.be/HYJ2SQzORkc) |
-| 122 | একটি গোলাকার সোকপিটের ভিতরের ব্যাস 100 সেমি...সিমেন্ট ও বালির পরিমাণ নির্ণয় | 24:22 | [Watch](https://youtu.be/Hk4AUoxsrfw) |
-| 123 | চিত্রে প্রদর্শিত ইমারতটির বাথরুম ও রান্নাঘরের টাইলসের কাজের পরিমাণ নির্ণয় | 18:12 | [Watch](https://youtu.be/WnRgVGIngig?si=YSQSa6rYFxhD3WW1) |
-| 124 | Part - 5 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 6:17 | [Watch](https://youtu.be/-f4Ir3RQ-f0?si=NvmL3Um8uqjQ9jwy) |
-| 125 | Part - 2 আয়তাকার ফুটিংসহ আয়তাকার কলামের বার সিডিউল | 6:25 | [Watch](https://youtu.be/_-O_81PV838?si=K0tc3YykW9BZnBjK) |
-| 126 | Part - 1 চিত্রে প্রদত্ত ইমারতটির ভিত্তিতে মাটি খননের পরিমাণ নির্ণয় | 12:08 | [Watch](https://youtu.be/X7DTJalXEiE) |
-| 127 | টাই বার | 6:18 | [Watch](https://youtu.be/npxsNV_6On4) |
-| 128 | লোহার ট্রাস্টের লোহার পরিমাণ নির্ণয় সম্পর্কে আলোচনা | 30:22 | [Watch](https://www.youtube.com/watch?v=K5yrDM3dwjA) |
-| 129 | সম্পত্তির মোট মূল্য এর গাণিতিক সমাধান | 20:13 | [Watch](https://youtu.be/YDoeKkYcx4s) |
-| 130 | বিল ও ভাউচার কার্যাদেশ পত্র এবং থাউকো চুক্তি | 15:08 | [Watch](https://youtu.be/VieByDzcWW8) |
-| 131 | 10 ঘন মিটার আর সি সি কাজের মালামাল নির্ণয় | 11:28 | [Watch](https://youtu.be/v9x7GQX2z0E) |
-| 132 | ইনস্পেকশন সম্পর্কে আলোচনা | 4:24 | [Watch](https://youtu.be/-c9W-fnraFA) |
-| 133 | কংক্রিটের কাজের উদাহরণ  ম্যাথ 2.20 সম্পর্কে আলোচনা | 10:25 | [Watch](https://youtu.be/8eI1rQVUoNM) |
-| 134 | প্লিন্থ এরিয়া রেট (Plinth Area Rate) | 14:00 | [Watch](https://youtu.be/e2e2KeWA1Qg) |
-| 135 | Part - 3 পরিমাপ বহি (Measurement Book) | 2:23 | [Watch](https://youtu.be/XLNicQm0kLM) |
-| 136 | Part - 2 স্টিল রুফ ট্রাস | 29:07 | [Watch](https://youtu.be/gzoocsYBFJ0) |
-| 137 | Part  -1 নিচের চিত্রে প্রদর্শিত পাইল ক্যাপটির জন্য...রিইনফোর্সমেন্টের পরিমাণ বের কর | 10:07 | [Watch](https://youtu.be/tD4E1pRxm00) |
-| 138 | চিত্রে প্রদর্শিত দালানটির বেড, ডাইনিং, ড্রইংরুম এবং বারান্দার ডিসটেম্পারের কাজের পরিমাণ নির্ণয় | 21:31 | [Watch](https://youtu.be/FcBE6qY755g?si=NdW4jJ58NoiR9Zxm) |
-| 139 | চিত্রে প্রদর্শিত দালানটির জানালা, বারান্দা এবং বারান্দার রেলিং-এ গ্রিলের কাজের পরিমাণ | 13:14 | [Watch](https://youtu.be/yOOhkvSCxgU?si=TGaHWk8HplvP2Oou) |
-| 140 | বর্গাকার  ফুটিংসহ বৃত্তাকার কলামের বার সিডিউল | 15:24 | [Watch](https://youtu.be/RcT5OY7o5Kg?si=c9A5XRsz_u-PyfIj) |
-| 141 | Part - 2 চিত্রে প্রদত্ত ইমারতটির ভিত্তিতে মাটি খননের পরিমাণ নির্ণয় | 6:01 | [Watch](https://youtu.be/DmEHAE-V4UU) |
-| 142 | R.C.C  কাজ কিভাবে করতে হয় তার সম্পর্কে দেখব | 23:20 | [Watch](https://youtu.be/U7S040v564A) |
-| 143 | কাঠের ট্রাস্টি তৈরি করতে কত পরিমান কাঠ দরকার সে সম্পর্কে আলোচনা | 8:11 | [Watch](https://www.youtube.com/watch?v=FS4IJxYqDDw) |
-| 144 | গাথুনি কাজে শুকনা মসলার পরিমান 35% প্রমান | 14:04 | [Watch](https://youtu.be/TPCT_cSVjy4) |
-| 145 | শোষণ কূপ সম্পর্কে আলোচনা | 14:22 | [Watch](https://youtu.be/5E71FczrX8g) |
-| 146 | Part - 4 পরিমাপ বহি (Measurement Book) | 2:01 | [Watch](https://youtu.be/CE3PCsO3hrI) |
-| 147 | নিম্ন চিত্র ও তথ্যাদি প্রদর্শিত স্টিল ট্রাসটির...হার পরিমান মেট্রিক টনে বের কর | 18:01 | [Watch](https://youtu.be/mB0ygcbOWBg) |
-| 148 | Part - 2 নিচের চিত্রে প্রদর্শিত পাইল ক্যাপটির জন্য...রিইনফোর্সমেন্টের পরিমাণ বের কর | 23:14 | [Watch](https://youtu.be/cWQlQtly2yE) |
-| 149 | Part - 1 চিত্রে প্রদর্শিত ইমারতটির বাহিরে দিকে স্নোসেম ওয়াশের কাজের পরিমাণ নির্ণয় | 29:35 | [Watch](https://youtu.be/kLXDrq0Z1pI?si=3dbKOyBED01nf1P9) |
-| 150 | Part - 1 চিত্রের সুপারস্ট্রাকচার দেয়ালের গাঁথুনির কাজের পরিমাণ নির্ণয় | 18:35 | [Watch](https://youtu.be/rXPnBgAVB8g?si=n1hRogzkfLxADcco) |
-| 151 | Part - 1 চিত্রের বিমটির জন্য বার সিডিউল তৈরি করে লোহার পরিমাণ নির্ণয় | 12:24 | [Watch](https://youtu.be/u7ZJnszZiS0?si=6Vg74niMjduyIrdN) |
-| 152 | Part - 3 চিত্রে প্রদত্ত ইমারতটির ভিত্তিতে মাটি খননের পরিমাণ নির্ণয় | 5:32 | [Watch](https://youtu.be/Mn9ofs23Fj8) |
-| 153 | 10 ঘন মিটার  সি সি কাজের মালামাল নির্ণয় | 12:25 | [Watch](https://youtu.be/czsxIkGVpnU) |
-| 154 | বিল এবং ভাউচার | 17:12 | [Watch](https://youtu.be/4iQwxFUbNZo) |
-| 155 | Part - 2 নিম্ন চিত্র ও তথ্যাদি প্রদর্শিত স্টিল ট্রাসটির...হার পরিমান মেট্রিক টনে বের কর | 3:05 | [Watch](https://youtu.be/QyOTPnEMXgU) |
-| 156 | Part - 2 চিত্রে প্রদর্শিত ইমারতটির বাহিরে দিকে স্নোসেম ওয়াশের কাজের পরিমাণ নির্ণয় | 12:35 | [Watch](https://youtu.be/i7Sy12uM4hA?si=xSEMRf8ckTlpV6n0) |
-| 157 | Part - 2 চিত্রের সুপারস্ট্রাকচার দেয়ালের গাঁথুনির কাজের পরিমাণ নির্ণয় | 4:32 | [Watch](https://youtu.be/ZQ01t5H5GBI?si=WX51v-ukWROUcFdR) |
-| 158 | Part - 2 চিত্রের বিমটির জন্য বার সিডিউল তৈরি করে লোহার পরিমাণ নির্ণয় | 26:19 | [Watch](https://youtu.be/7AbbHBqjzr4?si=iVOVcilA0DerhG17) |
-| 159 | Part - 1 চিত্রে প্রদত্ত ইমারতটির নীচতলা মেঝেতে...এবং কত ঘনমিটার ইট লাগবে | 6:27 | [Watch](https://youtu.be/MN_tlg02KI4) |
-| 160 | চুনকামের কাজে মালামালের পরিমান | 13:06 | [Watch](https://youtu.be/yJk_ianEenA) |
-| 161 | বিল পরিশোধ পদ্ধতি | 15:19 | [Watch](https://youtu.be/SMQ4Gn9qEBM) |
-| 162 | Part - 1৬ মিটার দৈর্ঘ্যের 75mm × 75mm × 10m আকারের ১২ টি আ্যঙ্গেল বারের রঙের কাজের পরিমাণ বের কর | 13:24 | [Watch](https://youtu.be/YAruU6TOhAc) |
-| 163 | Part - 3 চিত্রের সুপারস্ট্রাকচার দেয়ালের গাঁথুনির কাজের পরিমাণ নির্ণয় | 19:03 | [Watch](https://youtu.be/Ols2CGwppsQ?si=H1bHrevPO5z84QyG) |
+
+## Unit 1 — DETAIL ESTIMATE OF SUBSTRUCTURE FOR MULTI- STORIED BUILDING
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 1 | বিল্ডিং এর ছাদে সিলাপের লেয়ার কাজ সম্পর্কে আলোচনা | 17:19 | [Watch](https://youtu.be/bjppSjHen3A) |
+| 2 | বিল্ডিং এর ছাদে সিলাপের আরসিসি কাজের পরিমাণ সম্পর্কে আলোচনা | 32:03 | [Watch](https://youtu.be/TEAwB3T9fpg) |
+
+
+## Unit 2 — DETAIL ESTIMATE OF STRUCTURAL COMPONENT OF SUPER STRUCTURE
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 3 | স্টিল স্ট্রাকচার ও তার উপাংশসমূহ | 9:15 | [Watch](https://youtu.be/NONqDOCWUhc) |
+| 4 | সুপার স্ট্রাকচারের আরসিসি কাজ | 2:19 | [Watch](https://youtu.be/nDlWRzq8agY?si=6s4bwevk8SWfEzmK) |
+| 5 | ফ্রেম স্ট্রাকচারাল বহুতল ভবন ও তার উপাংশ | 12:20 | [Watch](https://youtu.be/UYSslA8fHZY) |
+| 6 | স্টিল স্ট্রাকচার নিয়ে আলোচনা | 17:31 | [Watch](https://youtu.be/A4HMcBSK7tQ) |
+| 7 | বিল্ডিং কম্পোনেন্ট এসিটমেট) | 47:31 | [Watch](https://youtu.be/wAtzRdGriBs) |
+| 8 | (23.17sec) (বিলন্ডিং এ স্ট্রাকচার) (Page: 34-35) | 23:10 | [Watch](https://youtu.be/jUGm2brbNjc) |
+| 9 | সুপার স্ট্রাকচারের রিইনফোর্সমেন্ট ডিটেইলিং | 23:23 | [Watch](https://youtu.be/FH2IkueJvns?si=-2YkvzJ-aWmUu4k3) |
+| 10 | দালানের সাবস্ট্রাকচার ও সুপারস্ট্রাকচার | 10:11 | [Watch](https://youtu.be/m2mRnYFifAM) |
+| 11 | প্রকল্প বাস্তবায়নে গনপুর্ত দপ্তরের সংগঠন | 11:08 | [Watch](https://youtu.be/1oZ7sHtW2bI) |
+| 12 | সুপার স্ট্রাকচারের ইটের গাঁথুনি সম্পর্কে আলোচনা | 37:17 | [Watch](https://youtu.be/bGWowSU7KC8) |
+| 13 | সুপারস্ট্রাকচার এ ইটের গাঁথুনিতে যে পরিমাণ মালামাল লাগবে সে সম্পর্কে আলোচনা | 6:30 | [Watch](https://youtu.be/s0WxfyaWhK4) |
+| 14 | Part - 1 চিত্রের সুপারস্ট্রাকচার দেয়ালের গাঁথুনির কাজের পরিমাণ নির্ণয় | 18:35 | [Watch](https://youtu.be/rXPnBgAVB8g?si=n1hRogzkfLxADcco) |
+| 15 | Part - 2 চিত্রের সুপারস্ট্রাকচার দেয়ালের গাঁথুনির কাজের পরিমাণ নির্ণয় | 4:32 | [Watch](https://youtu.be/ZQ01t5H5GBI?si=WX51v-ukWROUcFdR) |
+| 16 | Part - 3 চিত্রের সুপারস্ট্রাকচার দেয়ালের গাঁথুনির কাজের পরিমাণ নির্ণয় | 19:03 | [Watch](https://youtu.be/Ols2CGwppsQ?si=H1bHrevPO5z84QyG) |
+
+
+## Unit 5 — ESTIMATE OF SEPTIC TANK.
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 17 | সেপটিক ট্যাংক ও সোকওয়েল | 11:08 | [Watch](https://youtu.be/CCspbYkyHfk?si=kRtOAh5c9PMvPH4L) |
+| 18 | সেপটিক ট্যাংক সম্পর্কে আলোচনা | 13:16 | [Watch](https://youtu.be/Puo1k8uThLo) |
+| 19 | Part-1 নিম্নের চিত্রের মাধ্যমে সেপটিক ট্যাংক এর মাটি কাটার পরিমাণ ও ইটের গাথুনির পরিমাণ নির্ণয় | 13:01 | [Watch](https://youtu.be/CxqniZlKNXM?si=dcZi79EC4VJcWZTO) |
+| 20 | সেপটিকের কতটুকু মাটি এবং কতটুকু ইট গাঁথুনি হবে সে সম্পর্কে আলোচনা | 8:35 | [Watch](https://youtu.be/ITCeefxiqyg) |
+| 21 | Part-2 নিম্নের চিত্রের মাধ্যমে সেপটিক ট্যাংক এর মাটি কাটার পরিমাণ ও ইটের গাথুনির পরিমাণ নির্ণয় | 21:08 | [Watch](https://youtu.be/8m4bG3QOWuk?si=2pmmtVazM_GHRZL3) |
+| 22 | সেপটিকের মাটি এবং ইট গাঁথুনির জন্য কতটুকু মালামাল দরকার সে সম্পর্কে আলোচনা (Page: 206) | 22:32 | [Watch](https://youtu.be/16MApF0PKNw) |
+| 23 | একটি সেপটিক ট্যাংকের পাশাপাশি দুটি কক্ষের...ইটের গাঁথুনির পরিমাণ নির্ণয় | 29:13 | [Watch](https://youtu.be/nUNUcbHaPao?si=dt286eU5_K-Fo21t) |
+
+
+## Unit 6 — ESTIMATE OF RCC RETAINING WALL AND RCC CULVERT
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 24 | R.C.C  কাজ কিভাবে করতে হয় তার সম্পর্কে দেখব | 23:20 | [Watch](https://youtu.be/U7S040v564A) |
+
+
+## Unit 9 — ESTIMATION OF PLUMBING AND SANITARY WORKS
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 25 | প্লাম্বিং ও স্যানিটারি কাজে হিসাব নির্ণয় পদ্ধতি | 9:19 | [Watch](https://youtu.be/8goEOxVnXIo) |
+| 26 | প্লাম্বিং | 17:17 | [Watch](https://youtu.be/6UjT1s0aQIw) |
+| 27 | প্লাম্বিং ফিটিংস সমূহ | 13:20 | [Watch](https://youtu.be/yVdZkLvH90s) |
+
+
+## Unit 12 — VALUATION OF PROPERTY AND BUILDING
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 28 | দালানের মূল্যায়ন Valuation of Building | 10:23 | [Watch](https://youtu.be/nnaK4zO_N74) |
+
+
+## Extra / not in syllabus
+| # | Title | Duration | Link |
+|---|-------|----------|------|
+| 29 | পরিমাণ বিল | 12:02 | [Watch](https://youtu.be/2jyATmZPihU) |
+| 30 | মূল্যায়ন বা সম্পদের ম্যল্যায়ন বলতে কী বুঝায় | 20:04 | [Watch](https://youtu.be/mAg99TcpHMY) |
+| 31 | গণপূর্ত হিসাব এবং ফরমস | 3:06 | [Watch](https://youtu.be/oMM7NmPmyXI) |
+| 32 | মূল্য নির্ধারণ পার্ট 1 | 13:17 | [Watch](https://youtu.be/fbq23YSK-h8) |
+| 33 | Part - 1 পাইল ও তার শ্রেণিবিভাগ | 7:24 | [Watch](https://youtu.be/Qf7cr1o8p4Y) |
+| 34 | আরসিসি রিটেইনিং ওয়াল এবং কালভার্ট | 3:05 | [Watch](https://youtu.be/vQq7HUFCf1w) |
+| 35 | সমাপক কাজ | 2:10 | [Watch](https://youtu.be/ZsRvefbxb6I?si=dFn2uKlEJxjeuqvu) |
+| 36 | দরজা জানালার কাঠের কাজ | 17:12 | [Watch](https://youtu.be/7d11nqMAQ2E?si=Fsmk152Ryweu7DtZ) |
+| 37 | রুফ ট্রাস্ট সম্পর্কে আলোচনা | 14:13 | [Watch](https://www.youtube.com/watch?v=OCqSz0lskU8) |
+| 38 | রিটেইনিং ওয়াল কালভার্ট সম্পর্কে আলোচনা | 9:31 | [Watch](https://www.youtube.com/watch?v=LNAaOrwKa-Y) |
+| 39 | সম্পদের মুল্যায়ন প্রতি পুরক তহবিল | 23:29 | [Watch](https://youtu.be/V2JxSpiyvDE) |
+| 40 | গনপুর্ত অধিদপ্তর | 16:09 | [Watch](https://youtu.be/LE_EN-NlqS0) |
+| 41 | এস্টিমেট | 16:10 | [Watch](https://youtu.be/Kix-pDk_42A) |
+| 42 | দর বিশ্লেষণ কি?` | 19:09 | [Watch](https://youtu.be/PPrRbcGcH3Q) |
+| 43 | দরজা এবং জানালায় প্রিন্টের কাজ সম্পর্কে আলোচনা | 15:24 | [Watch](https://youtu.be/Qy8gubCPYGQ) |
+| 44 | সোলিং এবং কংক্রিট এর কাজ সম্পর্কে আলোচনা | 20:21 | [Watch](https://youtu.be/ZTpXzkzuRjY) |
+| 45 | দরজা ও জানালার চৌকাট সম্পর্কে আলোচনা | 26:06 | [Watch](https://youtu.be/gSBW2tCczMM) |
+| 46 | প্লাস্টারের কাজ সম্পর্কে আলোচনা | 25:10 | [Watch](https://youtu.be/UuHShnASpEs) |
+| 47 | আর.সি.সি কাজ সম্পর্কে আলোচনা | 18:31 | [Watch](https://youtu.be/5NIe0Tes-PI) |
+| 48 | BOQ -এর গুরুত্ব | 12:29 | [Watch](https://youtu.be/VW6Sp3Y9GPo) |
+| 49 | প্রতিপূরক তহবিল sinking fund কী | 20:12 | [Watch](https://youtu.be/Qau6FwFPwH4) |
+| 50 | গণপূর্ত হিসাব এবং ফরমস বিস্তারিত | 14:02 | [Watch](https://youtu.be/RkMsQmyt87U) |
+| 51 | মূল্য নির্ধারণ পার্ট 2 | 5:29 | [Watch](https://youtu.be/b3FmdJCXWQk) |
+| 52 | পানি সরবরাহ ও স্যানিটারি কাজের বিভিন্ন ফিটিংস এবং ফিচারসমূহ | 6:28 | [Watch](https://youtu.be/YvxWL7Ru2us) |
+| 53 | Part - 1 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 26:04 | [Watch](https://youtu.be/dVtFJIRMKXs) |
+| 54 | Part - 2 পাইল ও তার শ্রেণিবিভাগ | 7:04 | [Watch](https://youtu.be/Foi8PXMRQSg) |
+| 55 | চিত্রে প্রদত্ত দালালটির সিঁড়ি ঘর এবং বারান্দার রেলিং-এ...........স্টিলের কাজের পরিমান বের কর | 19:20 | [Watch](https://youtu.be/9-Qg8LNT3jY?si=IuaxEUpLnfWl1NI3) |
+| 56 | Part - 1 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 7:30 | [Watch](https://youtu.be/jAQiST1D7vQ?si=OuQLH_eD5u3Wcu6D) |
+| 57 | কি পরিমান লোহা লাগবে সে সম্পর্কে আলোচনা part 1 | 6:01 | [Watch](https://www.youtube.com/watch?v=ysfFsuus4Ik) |
+| 58 | তিন রকম রিটেইনিং ওয়াল নিয়ে আলোচনা | 8:16 | [Watch](https://www.youtube.com/watch?v=uE_f1UlBuD4) |
+| 59 | বর্জন মুল্য ও উদ্বার মুল্য | 18:05 | [Watch](https://youtu.be/lRy5lThaz0A) |
+| 60 | প্রাথমিক এস্টিমেট | 13:34 | [Watch](https://youtu.be/vMlYeCmpUoA) |
+| 61 | দর বিশ্লেষনের উদ্দেশ্য | 14:22 | [Watch](https://youtu.be/9JVeXGMUx4o) |
+| 62 | সরবরাহ পদ্ধতি | 11:09 | [Watch](https://youtu.be/VC8XB3eyDtg) |
+| 63 | গ্রিলের রং এর সম্পর্কে আলোচনা | 7:16 | [Watch](https://youtu.be/u_jvOF3FASg) |
+| 64 | দরজা ও জানালার পাল্লার কাজ সম্পর্কে আলোচনা | 35:01 | [Watch](https://youtu.be/0NYX8uQVojg) |
+| 65 | দেওয়ালের ভিতরে প্লাস্টার সম্পর্কে আলোচনা | 17:16 | [Watch](https://youtu.be/RnqNSZx31ok) |
+| 66 | আর সি সি এর বার সম্পর্কে আলোচনা | 28:06 | [Watch](https://youtu.be/1asbDaF0zUU) |
+| 67 | মাটি কাটার কাজের পরমান নির্ণয়) | 26:21 | [Watch](https://youtu.be/yBW97Yq1uSw) |
+| 68 | BOQ -এর অসুবিধাসমূহ | 4:17 | [Watch](https://youtu.be/A2yppZCumXk) |
+| 69 | Part 1 বাজার মল্য Market Value | 8:33 | [Watch](https://youtu.be/k_6Jd_GCEAE) |
+| 70 | কার্যসম্পাদন করার পদ্ধতিসমূহের নাম | 13:03 | [Watch](https://youtu.be/bc-hNuJu-84) |
+| 71 | দালানের ড্রেনেজ কাজের হিসাব নির্ণয় পদ্ধতি | 5:20 | [Watch](https://youtu.be/dp2CAbp2ZRM) |
+| 72 | Part - 2 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 4:30 | [Watch](https://youtu.be/GKM7CRw17_0) |
+| 73 | পাইলের মাথা ভেঙ্গে ফেলা | 11:10 | [Watch](https://youtu.be/n2E8y66HUXw) |
+| 74 | চিত্রে দেয়া ভবনটির দরজা ও জানালার পেইন্টিং এর কাজের পরিমাণ বের কর | 20:19 | [Watch](https://youtu.be/unacA57nq28?si=e5NDHmFx1K1juD7a) |
+| 75 | Part - 2 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 19:04 | [Watch](https://youtu.be/bfd6sJxz1Qg?si=gu5whEopuMJDz7JZ) |
+| 76 | Part - 1 ফুটিংসহ কলামের বার সিডিউল | 27:17 | [Watch](https://youtu.be/K5XZhbLFVlE?si=ID2r5lU39leN6FO_) |
+| 77 | Part   1 নিম্নের চিত্র ও তথ্যাদি হতে দালানটির ভিত্তির মাটি খননের পরিমাণ নির্ণয় | 28:34 | [Watch](https://youtu.be/rc-_JC8rTVw) |
+| 78 | কি পরিমান লোহা লাগবে সে সম্পর্কে আলোচনা part 2 | 11:14 | [Watch](https://www.youtube.com/watch?v=Hum2astCEcY) |
+| 79 | রিটেইনিং ওয়াল গুরুত্বপূর্ণ ম্যাথ সম্পর্কে আলোচনা | 20:26 | [Watch](https://www.youtube.com/watch?v=7qv_AkEFgLg) |
+| 80 | আউটগোয়িংস ও সংস্কার কাজের পরিমান | 14:17 | [Watch](https://youtu.be/xx2e_tEj4PE) |
+| 81 | গনপুর্ত হিসাব | 12:28 | [Watch](https://youtu.be/g-3IPg88qvw) |
+| 82 | পোতাক্ষেত্রফল ভিত্তিক এস্টিমেট | 14:13 | [Watch](https://youtu.be/cjV99YDJkZI) |
+| 83 | দর বিশ্লেষণ প্রক্রিয়া | 20:11 | [Watch](https://youtu.be/ZB-eHMi6u6A) |
+| 84 | গ্রিলের কাজ সম্পর্কে আলোচনা | 8:04 | [Watch](https://youtu.be/2XSPrki_QXM) |
+| 85 | আর সি সি বিমের বার সিডিউলিং নিয়ে আলোচনা | 45:22 | [Watch](https://youtu.be/czHq6-_37JA) |
+| 86 | ব্রিক ফ্লাট সোলিং এর কাজ | 18:54 | [Watch](https://youtu.be/wCtn4Z-a_ss) |
+| 87 | দর তফসিল (Schedule of rates) | 24:10 | [Watch](https://youtu.be/RDwWnkOShrQ) |
+| 88 | Part 2 বাজার মল্য Market Value | 6:14 | [Watch](https://youtu.be/-H4H2epgpbE) |
+| 89 | সমাবেশ তালিকা (Muster Roll) | 24:12 | [Watch](https://youtu.be/KeFZeALj0RI) |
+| 90 | Part - 3 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 6:28 | [Watch](https://youtu.be/4ZZGnbrEj5A) |
+| 91 | একটি চার তলা দালানের প্রতি তলায় W1...থাই অ্যালুমিনিয়ামের জানালার কাজের পরিমাণ নির্ণয় | 22:11 | [Watch](https://youtu.be/HIMLekrvt1I?si=657wQrR9tCH_QRIN) |
+| 92 | Part - 3 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 5:31 | [Watch](https://youtu.be/6mglKRwMTNY?si=A5Mh5cQF4mYNemrC) |
+| 93 | Part - 2 ফুটিংসহ কলামের বার সিডিউল | 10:20 | [Watch](https://youtu.be/5ZxxuMBs1rY?si=PIPxRenPrBJPTkxv) |
+| 94 | Part   2 নিম্নের চিত্র ও তথ্যাদি হতে দালানটির ভিত্তির মাটি খননের পরিমাণ নির্ণয় | 9:00 | [Watch](https://youtu.be/Qjkwy_Qfn4w) |
+| 95 | ফুটিং কলামের MS rod এর কাজের পরিমান নির্ণয় | 10:01 | [Watch](https://youtu.be/jnpEduI0pdk) |
+| 96 | কাঠের তিনটি ট্রাসে কাঠের পরিমাণ নির্ণয় কর | 22:15 | [Watch](https://youtu.be/UfJ7NLFt5_g) |
+| 97 | রিটেইনিং ওয়ালটির লোহার পরিমাণের ম্যাথ সম্পর্কে আলোচনা | 60:00 | [Watch](https://www.youtube.com/watch?v=6kdnojgYLv8) |
+| 98 | প্রতিপূরক তহবিল এর গাণিতিক সমাধান | 7:26 | [Watch](https://youtu.be/26xqkB5X6VM) |
+| 99 | উপসহকারী প্রকৌশলীর দায়িত্ব ও কর্তব্য | 12:09 | [Watch](https://youtu.be/2NwH_dpuDCU) |
+| 100 | আর্নেষ্ট মানি নেওয়ার কারন এবং ফেরত | 21:32 | [Watch](https://youtu.be/yN2mR4q3wPY) |
+| 101 | সাধারণ ওভারহেড খরচ | 20:31 | [Watch](https://youtu.be/584f-oP90-Y) |
+| 102 | সকেট ও ইউনিয়ন | 18:17 | [Watch](https://youtu.be/4STi3auk_Tc) |
+| 103 | সোলিং এর কাজ কিভাবে করব সে সম্পর্কে আলোচনা | 17:15 | [Watch](https://youtu.be/x2-5TSvYBgo) |
+| 104 | মাটি/বালি ভরাটের কাজ নির্ণয় | 9:06 | [Watch](https://youtu.be/-cY3golxnm4) |
+| 105 | দর বিশ্লেষণ (Rate Analysis) | 18:31 | [Watch](https://youtu.be/G4r_yTItzl8) |
+| 106 | Part - 1 পরিমাপ বহি (Measurement Book) | 14:03 | [Watch](https://youtu.be/WoVi2eyoAHs) |
+| 107 | Part - 4 নিম্নের চিত্রে প্রদর্শিত ৬মিটার স্টিলের কলামটির...রঙের কাজের পরিমাণ নির্ণয় | 3:32 | [Watch](https://youtu.be/uuR8_al8riw) |
+| 108 | Part - 1 পাইল ক্যাপের আসিসি ও রিইনফোর্সমেন্টের হিসাব | 29:35 | [Watch](https://youtu.be/_74-vAwH2cg) |
+| 109 | একটি সোকপিটের ভিতরে ব্যাস 160 সেমি...প্রয়োজনীয় মালামালের পরিমাণ নির্ণয় | 16:31 | [Watch](https://youtu.be/PBIph97Qpt0?si=kNukgKl1jnTJAdV7) |
+| 110 | Part - 4 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 11:10 | [Watch](https://youtu.be/W1eLmxDXky4?si=UT30OVq3Z3SMFVSD) |
+| 111 | Part - 3 ফুটিংসহ কলামের বার সিডিউল | 10:26 | [Watch](https://youtu.be/5i6isCskcbc?si=6Ycfl0HCEw8HEU9q) |
+| 112 | Part - 1 আয়তাকার ফুটিংসহ আয়তাকার কলামের বার সিডিউল | 12:07 | [Watch](https://youtu.be/2BxS0aYK5jg) |
+| 113 | চিত্রের নকশা ও তথ্যাদি হতে দালানটির মাটি খননের পরিমাণ নির্ণয় | 33:25 | [Watch](https://youtu.be/URWtTFhwXSE) |
+| 114 | কলামে রডের পরিমাণ | 6:25 | [Watch](https://youtu.be/2XjWtBF0jkE) |
+| 115 | স্টিলের ট্রাসের পরিমাণ বের করার ম্যাপ সম্পর্কে আলোচনা | 10:17 | [Watch](https://youtu.be/8oEnolnZNfs) |
+| 116 | মূলধনিক মূল্য এর গাণিতিক সমাধান | 12:17 | [Watch](https://youtu.be/5zooXUynTfM) |
+| 117 | মেজারমেন্ট বুক অ দফাহার চুক্তি | 18:25 | [Watch](https://youtu.be/cu130d1WfZY) |
+| 118 | ইটের গাথুনির দর বিশ্লেষণ | 26:08 | [Watch](https://youtu.be/sNqYiANXfiM) |
+| 119 | সোলিং এর কাজ এবং সিসির কাজ কিভাবে করবো সে সম্পর্কে আলোচনা | 11:26 | [Watch](https://youtu.be/_yHKz5-XivM) |
+| 120 | কংক্রিটের কাজ সম্পর্কে আলোচনা | 33:03 | [Watch](https://youtu.be/ujE_q0vObrI) |
+| 121 | সাধারণভাবে পরিমাণ বিল তৈরির ধাপ | 13:14 | [Watch](https://youtu.be/B_-q-wF3F4s) |
+| 122 | এক ব্যাক্তি জমির মূল্য বাদে   প্রতিপূরক তহবিল sinking fund এর বার্ষিক কিস্তি নির্ণয় | 14:07 | [Watch](https://youtu.be/mLYkxYvAK9c) |
+| 123 | Part - 2 পরিমাপ বহি (Measurement Book) | 5:10 | [Watch](https://youtu.be/qM8YOYuqaLM) |
+| 124 | Part - 1 স্টিল রুফ ট্রাস | 29:29 | [Watch](https://youtu.be/BRIa9dWvJ2Q) |
+| 125 | Part - 2 পাইল ক্যাপের আসিসি ও রিইনফোর্সমেন্টের হিসাব | 4:20 | [Watch](https://youtu.be/HYJ2SQzORkc) |
+| 126 | একটি গোলাকার সোকপিটের ভিতরের ব্যাস 100 সেমি...সিমেন্ট ও বালির পরিমাণ নির্ণয় | 24:22 | [Watch](https://youtu.be/Hk4AUoxsrfw) |
+| 127 | চিত্রে প্রদর্শিত ইমারতটির বাথরুম ও রান্নাঘরের টাইলসের কাজের পরিমাণ নির্ণয় | 18:12 | [Watch](https://youtu.be/WnRgVGIngig?si=YSQSa6rYFxhD3WW1) |
+| 128 | Part - 5 চিত্রের নকশা ও তথ্যাদি হতে...দরজা ও জানালার কাঠের কাজের পরিমাণ নির্ণয় | 6:17 | [Watch](https://youtu.be/-f4Ir3RQ-f0?si=NvmL3Um8uqjQ9jwy) |
+| 129 | Part - 2 আয়তাকার ফুটিংসহ আয়তাকার কলামের বার সিডিউল | 6:25 | [Watch](https://youtu.be/_-O_81PV838?si=K0tc3YykW9BZnBjK) |
+| 130 | Part - 1 চিত্রে প্রদত্ত ইমারতটির ভিত্তিতে মাটি খননের পরিমাণ নির্ণয় | 12:08 | [Watch](https://youtu.be/X7DTJalXEiE) |
+| 131 | টাই বার | 6:18 | [Watch](https://youtu.be/npxsNV_6On4) |
+| 132 | লোহার ট্রাস্টের লোহার পরিমাণ নির্ণয় সম্পর্কে আলোচনা | 30:22 | [Watch](https://www.youtube.com/watch?v=K5yrDM3dwjA) |
+| 133 | সম্পত্তির মোট মূল্য এর গাণিতিক সমাধান | 20:13 | [Watch](https://youtu.be/YDoeKkYcx4s) |
+| 134 | বিল ও ভাউচার কার্যাদেশ পত্র এবং থাউকো চুক্তি | 15:08 | [Watch](https://youtu.be/VieByDzcWW8) |
+| 135 | 10 ঘন মিটার আর সি সি কাজের মালামাল নির্ণয় | 11:28 | [Watch](https://youtu.be/v9x7GQX2z0E) |
+| 136 | ইনস্পেকশন সম্পর্কে আলোচনা | 4:24 | [Watch](https://youtu.be/-c9W-fnraFA) |
+| 137 | কংক্রিটের কাজের উদাহরণ  ম্যাথ 2.20 সম্পর্কে আলোচনা | 10:25 | [Watch](https://youtu.be/8eI1rQVUoNM) |
+| 138 | প্লিন্থ এরিয়া রেট (Plinth Area Rate) | 14:00 | [Watch](https://youtu.be/e2e2KeWA1Qg) |
+| 139 | Part - 3 পরিমাপ বহি (Measurement Book) | 2:23 | [Watch](https://youtu.be/XLNicQm0kLM) |
+| 140 | Part - 2 স্টিল রুফ ট্রাস | 29:07 | [Watch](https://youtu.be/gzoocsYBFJ0) |
+| 141 | Part  -1 নিচের চিত্রে প্রদর্শিত পাইল ক্যাপটির জন্য...রিইনফোর্সমেন্টের পরিমাণ বের কর | 10:07 | [Watch](https://youtu.be/tD4E1pRxm00) |
+| 142 | চিত্রে প্রদর্শিত দালানটির বেড, ডাইনিং, ড্রইংরুম এবং বারান্দার ডিসটেম্পারের কাজের পরিমাণ নির্ণয় | 21:31 | [Watch](https://youtu.be/FcBE6qY755g?si=NdW4jJ58NoiR9Zxm) |
+| 143 | চিত্রে প্রদর্শিত দালানটির জানালা, বারান্দা এবং বারান্দার রেলিং-এ গ্রিলের কাজের পরিমাণ | 13:14 | [Watch](https://youtu.be/yOOhkvSCxgU?si=TGaHWk8HplvP2Oou) |
+| 144 | বর্গাকার  ফুটিংসহ বৃত্তাকার কলামের বার সিডিউল | 15:24 | [Watch](https://youtu.be/RcT5OY7o5Kg?si=c9A5XRsz_u-PyfIj) |
+| 145 | Part - 2 চিত্রে প্রদত্ত ইমারতটির ভিত্তিতে মাটি খননের পরিমাণ নির্ণয় | 6:01 | [Watch](https://youtu.be/DmEHAE-V4UU) |
+| 146 | কাঠের ট্রাস্টি তৈরি করতে কত পরিমান কাঠ দরকার সে সম্পর্কে আলোচনা | 8:11 | [Watch](https://www.youtube.com/watch?v=FS4IJxYqDDw) |
+| 147 | গাথুনি কাজে শুকনা মসলার পরিমান 35% প্রমান | 14:04 | [Watch](https://youtu.be/TPCT_cSVjy4) |
+| 148 | শোষণ কূপ সম্পর্কে আলোচনা | 14:22 | [Watch](https://youtu.be/5E71FczrX8g) |
+| 149 | Part - 4 পরিমাপ বহি (Measurement Book) | 2:01 | [Watch](https://youtu.be/CE3PCsO3hrI) |
+| 150 | নিম্ন চিত্র ও তথ্যাদি প্রদর্শিত স্টিল ট্রাসটির...হার পরিমান মেট্রিক টনে বের কর | 18:01 | [Watch](https://youtu.be/mB0ygcbOWBg) |
+| 151 | Part - 2 নিচের চিত্রে প্রদর্শিত পাইল ক্যাপটির জন্য...রিইনফোর্সমেন্টের পরিমাণ বের কর | 23:14 | [Watch](https://youtu.be/cWQlQtly2yE) |
+| 152 | Part - 1 চিত্রে প্রদর্শিত ইমারতটির বাহিরে দিকে স্নোসেম ওয়াশের কাজের পরিমাণ নির্ণয় | 29:35 | [Watch](https://youtu.be/kLXDrq0Z1pI?si=3dbKOyBED01nf1P9) |
+| 153 | Part - 1 চিত্রের বিমটির জন্য বার সিডিউল তৈরি করে লোহার পরিমাণ নির্ণয় | 12:24 | [Watch](https://youtu.be/u7ZJnszZiS0?si=6Vg74niMjduyIrdN) |
+| 154 | Part - 3 চিত্রে প্রদত্ত ইমারতটির ভিত্তিতে মাটি খননের পরিমাণ নির্ণয় | 5:32 | [Watch](https://youtu.be/Mn9ofs23Fj8) |
+| 155 | 10 ঘন মিটার  সি সি কাজের মালামাল নির্ণয় | 12:25 | [Watch](https://youtu.be/czsxIkGVpnU) |
+| 156 | বিল এবং ভাউচার | 17:12 | [Watch](https://youtu.be/4iQwxFUbNZo) |
+| 157 | Part - 2 নিম্ন চিত্র ও তথ্যাদি প্রদর্শিত স্টিল ট্রাসটির...হার পরিমান মেট্রিক টনে বের কর | 3:05 | [Watch](https://youtu.be/QyOTPnEMXgU) |
+| 158 | Part - 2 চিত্রে প্রদর্শিত ইমারতটির বাহিরে দিকে স্নোসেম ওয়াশের কাজের পরিমাণ নির্ণয় | 12:35 | [Watch](https://youtu.be/i7Sy12uM4hA?si=xSEMRf8ckTlpV6n0) |
+| 159 | Part - 2 চিত্রের বিমটির জন্য বার সিডিউল তৈরি করে লোহার পরিমাণ নির্ণয় | 26:19 | [Watch](https://youtu.be/7AbbHBqjzr4?si=iVOVcilA0DerhG17) |
+| 160 | Part - 1 চিত্রে প্রদত্ত ইমারতটির নীচতলা মেঝেতে...এবং কত ঘনমিটার ইট লাগবে | 6:27 | [Watch](https://youtu.be/MN_tlg02KI4) |
+| 161 | চুনকামের কাজে মালামালের পরিমান | 13:06 | [Watch](https://youtu.be/yJk_ianEenA) |
+| 162 | বিল পরিশোধ পদ্ধতি | 15:19 | [Watch](https://youtu.be/SMQ4Gn9qEBM) |
+| 163 | Part - 1৬ মিটার দৈর্ঘ্যের 75mm × 75mm × 10m আকারের ১২ টি আ্যঙ্গেল বারের রঙের কাজের পরিমাণ বের কর | 13:24 | [Watch](https://youtu.be/YAruU6TOhAc) |
 | 164 | চিত্রে পদ্রত্ত বিমটির আরসিসি কাজে মালামাল বের কর | 12:31 | [Watch](https://youtu.be/QsgFjlK2Lss?si=m4D1aYlGvHcYs7fh) |
 | 165 | Part - 2 চিত্রে প্রদত্ত ইমারতটির নীচতলা মেঝেতে...এবং কত ঘনমিটার ইট লাগবে | 19:14 | [Watch](https://youtu.be/4eDmx6l7h6Y) |
 | 166 | আর সি সি কাজের মালামাল নির্ণয় | 13:11 | [Watch](https://youtu.be/A55Kb58c2O8) |
