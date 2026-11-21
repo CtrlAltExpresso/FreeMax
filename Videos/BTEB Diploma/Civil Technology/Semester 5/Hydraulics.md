@@ -1,6 +1,6 @@
 # Hydraulics
 
-> 326 videos | Civil Technology
+> 325 videos | Civil Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -304,31 +304,30 @@
 | 298 | ডায়াফ্রাম প্রেসার গেজ ডায়াফ্রাম | 2:05 | [Watch](https://youtu.be/KkB3aVrV17k) |
 | 299 | হাইড্রোলিক প্রেসের কার্যনীতি | 6:01 | [Watch](https://youtu.be/2JU_iapQbic?si=Z29-_6gj-WDC-TY_) |
 | 300 | হাইড্রোলিক জাম্পের ডাউন স্ট্রিমের পাশে পানির উচ্চতা 3 মিটার হলে হাইড্রোলিক জাম্প নির্ণয় | 7:03 | [Watch](https://youtu.be/mXyygNqM8UQ) |
-| 301 | আয়তাকার উইয়ার দিয়ে নির্গমনের জন্য ফ্রান্সিসের সূত্রের  বর্ণনা | 19:34 | [Watch](https://youtu.be/4abhFaNMqbk) |
-| 302 | Part- 2  20 cm ব্যাসের পাইপ সংযোগ করলে নতুন অবস্থায় উক্ত পাইপের মধ্য দিয়ে কী পরিমাণ হেডলস | 11:08 | [Watch](https://youtu.be/wq7-o4sPIIM) |
-| 303 | অভ্যন্তরীণ মাউথপিস দিয়ে নির্গমন নির্ণয় | 15:05 | [Watch](https://youtu.be/9ehVe9t3WNo) |
-| 304 | ডেড ওয়েট প্রেসার গেজ দিয়ে চাপ নির্ণয় | 2:20 | [Watch](https://youtu.be/oKV90AYm-08) |
-| 305 | হাইড্রোলিক প্রেসের যান্ত্রিক সুবিধা | 9:12 | [Watch](https://youtu.be/zGDl8z5B958?si=1sP9iY7Gp5S7CkJ5) |
-| 306 | হাইড্রোলিক জাম্পের উচ্চতা এবং জাম্পের কারণে শক্তির অপচয় নির্ণয় | 12:16 | [Watch](https://youtu.be/d-keBC10Km8) |
-| 307 | আয়তাকার উইয়ার দিয়ে নির্গমনের জন্য ফ্রান্সিসের সূত্রের  বর্ণনা | 19:34 | [Watch](https://youtu.be/4abhFaNMqbk) |
-| 308 | সেকশন- 1 এবং সেকশন -2 এর মধ্যে হেড লস নির্ণয় কর | 17:23 | [Watch](https://youtu.be/3oPZ8Ay_SEY) |
-| 309 | 4m চাপে পানি প্রবাহিত হলে নির্গমণের পরিমাণ নির্ণয় | 10:33 | [Watch](https://youtu.be/OPsaHSBrcWc) |
-| 310 | কোন পাইপ দিয়ে প্রবাহিত পানির নির্ণয় করার জন্য চিত্রানুযায়ী পর্যায়ক্রমে..পানির চাপ নির্ণয় কর | 6:34 | [Watch](https://youtu.be/J6Vz3LdRT8A) |
-| 311 | প্লাজার স্টোক 32cm হলে নির্নয় কর ক) প্লাঞ্জারের ব্যাস খ) প্লাঞ্জারের অশ্বশক্তি | 10:20 | [Watch](https://youtu.be/HRD3rHbb-Vc?si=tbA0iM3jH8IcW62K) |
-| 312 | কারেন্ট মিটার ও ফ্লোটের বর্ণনা | 14:07 | [Watch](https://youtu.be/_CxGMuCndPQ) |
-| 313 | পানির হেড 90 সেমি অতিক্রম না করলে ফ্রান্সিসের সূত্রানুসারে উইয়ারের দৈঘ্য নির্ণয় | 15:23 | [Watch](https://youtu.be/gC4ShWmLcYs) |
-| 314 | নির্গমণের পরিমাণ   ও ভেনাকন্ট্রাকটাতে পরম চাপ নির্ণয় | 6:05 | [Watch](https://youtu.be/jvefyTYH0tU) |
-| 315 | একটি হাইড্রোলিক প্রেসের র‌্যামের ব্যাস 10cm ..প্লাঞ্জার পরিচালনার জন্য কত  অশ্বশক্তির প্রয়োজন | 10:28 | [Watch](https://youtu.be/ZQlkt6vAa10?si=eXZbwsOiNq4THKKX) |
-| 316 | সিঙ্গেল ফ্লোট ও ডাবল ফ্লোট | 9:15 | [Watch](https://youtu.be/NYtGIzem8rY) |
-| 317 | ফ্রান্সিসের সূত্রের সাহায্যে উইয়ারের নির্গমন নির্ণয় | 8:23 | [Watch](https://youtu.be/_wu4H77AeX0) |
-| 318 | মাউথপিস দিয়ে নির্গমনের পরিমাণ L by min নির্ণয় | 7:28 | [Watch](https://youtu.be/y3hTNXAaLAQ) |
-| 319 | একটি পাত্রের 4m পর্যন্ত পারদ  পাত্রে পানির গভীরত কত হবে | 4:29 | [Watch](https://youtu.be/o71StTmnYfs?si=uHVCYWxWGSbt3CkS) |
-| 320 | রড ফ্লোট | 4:32 | [Watch](https://youtu.be/0riuOh6bHOQ) |
-| 321 | যদি উভয় অরিফিসের বেগের সহগ 0 9 হয়, তবে পানির ধারা পরস্পর কত দূর ছেদ করবে | 13:31 | [Watch](https://youtu.be/pogDsKfK06c) |
-| 322 | প্লাঞ্জারে প্রযুক্ত বল 93 75 kg  হলে র‌্যামের সাহায্যে কত লোড উঠানো যাবে | 2:31 | [Watch](https://youtu.be/XWxz9XVC_Jc?si=vu34uGtZkjOGreli) |
-| 323 | ফ্রান্সিসের সূত্রের সাহায্যে গড়বেগ নির্ণয় | 4:30 | [Watch](https://youtu.be/B9r5QSArOZU) |
-| 324 | হাতলের প্রান্তে কত বল প্রয়োগ করলে র‌্যাম দিয়ে 2000kg বোঝা উত্তোলন করা সম্ভব হবে | 3:29 | [Watch](https://youtu.be/BXffmwQlItc?si=mPvhETrx68q7COmT) |
-| 325 | প্রবাহের গতি পরিমাপের প্রয়োজনীয়তা | 17:15 | [Watch](https://youtu.be/iEhrWNVQiSo) |
-| 326 | সরবরাহকৃত পানির অনুপাত 1ঃ5 হলে তবে র‌্যামের দক্ষতা নির্ণয় কর | 6:29 | [Watch](https://youtu.be/sZI-R_KxlDI?si=ixC_-7QR3mqmEE07) |
+| 301 | Part- 2  20 cm ব্যাসের পাইপ সংযোগ করলে নতুন অবস্থায় উক্ত পাইপের মধ্য দিয়ে কী পরিমাণ হেডলস | 11:08 | [Watch](https://youtu.be/wq7-o4sPIIM) |
+| 302 | অভ্যন্তরীণ মাউথপিস দিয়ে নির্গমন নির্ণয় | 15:05 | [Watch](https://youtu.be/9ehVe9t3WNo) |
+| 303 | ডেড ওয়েট প্রেসার গেজ দিয়ে চাপ নির্ণয় | 2:20 | [Watch](https://youtu.be/oKV90AYm-08) |
+| 304 | হাইড্রোলিক প্রেসের যান্ত্রিক সুবিধা | 9:12 | [Watch](https://youtu.be/zGDl8z5B958?si=1sP9iY7Gp5S7CkJ5) |
+| 305 | হাইড্রোলিক জাম্পের উচ্চতা এবং জাম্পের কারণে শক্তির অপচয় নির্ণয় | 12:16 | [Watch](https://youtu.be/d-keBC10Km8) |
+| 306 | আয়তাকার উইয়ার দিয়ে নির্গমনের জন্য ফ্রান্সিসের সূত্রের  বর্ণনা | 19:34 | [Watch](https://youtu.be/4abhFaNMqbk) |
+| 307 | সেকশন- 1 এবং সেকশন -2 এর মধ্যে হেড লস নির্ণয় কর | 17:23 | [Watch](https://youtu.be/3oPZ8Ay_SEY) |
+| 308 | 4m চাপে পানি প্রবাহিত হলে নির্গমণের পরিমাণ নির্ণয় | 10:33 | [Watch](https://youtu.be/OPsaHSBrcWc) |
+| 309 | কোন পাইপ দিয়ে প্রবাহিত পানির নির্ণয় করার জন্য চিত্রানুযায়ী পর্যায়ক্রমে..পানির চাপ নির্ণয় কর | 6:34 | [Watch](https://youtu.be/J6Vz3LdRT8A) |
+| 310 | প্লাজার স্টোক 32cm হলে নির্নয় কর ক) প্লাঞ্জারের ব্যাস খ) প্লাঞ্জারের অশ্বশক্তি | 10:20 | [Watch](https://youtu.be/HRD3rHbb-Vc?si=tbA0iM3jH8IcW62K) |
+| 311 | কারেন্ট মিটার ও ফ্লোটের বর্ণনা | 14:07 | [Watch](https://youtu.be/_CxGMuCndPQ) |
+| 312 | পানির হেড 90 সেমি অতিক্রম না করলে ফ্রান্সিসের সূত্রানুসারে উইয়ারের দৈঘ্য নির্ণয় | 15:23 | [Watch](https://youtu.be/gC4ShWmLcYs) |
+| 313 | নির্গমণের পরিমাণ   ও ভেনাকন্ট্রাকটাতে পরম চাপ নির্ণয় | 6:05 | [Watch](https://youtu.be/jvefyTYH0tU) |
+| 314 | একটি হাইড্রোলিক প্রেসের র‌্যামের ব্যাস 10cm ..প্লাঞ্জার পরিচালনার জন্য কত  অশ্বশক্তির প্রয়োজন | 10:28 | [Watch](https://youtu.be/ZQlkt6vAa10?si=eXZbwsOiNq4THKKX) |
+| 315 | সিঙ্গেল ফ্লোট ও ডাবল ফ্লোট | 9:15 | [Watch](https://youtu.be/NYtGIzem8rY) |
+| 316 | ফ্রান্সিসের সূত্রের সাহায্যে উইয়ারের নির্গমন নির্ণয় | 8:23 | [Watch](https://youtu.be/_wu4H77AeX0) |
+| 317 | মাউথপিস দিয়ে নির্গমনের পরিমাণ L by min নির্ণয় | 7:28 | [Watch](https://youtu.be/y3hTNXAaLAQ) |
+| 318 | একটি পাত্রের 4m পর্যন্ত পারদ  পাত্রে পানির গভীরত কত হবে | 4:29 | [Watch](https://youtu.be/o71StTmnYfs?si=uHVCYWxWGSbt3CkS) |
+| 319 | রড ফ্লোট | 4:32 | [Watch](https://youtu.be/0riuOh6bHOQ) |
+| 320 | যদি উভয় অরিফিসের বেগের সহগ 0 9 হয়, তবে পানির ধারা পরস্পর কত দূর ছেদ করবে | 13:31 | [Watch](https://youtu.be/pogDsKfK06c) |
+| 321 | প্লাঞ্জারে প্রযুক্ত বল 93 75 kg  হলে র‌্যামের সাহায্যে কত লোড উঠানো যাবে | 2:31 | [Watch](https://youtu.be/XWxz9XVC_Jc?si=vu34uGtZkjOGreli) |
+| 322 | ফ্রান্সিসের সূত্রের সাহায্যে গড়বেগ নির্ণয় | 4:30 | [Watch](https://youtu.be/B9r5QSArOZU) |
+| 323 | হাতলের প্রান্তে কত বল প্রয়োগ করলে র‌্যাম দিয়ে 2000kg বোঝা উত্তোলন করা সম্ভব হবে | 3:29 | [Watch](https://youtu.be/BXffmwQlItc?si=mPvhETrx68q7COmT) |
+| 324 | প্রবাহের গতি পরিমাপের প্রয়োজনীয়তা | 17:15 | [Watch](https://youtu.be/iEhrWNVQiSo) |
+| 325 | সরবরাহকৃত পানির অনুপাত 1ঃ5 হলে তবে র‌্যামের দক্ষতা নির্ণয় কর | 6:29 | [Watch](https://youtu.be/sZI-R_KxlDI?si=ixC_-7QR3mqmEE07) |
 
-*326 videos total*
+*325 videos total*

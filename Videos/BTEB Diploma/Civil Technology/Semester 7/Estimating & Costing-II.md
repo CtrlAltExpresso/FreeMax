@@ -1,5 +1,6 @@
 # Estimating & Costing-II
-> 207 videos | Civil Technology
+
+> 204 videos | Civil Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -179,36 +180,33 @@
 | 174 | সিঁড়ির আরসিসি কাজের পরিমাণ | 21:16 | [Watch](https://youtu.be/wxQoF_Myzfs?si=_5KwWbJWVuGOYUtw) |
 | 175 | Part - 3 বিভিন্ন প্রকার রুফ চ্যানেলের হিসাব | 18:22 | [Watch](https://youtu.be/2KnJxfgHQtE) |
 | 176 | Part - 3 চিত্রের দালানটির গাঁথুনির কাজের পরিমাণ বের কর | 18:05 | [Watch](https://youtu.be/v6YeO4EWU7o?si=6Cf5cxVtDsF-_Qvy) |
-| 177 | Part - 3 চিত্রের দালানটির গাঁথুনির কাজের পরিমাণ বের কর | 18:05 | [Watch](https://youtu.be/v6YeO4EWU7o?si=6Cf5cxVtDsF-_Qvy) |
-| 178 | Part - 1 ড্রপ ওয়ালের আর.সি.সি কাজের পরিমাণ | 9:11 | [Watch](https://youtu.be/YjIhfBT1lfY?si=fMkE8F99schjh6Ql) |
-| 179 | Part - 1 নিম্নের চিত্র ও তথ্যাদির সাহায্যে ইমারতটির কলামের...কাজের পরিমাণ বের কর | 13:19 | [Watch](https://youtu.be/mc6alrafa4U) |
-| 180 | Part  -1 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 29:34 | [Watch](https://youtu.be/d7iik8gMvxo?si=zBmBI73O7lnqK5zb) |
-| 181 | Part - 2 ড্রপ ওয়ালের আর.সি.সি কাজের পরিমাণ | 17:28 | [Watch](https://youtu.be/y0O15YdXCNY?si=OKr2VuuvPvi0yuFP) |
-| 182 | Part - 2 নিম্নের চিত্র ও তথ্যাদির সাহায্যে ইমারতটির কলামের...কাজের পরিমাণ বের কর | 11:24 | [Watch](https://youtu.be/FujoWu7eYCA) |
-| 183 | Part - 2 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 2:26 | [Watch](https://youtu.be/G6yeZLdrDNo?si=7jhcHi35ev_DSd0E) |
-| 184 | তিন তলা দালানের প্রতিটি সম্মুখ বারান্দার ড্রপ নির্মাণসামগ্রীর পরিমাণ নির্ণয় | 7:32 | [Watch](https://youtu.be/3KEKjrDbrzg?si=HsceiVvH6v6vncdA) |
-| 185 | চিত্রে প্রদর্শিত দালানটির প্লিন্থে বালি ভরাটের পরিমাণ বের কর | 19:22 | [Watch](https://youtu.be/szWzOhh2wLM) |
-| 186 | Part - 1 আরসিসি স্ল্যাবের বার সিডিউল | 10:34 | [Watch](https://youtu.be/o0A4IBXFf7k?si=H8kLS-vPjXgzuX3P) |
-| 187 | Part - 3 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 15:26 | [Watch](https://youtu.be/v--YyXfqUZE?si=QWv42TIjYycwqzqU) |
-| 188 | Part - 1 চিত্রের দালানটির প্লিন্থে ইটের গাথুঁনীর ১ঃ৬ কাজের পরিমাণ বের কর.দা | 16:14 | [Watch](https://youtu.be/jS9RaMMsR6s?si=z0Xm32aiWfKY2FTv) |
-| 189 | Part - 1 চিত্রের দালানটির প্লিন্থে ইটের গাথুঁনীর ১ঃ৬ কাজের পরিমাণ বের কর.দা | 16:14 | [Watch](https://youtu.be/jS9RaMMsR6s?si=z0Xm32aiWfKY2FTv) |
-| 190 | Part - 2 আরসিসি স্ল্যাবের বার সিডিউল | 24:28 | [Watch](https://youtu.be/tjFGNzKsqU0?si=JZ71NkFushLWxdx2) |
-| 191 | Part - 4 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 4:35 | [Watch](https://youtu.be/z2S19k9h5I4?si=x7Sb4pbjxE6vgoxd) |
-| 192 | Part - 2 চিত্রের দালানটির প্লিন্থে ইটের গাথুঁনীর ১ঃ৬ কাজের পরিমাণ বের কর | 4:42 | [Watch](https://youtu.be/44KkNsUpmuw?si=68N_-_5qURhgaK-k) |
-| 193 | Part - 1 ছাদের আরসিসি কাজের পরিমাণ | 20:05 | [Watch](https://youtu.be/-ExbOUsfCYw?si=EaB4MNdi_dvx79TX) |
-| 194 | Part - 5 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 11:32 | [Watch](https://youtu.be/4nkYLhJZqB0?si=iB4uwUX7igw-aJ-i) |
-| 195 | Part - 1 ফুটিংসহ কলামের আরসিসি কাজের পরিমাণ | 3:16 | [Watch](https://youtu.be/pI3T9u0YIMA?si=jGRCd0KY3Pz69rSY) |
-| 196 | Part - 2 ছাদের আরসিসি কাজের পরিমাণ | 9:25 | [Watch](https://youtu.be/FgZsBA5v2gA?si=ZF8JbOiIsybb4_DU) |
-| 197 | Part - 2 ফুটিংসহ কলামের আরসিসি কাজের পরিমাণ | 6:11 | [Watch](https://youtu.be/LDuOIauaskY?si=-3ZXdRqvO-wJ2V2n) |
-| 198 | চিত্রে সিলিং এ ১ঃ৪ অনুপাতে প্লাকাজের পরিমাণ বের কর | 17:23 | [Watch](https://youtu.be/x3kh2WkhucE?si=JMGMWKB59DOZ7J-L) |
-| 199 | চিত্রে প্রদত্ত দালানটির বেড, ডাইনিং...প্লাস্টারের কাজের পরিমাণ নির্ণয় | 20:07 | [Watch](https://youtu.be/mOsrV41rqn0?si=AgAenaQNpC-S23wC) |
-| 200 | Part - 1 একটি একতলা গুদাম ঘরের আকার...কাজে নির্মাণসামগ্রীর পরিমাণ বের কর | 9:29 | [Watch](https://youtu.be/BrI4VW8ZrHU?si=oz4CDEb3Ie2jeQy6) |
-| 201 | Part - 2 একটি একতলা গুদাম ঘরের আকার...কাজে নির্মাণসামগ্রীর পরিমাণ বের কর | 1:16 | [Watch](https://youtu.be/gEICZ8OLHv4?si=HMaKL66hWzURowCd) |
-| 202 | Part - 2 একটি একতলা গুদাম ঘরের আকার...কাজে নির্মাণসামগ্রীর পরিমাণ বের কর | 1:16 | [Watch](https://youtu.be/gEICZ8OLHv4?si=HMaKL66hWzURowCd) |
-| 203 | কালভার্ট ও কালভার্টের বিভিন্ন অংশ | 8:01 | [Watch](https://youtu.be/Cd9ktJBRb_s) |
-| 204 | Part - 1 প্রদত্ত কালভার্টটির অ্যাবাটমেন্ট ও উইং ওয়ালে ইটের গাথুনির কাজের পরিমাণ নির্ণয় | 23:04 | [Watch](https://youtu.be/ohZbSc-Q-1s) |
-| 205 | Part - 2 প্রদত্ত কালভার্টটির অ্যাবাটমেন্ট ও উইং ওয়ালে ইটের গাথুনির কাজের পরিমাণ নির্ণয় | 4:19 | [Watch](https://youtu.be/PgIe94ApgUk) |
-| 206 | Part - 1 চিত্রে প্রদত্ত দালানটির মেঝেতে 1ঃ3ঃ6 অনুপাতে   প্রয়োজনীয় নির্মাণসামগ্রীর পরিমাণ নির্ণয় | 26:07 | [Watch](https://youtu.be/RiAXvO8nYu8) |
-| 207 | Part - 2 চিত্রে প্রদত্ত দালানটির মেঝেতে 1ঃ3ঃ6 অনুপাতে...প্রয়োজনীয় নির্মাণসামগ্রীর পরিমাণ নির্ণয় | 2:28 | [Watch](https://youtu.be/-VNxI1gspBw) |
+| 177 | Part - 1 ড্রপ ওয়ালের আর.সি.সি কাজের পরিমাণ | 9:11 | [Watch](https://youtu.be/YjIhfBT1lfY?si=fMkE8F99schjh6Ql) |
+| 178 | Part - 1 নিম্নের চিত্র ও তথ্যাদির সাহায্যে ইমারতটির কলামের...কাজের পরিমাণ বের কর | 13:19 | [Watch](https://youtu.be/mc6alrafa4U) |
+| 179 | Part  -1 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 29:34 | [Watch](https://youtu.be/d7iik8gMvxo?si=zBmBI73O7lnqK5zb) |
+| 180 | Part - 2 ড্রপ ওয়ালের আর.সি.সি কাজের পরিমাণ | 17:28 | [Watch](https://youtu.be/y0O15YdXCNY?si=OKr2VuuvPvi0yuFP) |
+| 181 | Part - 2 নিম্নের চিত্র ও তথ্যাদির সাহায্যে ইমারতটির কলামের...কাজের পরিমাণ বের কর | 11:24 | [Watch](https://youtu.be/FujoWu7eYCA) |
+| 182 | Part - 2 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 2:26 | [Watch](https://youtu.be/G6yeZLdrDNo?si=7jhcHi35ev_DSd0E) |
+| 183 | তিন তলা দালানের প্রতিটি সম্মুখ বারান্দার ড্রপ নির্মাণসামগ্রীর পরিমাণ নির্ণয় | 7:32 | [Watch](https://youtu.be/3KEKjrDbrzg?si=HsceiVvH6v6vncdA) |
+| 184 | চিত্রে প্রদর্শিত দালানটির প্লিন্থে বালি ভরাটের পরিমাণ বের কর | 19:22 | [Watch](https://youtu.be/szWzOhh2wLM) |
+| 185 | Part - 1 আরসিসি স্ল্যাবের বার সিডিউল | 10:34 | [Watch](https://youtu.be/o0A4IBXFf7k?si=H8kLS-vPjXgzuX3P) |
+| 186 | Part - 3 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 15:26 | [Watch](https://youtu.be/v--YyXfqUZE?si=QWv42TIjYycwqzqU) |
+| 187 | Part - 1 চিত্রের দালানটির প্লিন্থে ইটের গাথুঁনীর ১ঃ৬ কাজের পরিমাণ বের কর.দা | 16:14 | [Watch](https://youtu.be/jS9RaMMsR6s?si=z0Xm32aiWfKY2FTv) |
+| 188 | Part - 2 আরসিসি স্ল্যাবের বার সিডিউল | 24:28 | [Watch](https://youtu.be/tjFGNzKsqU0?si=JZ71NkFushLWxdx2) |
+| 189 | Part - 4 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 4:35 | [Watch](https://youtu.be/z2S19k9h5I4?si=x7Sb4pbjxE6vgoxd) |
+| 190 | Part - 2 চিত্রের দালানটির প্লিন্থে ইটের গাথুঁনীর ১ঃ৬ কাজের পরিমাণ বের কর | 4:42 | [Watch](https://youtu.be/44KkNsUpmuw?si=68N_-_5qURhgaK-k) |
+| 191 | Part - 1 ছাদের আরসিসি কাজের পরিমাণ | 20:05 | [Watch](https://youtu.be/-ExbOUsfCYw?si=EaB4MNdi_dvx79TX) |
+| 192 | Part - 5 নিচের চিত্র ও তথ্যাদির সাহায্যে...সিমেন্ট আস্তরের কাজের পরিমাণ বের কর | 11:32 | [Watch](https://youtu.be/4nkYLhJZqB0?si=iB4uwUX7igw-aJ-i) |
+| 193 | Part - 1 ফুটিংসহ কলামের আরসিসি কাজের পরিমাণ | 3:16 | [Watch](https://youtu.be/pI3T9u0YIMA?si=jGRCd0KY3Pz69rSY) |
+| 194 | Part - 2 ছাদের আরসিসি কাজের পরিমাণ | 9:25 | [Watch](https://youtu.be/FgZsBA5v2gA?si=ZF8JbOiIsybb4_DU) |
+| 195 | Part - 2 ফুটিংসহ কলামের আরসিসি কাজের পরিমাণ | 6:11 | [Watch](https://youtu.be/LDuOIauaskY?si=-3ZXdRqvO-wJ2V2n) |
+| 196 | চিত্রে সিলিং এ ১ঃ৪ অনুপাতে প্লাকাজের পরিমাণ বের কর | 17:23 | [Watch](https://youtu.be/x3kh2WkhucE?si=JMGMWKB59DOZ7J-L) |
+| 197 | চিত্রে প্রদত্ত দালানটির বেড, ডাইনিং...প্লাস্টারের কাজের পরিমাণ নির্ণয় | 20:07 | [Watch](https://youtu.be/mOsrV41rqn0?si=AgAenaQNpC-S23wC) |
+| 198 | Part - 1 একটি একতলা গুদাম ঘরের আকার...কাজে নির্মাণসামগ্রীর পরিমাণ বের কর | 9:29 | [Watch](https://youtu.be/BrI4VW8ZrHU?si=oz4CDEb3Ie2jeQy6) |
+| 199 | Part - 2 একটি একতলা গুদাম ঘরের আকার...কাজে নির্মাণসামগ্রীর পরিমাণ বের কর | 1:16 | [Watch](https://youtu.be/gEICZ8OLHv4?si=HMaKL66hWzURowCd) |
+| 200 | কালভার্ট ও কালভার্টের বিভিন্ন অংশ | 8:01 | [Watch](https://youtu.be/Cd9ktJBRb_s) |
+| 201 | Part - 1 প্রদত্ত কালভার্টটির অ্যাবাটমেন্ট ও উইং ওয়ালে ইটের গাথুনির কাজের পরিমাণ নির্ণয় | 23:04 | [Watch](https://youtu.be/ohZbSc-Q-1s) |
+| 202 | Part - 2 প্রদত্ত কালভার্টটির অ্যাবাটমেন্ট ও উইং ওয়ালে ইটের গাথুনির কাজের পরিমাণ নির্ণয় | 4:19 | [Watch](https://youtu.be/PgIe94ApgUk) |
+| 203 | Part - 1 চিত্রে প্রদত্ত দালানটির মেঝেতে 1ঃ3ঃ6 অনুপাতে   প্রয়োজনীয় নির্মাণসামগ্রীর পরিমাণ নির্ণয় | 26:07 | [Watch](https://youtu.be/RiAXvO8nYu8) |
+| 204 | Part - 2 চিত্রে প্রদত্ত দালানটির মেঝেতে 1ঃ3ঃ6 অনুপাতে...প্রয়োজনীয় নির্মাণসামগ্রীর পরিমাণ নির্ণয় | 2:28 | [Watch](https://youtu.be/-VNxI1gspBw) |
 
-*207 videos total*
+*204 videos total*

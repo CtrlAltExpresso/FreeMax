@@ -1,6 +1,6 @@
 # Bangla-I
 
-> 132 videos | Mechanical Technology
+> 131 videos | Mechanical Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -104,37 +104,36 @@
 | 98 | ”খেয়া পারের তরণী” কবিতার বিষয় বস্তু বর্ণনা | 6:28 | [Watch](https://youtu.be/OFnFz178Vt8) |
 | 99 | ”এই কার্তিকে নবান্নের দেশে”  এর অন্তর্নিহিত ভাব প্রকাশ | 8:19 | [Watch](https://youtu.be/G4lRSJRhlEM?si=x-4fXEl1wqVk0TAv) |
 | 100 | অপারিচিতা | 33:08 | [Watch](https://youtu.be/NFFb3FxRScc) |
-| 101 | রচনামূলক | 6:23 | [Watch](https://youtu.be/t71EiZr2L5w) |
-| 102 | রচনামূলক ২ | 6:32 | [Watch](https://youtu.be/u6jsS0Uq9-U) |
-| 103 | সংক্ষিপ্ত 2 | 8:02 | [Watch](https://youtu.be/gT0CIwxJkmo) |
-| 104 | রচনামূলক | 12:05 | [Watch](https://youtu.be/_Ub5_r4YoO4) |
-| 105 | সংক্ষিপ্ত 2 | 8:16 | [Watch](https://youtu.be/jMYTJYTs-Ok) |
-| 106 | রচনামূলক | 8:14 | [Watch](https://youtu.be/5sGFuDGKRwQ) |
-| 107 | সংক্ষিপ্ত | 7:22 | [Watch](https://youtu.be/N8R4lWRwHcM) |
-| 108 | সোনার তরী কবিতায় কৃষকের কতটুকু পূরণ হয়েছিল | 3:26 | [Watch](https://youtu.be/GY-3lcUP250) |
-| 109 | রচনামূলক | 5:22 | [Watch](https://youtu.be/gI4kw-eV35E) |
-| 110 | সূর্য দীঘল বড়ি উপন্যাসের মূল বিষয়বস্তু আলোচনা কর | 10:24 | [Watch](https://youtu.be/5RwhUUmwgJM) |
-| 111 | জীবন ও বৃক্ষ প্রবন্ধের নামকরণের সার্থকতা বিচার | 4:34 | [Watch](https://youtu.be/B-i15aC7KUI) |
-| 112 | প্রত্যাবর্তনের লজ্জা কবি কে কীভাবে প্রভাবিক করেছিলো | 8:18 | [Watch](https://youtu.be/KOCOL5h_FNE) |
-| 113 | ”খেয়া পারের তরণী” কবিতায় নামকরণের সার্থকতা বর্ণনা | 6:17 | [Watch](https://youtu.be/g3F1UtwG4dA) |
-| 114 | ”আবার আসিব ফিরে” কবিতাটির সারাংশ | 6:15 | [Watch](https://youtu.be/0wlFi2QDC08) |
-| 115 | রচনামূলক-২ | 8:17 | [Watch](https://youtu.be/t71EiZr2L5w) |
-| 116 | রচনামূলক | 6:19 | [Watch](https://youtu.be/285Q8uLC3_A) |
-| 117 | রচনামূলক ২ | 9:15 | [Watch](https://youtu.be/Dm4P7pcJ3k4) |
-| 118 | রচনামূলক | 8:28 | [Watch](https://youtu.be/cXijprHt4p0) |
-| 119 | রচনামূলকন ২ | 8:10 | [Watch](https://youtu.be/vg_NF0AbgFY) |
-| 120 | রচনামূলক | 5:17 | [Watch](https://youtu.be/vjK_GRnFQaU) |
-| 121 | রচনামূলক | 4:25 | [Watch](https://youtu.be/tXsWOXV7DW8) |
-| 122 | সূর্য দীঘল বড়ি উপন্যাসের নামকরণের সার্থকতা আলোচনা কর | 6:02 | [Watch](https://youtu.be/omNz2yE3_Jk) |
-| 123 | কবি নাগরিক জীবনের সাথে নিজেকে খাপ খাওয়াতে পারেন না কেন | 7:01 | [Watch](https://youtu.be/rF47u5slL_Q) |
-| 124 | ”খেয়া পারের তরণী” কবিতায় পুণ্যবানদের তরণী কীভাবে কীভাবে সকল বাধা পেরিয়ে গন্তব্যে পৌছায় | 4:14 | [Watch](https://youtu.be/ea8GLZO9g2k) |
-| 125 | ”আবার আসিব ফিরে” কবিতাটির নামকরণের সার্থকতা | 9:31 | [Watch](https://youtu.be/XexQs24eqxs) |
-| 126 | মানুষ নাটক অডিও | 24:13 | [Watch](https://youtu.be/vM0dwqaqBMI) |
-| 127 | জাদুঘরে কেন যাব অডিও | 17:34 | [Watch](https://youtu.be/WkDuTDXUkBQ) |
-| 128 | জাগো গো ভগিনী অডিও | 9:08 | [Watch](https://youtu.be/aKemK1mQ_U8) |
-| 129 | একুশের গল্প অডিও | 11:34 | [Watch](https://youtu.be/byrl-W4ZQDI) |
-| 130 | রচনামূলক ২ | 9:26 | [Watch](https://youtu.be/qHOWzcJuVyA) |
-| 131 | ”আবার আসিব ফিরে” কবিতার মূলভাব বর্ণনা | 11:08 | [Watch](https://youtu.be/Efh4_2XhtnQ) |
-| 132 | বিলাসী	অডিও | 31:18 | [Watch](https://youtu.be/NnniCLTYMx8) |
+| 101 | রচনামূলক ২ | 6:32 | [Watch](https://youtu.be/u6jsS0Uq9-U) |
+| 102 | সংক্ষিপ্ত 2 | 8:02 | [Watch](https://youtu.be/gT0CIwxJkmo) |
+| 103 | রচনামূলক | 12:05 | [Watch](https://youtu.be/_Ub5_r4YoO4) |
+| 104 | সংক্ষিপ্ত 2 | 8:16 | [Watch](https://youtu.be/jMYTJYTs-Ok) |
+| 105 | রচনামূলক | 8:14 | [Watch](https://youtu.be/5sGFuDGKRwQ) |
+| 106 | সংক্ষিপ্ত | 7:22 | [Watch](https://youtu.be/N8R4lWRwHcM) |
+| 107 | সোনার তরী কবিতায় কৃষকের কতটুকু পূরণ হয়েছিল | 3:26 | [Watch](https://youtu.be/GY-3lcUP250) |
+| 108 | রচনামূলক | 5:22 | [Watch](https://youtu.be/gI4kw-eV35E) |
+| 109 | সূর্য দীঘল বড়ি উপন্যাসের মূল বিষয়বস্তু আলোচনা কর | 10:24 | [Watch](https://youtu.be/5RwhUUmwgJM) |
+| 110 | জীবন ও বৃক্ষ প্রবন্ধের নামকরণের সার্থকতা বিচার | 4:34 | [Watch](https://youtu.be/B-i15aC7KUI) |
+| 111 | প্রত্যাবর্তনের লজ্জা কবি কে কীভাবে প্রভাবিক করেছিলো | 8:18 | [Watch](https://youtu.be/KOCOL5h_FNE) |
+| 112 | ”খেয়া পারের তরণী” কবিতায় নামকরণের সার্থকতা বর্ণনা | 6:17 | [Watch](https://youtu.be/g3F1UtwG4dA) |
+| 113 | ”আবার আসিব ফিরে” কবিতাটির সারাংশ | 6:15 | [Watch](https://youtu.be/0wlFi2QDC08) |
+| 114 | রচনামূলক-২ | 8:17 | [Watch](https://youtu.be/t71EiZr2L5w) |
+| 115 | রচনামূলক | 6:19 | [Watch](https://youtu.be/285Q8uLC3_A) |
+| 116 | রচনামূলক ২ | 9:15 | [Watch](https://youtu.be/Dm4P7pcJ3k4) |
+| 117 | রচনামূলক | 8:28 | [Watch](https://youtu.be/cXijprHt4p0) |
+| 118 | রচনামূলকন ২ | 8:10 | [Watch](https://youtu.be/vg_NF0AbgFY) |
+| 119 | রচনামূলক | 5:17 | [Watch](https://youtu.be/vjK_GRnFQaU) |
+| 120 | রচনামূলক | 4:25 | [Watch](https://youtu.be/tXsWOXV7DW8) |
+| 121 | সূর্য দীঘল বড়ি উপন্যাসের নামকরণের সার্থকতা আলোচনা কর | 6:02 | [Watch](https://youtu.be/omNz2yE3_Jk) |
+| 122 | কবি নাগরিক জীবনের সাথে নিজেকে খাপ খাওয়াতে পারেন না কেন | 7:01 | [Watch](https://youtu.be/rF47u5slL_Q) |
+| 123 | ”খেয়া পারের তরণী” কবিতায় পুণ্যবানদের তরণী কীভাবে কীভাবে সকল বাধা পেরিয়ে গন্তব্যে পৌছায় | 4:14 | [Watch](https://youtu.be/ea8GLZO9g2k) |
+| 124 | ”আবার আসিব ফিরে” কবিতাটির নামকরণের সার্থকতা | 9:31 | [Watch](https://youtu.be/XexQs24eqxs) |
+| 125 | মানুষ নাটক অডিও | 24:13 | [Watch](https://youtu.be/vM0dwqaqBMI) |
+| 126 | জাদুঘরে কেন যাব অডিও | 17:34 | [Watch](https://youtu.be/WkDuTDXUkBQ) |
+| 127 | জাগো গো ভগিনী অডিও | 9:08 | [Watch](https://youtu.be/aKemK1mQ_U8) |
+| 128 | একুশের গল্প অডিও | 11:34 | [Watch](https://youtu.be/byrl-W4ZQDI) |
+| 129 | রচনামূলক ২ | 9:26 | [Watch](https://youtu.be/qHOWzcJuVyA) |
+| 130 | ”আবার আসিব ফিরে” কবিতার মূলভাব বর্ণনা | 11:08 | [Watch](https://youtu.be/Efh4_2XhtnQ) |
+| 131 | বিলাসী	অডিও | 31:18 | [Watch](https://youtu.be/NnniCLTYMx8) |
 
-*132 videos total*
+*131 videos total*

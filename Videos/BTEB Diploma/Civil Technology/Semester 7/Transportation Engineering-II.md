@@ -1,5 +1,6 @@
 # Transportation Engineering-II
-> 186 videos | Civil Technology
+
+> 185 videos | Civil Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -139,55 +140,54 @@
 | 134 | স্লিপারের ঘনত্ব | 31:05 | [Watch](https://youtu.be/Q2RxNr2J2Fg?si=TKik8a01GnL6aF_U) |
 | 135 | ওয়েল্ডড্ রেলের সুবিধাসমূহ | 21:28 | [Watch](https://youtu.be/lxdr33U-56w?si=QSg--2xobNs9huZh) |
 | 136 | রেলপথের জন্য প্রাথমিক জরিপ প্রক্রিয়া | 7:35 | [Watch](https://youtu.be/vugIoyb-9OY) |
-| 137 | রেলপথের জন্য প্রাথমিক জরিপ প্রক্রিয়া | 7:35 | [Watch](https://youtu.be/vugIoyb-9OY) |
-| 138 | আদর্শ রেলের কার্যাদি | 13:11 | [Watch](https://youtu.be/mZ2eJjynArE) |
-| 139 | সামুদ্রিক বন্দরের জন্য স্থান নির্বাচনের বিবেচ্য বিষয়সমূহ | 9:16 | [Watch](https://youtu.be/siNbiPvT_Ms) |
-| 140 | রেলওয়ে স্টেশনে প্রয়োজনীয় কাঠামো | 8:26 | [Watch](https://youtu.be/Wb0wY7NMqe0) |
-| 141 | বাঁকের উপর ট্রেনের গতি | 2:05 | [Watch](https://youtu.be/mZGAx064LY4) |
-| 142 | একটি ব্রেড গেট রেল সড়কের দৈর্ঘ্য 1.5km  । স্লিপারের ঘনত্ব n +5 হলে স্লিপারের সংখ্যা নির্ণয় কর। | 5:31 | [Watch](https://youtu.be/fkgqb_aCV4Q) |
-| 143 | ফিশ প্লেট | 10:20 | [Watch](https://youtu.be/qPQtDlvJRZQ) |
-| 144 | রেলের ক্ষয় ও কারন | 12:08 | [Watch](https://youtu.be/dd-7cuJ4pS0) |
-| 145 | হ্যান্ড সিগন্যাল | 7:04 | [Watch](https://youtu.be/RU0Ghv9Y958) |
-| 146 | লেভেল ক্রসিং এর সু্বিধা অসুবিধা | 21:18 | [Watch](https://youtu.be/l-WuDsfvD_o) |
-| 147 | রেলওয়ে ইয়ার্ড প্রদানের উদ্দেশ্য | 6:20 | [Watch](https://youtu.be/cye1rhxr8Pw?si=84OWcrjMnbcPVLod) |
-| 148 | Part - 2 ব্যালাস্ট এর গভীরতা | 9:23 | [Watch](https://youtu.be/r4KMVuvSpT0?si=LXK3T_qAJKkEHTMk) |
-| 149 | বিয়ারিং প্লেট (Bearing Plate) | 18:32 | [Watch](https://youtu.be/XXCwzknXK9s?si=X8l2cji8zlcCxvsH) |
-| 150 | রেলের ওজন ও সেকশন | 29:29 | [Watch](https://youtu.be/ujXclzmk-x8) |
-| 151 | সুপার এলিভেশন নির্ণয় | 3:23 | [Watch](https://youtu.be/J6ZT4rL517k) |
-| 152 | কাঠের স্লিপার ব্যবহারের কারণ | 5:04 | [Watch](https://youtu.be/ChMNUvvmCsM) |
-| 153 | চেয়ার ও খিল | 6:01 | [Watch](https://youtu.be/T4uJzBqVS-0) |
-| 154 | রেল ক্ষয়ে প্রতিক্রিয়া | 8:03 | [Watch](https://youtu.be/v15cadFjbFI) |
-| 155 | ট্রেন চলাচল নিয়ন্ত্রন | 13:01 | [Watch](https://youtu.be/hbE_a05t1kc) |
-| 156 | পয়েন্ট ও ক্রসিং রক্ষণাবেক্ষণে বিবেচ্য বিষয় | 5:04 | [Watch](https://youtu.be/zECQIz_vhJA) |
-| 157 | Part - 1 রেলওয়েতে ব্যবহৃত বিভিন্ন ধরনের প্লাটফরম | 17:32 | [Watch](https://youtu.be/1cF4weUBXBM?si=mb9HUXF3KSQC19pK) |
-| 158 | ভালো মানের ব্যালাস্টের আকার চিহ্নিতকরণ | 12:05 | [Watch](https://youtu.be/llx_4c5R8bQ?si=PR1XcBni7tWjcQ_-) |
-| 159 | ফিস প্লেট (Fish Plate) | 11:05 | [Watch](https://youtu.be/RXdiUFSTn-I?si=uEoXChp8w55atH-X) |
-| 160 | হালকা রেলের তুলনায় ভারী রেলের ব্যবহারিক অগ্রাধিকার | 6:16 | [Watch](https://youtu.be/28i1m8aNAkY) |
-| 161 | বাঁকের উপর গাড়ির  সর্বোচ্চ গতি বেগ নির্ণয় | 14:08 | [Watch](https://youtu.be/L69lnjfQS5w) |
-| 162 | রেল ক্ষয় বা ঝাড়তি প্রতিরোধ | 7:20 | [Watch](https://youtu.be/xWyt4H-p1Fw) |
-| 163 | অটোম্যাটিক সিগন্যালিং | 5:22 | [Watch](https://youtu.be/sJp5GDhvx_4) |
-| 164 | Part - 2 রেলওয়েতে ব্যবহৃত বিভিন্ন ধরনের প্লাটফরম | 6:22 | [Watch](https://youtu.be/UIFKs42-wuc?si=50u5RU4QTpK2bpKa) |
-| 165 | স্থায়ী সড়ক নির্মাণে প্রয়োজনীয় ব্যালাস্টের পরিমাণ বর্ণনা | 18:04 | [Watch](https://youtu.be/lOGDKhUKmpw?si=eqhZALeOpFAatotH) |
-| 166 | রেল ক্ষয়ের প্রভাব বা প্রতিক্রিয়া | 21:02 | [Watch](https://youtu.be/gfA4_fGUVfA?si=T319ofskbjpq0su1) |
-| 167 | ভারসাম্য ক্যান্টের পরিমান  এবং অনুমোদিত গতিবেগ নির্ণয় | 13:01 | [Watch](https://youtu.be/YQB_3ydkDBc) |
-| 168 | বাকলিং | 12:13 | [Watch](https://youtu.be/8J1O0xPSnbA) |
-| 169 | ইন্টারলকিং বা স্পারস্পারিক বন্ধন | 15:20 | [Watch](https://youtu.be/eU0HnyMnMgQ) |
-| 170 | টার্ন টেবিল এবং ট্রায়্যাঙ্গেল | 16:16 | [Watch](https://youtu.be/f-TRSQ7seLQ?si=qLm6vY--W6cm1MmD) |
-| 171 | Part - 1 এক কিলোমিটার দৈর্ঘ্যের ব্রডগেজ রেলপথের জন্য প্রয়োজনীয় মালামালের এস্টিমেট কর | 29:35 | [Watch](https://youtu.be/zEethtm2vwc?si=dgJ38l-UL1dsMZ8o) |
-| 172 | রেলের বিভন্ন প্রকার ঝড়তি এবং তাদের প্রতিকার | 25:31 | [Watch](https://youtu.be/4IxalDynkY0?si=xnPzrAocKtPlFxYV) |
-| 173 | নেগেটিভ ক্যান্ট | 13:18 | [Watch](https://youtu.be/VeV9FkFIKrA) |
-| 174 | কোনিং অব হুইল | 22:14 | [Watch](https://youtu.be/07E1FBGbQYE) |
-| 175 | ইন্টারলকিং বা স্পারস্পারিক বন্ধনের পদ্ধতি | 7:34 | [Watch](https://youtu.be/dnvRHDPh7GQ) |
-| 176 | জংশন ও টারমিনাল এর মধ্যে পার্থক্য | 7:11 | [Watch](https://youtu.be/uoUFRoqMq_4?si=tOAZoufi3Xa8ZdlV) |
-| 177 | Part - 2 এক কিলোমিটার দৈর্ঘ্যের ব্রডগেজ রেলপথের জন্য প্রয়োজনীয় মালামালের এস্টিমেট কর | 5:12 | [Watch](https://youtu.be/Kl0epTNRIs0?si=Zj2FyrIidB3747yy) |
-| 178 | রেলের ব্যর্থতার কারণ | 19:34 | [Watch](https://youtu.be/1Zxq6HYDnrg?si=I0D6Mr9R8rmLLGH3) |
-| 179 | যদি ক্যান্ট ঘাটতি সর্বোচ্চ হয়, তাহলে প্রধান লাইনের   ট্রেনের গতিবেগ কত | 21:19 | [Watch](https://youtu.be/HKlYivZE54g) |
-| 180 | দুই কিলোমিটার মিটার গেজ রেলসড়কের জন্য প্রয়োজনীয় মালামালের পরিমাণ নির্ণয় | 20:18 | [Watch](https://youtu.be/ENlcYggUbis?si=_XfH47qRdN7aHT-H) |
-| 181 | রেলসড়ক ব্যর্থতার কারণসমূহ | 13:28 | [Watch](https://youtu.be/WPoRw6QBEbg?si=ws_AAt45aOhDi1Pp) |
-| 182 | শাখা গাড়ির গতিবেগ ও সুপার এলিভেশন  নির্ণয় কর | 9:11 | [Watch](https://youtu.be/Mn8jGcpUgrw) |
-| 183 | বাকলিং প্রতিরোধে গৃহীত সতর্কতামূলক ব্যবস্থা | 22:10 | [Watch](https://youtu.be/VLIG5kr3sqw?si=7bTa9BZbzD8OWK-j) |
-| 184 | ক্রিপ সংশোধনের পদ্ধতি | 8:25 | [Watch](https://youtu.be/mW_vOExNhmM) |
-| 185 | Part - 1 কোনিং অব হুইল এর সুবিধা অসুবিধা | 29:35 | [Watch](https://youtu.be/bLtoUB2DFW0?si=2oUEVKB7EoWp0Oo5) |
-| 186 | Part - 2 কোনিং অব হুইল এর সুবিধা অসুবিধা | 6:31 | [Watch](https://youtu.be/YtSKYrM50fw?si=Fdb-nxIO8B0lmCCH) |
+| 137 | আদর্শ রেলের কার্যাদি | 13:11 | [Watch](https://youtu.be/mZ2eJjynArE) |
+| 138 | সামুদ্রিক বন্দরের জন্য স্থান নির্বাচনের বিবেচ্য বিষয়সমূহ | 9:16 | [Watch](https://youtu.be/siNbiPvT_Ms) |
+| 139 | রেলওয়ে স্টেশনে প্রয়োজনীয় কাঠামো | 8:26 | [Watch](https://youtu.be/Wb0wY7NMqe0) |
+| 140 | বাঁকের উপর ট্রেনের গতি | 2:05 | [Watch](https://youtu.be/mZGAx064LY4) |
+| 141 | একটি ব্রেড গেট রেল সড়কের দৈর্ঘ্য 1.5km  । স্লিপারের ঘনত্ব n +5 হলে স্লিপারের সংখ্যা নির্ণয় কর। | 5:31 | [Watch](https://youtu.be/fkgqb_aCV4Q) |
+| 142 | ফিশ প্লেট | 10:20 | [Watch](https://youtu.be/qPQtDlvJRZQ) |
+| 143 | রেলের ক্ষয় ও কারন | 12:08 | [Watch](https://youtu.be/dd-7cuJ4pS0) |
+| 144 | হ্যান্ড সিগন্যাল | 7:04 | [Watch](https://youtu.be/RU0Ghv9Y958) |
+| 145 | লেভেল ক্রসিং এর সু্বিধা অসুবিধা | 21:18 | [Watch](https://youtu.be/l-WuDsfvD_o) |
+| 146 | রেলওয়ে ইয়ার্ড প্রদানের উদ্দেশ্য | 6:20 | [Watch](https://youtu.be/cye1rhxr8Pw?si=84OWcrjMnbcPVLod) |
+| 147 | Part - 2 ব্যালাস্ট এর গভীরতা | 9:23 | [Watch](https://youtu.be/r4KMVuvSpT0?si=LXK3T_qAJKkEHTMk) |
+| 148 | বিয়ারিং প্লেট (Bearing Plate) | 18:32 | [Watch](https://youtu.be/XXCwzknXK9s?si=X8l2cji8zlcCxvsH) |
+| 149 | রেলের ওজন ও সেকশন | 29:29 | [Watch](https://youtu.be/ujXclzmk-x8) |
+| 150 | সুপার এলিভেশন নির্ণয় | 3:23 | [Watch](https://youtu.be/J6ZT4rL517k) |
+| 151 | কাঠের স্লিপার ব্যবহারের কারণ | 5:04 | [Watch](https://youtu.be/ChMNUvvmCsM) |
+| 152 | চেয়ার ও খিল | 6:01 | [Watch](https://youtu.be/T4uJzBqVS-0) |
+| 153 | রেল ক্ষয়ে প্রতিক্রিয়া | 8:03 | [Watch](https://youtu.be/v15cadFjbFI) |
+| 154 | ট্রেন চলাচল নিয়ন্ত্রন | 13:01 | [Watch](https://youtu.be/hbE_a05t1kc) |
+| 155 | পয়েন্ট ও ক্রসিং রক্ষণাবেক্ষণে বিবেচ্য বিষয় | 5:04 | [Watch](https://youtu.be/zECQIz_vhJA) |
+| 156 | Part - 1 রেলওয়েতে ব্যবহৃত বিভিন্ন ধরনের প্লাটফরম | 17:32 | [Watch](https://youtu.be/1cF4weUBXBM?si=mb9HUXF3KSQC19pK) |
+| 157 | ভালো মানের ব্যালাস্টের আকার চিহ্নিতকরণ | 12:05 | [Watch](https://youtu.be/llx_4c5R8bQ?si=PR1XcBni7tWjcQ_-) |
+| 158 | ফিস প্লেট (Fish Plate) | 11:05 | [Watch](https://youtu.be/RXdiUFSTn-I?si=uEoXChp8w55atH-X) |
+| 159 | হালকা রেলের তুলনায় ভারী রেলের ব্যবহারিক অগ্রাধিকার | 6:16 | [Watch](https://youtu.be/28i1m8aNAkY) |
+| 160 | বাঁকের উপর গাড়ির  সর্বোচ্চ গতি বেগ নির্ণয় | 14:08 | [Watch](https://youtu.be/L69lnjfQS5w) |
+| 161 | রেল ক্ষয় বা ঝাড়তি প্রতিরোধ | 7:20 | [Watch](https://youtu.be/xWyt4H-p1Fw) |
+| 162 | অটোম্যাটিক সিগন্যালিং | 5:22 | [Watch](https://youtu.be/sJp5GDhvx_4) |
+| 163 | Part - 2 রেলওয়েতে ব্যবহৃত বিভিন্ন ধরনের প্লাটফরম | 6:22 | [Watch](https://youtu.be/UIFKs42-wuc?si=50u5RU4QTpK2bpKa) |
+| 164 | স্থায়ী সড়ক নির্মাণে প্রয়োজনীয় ব্যালাস্টের পরিমাণ বর্ণনা | 18:04 | [Watch](https://youtu.be/lOGDKhUKmpw?si=eqhZALeOpFAatotH) |
+| 165 | রেল ক্ষয়ের প্রভাব বা প্রতিক্রিয়া | 21:02 | [Watch](https://youtu.be/gfA4_fGUVfA?si=T319ofskbjpq0su1) |
+| 166 | ভারসাম্য ক্যান্টের পরিমান  এবং অনুমোদিত গতিবেগ নির্ণয় | 13:01 | [Watch](https://youtu.be/YQB_3ydkDBc) |
+| 167 | বাকলিং | 12:13 | [Watch](https://youtu.be/8J1O0xPSnbA) |
+| 168 | ইন্টারলকিং বা স্পারস্পারিক বন্ধন | 15:20 | [Watch](https://youtu.be/eU0HnyMnMgQ) |
+| 169 | টার্ন টেবিল এবং ট্রায়্যাঙ্গেল | 16:16 | [Watch](https://youtu.be/f-TRSQ7seLQ?si=qLm6vY--W6cm1MmD) |
+| 170 | Part - 1 এক কিলোমিটার দৈর্ঘ্যের ব্রডগেজ রেলপথের জন্য প্রয়োজনীয় মালামালের এস্টিমেট কর | 29:35 | [Watch](https://youtu.be/zEethtm2vwc?si=dgJ38l-UL1dsMZ8o) |
+| 171 | রেলের বিভন্ন প্রকার ঝড়তি এবং তাদের প্রতিকার | 25:31 | [Watch](https://youtu.be/4IxalDynkY0?si=xnPzrAocKtPlFxYV) |
+| 172 | নেগেটিভ ক্যান্ট | 13:18 | [Watch](https://youtu.be/VeV9FkFIKrA) |
+| 173 | কোনিং অব হুইল | 22:14 | [Watch](https://youtu.be/07E1FBGbQYE) |
+| 174 | ইন্টারলকিং বা স্পারস্পারিক বন্ধনের পদ্ধতি | 7:34 | [Watch](https://youtu.be/dnvRHDPh7GQ) |
+| 175 | জংশন ও টারমিনাল এর মধ্যে পার্থক্য | 7:11 | [Watch](https://youtu.be/uoUFRoqMq_4?si=tOAZoufi3Xa8ZdlV) |
+| 176 | Part - 2 এক কিলোমিটার দৈর্ঘ্যের ব্রডগেজ রেলপথের জন্য প্রয়োজনীয় মালামালের এস্টিমেট কর | 5:12 | [Watch](https://youtu.be/Kl0epTNRIs0?si=Zj2FyrIidB3747yy) |
+| 177 | রেলের ব্যর্থতার কারণ | 19:34 | [Watch](https://youtu.be/1Zxq6HYDnrg?si=I0D6Mr9R8rmLLGH3) |
+| 178 | যদি ক্যান্ট ঘাটতি সর্বোচ্চ হয়, তাহলে প্রধান লাইনের   ট্রেনের গতিবেগ কত | 21:19 | [Watch](https://youtu.be/HKlYivZE54g) |
+| 179 | দুই কিলোমিটার মিটার গেজ রেলসড়কের জন্য প্রয়োজনীয় মালামালের পরিমাণ নির্ণয় | 20:18 | [Watch](https://youtu.be/ENlcYggUbis?si=_XfH47qRdN7aHT-H) |
+| 180 | রেলসড়ক ব্যর্থতার কারণসমূহ | 13:28 | [Watch](https://youtu.be/WPoRw6QBEbg?si=ws_AAt45aOhDi1Pp) |
+| 181 | শাখা গাড়ির গতিবেগ ও সুপার এলিভেশন  নির্ণয় কর | 9:11 | [Watch](https://youtu.be/Mn8jGcpUgrw) |
+| 182 | বাকলিং প্রতিরোধে গৃহীত সতর্কতামূলক ব্যবস্থা | 22:10 | [Watch](https://youtu.be/VLIG5kr3sqw?si=7bTa9BZbzD8OWK-j) |
+| 183 | ক্রিপ সংশোধনের পদ্ধতি | 8:25 | [Watch](https://youtu.be/mW_vOExNhmM) |
+| 184 | Part - 1 কোনিং অব হুইল এর সুবিধা অসুবিধা | 29:35 | [Watch](https://youtu.be/bLtoUB2DFW0?si=2oUEVKB7EoWp0Oo5) |
+| 185 | Part - 2 কোনিং অব হুইল এর সুবিধা অসুবিধা | 6:31 | [Watch](https://youtu.be/YtSKYrM50fw?si=Fdb-nxIO8B0lmCCH) |
 
-*186 videos total*
+*185 videos total*

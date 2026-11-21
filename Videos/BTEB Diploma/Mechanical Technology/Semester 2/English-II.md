@@ -4,55 +4,55 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | Phrase | 16:23 | [Watch](https://youtu.be/gt91d7GDn48) |
-| 2 | Sentence Structure | 21:00 | [Watch](https://youtu.be/e1HEAiG0q4A) |
-| 3 | Punctuation & Capitalization | 21:17 | [Watch](https://youtu.be/MhQpigLUt_w) |
-| 4 | Completing Sentence | 28:08 | [Watch](https://youtu.be/upM99DW8k-4) |
-| 5 | Prepositions | 22:20 | [Watch](https://youtu.be/sAkotGvO8j0) |
-| 6 | Changing Voice From Active to Passive & Vise Versa | 23:05 | [Watch](https://youtu.be/7rkCuBL8aOM) |
-| 7 | Part - 1 Right Forms of Verb | 29:19 | [Watch](https://youtu.be/ezIs5QG-Hvs) |
-| 8 | Characterstics of a summary | 12:22 | [Watch](https://youtu.be/4_7umF3x6PY) |
-| 9 | Punctuation | 9:08 | [Watch](https://youtu.be/EnhCNtYuvc8) |
-| 10 | what is a phrase? | 26:19 | [Watch](https://youtu.be/MNvwTTCLivU) |
-| 11 | Sentence Structure | 20:01 | [Watch](https://youtu.be/L2Vr3Egdl0M) |
-| 12 | Appropriate Preposition | 24:31 | [Watch](https://youtu.be/SvzUe7dmm1Y) |
-| 13 | Sentence এর প্রকারভেদ | 19:20 | [Watch](https://youtu.be/bi3IQSRvW1M) |
-| 14 | voice change | 16:01 | [Watch](https://youtu.be/lvMyiTpGRrQ) |
-| 15 | Right form of verbs Intro | 11:11 | [Watch](https://youtu.be/_pDDh6nb2sY) |
-| 16 | Phrase বাক্যাংশ বা বাক্যের খণ্ডাংশ | 24:05 | [Watch](https://youtu.be/s1kdBRJzYRg) |
-| 17 | Never + Verb + Object Strong Negative | 31:29 | [Watch](https://youtu.be/K3H2zkUQaOg) |
-| 18 | Punctuation & Capitalization Passage | 14:22 | [Watch](https://youtu.be/Gg_1lUK53BE) |
-| 19 | Completing Sentence  এর পরবর্তী ধাপ | 38:20 | [Watch](https://youtu.be/tPc18hrCIC4) |
-| 20 | Appropriate Prepositions | 15:31 | [Watch](https://youtu.be/mo719TezBuQ) |
-| 21 | Change the voice of the following Sentences | 23:25 | [Watch](https://youtu.be/mFVs6psMqc8) |
-| 22 | Part - 2 Right Forms of Verb | 26:02 | [Watch](https://youtu.be/d65OSySwDVI) |
-| 23 | Summary এর basic format | 9:34 | [Watch](https://youtu.be/ZpXiJtWeM14) |
-| 24 | Comma এ ব্যবহার | 15:05 | [Watch](https://youtu.be/It0_7fw9--Q) |
-| 25 | identification of phrase | 13:35 | [Watch](https://youtu.be/_wp8oYoH5Sw) |
-| 26 | Sentence Structure 2 | 24:34 | [Watch](https://youtu.be/9p1cpAH8DkU) |
-| 27 | Appropriate Preposition-2 | 19:10 | [Watch](https://youtu.be/i7GrXbBko6E) |
-| 28 | ‍Simple Sentence | 23:04 | [Watch](https://youtu.be/ybGLL4OxZXY) |
-| 29 | auxiliary verb | 15:29 | [Watch](https://youtu.be/tvmPAvy13Q8) |
-| 30 | Present Indefinite | 13:30 | [Watch](https://youtu.be/-AsgDhdHhIE) |
-| 31 | Phrase এর বাকি অংশ | 10:35 | [Watch](https://youtu.be/977KHTNVGog) |
-| 32 | Part - 3 Right Forms of Verb | 18:03 | [Watch](https://youtu.be/RSGDHfTSqTs) |
-| 33 | Process writing এর বৈশিষ্ট্য | 19:34 | [Watch](https://youtu.be/VwbDMxNxz5U) |
-| 34 | Colon এর ব্যবহার | 14:22 | [Watch](https://youtu.be/5waAkNAMnGM) |
-| 35 | Noun Phrase এর গঠন | 25:11 | [Watch](https://youtu.be/lJIvV7r1RK0) |
-| 36 | Sentence Structure 3 | 20:10 | [Watch](https://youtu.be/Kf9KVt0vcEY) |
-| 37 | Appropriate Preposition 3 | 13:26 | [Watch](https://youtu.be/QIFTcDI9e24) |
-| 38 | Simple Sentence 2 | 14:16 | [Watch](https://youtu.be/_bzQ3WVQwgs) |
-| 39 | voice change of assertive sentence | 20:28 | [Watch](https://youtu.be/ipLUDWNPUF4) |
-| 40 | Present Continous | 5:13 | [Watch](https://youtu.be/R-0NYu92BAA) |
-| 41 | Part - 4 Right Forms of Verb | 36:12 | [Watch](https://youtu.be/p5dzroGT9Sc) |
-| 42 | Poster writing | 13:27 | [Watch](https://youtu.be/Qr7x0vwbP_A) |
-| 43 | Quotation Mark এর ব্যবহার | 9:11 | [Watch](https://youtu.be/uFe29QfqC9s) |
-| 44 | Noun Phrase এর অবস্থান | 18:25 | [Watch](https://youtu.be/IgODlNXxBC4) |
-| 45 | Sentence Structure 4 | 16:26 | [Watch](https://youtu.be/rPyrazdImNg) |
-| 46 | Appropriate Preposition 3 | 23:02 | [Watch](https://youtu.be/I5OYq215FVM) |
-| 47 | Simple Sentence 3 | 14:01 | [Watch](https://youtu.be/V8yyzgS56tg) |
-| 48 | voice change of assertive sentence 2 | 9:10 | [Watch](https://youtu.be/r9pqkF-jUhQ) |
-| 49 | Present Perfect | 9:11 | [Watch](https://youtu.be/AY1ErycHBno) |
+| 1 | Characterstics of a summary | 12:22 | [Watch](https://youtu.be/4_7umF3x6PY) |
+| 2 | Punctuation | 9:08 | [Watch](https://youtu.be/EnhCNtYuvc8) |
+| 3 | what is a phrase? | 26:19 | [Watch](https://youtu.be/MNvwTTCLivU) |
+| 4 | Sentence Structure | 20:01 | [Watch](https://youtu.be/L2Vr3Egdl0M) |
+| 5 | Appropriate Preposition | 24:31 | [Watch](https://youtu.be/SvzUe7dmm1Y) |
+| 6 | Sentence এর প্রকারভেদ | 19:20 | [Watch](https://youtu.be/bi3IQSRvW1M) |
+| 7 | voice change | 16:01 | [Watch](https://youtu.be/lvMyiTpGRrQ) |
+| 8 | Right form of verbs Intro | 11:11 | [Watch](https://youtu.be/_pDDh6nb2sY) |
+| 9 | Phrase | 16:23 | [Watch](https://youtu.be/gt91d7GDn48) |
+| 10 | Sentence Structure | 21:00 | [Watch](https://youtu.be/e1HEAiG0q4A) |
+| 11 | Punctuation & Capitalization | 21:17 | [Watch](https://youtu.be/MhQpigLUt_w) |
+| 12 | Completing Sentence | 28:08 | [Watch](https://youtu.be/upM99DW8k-4) |
+| 13 | Prepositions | 22:20 | [Watch](https://youtu.be/sAkotGvO8j0) |
+| 14 | Changing Voice From Active to Passive & Vise Versa | 23:05 | [Watch](https://youtu.be/7rkCuBL8aOM) |
+| 15 | Part - 1 Right Forms of Verb | 29:19 | [Watch](https://youtu.be/ezIs5QG-Hvs) |
+| 16 | Summary এর basic format | 9:34 | [Watch](https://youtu.be/ZpXiJtWeM14) |
+| 17 | Comma এ ব্যবহার | 15:05 | [Watch](https://youtu.be/It0_7fw9--Q) |
+| 18 | identification of phrase | 13:35 | [Watch](https://youtu.be/_wp8oYoH5Sw) |
+| 19 | Sentence Structure 2 | 24:34 | [Watch](https://youtu.be/9p1cpAH8DkU) |
+| 20 | Appropriate Preposition-2 | 19:10 | [Watch](https://youtu.be/i7GrXbBko6E) |
+| 21 | ‍Simple Sentence | 23:04 | [Watch](https://youtu.be/ybGLL4OxZXY) |
+| 22 | auxiliary verb | 15:29 | [Watch](https://youtu.be/tvmPAvy13Q8) |
+| 23 | Present Indefinite | 13:30 | [Watch](https://youtu.be/-AsgDhdHhIE) |
+| 24 | Phrase বাক্যাংশ বা বাক্যের খণ্ডাংশ | 24:05 | [Watch](https://youtu.be/s1kdBRJzYRg) |
+| 25 | Never + Verb + Object Strong Negative | 31:29 | [Watch](https://youtu.be/K3H2zkUQaOg) |
+| 26 | Punctuation & Capitalization Passage | 14:22 | [Watch](https://youtu.be/Gg_1lUK53BE) |
+| 27 | Completing Sentence  এর পরবর্তী ধাপ | 38:20 | [Watch](https://youtu.be/tPc18hrCIC4) |
+| 28 | Appropriate Prepositions | 15:31 | [Watch](https://youtu.be/mo719TezBuQ) |
+| 29 | Change the voice of the following Sentences | 23:25 | [Watch](https://youtu.be/mFVs6psMqc8) |
+| 30 | Part - 2 Right Forms of Verb | 26:02 | [Watch](https://youtu.be/d65OSySwDVI) |
+| 31 | Process writing এর বৈশিষ্ট্য | 19:34 | [Watch](https://youtu.be/VwbDMxNxz5U) |
+| 32 | Colon এর ব্যবহার | 14:22 | [Watch](https://youtu.be/5waAkNAMnGM) |
+| 33 | Noun Phrase এর গঠন | 25:11 | [Watch](https://youtu.be/lJIvV7r1RK0) |
+| 34 | Sentence Structure 3 | 20:10 | [Watch](https://youtu.be/Kf9KVt0vcEY) |
+| 35 | Appropriate Preposition 3 | 13:26 | [Watch](https://youtu.be/QIFTcDI9e24) |
+| 36 | Simple Sentence 2 | 14:16 | [Watch](https://youtu.be/_bzQ3WVQwgs) |
+| 37 | voice change of assertive sentence | 20:28 | [Watch](https://youtu.be/ipLUDWNPUF4) |
+| 38 | Present Continous | 5:13 | [Watch](https://youtu.be/R-0NYu92BAA) |
+| 39 | Phrase এর বাকি অংশ | 10:35 | [Watch](https://youtu.be/977KHTNVGog) |
+| 40 | Part - 3 Right Forms of Verb | 18:03 | [Watch](https://youtu.be/RSGDHfTSqTs) |
+| 41 | Poster writing | 13:27 | [Watch](https://youtu.be/Qr7x0vwbP_A) |
+| 42 | Quotation Mark এর ব্যবহার | 9:11 | [Watch](https://youtu.be/uFe29QfqC9s) |
+| 43 | Noun Phrase এর অবস্থান | 18:25 | [Watch](https://youtu.be/IgODlNXxBC4) |
+| 44 | Sentence Structure 4 | 16:26 | [Watch](https://youtu.be/rPyrazdImNg) |
+| 45 | Appropriate Preposition 3 | 23:02 | [Watch](https://youtu.be/I5OYq215FVM) |
+| 46 | Simple Sentence 3 | 14:01 | [Watch](https://youtu.be/V8yyzgS56tg) |
+| 47 | voice change of assertive sentence 2 | 9:10 | [Watch](https://youtu.be/r9pqkF-jUhQ) |
+| 48 | Present Perfect | 9:11 | [Watch](https://youtu.be/AY1ErycHBno) |
+| 49 | Part - 4 Right Forms of Verb | 36:12 | [Watch](https://youtu.be/p5dzroGT9Sc) |
 | 50 | Completing story | 15:26 | [Watch](https://youtu.be/SeCly017DCA) |
 | 51 | Hyphen এর ব্যবহার | 6:08 | [Watch](https://youtu.be/Y0SpJXIPwfY) |
 | 52 | Adjective Phrase | 27:21 | [Watch](https://youtu.be/8ZAAiY44dPM) |

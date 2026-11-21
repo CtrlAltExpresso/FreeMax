@@ -3,62 +3,62 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | Electrical Installation | 8:13 | [Watch](https://youtu.be/iytsJF74w1Q) |
-| 2 | উদ্ভাসন এবং লাইট স্কিম | 43:08 | [Watch](https://youtu.be/n1roZMT2-Ks) |
-| 3 | পরিমাপ বইয়ের বর্ণনা | 23:06 | [Watch](https://youtu.be/wCZpxgnGnZE) |
-| 4 | বৈদ্যুতিক স্থাপনার ব্যাখ্যা এবং স্থাপনার প্রকারভেদ | 23:20 | [Watch](https://youtu.be/DGro82Q-jMQ) |
-| 5 | নিম্নচাপ ওভারহেড ডিস্ট্রিবিউশন লাইনের এস্টিমেট | 17:04 | [Watch](https://youtu.be/c5zor4lwlus) |
-| 6 | আর্থিং | 8:03 | [Watch](https://youtu.be/2Rx-dk0STeU) |
-| 7 | সার্ভিস মেইনের ধারণা | 7:26 | [Watch](https://youtu.be/4JMAqBrWH7Y) |
-| 8 | অভ্যন্তরীন ওয়্যারিং স্থাপনা | 9:19 | [Watch](https://youtu.be/uC3LQSe6Y9Y) |
-| 9 | লাইটিং স্কিম কাকে বলে? | 9:02 | [Watch](https://youtu.be/U5oY5_2K8sI) |
-| 10 | পরিমাপ বই লেখন মূল্য তালিকা ও শ্রমহার তফসিলের ধারণা | 10:05 | [Watch](https://youtu.be/otVTB_jpvW4) |
-| 11 | প্রাক্কলন এর প্রয়োজনীয়তা | 13:34 | [Watch](https://youtu.be/lyIBmb2NtpI) |
-| 12 | বৈদ্যুতিক স্থাপনার  পরিকল্পনা | 13:24 | [Watch](https://youtu.be/m7BPEKC6qWU) |
-| 13 | বৈদ্যুতিক বিধি বিধান কোড বেসিক আলোচনা | 16:11 | [Watch](https://youtu.be/niKdcpQM768) |
-| 14 | পরিবাহীর আকার ও বিদ্যুৎ বহন ক্ষমতা | 6:17 | [Watch](https://youtu.be/ldCGP4FP1r0) |
-| 15 | প্রত্যক্ষ লাইটিং, পরোক্ষ লাইটিং, আধা প্রত্যক্ষ লাইটিং এবং আধা রোক্ষ লাইটিং | 37:02 | [Watch](https://youtu.be/pNNtiYicSHI) |
-| 16 | ক্যাটালগ হতে প্রয়োজনীয় মালামালের সঠিক বিবরণ | 18:35 | [Watch](https://youtu.be/svxyIH3Zp2A) |
-| 17 | বৈদ্যুতিক স্থাপনার পরিকল্পনা | 27:14 | [Watch](https://youtu.be/TDXL2o-Wjks) |
-| 18 | বাসাবাড়ির ওয়্যারিং শেষে কী কী টেস্ট করা হয় | 4:08 | [Watch](https://youtu.be/obuCvU0DZv8) |
-| 19 | ফিডার কি? | 11:01 | [Watch](https://youtu.be/k1jLfUJCo8o) |
-| 20 | আর্থিং এর  প্রয়োজনীয়তা | 19:16 | [Watch](https://youtu.be/AT0qlGk3Fdw) |
-| 21 | সার্ভিস মেইন | 5:20 | [Watch](https://youtu.be/Mp-Zr6HNgfI) |
-| 22 | স্পেস হাইট রেশিও | 9:02 | [Watch](https://youtu.be/r2fOnWWc6ow) |
-| 23 | উদ্ভাসন এর গুনাবলি | 8:32 | [Watch](https://youtu.be/GxHJg3A6Ce4) |
-| 24 | পরিমাপ বই | 5:16 | [Watch](https://youtu.be/29MDXEd_IZs) |
-| 25 | বৈদ্যুতিক স্থাপনার প্রাক্কলন | 8:23 | [Watch](https://youtu.be/4TlczomaoKk) |
-| 26 | বৈদ্যুতিক স্থাপনার ধারণা | 5:03 | [Watch](https://youtu.be/d0HsWz5bAKs) |
-| 27 | জাতীয় বৈদ্যুতিক কোড বলতে কি বুঝায়? | 11:01 | [Watch](https://youtu.be/9DUAUxBYPDw) |
-| 28 | তার এর সাইজ নির্বাচনের ধাপসমূহ কী কী? | 9:13 | [Watch](https://youtu.be/DueyQyW3nW8) |
-| 29 | একটি কলেজের বারান্দার মেঝের 5... উদ্ভাসনের পরিমাণ নির্ণয় | 14:13 | [Watch](https://youtu.be/F-3DEfnTEZQ) |
-| 30 | ডিস্ট্রিবিউটর বা ডিস্ট্রিবিউশন লাইন বলতে কী বুঝায়? | 5:10 | [Watch](https://youtu.be/mvGQzD64apc) |
-| 31 | চিত্রের সাহায্য আর্থিং এর মৌলিত উপাদানগুলো দেখাও | 9:07 | [Watch](https://youtu.be/aiwR-IHhyO0) |
-| 32 | তার টানার উপর ভিত্তিকরে সার্ভিস কানেকশন | 10:02 | [Watch](https://youtu.be/AGSlPk1Z3DY) |
-| 33 | পূর্ণনাম লেখ | 5:32 | [Watch](https://youtu.be/Nc_U_ryXWpo) |
-| 34 | লাইটিং স্কিম এর প্রকারভেদ | 14:28 | [Watch](https://youtu.be/V65Kxq-jPmE) |
-| 35 | ক্যান্ডেলা | 10:11 | [Watch](https://youtu.be/L_sRlwMpYvg) |
-| 36 | বৈদ্যুতিক স্থাপনার প্রকারভেদ | 8:12 | [Watch](https://youtu.be/qVkrxvavRC0) |
-| 37 | এরিয়াল ফিউজ বলতে কি বোঝায়? | 10:30 | [Watch](https://youtu.be/U6ZRw2NWh-o) |
-| 38 | গাণিতিক সমস্যাবলি কোন শিক্ষা প্রতিষ্ঠানের ভিতরে ৬০ মিটার...আলোর উদ্ভাসন কত | 24:12 | [Watch](https://youtu.be/RJTm7qsaB54) |
-| 39 | ৪ টি পোলের নাম | 7:11 | [Watch](https://youtu.be/oZSmHdOHfG4) |
-| 40 | আর্থিং রেজিস্ট্যান্স কমানোর উপায় | 4:31 | [Watch](https://youtu.be/DkMmZ82r8uA) |
-| 41 | লাইটিং স্কিম ডিজাইন এর সময় কি কি বিষয় বিবেচনা করা হয়? | 8:32 | [Watch](https://youtu.be/VWaQzkMgJwU) |
-| 42 | লুমিনাস ইনটেনিসিটি | 8:23 | [Watch](https://youtu.be/0tuqZe1tacg) |
-| 43 | পরিমাপ বইয়ের প্রয়োজনীয়তা | 7:34 | [Watch](https://youtu.be/UtsmoGSzYlw) |
-| 44 | অভ্যন্তরীন এবং অনাভ্যন্তরীন স্থাপনার পার্থক্য | 7:09 | [Watch](https://youtu.be/wnPxDSHO7tc) |
-| 45 | ক্রাডল গার্ড কেন ব্যবহার করা হয়? | 9:32 | [Watch](https://youtu.be/rVHLkd-6o3E) |
-| 46 | (গাণিতিক সমস্যাবলি) 6 মি X 15 মি আকারের একটি কক্ষকে...বিদ্যুৎ শক্তি প্রয়োজন | 29:19 | [Watch](https://youtu.be/lEr3N2cL2Rw) |
-| 47 | পরিমাপ বই সংরক্ষনের ধরনের বর্ণনা | 14:19 | [Watch](https://youtu.be/fuXo3-hoWQo) |
-| 48 | সঠিক পরিকল্পনার জন্য বিবেচ্য বিষয় সমূহ | 10:07 | [Watch](https://youtu.be/ksyMiHHtrA0) |
-| 49 | সুইচ কেন নিউট্রালে সংযোগ করা হয়না | 2:26 | [Watch](https://youtu.be/V3NdRuFtzG0) |
-| 50 | একটি নিম্নচাপ ওভারহেড লাইনের প্রধান প্রধান উপাদানসমূহের নাম লেখ | 6:04 | [Watch](https://youtu.be/vH8uQtdSisA) |
-| 51 | পাইপ আর্থিং এর জন্য কি কি মালামালের দরকার হয় তার একটি তালিকা তৈরি কর | 8:22 | [Watch](https://youtu.be/0r0JoQ7zWJY) |
-| 52 | চ্যানেল ওয়্যারিং করার নিয়মবলি লেখ | 14:24 | [Watch](https://youtu.be/qSP8wAG42Ds) |
-| 53 | লাইটিং স্কিম ও প্রয়োজনীয়তা | 9:03 | [Watch](https://youtu.be/sYhOzXMP-E8) |
-| 54 | অবচয় ফ্যাক্টর | 5:14 | [Watch](https://youtu.be/0A9NRHMIz_c) |
-| 55 | পরিমাপ বই এর নমুনা ছক দেখাও | 10:11 | [Watch](https://youtu.be/6hMGtEx4Xu0) |
-| 56 | কীভাবে সাব সার্কিট এর সংখ্যা হিসেব করা হয় | 7:25 | [Watch](https://youtu.be/Yv4i6qbebSA) |
+| 1 | নিম্নচাপ ওভারহেড ডিস্ট্রিবিউশন লাইনের এস্টিমেট | 17:04 | [Watch](https://youtu.be/c5zor4lwlus) |
+| 2 | আর্থিং | 8:03 | [Watch](https://youtu.be/2Rx-dk0STeU) |
+| 3 | সার্ভিস মেইনের ধারণা | 7:26 | [Watch](https://youtu.be/4JMAqBrWH7Y) |
+| 4 | অভ্যন্তরীন ওয়্যারিং স্থাপনা | 9:19 | [Watch](https://youtu.be/uC3LQSe6Y9Y) |
+| 5 | লাইটিং স্কিম কাকে বলে? | 9:02 | [Watch](https://youtu.be/U5oY5_2K8sI) |
+| 6 | পরিমাপ বই লেখন মূল্য তালিকা ও শ্রমহার তফসিলের ধারণা | 10:05 | [Watch](https://youtu.be/otVTB_jpvW4) |
+| 7 | প্রাক্কলন এর প্রয়োজনীয়তা | 13:34 | [Watch](https://youtu.be/lyIBmb2NtpI) |
+| 8 | বৈদ্যুতিক স্থাপনার  পরিকল্পনা | 13:24 | [Watch](https://youtu.be/m7BPEKC6qWU) |
+| 9 | Electrical Installation | 8:13 | [Watch](https://youtu.be/iytsJF74w1Q) |
+| 10 | বৈদ্যুতিক বিধি বিধান কোড বেসিক আলোচনা | 16:11 | [Watch](https://youtu.be/niKdcpQM768) |
+| 11 | পরিবাহীর আকার ও বিদ্যুৎ বহন ক্ষমতা | 6:17 | [Watch](https://youtu.be/ldCGP4FP1r0) |
+| 12 | উদ্ভাসন এবং লাইট স্কিম | 43:08 | [Watch](https://youtu.be/n1roZMT2-Ks) |
+| 13 | পরিমাপ বইয়ের বর্ণনা | 23:06 | [Watch](https://youtu.be/wCZpxgnGnZE) |
+| 14 | বৈদ্যুতিক স্থাপনার ব্যাখ্যা এবং স্থাপনার প্রকারভেদ | 23:20 | [Watch](https://youtu.be/DGro82Q-jMQ) |
+| 15 | বাসাবাড়ির ওয়্যারিং শেষে কী কী টেস্ট করা হয় | 4:08 | [Watch](https://youtu.be/obuCvU0DZv8) |
+| 16 | ফিডার কি? | 11:01 | [Watch](https://youtu.be/k1jLfUJCo8o) |
+| 17 | আর্থিং এর  প্রয়োজনীয়তা | 19:16 | [Watch](https://youtu.be/AT0qlGk3Fdw) |
+| 18 | সার্ভিস মেইন | 5:20 | [Watch](https://youtu.be/Mp-Zr6HNgfI) |
+| 19 | স্পেস হাইট রেশিও | 9:02 | [Watch](https://youtu.be/r2fOnWWc6ow) |
+| 20 | উদ্ভাসন এর গুনাবলি | 8:32 | [Watch](https://youtu.be/GxHJg3A6Ce4) |
+| 21 | পরিমাপ বই | 5:16 | [Watch](https://youtu.be/29MDXEd_IZs) |
+| 22 | বৈদ্যুতিক স্থাপনার প্রাক্কলন | 8:23 | [Watch](https://youtu.be/4TlczomaoKk) |
+| 23 | বৈদ্যুতিক স্থাপনার ধারণা | 5:03 | [Watch](https://youtu.be/d0HsWz5bAKs) |
+| 24 | জাতীয় বৈদ্যুতিক কোড বলতে কি বুঝায়? | 11:01 | [Watch](https://youtu.be/9DUAUxBYPDw) |
+| 25 | তার এর সাইজ নির্বাচনের ধাপসমূহ কী কী? | 9:13 | [Watch](https://youtu.be/DueyQyW3nW8) |
+| 26 | প্রত্যক্ষ লাইটিং, পরোক্ষ লাইটিং, আধা প্রত্যক্ষ লাইটিং এবং আধা রোক্ষ লাইটিং | 37:02 | [Watch](https://youtu.be/pNNtiYicSHI) |
+| 27 | ক্যাটালগ হতে প্রয়োজনীয় মালামালের সঠিক বিবরণ | 18:35 | [Watch](https://youtu.be/svxyIH3Zp2A) |
+| 28 | বৈদ্যুতিক স্থাপনার পরিকল্পনা | 27:14 | [Watch](https://youtu.be/TDXL2o-Wjks) |
+| 29 | ডিস্ট্রিবিউটর বা ডিস্ট্রিবিউশন লাইন বলতে কী বুঝায়? | 5:10 | [Watch](https://youtu.be/mvGQzD64apc) |
+| 30 | চিত্রের সাহায্য আর্থিং এর মৌলিত উপাদানগুলো দেখাও | 9:07 | [Watch](https://youtu.be/aiwR-IHhyO0) |
+| 31 | তার টানার উপর ভিত্তিকরে সার্ভিস কানেকশন | 10:02 | [Watch](https://youtu.be/AGSlPk1Z3DY) |
+| 32 | পূর্ণনাম লেখ | 5:32 | [Watch](https://youtu.be/Nc_U_ryXWpo) |
+| 33 | লাইটিং স্কিম এর প্রকারভেদ | 14:28 | [Watch](https://youtu.be/V65Kxq-jPmE) |
+| 34 | ক্যান্ডেলা | 10:11 | [Watch](https://youtu.be/L_sRlwMpYvg) |
+| 35 | বৈদ্যুতিক স্থাপনার প্রকারভেদ | 8:12 | [Watch](https://youtu.be/qVkrxvavRC0) |
+| 36 | এরিয়াল ফিউজ বলতে কি বোঝায়? | 10:30 | [Watch](https://youtu.be/U6ZRw2NWh-o) |
+| 37 | একটি কলেজের বারান্দার মেঝের 5... উদ্ভাসনের পরিমাণ নির্ণয় | 14:13 | [Watch](https://youtu.be/F-3DEfnTEZQ) |
+| 38 | ৪ টি পোলের নাম | 7:11 | [Watch](https://youtu.be/oZSmHdOHfG4) |
+| 39 | আর্থিং রেজিস্ট্যান্স কমানোর উপায় | 4:31 | [Watch](https://youtu.be/DkMmZ82r8uA) |
+| 40 | লাইটিং স্কিম ডিজাইন এর সময় কি কি বিষয় বিবেচনা করা হয়? | 8:32 | [Watch](https://youtu.be/VWaQzkMgJwU) |
+| 41 | লুমিনাস ইনটেনিসিটি | 8:23 | [Watch](https://youtu.be/0tuqZe1tacg) |
+| 42 | পরিমাপ বইয়ের প্রয়োজনীয়তা | 7:34 | [Watch](https://youtu.be/UtsmoGSzYlw) |
+| 43 | অভ্যন্তরীন এবং অনাভ্যন্তরীন স্থাপনার পার্থক্য | 7:09 | [Watch](https://youtu.be/wnPxDSHO7tc) |
+| 44 | ক্রাডল গার্ড কেন ব্যবহার করা হয়? | 9:32 | [Watch](https://youtu.be/rVHLkd-6o3E) |
+| 45 | গাণিতিক সমস্যাবলি কোন শিক্ষা প্রতিষ্ঠানের ভিতরে ৬০ মিটার...আলোর উদ্ভাসন কত | 24:12 | [Watch](https://youtu.be/RJTm7qsaB54) |
+| 46 | পরিমাপ বই সংরক্ষনের ধরনের বর্ণনা | 14:19 | [Watch](https://youtu.be/fuXo3-hoWQo) |
+| 47 | সঠিক পরিকল্পনার জন্য বিবেচ্য বিষয় সমূহ | 10:07 | [Watch](https://youtu.be/ksyMiHHtrA0) |
+| 48 | সুইচ কেন নিউট্রালে সংযোগ করা হয়না | 2:26 | [Watch](https://youtu.be/V3NdRuFtzG0) |
+| 49 | একটি নিম্নচাপ ওভারহেড লাইনের প্রধান প্রধান উপাদানসমূহের নাম লেখ | 6:04 | [Watch](https://youtu.be/vH8uQtdSisA) |
+| 50 | পাইপ আর্থিং এর জন্য কি কি মালামালের দরকার হয় তার একটি তালিকা তৈরি কর | 8:22 | [Watch](https://youtu.be/0r0JoQ7zWJY) |
+| 51 | চ্যানেল ওয়্যারিং করার নিয়মবলি লেখ | 14:24 | [Watch](https://youtu.be/qSP8wAG42Ds) |
+| 52 | লাইটিং স্কিম ও প্রয়োজনীয়তা | 9:03 | [Watch](https://youtu.be/sYhOzXMP-E8) |
+| 53 | অবচয় ফ্যাক্টর | 5:14 | [Watch](https://youtu.be/0A9NRHMIz_c) |
+| 54 | পরিমাপ বই এর নমুনা ছক দেখাও | 10:11 | [Watch](https://youtu.be/6hMGtEx4Xu0) |
+| 55 | কীভাবে সাব সার্কিট এর সংখ্যা হিসেব করা হয় | 7:25 | [Watch](https://youtu.be/Yv4i6qbebSA) |
+| 56 | (গাণিতিক সমস্যাবলি) 6 মি X 15 মি আকারের একটি কক্ষকে...বিদ্যুৎ শক্তি প্রয়োজন | 29:19 | [Watch](https://youtu.be/lEr3N2cL2Rw) |
 | 57 | বাংলাদেশ বিদ্যুৎ আইনের প্রধান বিধিসমূহের লিস্ট | 14:10 | [Watch](https://youtu.be/SacdHzNXwRc) |
 | 58 | ক্যাটালগ হতে প্রয়োজনীয় মালামালের সঠিক বিবরণ | 9:04 | [Watch](https://youtu.be/EzrAvkWSEHI) |
 | 59 | স্থাপনার প্রাক্কলন | 13:27 | [Watch](https://youtu.be/WE6BVf5-A4c) |

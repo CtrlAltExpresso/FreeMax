@@ -1,6 +1,6 @@
 # RAC Cycles & Components
 
-> 266 videos | RAC Technology
+> 262 videos | RAC Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -17,26 +17,26 @@
 | 11 | রেফ্রিজারেশন সাইকেলের প্রধান অংশসমূহ | 4:31 | [Watch](https://youtu.be/LM22vtxMjic) |
 | 12 | ভেপার কম্প্রেশন রেফ্রিজারেশন | 25:02 | [Watch](https://youtu.be/MMJL7rRZpg4) |
 | 13 | কনভেনশনাল ও নন কনভেনশনাল রেফ্রিজারেশন | 7:00 | [Watch](https://youtu.be/SMHs40YyHz4) |
-| 14 | সান্দ্রতা কী | 6:23 | [Watch](https://youtu.be/afv6ypSzcaM) |
-| 15 | এয়ার কারটিন, এয়ার হ্যান্ডেলিং ইউনিট, কম্প্রেসর কন্ডেন্সিং ইউনিট এবং ফ্যান কয়েল ইউনিট | 11:02 | [Watch](https://youtu.be/3u70Ooba1N8) |
-| 16 | হিমায়ক বা রেফ্রিজারেন্ট বলতে কী বুঝায় | 13:17 | [Watch](https://youtu.be/L9bmLwZi2Ek) |
-| 17 | ইনভার্টার এবং ভয়েস কন্ট্রোল আরএসি সিস্টেম | 10:31 | [Watch](https://youtu.be/ji3jdfEYz5Y) |
-| 18 | ভিআরএফ এবং ডিআরডি পদ্ধতি | 7:34 | [Watch](https://youtu.be/TGwezrblEbc) |
-| 19 | CFC কী | 5:31 | [Watch](https://youtu.be/Xw6v_5WHli0) |
-| 20 | অ্যাকুমুলেটর কী | 14:06 | [Watch](https://youtu.be/_djgUY35TpE) |
-| 21 | কম্প্রেসর প্রধানত কত প্রকার ও কী কী | 10:09 | [Watch](https://youtu.be/UUtHpprYyPI) |
-| 22 | ইন্টার কুলার কী | 8:04 | [Watch](https://youtu.be/27cM8kzZzNY) |
-| 23 | রেফ্রিজারেশন কাকে বলে | 8:34 | [Watch](https://youtu.be/Ojg80jyH6YI) |
-| 24 | Refrigerant Oil | 1:22 | [Watch](https://youtu.be/1tU_pOGgBCU) |
-| 25 | এয়ার কারটিন | 5:11 | [Watch](https://youtu.be/h6D-PuQA5FQ) |
-| 26 | হিমায়ক ও এর শ্রেণীবিভাগ | 7:02 | [Watch](https://youtu.be/kcHwMnmqaXM) |
-| 27 | Inverter & Voice Control RAC System | 11:12 | [Watch](https://youtu.be/OtjdELEZhlA) |
-| 28 | VRF এবং VRV পদ্ধতি | 8:20 | [Watch](https://youtu.be/ZLWavGQlyrE) |
-| 29 | হিমায়ক রিকোভারি এবং রিসাইক্লিং পদ্ধতি | 10:29 | [Watch](https://youtu.be/malT2Qyey54) |
-| 30 | হিমায়ন চক্রের আনুষজ্ঞিক এবং সহায়ক যন্ত্রাংশ সমূহ | 4:01 | [Watch](https://youtu.be/I4epxAfC-Ng) |
-| 31 | ভেপার কম্প্রেশন ও অ্যাবজর্পশন সাইকেলের যন্ত্রাংশসমূহ | 10:32 | [Watch](https://youtu.be/xk7DXpgEkC8) |
-| 32 | Vapour Compression Refrigeration system এর পরিচালনা নীতিমালা | 8:28 | [Watch](https://youtu.be/NpSS3bMSSRY) |
-| 33 | Syllabus | 8:30 | [Watch](https://youtu.be/gvAzcO81RQU) |
+| 14 | Refrigerant Oil | 1:22 | [Watch](https://youtu.be/1tU_pOGgBCU) |
+| 15 | এয়ার কারটিন | 5:11 | [Watch](https://youtu.be/h6D-PuQA5FQ) |
+| 16 | হিমায়ক ও এর শ্রেণীবিভাগ | 7:02 | [Watch](https://youtu.be/kcHwMnmqaXM) |
+| 17 | Inverter & Voice Control RAC System | 11:12 | [Watch](https://youtu.be/OtjdELEZhlA) |
+| 18 | VRF এবং VRV পদ্ধতি | 8:20 | [Watch](https://youtu.be/ZLWavGQlyrE) |
+| 19 | হিমায়ক রিকোভারি এবং রিসাইক্লিং পদ্ধতি | 10:29 | [Watch](https://youtu.be/malT2Qyey54) |
+| 20 | হিমায়ন চক্রের আনুষজ্ঞিক এবং সহায়ক যন্ত্রাংশ সমূহ | 4:01 | [Watch](https://youtu.be/I4epxAfC-Ng) |
+| 21 | ভেপার কম্প্রেশন ও অ্যাবজর্পশন সাইকেলের যন্ত্রাংশসমূহ | 10:32 | [Watch](https://youtu.be/xk7DXpgEkC8) |
+| 22 | Vapour Compression Refrigeration system এর পরিচালনা নীতিমালা | 8:28 | [Watch](https://youtu.be/NpSS3bMSSRY) |
+| 23 | Syllabus | 8:30 | [Watch](https://youtu.be/gvAzcO81RQU) |
+| 24 | সান্দ্রতা কী | 6:23 | [Watch](https://youtu.be/afv6ypSzcaM) |
+| 25 | এয়ার কারটিন, এয়ার হ্যান্ডেলিং ইউনিট, কম্প্রেসর কন্ডেন্সিং ইউনিট এবং ফ্যান কয়েল ইউনিট | 11:02 | [Watch](https://youtu.be/3u70Ooba1N8) |
+| 26 | হিমায়ক বা রেফ্রিজারেন্ট বলতে কী বুঝায় | 13:17 | [Watch](https://youtu.be/L9bmLwZi2Ek) |
+| 27 | ইনভার্টার এবং ভয়েস কন্ট্রোল আরএসি সিস্টেম | 10:31 | [Watch](https://youtu.be/ji3jdfEYz5Y) |
+| 28 | ভিআরএফ এবং ডিআরডি পদ্ধতি | 7:34 | [Watch](https://youtu.be/TGwezrblEbc) |
+| 29 | CFC কী | 5:31 | [Watch](https://youtu.be/Xw6v_5WHli0) |
+| 30 | অ্যাকুমুলেটর কী | 14:06 | [Watch](https://youtu.be/_djgUY35TpE) |
+| 31 | কম্প্রেসর প্রধানত কত প্রকার ও কী কী | 10:09 | [Watch](https://youtu.be/UUtHpprYyPI) |
+| 32 | ইন্টার কুলার কী | 8:04 | [Watch](https://youtu.be/27cM8kzZzNY) |
+| 33 | রেফ্রিজারেশন কাকে বলে | 8:34 | [Watch](https://youtu.be/Ojg80jyH6YI) |
 | 34 | রেফ্রিজারেন্ট অয়েলের গুণাবলি | 16:34 | [Watch](https://youtu.be/yLz9-rqfGPU) |
 | 35 | এয়ার হ্যান্ডেলিং ইউনিট বিবৃতকরণ | 20:09 | [Watch](https://youtu.be/RTjlUEsw-JQ) |
 | 36 | হিমায়কের ক্ষেত্রে ODP এবং GWP এর মান উল্লেখকরণ | 17:10 | [Watch](https://youtu.be/1BotmpHSuAY) |
@@ -50,26 +50,26 @@
 | 44 | রেফ্রিজারেশন সাইকেলে কম্প্রেসর | 26:05 | [Watch](https://youtu.be/HxckdR_BfMY) |
 | 45 | ভেপার কম্প্রেশন এবং ভেপার অ্যাবজর্পশন হিমায়ন পদ্ধতি | 15:12 | [Watch](https://youtu.be/pJ_p-fy1TMI) |
 | 46 | ভেপার কম্প্রেশন এবং ভেপার অ্যাবজর্পশন রেফ্রিজারেশন | 14:27 | [Watch](https://youtu.be/uMnwTA_CJrE) |
-| 47 | কম্প্রেসর অয়েলের ৪ টি বৈশিষ্ট্য লেখ | 6:07 | [Watch](https://youtu.be/Pwp_oGzjHeM) |
-| 48 | এয়ার হ্যান্ডেলিং ইউনিটের বৈশিষ্ট্যসমূহ সংক্ষেপে লেখ | 6:32 | [Watch](https://youtu.be/Ialb0HsJYEY) |
-| 49 | পাঁচটি হিমায়র্কের নাম, রাসায়নিক সংকেত লেখ | 20:06 | [Watch](https://youtu.be/28qprSJJTek) |
-| 50 | ইনভার্টার এসি ও নন-ইনভার্টার এসির মধ্যে দুটি পার্থক্য | 9:16 | [Watch](https://youtu.be/-kecezBbSv8) |
-| 51 | VRF সিস্টেমের সুবিধা ও অসুবিধা আলোচনা | 5:25 | [Watch](https://youtu.be/P6Dfa3Ywv5E) |
-| 52 | মনট্রিল প্রটোকল সংক্ষেপে লেখ | 6:26 | [Watch](https://youtu.be/MzicglFmSXY) |
-| 53 | হিমায়ক চক্রে ব্যবহৃত হয় এমন দশটি উপাদানের নাম | 12:13 | [Watch](https://youtu.be/6nAbigYt8dw) |
-| 54 | রেসিপ্রোকেটিং কম্প্রেসারের ১০ টি অংশের নাম লেখ | 16:14 | [Watch](https://youtu.be/6SMZiiksDNo) |
-| 55 | অ্যাকুমুলেটর এর কাজ লেখ | 11:28 | [Watch](https://youtu.be/5Q1BsYFj14Y) |
-| 56 | ভেপার অ্যাবজর্পশন রেফ্রিজারেশন সাইকেলের ডায়াগ্রাম অঙ্কন করে অংশগুলোর নাম | 20:33 | [Watch](https://youtu.be/vf9FTshmpeA) |
-| 57 | কম্প্রেসর অয়েলের প্রয়োজনীয়তা | 5:05 | [Watch](https://youtu.be/DsiVb33qMsg) |
-| 58 | এয়ার কারটিন ইউনিট | 6:17 | [Watch](https://youtu.be/yMicYr3YWCE) |
-| 59 | CFC এবং পরিবেশের উপর CFC প্রভাব এবং CFC এর বিকল্প ব্যাখ্যাকরন | 15:13 | [Watch](https://youtu.be/qEgEfIeLYyQ) |
-| 60 | Inverter AC System বিবৃতকরন | 5:22 | [Watch](https://youtu.be/OuE6l6dvmtc) |
-| 61 | রেফ্রিজারেশন চক্রে VRF সিস্টেম | 4:01 | [Watch](https://youtu.be/jnr05WXUMmQ) |
-| 62 | হিমায়ক Recovery এবং Recycling | 6:21 | [Watch](https://youtu.be/-0PxVjjlGm4) |
-| 63 | রেফ্রিজারেশন সাইকেল ব্যবহৃত আনুষজ্ঞিক গুরুত্বপূর্ণ যন্ত্রাংশ সমূহের তালিকা | 6:19 | [Watch](https://youtu.be/yTSDv9IN_NM) |
-| 64 | Refrigeration Cycle  এ কম্প্রেসর ব্যবহারের প্রকারভেদ,গঠন ও কার্যপ্রণালী | 14:24 | [Watch](https://youtu.be/QBKILURveIM) |
-| 65 | Vapour Absorption Refrigeration System | 11:28 | [Watch](https://youtu.be/tAehlxyRomw) |
-| 66 | Conventional Refrigeration পদ্ধতি | 7:07 | [Watch](https://youtu.be/hHYDxWpUc6I) |
+| 47 | কম্প্রেসর অয়েলের প্রয়োজনীয়তা | 5:05 | [Watch](https://youtu.be/DsiVb33qMsg) |
+| 48 | এয়ার কারটিন ইউনিট | 6:17 | [Watch](https://youtu.be/yMicYr3YWCE) |
+| 49 | CFC এবং পরিবেশের উপর CFC প্রভাব এবং CFC এর বিকল্প ব্যাখ্যাকরন | 15:13 | [Watch](https://youtu.be/qEgEfIeLYyQ) |
+| 50 | Inverter AC System বিবৃতকরন | 5:22 | [Watch](https://youtu.be/OuE6l6dvmtc) |
+| 51 | রেফ্রিজারেশন চক্রে VRF সিস্টেম | 4:01 | [Watch](https://youtu.be/jnr05WXUMmQ) |
+| 52 | হিমায়ক Recovery এবং Recycling | 6:21 | [Watch](https://youtu.be/-0PxVjjlGm4) |
+| 53 | রেফ্রিজারেশন সাইকেল ব্যবহৃত আনুষজ্ঞিক গুরুত্বপূর্ণ যন্ত্রাংশ সমূহের তালিকা | 6:19 | [Watch](https://youtu.be/yTSDv9IN_NM) |
+| 54 | Refrigeration Cycle  এ কম্প্রেসর ব্যবহারের প্রকারভেদ,গঠন ও কার্যপ্রণালী | 14:24 | [Watch](https://youtu.be/QBKILURveIM) |
+| 55 | Vapour Absorption Refrigeration System | 11:28 | [Watch](https://youtu.be/tAehlxyRomw) |
+| 56 | Conventional Refrigeration পদ্ধতি | 7:07 | [Watch](https://youtu.be/hHYDxWpUc6I) |
+| 57 | কম্প্রেসর অয়েলের ৪ টি বৈশিষ্ট্য লেখ | 6:07 | [Watch](https://youtu.be/Pwp_oGzjHeM) |
+| 58 | এয়ার হ্যান্ডেলিং ইউনিটের বৈশিষ্ট্যসমূহ সংক্ষেপে লেখ | 6:32 | [Watch](https://youtu.be/Ialb0HsJYEY) |
+| 59 | পাঁচটি হিমায়র্কের নাম, রাসায়নিক সংকেত লেখ | 20:06 | [Watch](https://youtu.be/28qprSJJTek) |
+| 60 | ইনভার্টার এসি ও নন-ইনভার্টার এসির মধ্যে দুটি পার্থক্য | 9:16 | [Watch](https://youtu.be/-kecezBbSv8) |
+| 61 | VRF সিস্টেমের সুবিধা ও অসুবিধা আলোচনা | 5:25 | [Watch](https://youtu.be/P6Dfa3Ywv5E) |
+| 62 | মনট্রিল প্রটোকল সংক্ষেপে লেখ | 6:26 | [Watch](https://youtu.be/MzicglFmSXY) |
+| 63 | হিমায়ক চক্রে ব্যবহৃত হয় এমন দশটি উপাদানের নাম | 12:13 | [Watch](https://youtu.be/6nAbigYt8dw) |
+| 64 | রেসিপ্রোকেটিং কম্প্রেসারের ১০ টি অংশের নাম লেখ | 16:14 | [Watch](https://youtu.be/6SMZiiksDNo) |
+| 65 | অ্যাকুমুলেটর এর কাজ লেখ | 11:28 | [Watch](https://youtu.be/5Q1BsYFj14Y) |
+| 66 | ভেপার অ্যাবজর্পশন রেফ্রিজারেশন সাইকেলের ডায়াগ্রাম অঙ্কন করে অংশগুলোর নাম | 20:33 | [Watch](https://youtu.be/vf9FTshmpeA) |
 | 67 | হিমায়ন তেলের নির্বাচিত ফ্যাক্টরসমূহ | 15:35 | [Watch](https://youtu.be/REbdfciOBg4) |
 | 68 | এয়ারকন্ডিশনিং সিস্টেমে কম্প্রেসর কন্ডেন্সিং ইউনিট বর্ণনাকরণ | 7:08 | [Watch](https://youtu.be/6DyqOgj_FnU) |
 | 69 | হ্যালো কার্বন রেফ্রিজারেটর | 18:07 | [Watch](https://youtu.be/zDrDZmirduI) |
@@ -82,24 +82,24 @@
 | 76 | কম্প্রেসরের মৌলিক পরিভাষাসমূহ ব্যাখ্যা ও প্রাসঙ্গিক ধারনা | 12:07 | [Watch](https://youtu.be/tz4k-s8aJFs) |
 | 77 | অ্যামোনিয়া পানি ভেপার অ্যাবজর্পশন পদ্ধতি | 9:29 | [Watch](https://youtu.be/tkpg4PBzxjM) |
 | 78 | ভেপার কম্প্রেশন এবং ভেপার অ্যাবজর্পশন | 9:30 | [Watch](https://youtu.be/qch-EFYGePs) |
-| 79 | রেফ্রিজারেন্ট অয়েলের প্রয়োজনীয়তা বা কাজ লেখ | 12:12 | [Watch](https://youtu.be/1yEsX3NEjPo) |
-| 80 | শীতাতপ নিয়ন্ত্রণ পদ্ধতিতে এয়ার হ্যান্ডেলিং ইউনিটের প্রবাহ চিত্র বর্ণনা | 11:19 | [Watch](https://youtu.be/V2Q1q0pV5wY) |
-| 81 | আদর্শ হিমায়কের ৫ টি সংক্ষিপ্ত বর্ণনা | 11:22 | [Watch](https://youtu.be/EVpxIMUsCbA) |
-| 82 | ইনভার্টার এসি সিস্টেমের সুবিধা-অসুবিধা ব্যাখ্যা | 10:07 | [Watch](https://youtu.be/lj1n1dkeTPQ) |
-| 83 | রেফ্রিজারেন্ট রিকোভারি ও রেফ্রিজারেন্ট সাইক্লিং পদ্ধতি চিত্রসহ বর্ণনা | 11:32 | [Watch](https://youtu.be/TlCSzW64yq8) |
-| 84 | হিমায়ক চক্রে ব্যবহৃত ৫ টি আনুষঙ্গিক যন্ত্রাংশের নাম ও কাজ | 15:24 | [Watch](https://youtu.be/WgvGLfaNKJw) |
-| 85 | চিত্রসহ অ্যামোনিয়া ওয়াটার ভেপার অ্যাবজর্পশন সাইকেলের বর্ণনা | 22:10 | [Watch](https://youtu.be/Gse3xwumBPk) |
-| 86 | চিত্রসহ স্টিম রেফ্রিজারেশন পদ্ধতির কার্যপ্রণালি বর্ণনা | 19:31 | [Watch](https://youtu.be/nC_ZPnydsmM) |
-| 87 | বিভিন্ন ধরনের সিনথেটিক অয়েল | 7:30 | [Watch](https://youtu.be/zEmtKm7ciJ0) |
-| 88 | এয়ার কারটিন ব্যবহার | 2:20 | [Watch](https://youtu.be/_KQ4QCeVrTk) |
-| 89 | ODS ওজন স্তর এবং গ্লোবাল ওর্য়ামিং এর ব্যাখ্যা | 14:09 | [Watch](https://youtu.be/vCSZOtuC8PI) |
-| 90 | Inverter AC System এর বৈশিষ্ট্য | 2:17 | [Watch](https://youtu.be/aLKOzRbqQMU) |
-| 91 | রেফ্রিজারেশন চক্রে VRV সিস্টেম | 4:11 | [Watch](https://youtu.be/TxArNpQC-uc) |
-| 92 | হিমায়ক Recovery এবং Recycling সুবিধা | 7:15 | [Watch](https://youtu.be/D9Frik7HoHw) |
-| 93 | রেফ্রিজারেশন সাইকেলের সহায়ক যন্ত্রগুলোর তালিকা | 3:08 | [Watch](https://youtu.be/8kgFKpQK7RE) |
-| 94 | Open Type Compressor এর গঠন | 8:21 | [Watch](https://youtu.be/CSVcLKgYYRg) |
-| 95 | ভেপার কম্প্রেশন ও ভেপার অ্যাবজর্পশন হিমায়ন পদ্ধতির ব্যাখা | 9:14 | [Watch](https://youtu.be/8kqbo406c4A) |
-| 96 | Vapour Absorption Refrigeration Cycle | 12:24 | [Watch](https://youtu.be/Js5tLWM3cs8) |
+| 79 | বিভিন্ন ধরনের সিনথেটিক অয়েল | 7:30 | [Watch](https://youtu.be/zEmtKm7ciJ0) |
+| 80 | এয়ার কারটিন ব্যবহার | 2:20 | [Watch](https://youtu.be/_KQ4QCeVrTk) |
+| 81 | ODS ওজন স্তর এবং গ্লোবাল ওর্য়ামিং এর ব্যাখ্যা | 14:09 | [Watch](https://youtu.be/vCSZOtuC8PI) |
+| 82 | Inverter AC System এর বৈশিষ্ট্য | 2:17 | [Watch](https://youtu.be/aLKOzRbqQMU) |
+| 83 | রেফ্রিজারেশন চক্রে VRV সিস্টেম | 4:11 | [Watch](https://youtu.be/TxArNpQC-uc) |
+| 84 | হিমায়ক Recovery এবং Recycling সুবিধা | 7:15 | [Watch](https://youtu.be/D9Frik7HoHw) |
+| 85 | রেফ্রিজারেশন সাইকেলের সহায়ক যন্ত্রগুলোর তালিকা | 3:08 | [Watch](https://youtu.be/8kgFKpQK7RE) |
+| 86 | Open Type Compressor এর গঠন | 8:21 | [Watch](https://youtu.be/CSVcLKgYYRg) |
+| 87 | ভেপার কম্প্রেশন ও ভেপার অ্যাবজর্পশন হিমায়ন পদ্ধতির ব্যাখা | 9:14 | [Watch](https://youtu.be/8kqbo406c4A) |
+| 88 | Vapour Absorption Refrigeration Cycle | 12:24 | [Watch](https://youtu.be/Js5tLWM3cs8) |
+| 89 | রেফ্রিজারেন্ট অয়েলের প্রয়োজনীয়তা বা কাজ লেখ | 12:12 | [Watch](https://youtu.be/1yEsX3NEjPo) |
+| 90 | শীতাতপ নিয়ন্ত্রণ পদ্ধতিতে এয়ার হ্যান্ডেলিং ইউনিটের প্রবাহ চিত্র বর্ণনা | 11:19 | [Watch](https://youtu.be/V2Q1q0pV5wY) |
+| 91 | আদর্শ হিমায়কের ৫ টি সংক্ষিপ্ত বর্ণনা | 11:22 | [Watch](https://youtu.be/EVpxIMUsCbA) |
+| 92 | ইনভার্টার এসি সিস্টেমের সুবিধা-অসুবিধা ব্যাখ্যা | 10:07 | [Watch](https://youtu.be/lj1n1dkeTPQ) |
+| 93 | রেফ্রিজারেন্ট রিকোভারি ও রেফ্রিজারেন্ট সাইক্লিং পদ্ধতি চিত্রসহ বর্ণনা | 11:32 | [Watch](https://youtu.be/TlCSzW64yq8) |
+| 94 | হিমায়ক চক্রে ব্যবহৃত ৫ টি আনুষঙ্গিক যন্ত্রাংশের নাম ও কাজ | 15:24 | [Watch](https://youtu.be/WgvGLfaNKJw) |
+| 95 | চিত্রসহ অ্যামোনিয়া ওয়াটার ভেপার অ্যাবজর্পশন সাইকেলের বর্ণনা | 22:10 | [Watch](https://youtu.be/Gse3xwumBPk) |
+| 96 | চিত্রসহ স্টিম রেফ্রিজারেশন পদ্ধতির কার্যপ্রণালি বর্ণনা | 19:31 | [Watch](https://youtu.be/nC_ZPnydsmM) |
 | 97 | অসম্পৃক্ত  হাইড্রোকার্বন | 18:31 | [Watch](https://youtu.be/Kmb-i8pr4wY) |
 | 98 | IGBT ট্রান্সজিস্টর দ্বারা তৈরি  ইনভার্টার | 16:15 | [Watch](https://youtu.be/SYFvjU1bCY4) |
 | 99 | পুশ-পুল রেফ্রিজারেন্ট রিকোভারি সিস্টেম | 17:23 | [Watch](https://youtu.be/0g57nk6CBKM) |
@@ -258,17 +258,13 @@
 | 252 | .হাই সাইড ফ্লোট সিস্টেম | 3:17 | [Watch](https://youtu.be/3chATU0-H5M) |
 | 253 | ক্যাপিলারি টিউব ব্যবহারের সুবিধা ও অসুবিধা | 5:15 | [Watch](https://youtu.be/ybMrZWeci9w) |
 | 254 | রিমোট বাল্প এবং ইকুয়ালাইজার | 4:29 | [Watch](https://youtu.be/zBDYcHucOBA) |
-| 255 | ইভাপোরেটর | 4:16 | - |
-| 256 | ইভাপোরেটরের শ্রেণীবিভাগ | 10:08 | [Watch](https://youtu.be/FeEpS-0KXC4) |
-| 257 | Direct Cooling Evaporator | 2:31 | [Watch](https://youtu.be/RDbH7733ZMU) |
-| 258 | Indirect Cooling Evaporator | 5:30 | [Watch](https://youtu.be/Q3M12oFhtXM) |
-| 259 | থার্মাল ইলেকট্রিক এক্সপানশন ভালব | 3:14 | [Watch](https://youtu.be/BEHVFzMQ9nA) |
-| 260 | বেয়ার টাইপ ইভাপোরেটর | 2:16 | [Watch](https://youtu.be/8waat0_Y8zc) |
-| 261 | প্লেট টাইপ ইভাপোরেটর | 3:21 | [Watch](https://youtu.be/RbaiBeunYEg) |
-| 262 | ফিন্স টাইপ ইভাপোরেটর | 5:26 | [Watch](https://youtu.be/CdK9P7kcdIM) |
-| 263 | প্রত্যেক প্রকার ইভাপোরেটরের সুনির্দিষ্ট ব্যবহার | 15:07 | [Watch](https://youtu.be/br7wXkcTyUY) |
-| 264 | হিমায়ন চক্রের আনুষজ্ঞিক এবং সহায়ক যন্ত্রাংশ সমূহ | 4:01 | [Watch](https://youtu.be/I4epxAfC-Ng) |
-| 265 | রেফ্রিজারেশন সাইকেল ব্যবহৃত আনুষজ্ঞিক গুরুত্বপূর্ণ যন্ত্রাংশ সমূহের তালিকা | 6:19 | [Watch](https://youtu.be/yTSDv9IN_NM.) |
-| 266 | রেফ্রিজারেশন সাইকেলের সহায়ক যন্ত্রগুলোর তালিকা | 3:08 | [Watch](https://youtu.be/8kgFKpQK7RE) |
+| 255 | ইভাপোরেটরের শ্রেণীবিভাগ | 10:08 | [Watch](https://youtu.be/FeEpS-0KXC4) |
+| 256 | Direct Cooling Evaporator | 2:31 | [Watch](https://youtu.be/RDbH7733ZMU) |
+| 257 | Indirect Cooling Evaporator | 5:30 | [Watch](https://youtu.be/Q3M12oFhtXM) |
+| 258 | থার্মাল ইলেকট্রিক এক্সপানশন ভালব | 3:14 | [Watch](https://youtu.be/BEHVFzMQ9nA) |
+| 259 | বেয়ার টাইপ ইভাপোরেটর | 2:16 | [Watch](https://youtu.be/8waat0_Y8zc) |
+| 260 | প্লেট টাইপ ইভাপোরেটর | 3:21 | [Watch](https://youtu.be/RbaiBeunYEg) |
+| 261 | ফিন্স টাইপ ইভাপোরেটর | 5:26 | [Watch](https://youtu.be/CdK9P7kcdIM) |
+| 262 | প্রত্যেক প্রকার ইভাপোরেটরের সুনির্দিষ্ট ব্যবহার | 15:07 | [Watch](https://youtu.be/br7wXkcTyUY) |
 
-*266 videos total*
+*262 videos total*

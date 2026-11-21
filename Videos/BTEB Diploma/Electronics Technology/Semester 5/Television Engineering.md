@@ -1,5 +1,6 @@
 # Television Engineering
-> 170 videos | Electronics Technology
+
+> 168 videos | Electronics Technology
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
@@ -136,42 +137,40 @@
 | 131 | ইন্টারলেস এরর Interlace Error | 18:10 | [Watch](https://youtu.be/cblp4OPycc4) |
 | 132 | টিভি রিসিভার | 8:06 | [Watch](https://youtu.be/t078N--UggQ) |
 | 133 | ট্রিনিট্রন কালার পিকচার টিউবের গঠন ও কার্যপ্রণালি | 12:08 | [Watch](https://youtu.be/_GIP5LDpYJ4) |
-| 134 | টিভি রিসিভার | 8:06 | [Watch](https://youtu.be/t078N--UggQ) |
-| 135 | প্যারাবোলিক প্রতিফলক এন্টেনা | 6:02 | [Watch](https://youtu.be/V3znw_dSjfw) |
-| 136 | সাব ক্যারিয়ার অসিলেটর | 8:26 | [Watch](https://youtu.be/fD9cIJ1tTb0) |
-| 137 | সাদা কালো ও কালার ট্রান্সমিশনে সংগতিপূর্ণ বিষয়সমূহের বর্ণনা | 10:34 | [Watch](https://youtu.be/AqABUotCbak) |
-| 138 | ক্লোজড সার্কিট টেলিভিশন (CCTV) | 12:34 | [Watch](https://youtu.be/WsG9oeFkdUc) |
-| 139 | ক্যামেরা টিউব  এবং পিকচার টিউবের পার্থক্য | 6:34 | [Watch](https://youtu.be/3ZNUd3K8z0g) |
-| 140 | ফ্রেম ও ফিল্ডের মধ্যে পার্থক্য | 5:11 | [Watch](https://youtu.be/7x7AzA65bDg) |
-| 141 | লগ পিরিওডিক এন্টেনা | 6:04 | [Watch](https://youtu.be/_LwFknIZq38) |
-| 142 | কালার বার্স্ট অ্যামপ্লিফায়ার CBAঅ্যান্ড বার্স্ট ব্ল্যাংকিং | 8:02 | [Watch](https://youtu.be/6M-D4J5AhAo) |
-| 143 | ব্লক চিত্রসহ মাস্টার অ্যান্টেনা টিভি | 7:32 | [Watch](https://youtu.be/9iWDoZjgvN8) |
-| 144 | The International Radio Consultative Committee (CCIR) | 6:07 | [Watch](https://youtu.be/ArnARlnQ1lE) |
-| 145 | ব্লক চিত্রসহ মাস্টার অ্যান্টেনা টিভি | 7:32 | [Watch](https://youtu.be/9iWDoZjgvN8) |
-| 146 | ভি-এন্টেনা | 4:31 | [Watch](https://youtu.be/dK_FC2KNh-I) |
-| 147 | কালার মেট্রিক্স | 11:25 | [Watch](https://youtu.be/pUtW0im05ds) |
-| 148 | সিএাটিভি (CATV) | 13:22 | [Watch](https://youtu.be/Fu5wBlCN0io) |
-| 149 | Federal Communication Commission (FCC) | 4:32 | [Watch](https://youtu.be/I554o-P-h-Y) |
-| 150 | ইয়াগি অ্যান্টেনা | 12:04 | [Watch](https://youtu.be/V0r8_dgQjy4) |
-| 151 | রম্বিক এন্টেনা | 5:31 | [Watch](https://youtu.be/o-7vhye8bXg) |
-| 152 | কালার ডিফারেন্স অ্যামপ্লিফায়ার | 12:31 | [Watch](https://youtu.be/Hj7EFEVJArg) |
-| 153 | প্রয়োগসহ স্যাটেলাইট টিভি যোগাযোগ | 10:23 | [Watch](https://youtu.be/D9_z0NMu5R0) |
-| 154 | বাংলাদেশে টিভি কেন্দ্রগুলোর বিভিন্ন ব্যান্ড ও চ্যানেলের পিকচার এবং সাউন্ড ক্যারিয়ার ফ্রিকুয়েন্সি | 4:01 | [Watch](https://youtu.be/xxDI0f3_45c) |
-| 155 | অ্যান্টেনার উপাদানগুলোর ভৌত দৈর্ঘ্য | 6:25 | [Watch](https://youtu.be/BIbfCPhZV2g) |
-| 156 | টিভি রিসিভার সার্কিটের টিপিক্যাল ফল্টসমূহের বর্ণনা | 10:19 | [Watch](https://youtu.be/kpu-Q_rUPa0) |
-| 157 | ব্যান্ডউইথ এর লাইন এবং ইন্টারলেস স্ক্যানিং ও ফ্রিকুয়েন্সি এর  প্রভাব | 13:05 | [Watch](https://youtu.be/BuFIUsUvUUs) |
-| 158 | স্যাটেলাইট কক্ষপথ | 12:01 | [Watch](https://youtu.be/ubY-Dwjy7Eo) |
-| 159 | ৮ নং চ্যানেলের জন্য ইয়াগি অ্যান্টেনা | 21:01 | [Watch](https://youtu.be/Y0dEgMTO24o) |
-| 160 | হরিজন্টাল সুইপ সার্কিট | 3:06 | [Watch](https://youtu.be/1XVy1nXZoyQ) |
-| 161 | স্যাটেলাইট যোগাযোগ | 10:35 | [Watch](https://youtu.be/63UYoun82Ys) |
-| 162 | আপলিংক এবং ডাউনলিংক ফ্রিকুয়েন্সি | 2:02 | [Watch](https://youtu.be/-NGB8XeCxPw) |
-| 163 | ট্রান্সপোন্ডার চ্যানেল | 5:31 | [Watch](https://youtu.be/tTUJRgzlwBw) |
-| 164 | ফুট প্রিন্ট এরিয়া | 4:29 | [Watch](https://youtu.be/gKbyt_8w_8E) |
-| 165 | ভূপৃষ্ঠে সিগন্যাল গ্রহণ | 5:08 | [Watch](https://youtu.be/W6IiQ76cyls) |
-| 166 | টিভি কভারেজের অ্যাফেক্টিভ ফ্যাক্টর | 6:30 | [Watch](https://youtu.be/ngGrLBpj4Uc) |
-| 167 | সাইট প্রপাগেশন | 6:32 | [Watch](https://youtu.be/4QFEEHDUrIM) |
-| 168 | পৃথিবীর বক্রতার প্রভাব | 4:20 | [Watch](https://youtu.be/cBHWn4beSgo) |
-| 169 | অ্যান্টেনার উচ্চতা | 7:16 | [Watch](https://youtu.be/-fqQOQltVeQ) |
-| 170 | ট্রান্সমিটারের শক্তি | 15:26 | [Watch](https://youtu.be/PCndM7L3Rmo) |
+| 134 | প্যারাবোলিক প্রতিফলক এন্টেনা | 6:02 | [Watch](https://youtu.be/V3znw_dSjfw) |
+| 135 | সাব ক্যারিয়ার অসিলেটর | 8:26 | [Watch](https://youtu.be/fD9cIJ1tTb0) |
+| 136 | সাদা কালো ও কালার ট্রান্সমিশনে সংগতিপূর্ণ বিষয়সমূহের বর্ণনা | 10:34 | [Watch](https://youtu.be/AqABUotCbak) |
+| 137 | ক্লোজড সার্কিট টেলিভিশন (CCTV) | 12:34 | [Watch](https://youtu.be/WsG9oeFkdUc) |
+| 138 | ক্যামেরা টিউব  এবং পিকচার টিউবের পার্থক্য | 6:34 | [Watch](https://youtu.be/3ZNUd3K8z0g) |
+| 139 | ফ্রেম ও ফিল্ডের মধ্যে পার্থক্য | 5:11 | [Watch](https://youtu.be/7x7AzA65bDg) |
+| 140 | লগ পিরিওডিক এন্টেনা | 6:04 | [Watch](https://youtu.be/_LwFknIZq38) |
+| 141 | কালার বার্স্ট অ্যামপ্লিফায়ার CBAঅ্যান্ড বার্স্ট ব্ল্যাংকিং | 8:02 | [Watch](https://youtu.be/6M-D4J5AhAo) |
+| 142 | ব্লক চিত্রসহ মাস্টার অ্যান্টেনা টিভি | 7:32 | [Watch](https://youtu.be/9iWDoZjgvN8) |
+| 143 | The International Radio Consultative Committee (CCIR) | 6:07 | [Watch](https://youtu.be/ArnARlnQ1lE) |
+| 144 | ভি-এন্টেনা | 4:31 | [Watch](https://youtu.be/dK_FC2KNh-I) |
+| 145 | কালার মেট্রিক্স | 11:25 | [Watch](https://youtu.be/pUtW0im05ds) |
+| 146 | সিএাটিভি (CATV) | 13:22 | [Watch](https://youtu.be/Fu5wBlCN0io) |
+| 147 | Federal Communication Commission (FCC) | 4:32 | [Watch](https://youtu.be/I554o-P-h-Y) |
+| 148 | ইয়াগি অ্যান্টেনা | 12:04 | [Watch](https://youtu.be/V0r8_dgQjy4) |
+| 149 | রম্বিক এন্টেনা | 5:31 | [Watch](https://youtu.be/o-7vhye8bXg) |
+| 150 | কালার ডিফারেন্স অ্যামপ্লিফায়ার | 12:31 | [Watch](https://youtu.be/Hj7EFEVJArg) |
+| 151 | প্রয়োগসহ স্যাটেলাইট টিভি যোগাযোগ | 10:23 | [Watch](https://youtu.be/D9_z0NMu5R0) |
+| 152 | বাংলাদেশে টিভি কেন্দ্রগুলোর বিভিন্ন ব্যান্ড ও চ্যানেলের পিকচার এবং সাউন্ড ক্যারিয়ার ফ্রিকুয়েন্সি | 4:01 | [Watch](https://youtu.be/xxDI0f3_45c) |
+| 153 | অ্যান্টেনার উপাদানগুলোর ভৌত দৈর্ঘ্য | 6:25 | [Watch](https://youtu.be/BIbfCPhZV2g) |
+| 154 | টিভি রিসিভার সার্কিটের টিপিক্যাল ফল্টসমূহের বর্ণনা | 10:19 | [Watch](https://youtu.be/kpu-Q_rUPa0) |
+| 155 | ব্যান্ডউইথ এর লাইন এবং ইন্টারলেস স্ক্যানিং ও ফ্রিকুয়েন্সি এর  প্রভাব | 13:05 | [Watch](https://youtu.be/BuFIUsUvUUs) |
+| 156 | স্যাটেলাইট কক্ষপথ | 12:01 | [Watch](https://youtu.be/ubY-Dwjy7Eo) |
+| 157 | ৮ নং চ্যানেলের জন্য ইয়াগি অ্যান্টেনা | 21:01 | [Watch](https://youtu.be/Y0dEgMTO24o) |
+| 158 | হরিজন্টাল সুইপ সার্কিট | 3:06 | [Watch](https://youtu.be/1XVy1nXZoyQ) |
+| 159 | স্যাটেলাইট যোগাযোগ | 10:35 | [Watch](https://youtu.be/63UYoun82Ys) |
+| 160 | আপলিংক এবং ডাউনলিংক ফ্রিকুয়েন্সি | 2:02 | [Watch](https://youtu.be/-NGB8XeCxPw) |
+| 161 | ট্রান্সপোন্ডার চ্যানেল | 5:31 | [Watch](https://youtu.be/tTUJRgzlwBw) |
+| 162 | ফুট প্রিন্ট এরিয়া | 4:29 | [Watch](https://youtu.be/gKbyt_8w_8E) |
+| 163 | ভূপৃষ্ঠে সিগন্যাল গ্রহণ | 5:08 | [Watch](https://youtu.be/W6IiQ76cyls) |
+| 164 | টিভি কভারেজের অ্যাফেক্টিভ ফ্যাক্টর | 6:30 | [Watch](https://youtu.be/ngGrLBpj4Uc) |
+| 165 | সাইট প্রপাগেশন | 6:32 | [Watch](https://youtu.be/4QFEEHDUrIM) |
+| 166 | পৃথিবীর বক্রতার প্রভাব | 4:20 | [Watch](https://youtu.be/cBHWn4beSgo) |
+| 167 | অ্যান্টেনার উচ্চতা | 7:16 | [Watch](https://youtu.be/-fqQOQltVeQ) |
+| 168 | ট্রান্সমিটারের শক্তি | 15:26 | [Watch](https://youtu.be/PCndM7L3Rmo) |
 
-*170 videos total*
+*168 videos total*

@@ -4,54 +4,54 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | রোবট পেরিফেরালস | 17:31 | [Watch](https://youtu.be/SvyYdJmcKek) |
-| 2 | রোবট | 16:23 | [Watch](https://youtu.be/3GTsW_GthJI) |
-| 3 | ভেহিক্যাল অটোমেশন | 20:13 | [Watch](https://youtu.be/UWKyO4SHSRM) |
-| 4 | হাইব্রিড ভেহিক্যাল | 19:23 | [Watch](https://youtu.be/hVVr3t4mqtI) |
-| 5 | রেলগাড়ির ইঞ্জিন | 18:05 | [Watch](https://youtu.be/nRwapK0hRjU) |
-| 6 | হাইড্রোলিক ও নিউমেটিক মেশিনারিজ | 20:07 | [Watch](https://youtu.be/uOxrVQn4jKE) |
-| 7 | পাওয়ার প্লান্ট | 19:02 | [Watch](https://youtu.be/wsEVgzY-nsk) |
-| 8 | রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং ইকুইপমেন্ট | 8:23 | [Watch](https://youtu.be/kin2hkjetlQ) |
-| 9 | প্রবাহী বলবিদ্যা কাকে বলে | 12:20 | [Watch](https://youtu.be/khR8UMGNY2o) |
-| 10 | বাষ্প উৎপাদক Steam generator | 26:07 | [Watch](https://youtu.be/-OG9Dl9JRD0) |
-| 11 | অন্তর্দহন ইঞ্জিন | 33:10 | [Watch](https://youtu.be/zafXC7Gf35A) |
-| 12 | অটোমোবাইল কাঠামো বলতে কী বুঝায় | 33:05 | [Watch](https://youtu.be/RcvC5vOkrmo) |
-| 13 | অটোমোবাইল সার্ভিস স্টেশন কী বুঝায় | 26:16 | [Watch](https://youtu.be/6aVCCXjPwwI) |
-| 14 | অটোমোবাইল বলতে কী বুঝায় | 25:02 | [Watch](https://youtu.be/679UN_05KiU) |
-| 15 | ঝুঁকি কাকে বলে | 32:01 | [Watch](https://youtu.be/qhWZz2gjns0) |
-| 16 | রোবট পেরিফেরালস | 17:16 | [Watch](https://youtu.be/PIAjPnEZ5Xg) |
-| 17 | রোবট | 23:06 | [Watch](https://youtu.be/57aXCRI9rC4) |
-| 18 | ভেহিক্যাল অটোমেশন | 22:28 | [Watch](https://youtu.be/TBJ3Zc2EFTY) |
-| 19 | সিরিজ হাইব্রিড যানবাহন | 7:25 | [Watch](https://youtu.be/LJR15XT_ehs) |
-| 20 | রেলগাড়ির ইঞ্জিন বা লোকোমোটিভ | 15:15 | [Watch](https://youtu.be/SW9lpYA0pI8) |
-| 21 | হাইড্রোলিক ও নিউমোটিক মেশিনারিজ | 5:31 | [Watch](https://youtu.be/2nWKJDhtON8) |
-| 22 | পাওয়ার প্লান্ট | 17:04 | [Watch](https://youtu.be/m66OHlam5aA) |
-| 23 | মার্কিং অফ বা লেয়িং আউট টুলস | 26:01 | [Watch](https://youtu.be/dt5t-SWTuQ4) |
-| 24 | ফ্লুইড | 13:02 | [Watch](https://youtu.be/dO_Kx-iy8kQ) |
-| 25 | বাষ্প উৎপাদক | 11:09 | [Watch](https://youtu.be/vArRnLh0eek) |
-| 26 | অন্তর্দহন ইঞ্জিন | 10:00 | [Watch](https://youtu.be/Y09bI8fMv5Y) |
-| 27 | অটোমোবাইল এর প্রধান যন্ত্রপাতির তালিকা | 4:19 | [Watch](https://youtu.be/ovXjioLJaO8) |
-| 28 | অটোমোবাইল সার্ভিস স্টেশনের লে আউট | 10:20 | [Watch](https://youtu.be/0y26pE_yabQ) |
-| 29 | অটোমোবাইল কি? | 29:29 | [Watch](https://youtu.be/2cKMGMcQheI) |
-| 30 | সাধারণ নিরাপত্তা | 9:26 | [Watch](https://youtu.be/H8NmwwqzM_w) |
-| 31 | রেফ্রিজারেশন বলতে কী বুঝায় | 21:17 | [Watch](https://youtu.be/GAfx0a67H5E) |
-| 32 | একটি অন্তর্দাহ ইঞ্জিনের পাঁচটি স্থির ও পাঁচটি চলমান যন্ত্রাংশের নাম | 22:17 | [Watch](https://youtu.be/aw3cvD6zAjw) |
-| 33 | কারখানার লে আউট অঙ্কন  করে বর্ণনা | 14:10 | [Watch](https://youtu.be/4XmL1OFbjvM) |
-| 34 | অ্যাকচুয়েটর রোবট পেরিফেরাল হিসেবে ব্যবহার | 22:18 | [Watch](https://youtu.be/LoHkfDZ0twA) |
-| 35 | রোবটে কাজের ধরন অনুসারে শ্রেনীবিভাগ part 1 | 11:07 | [Watch](https://youtu.be/dn8Ko-G1G-8) |
-| 36 | যানবাহন অটোমেশন | 10:01 | [Watch](https://youtu.be/ZSVz4XR2l4I) |
-| 37 | প্যারালাল হাইব্রিড যানবাহন | 5:08 | [Watch](https://youtu.be/gkcd1EGH5s8) |
-| 38 | Mass Rapid Transit | 14:35 | [Watch](https://youtu.be/Hozuwq4BVt4) |
-| 39 | হাইড্রোলিক অটো লিফটের কার্যনীতি | 6:05 | [Watch](https://youtu.be/mjntcRCacqw) |
-| 40 | বিভিন্ন ধরনের পাওয়ার প্লান্ট | 12:05 | [Watch](https://youtu.be/kxzFa3jzNPo) |
-| 41 | মেজারিং ইন্সট্রুমেন্ট | 3:31 | [Watch](https://youtu.be/ddSpkjz8mjA) |
-| 42 | রেসিপ্রোকেটিং পম্পের ব্যবহার | 13:15 | [Watch](https://youtu.be/dqWE7pXZUqs) |
-| 43 | বাষ্প টারবাইন | 8:11 | [Watch](https://youtu.be/UEXpmnGXBbc) |
-| 44 | পেট্রোল ইঞ্জিনের বিভিন্ন যন্ত্রাংশ | 5:14 | [Watch](https://youtu.be/GjHrZlOqUFE) |
-| 45 | আইসি ইঞ্জিনের মিশ্চল ও চলমান যন্ত্রাংশের তালিকা | 2:28 | [Watch](https://youtu.be/JVhQvFBgI6s) |
-| 46 | হস্তচালিত টুলস এর তালিকা | 6:33 | [Watch](https://youtu.be/diBgRFt2cyk) |
-| 47 | অটোমোবাইলের প্রকারভেদ | 9:16 | [Watch](https://youtu.be/SeKIboRnTzI) |
-| 48 | কারখানার নিরাপত্তা ও বিভিন্ন বিপদের প্রকারভেদ | 8:33 | [Watch](https://youtu.be/Pz17KWcjM_g) |
+| 1 | রোবট পেরিফেরালস | 17:16 | [Watch](https://youtu.be/PIAjPnEZ5Xg) |
+| 2 | রোবট | 23:06 | [Watch](https://youtu.be/57aXCRI9rC4) |
+| 3 | ভেহিক্যাল অটোমেশন | 22:28 | [Watch](https://youtu.be/TBJ3Zc2EFTY) |
+| 4 | সিরিজ হাইব্রিড যানবাহন | 7:25 | [Watch](https://youtu.be/LJR15XT_ehs) |
+| 5 | রেলগাড়ির ইঞ্জিন বা লোকোমোটিভ | 15:15 | [Watch](https://youtu.be/SW9lpYA0pI8) |
+| 6 | হাইড্রোলিক ও নিউমোটিক মেশিনারিজ | 5:31 | [Watch](https://youtu.be/2nWKJDhtON8) |
+| 7 | পাওয়ার প্লান্ট | 17:04 | [Watch](https://youtu.be/m66OHlam5aA) |
+| 8 | মার্কিং অফ বা লেয়িং আউট টুলস | 26:01 | [Watch](https://youtu.be/dt5t-SWTuQ4) |
+| 9 | ফ্লুইড | 13:02 | [Watch](https://youtu.be/dO_Kx-iy8kQ) |
+| 10 | বাষ্প উৎপাদক | 11:09 | [Watch](https://youtu.be/vArRnLh0eek) |
+| 11 | অন্তর্দহন ইঞ্জিন | 10:00 | [Watch](https://youtu.be/Y09bI8fMv5Y) |
+| 12 | অটোমোবাইল এর প্রধান যন্ত্রপাতির তালিকা | 4:19 | [Watch](https://youtu.be/ovXjioLJaO8) |
+| 13 | অটোমোবাইল সার্ভিস স্টেশনের লে আউট | 10:20 | [Watch](https://youtu.be/0y26pE_yabQ) |
+| 14 | অটোমোবাইল কি? | 29:29 | [Watch](https://youtu.be/2cKMGMcQheI) |
+| 15 | সাধারণ নিরাপত্তা | 9:26 | [Watch](https://youtu.be/H8NmwwqzM_w) |
+| 16 | রোবট পেরিফেরালস | 17:31 | [Watch](https://youtu.be/SvyYdJmcKek) |
+| 17 | রোবট | 16:23 | [Watch](https://youtu.be/3GTsW_GthJI) |
+| 18 | ভেহিক্যাল অটোমেশন | 20:13 | [Watch](https://youtu.be/UWKyO4SHSRM) |
+| 19 | হাইব্রিড ভেহিক্যাল | 19:23 | [Watch](https://youtu.be/hVVr3t4mqtI) |
+| 20 | রেলগাড়ির ইঞ্জিন | 18:05 | [Watch](https://youtu.be/nRwapK0hRjU) |
+| 21 | হাইড্রোলিক ও নিউমেটিক মেশিনারিজ | 20:07 | [Watch](https://youtu.be/uOxrVQn4jKE) |
+| 22 | পাওয়ার প্লান্ট | 19:02 | [Watch](https://youtu.be/wsEVgzY-nsk) |
+| 23 | রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং ইকুইপমেন্ট | 8:23 | [Watch](https://youtu.be/kin2hkjetlQ) |
+| 24 | প্রবাহী বলবিদ্যা কাকে বলে | 12:20 | [Watch](https://youtu.be/khR8UMGNY2o) |
+| 25 | বাষ্প উৎপাদক Steam generator | 26:07 | [Watch](https://youtu.be/-OG9Dl9JRD0) |
+| 26 | অন্তর্দহন ইঞ্জিন | 33:10 | [Watch](https://youtu.be/zafXC7Gf35A) |
+| 27 | অটোমোবাইল কাঠামো বলতে কী বুঝায় | 33:05 | [Watch](https://youtu.be/RcvC5vOkrmo) |
+| 28 | অটোমোবাইল সার্ভিস স্টেশন কী বুঝায় | 26:16 | [Watch](https://youtu.be/6aVCCXjPwwI) |
+| 29 | অটোমোবাইল বলতে কী বুঝায় | 25:02 | [Watch](https://youtu.be/679UN_05KiU) |
+| 30 | ঝুঁকি কাকে বলে | 32:01 | [Watch](https://youtu.be/qhWZz2gjns0) |
+| 31 | অ্যাকচুয়েটর রোবট পেরিফেরাল হিসেবে ব্যবহার | 22:18 | [Watch](https://youtu.be/LoHkfDZ0twA) |
+| 32 | রোবটে কাজের ধরন অনুসারে শ্রেনীবিভাগ part 1 | 11:07 | [Watch](https://youtu.be/dn8Ko-G1G-8) |
+| 33 | যানবাহন অটোমেশন | 10:01 | [Watch](https://youtu.be/ZSVz4XR2l4I) |
+| 34 | প্যারালাল হাইব্রিড যানবাহন | 5:08 | [Watch](https://youtu.be/gkcd1EGH5s8) |
+| 35 | Mass Rapid Transit | 14:35 | [Watch](https://youtu.be/Hozuwq4BVt4) |
+| 36 | হাইড্রোলিক অটো লিফটের কার্যনীতি | 6:05 | [Watch](https://youtu.be/mjntcRCacqw) |
+| 37 | বিভিন্ন ধরনের পাওয়ার প্লান্ট | 12:05 | [Watch](https://youtu.be/kxzFa3jzNPo) |
+| 38 | মেজারিং ইন্সট্রুমেন্ট | 3:31 | [Watch](https://youtu.be/ddSpkjz8mjA) |
+| 39 | রেসিপ্রোকেটিং পম্পের ব্যবহার | 13:15 | [Watch](https://youtu.be/dqWE7pXZUqs) |
+| 40 | বাষ্প টারবাইন | 8:11 | [Watch](https://youtu.be/UEXpmnGXBbc) |
+| 41 | পেট্রোল ইঞ্জিনের বিভিন্ন যন্ত্রাংশ | 5:14 | [Watch](https://youtu.be/GjHrZlOqUFE) |
+| 42 | আইসি ইঞ্জিনের মিশ্চল ও চলমান যন্ত্রাংশের তালিকা | 2:28 | [Watch](https://youtu.be/JVhQvFBgI6s) |
+| 43 | হস্তচালিত টুলস এর তালিকা | 6:33 | [Watch](https://youtu.be/diBgRFt2cyk) |
+| 44 | অটোমোবাইলের প্রকারভেদ | 9:16 | [Watch](https://youtu.be/SeKIboRnTzI) |
+| 45 | কারখানার নিরাপত্তা ও বিভিন্ন বিপদের প্রকারভেদ | 8:33 | [Watch](https://youtu.be/Pz17KWcjM_g) |
+| 46 | রেফ্রিজারেশন বলতে কী বুঝায় | 21:17 | [Watch](https://youtu.be/GAfx0a67H5E) |
+| 47 | একটি অন্তর্দাহ ইঞ্জিনের পাঁচটি স্থির ও পাঁচটি চলমান যন্ত্রাংশের নাম | 22:17 | [Watch](https://youtu.be/aw3cvD6zAjw) |
+| 48 | কারখানার লে আউট অঙ্কন  করে বর্ণনা | 14:10 | [Watch](https://youtu.be/4XmL1OFbjvM) |
 | 49 | রোবটিক সিস্টেমে ব্যবহৃত গিয়ারের তালিকা | 17:08 | [Watch](https://youtu.be/TC4t1MpvE3c) |
 | 50 | রোবটে কাজের ধরন অনুসারে শ্রেনীবিভাগ part 2 | 6:32 | [Watch](https://youtu.be/zenOQaxRR24) |
 | 51 | রাস্তায় চলমান যানবাহনের জন্য অটোমেশন লেভেল যাচাই,কার্যকারীতা ও সুবিধাসমূহ | 17:34 | [Watch](https://youtu.be/uj1B9x3em_Q) |

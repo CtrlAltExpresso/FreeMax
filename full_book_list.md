@@ -1,7 +1,7 @@
 # FreeMax Book List
 
 
-Total PDFs in repo: **628** (4018MB)
+Total PDFs in repo: **622** (3983MB)
 
 
 ### Aerospace Aircraft Maintenance Technology ✈️ (19 PDFs, 105MB)
@@ -10,11 +10,11 @@ Total PDFs in repo: **628** (4018MB)
   - Bangla-I
   - Bangla
   - Basic Electricity
-  - English
+  - English-I
+  - Mathematics -I
   - Mathematics-I
-  - Mathematics
+  - Physics -I
   - Physics-I
-  - Physics
 - Semester 2: 4 PDFs
   - Bangla-II
   - English-II
@@ -32,7 +32,7 @@ Total PDFs in repo: **628** (4018MB)
 - Semester 7: 1 PDFs
   - Innovation & Entrepreneurship
 
-### Architecture Technology 🏛️ (22 PDFs, 126MB)
+### Architecture Technology 🏛️ (20 PDFs, 119MB)
 
 - Semester 1: 3 PDFs
   - Bangla-I
@@ -46,23 +46,21 @@ Total PDFs in repo: **628** (4018MB)
 - Semester 3: 2 PDFs
   - Mathematics-III
   - Physics-II
-- Semester 4: 4 PDFs
+- Semester 4: 3 PDFs
   - Accounting
   - Basic Estimating & Costing
-  - Estimating & Costing
   - Social Science
 - Semester 5: 3 PDFs
   - Business Communication
-  - Sanitary Engineering
   - Structural Mechanics
-- Semester 6: 3 PDFs
-  - Design of Structure-II
-  - Design of Structure
+  - Water Supply and Sanitary Engineering
+- Semester 6: 2 PDFs
+  - Design of Structure-I
   - Environmental Studies
 - Semester 7: 3 PDFs
+  - Basic Surveying
   - Innovation & Entrepreneurship
   - Principles of Marketing
-  - Surveying
 
 ### Automobile Technology 🚗 (28 PDFs, 186MB)
 
@@ -126,12 +124,10 @@ Total PDFs in repo: **628** (4018MB)
 - Semester 7: 1 PDFs
   - Innovation & Entrepreneurship
 
-### Cadastral Topographic Survey & Land Information Technology 🗺️ (4 PDFs, 35MB)
+### Cadastral Topographic Survey & Land Information Technology 🗺️ (2 PDFs, 20MB)
 
-- Semester 5: 4 PDFs
-  - Hydraulics
-  - Hydrology
-  - Python Programming
+- Semester 5: 2 PDFs
+  - Fundamentals of Python Programming
   - Theory of Structure
 
 ### Ceramics Technology 🏺 (13 PDFs, 80MB)
@@ -254,7 +250,7 @@ Total PDFs in repo: **628** (4018MB)
   - Theory of Structure
   - Water Supply Engineering
 - Semester 6: 2 PDFs
-  - Design of Structure
+  - Design of Structure-I
   - Environmental Studies
 - Semester 7: 5 PDFs
   - Construction Management & Documentation
@@ -263,18 +259,17 @@ Total PDFs in repo: **628** (4018MB)
   - Innovation & Entrepreneurship
   - Sanitary Engineering
 
-### Computer Science & Technology 💻 (32 PDFs, 205MB)
+### Computer Science & Technology 💻 (31 PDFs, 196MB)
 
 - Semester 1: 4 PDFs
   - Bangla-I
   - Basic Electricity
   - Mathematics-I
   - Physics-I
-- Semester 2: 4 PDFs
+- Semester 2: 3 PDFs
   - Bangla-II
   - English-II
   - Mathematics-II
-  - Python Programming
 - Semester 3: 6 PDFs
   - Application Development Using Python
   - Digital Electronics-I
@@ -289,7 +284,7 @@ Total PDFs in repo: **628** (4018MB)
   - Digital Electronics-II
   - Environmental Studies
   - Java Programming
-  - Web Design & Development
+  - Web Design & Development-I
 - Semester 5: 5 PDFs
   - Accounting
   - Computer Architecture & Microprocessor
@@ -355,8 +350,8 @@ Total PDFs in repo: **628** (4018MB)
   - Basic Electricity
   - Electrical Engineering Materials
   - Mathematics-I
+  - Physics -I
   - Physics-I
-  - Physics
 - Semester 2: 7 PDFs
   - Bangla-II
   - Electrical Circuits-I
@@ -379,12 +374,12 @@ Total PDFs in repo: **628** (4018MB)
   - Electrical & Electronic Measurements-2 (Pass Book)
   - Electrical & Electronic Measurements-I
   - Electrical & Electronic Measurements
-  - Microprocessor & Microcontroller
-  - Testing and Maintannance of Electrical Equipments
+  - Measurements-I Testing and Maintannance of Electrical Equipments
+  - Microprocessor & Interfacing
 - Semester 6: 3 PDFs
   - Communication Engineering
   - Environmental Studies
-  - Transmission & Distribution of Electrical Power
+  - Transmission and Distribution of Electrical Power
 - Semester 7: 4 PDFs
   - Automation Engineering & PLC
   - Business Communication
@@ -422,7 +417,7 @@ Total PDFs in repo: **628** (4018MB)
   - Innovation & Entrepreneurship
   - Switch Gear and Protection
 
-### Electronics Technology 🔬 (32 PDFs, 214MB)
+### Electronics Technology 🔬 (31 PDFs, 209MB)
 
 - Semester 1: 4 PDFs
   - Bangla-I
@@ -436,9 +431,8 @@ Total PDFs in repo: **628** (4018MB)
   - English-II
   - Mathematics-II
   - Social Science
-- Semester 3: 5 PDFs
+- Semester 3: 4 PDFs
   - Digital Electronics-I
-  - Digital Electronics
   - Electrical Circuits-II
   - Mathematics-III
   - Physics-II
@@ -456,7 +450,7 @@ Total PDFs in repo: **628** (4018MB)
   - Television Engineering
 - Semester 6: 2 PDFs
   - Environmental Studies
-  - Transmission and Distribution of Eectrical Power
+  - Transmission and Distribution of Electrical Power
 - Semester 7: 5 PDFs
   - Business Communication
   - Control System and Robotics
@@ -624,10 +618,9 @@ Total PDFs in repo: **628** (4018MB)
 
 ### Mechanical Technology ⚙️ (35 PDFs, 225MB)
 
-- Semester 1: 6 PDFs
+- Semester 1: 5 PDFs
   - Bangla-I
   - Machine Shop Practice I
-  - Machine Shop Practice II
   - Machine Shop Practice
   - Mathematics-I
   - Physics-I
@@ -638,11 +631,12 @@ Total PDFs in repo: **628** (4018MB)
   - Mathematics-II
   - Mechanical Engineering Drawing
   - Physics-II
-- Semester 3: 5 PDFs
+- Semester 3: 6 PDFs
   - Business Communication
+  - Machine Shop Practice II
   - Mathematics-III
   - Mechanical Engineering Materials
-  - RAC Cycles and Components
+  - RAC Cycles & Components
   - Social Science
 - Semester 4: 6 PDFs
   - Accounting
@@ -657,7 +651,7 @@ Total PDFs in repo: **628** (4018MB)
   - Foundry & Pattern Making
   - Manufacturing Process
   - Mechanical Estimating & Costing
-  - Progamming in C
+  - Programming in C
 - Semester 6: 1 PDFs
   - Principles of Marketing
 - Semester 7: 5 PDFs
@@ -693,7 +687,7 @@ Total PDFs in repo: **628** (4018MB)
   - Engineering Thermodynamics
   - Environmental Studies
   - Machine Shop Practice II
-  - Progamming in C
+  - Programming in C
 - Semester 5: 4 PDFs
   - Digital Electronics
   - Fluid Mechanics & Machineries
@@ -701,7 +695,7 @@ Total PDFs in repo: **628** (4018MB)
   - Principles of Marketing
 - Semester 6: 2 PDFs
   - Industrial Electronics
-  - Microprocessor & Microcontroller
+  - Microprocessor & Microcontroller Aplications
 - Semester 7: 2 PDFs
   - Innovation & Entrepreneurship
   - Production Planning & Control
@@ -730,7 +724,7 @@ Total PDFs in repo: **628** (4018MB)
   - Engineering Mechanics
   - Fuels & Lubricants
   - Metallurgy
-  - Progamming in C
+  - Programming in C
 - Semester 5: 3 PDFs
   - Advanced Welding-I
   - Business Communication
@@ -794,7 +788,7 @@ Total PDFs in repo: **628** (4018MB)
   - Fluid Mechanics & Machineries
   - Mechanical Estimating & Costing
   - Metallurgy
-  - Progamming in C
+  - Programming in C
 - Semester 6: 1 PDFs
   - Manufacturing Process
 - Semester 7: 3 PDFs
@@ -878,7 +872,7 @@ Total PDFs in repo: **628** (4018MB)
   - Accounting
   - Digital Electronics
   - Electrical Installation,Planning and Estimating
-  - Progamming in C
+  - Programming in C
 - Semester 5: 2 PDFs
   - DC Machine
   - Electrical & Electronic Measurements-I

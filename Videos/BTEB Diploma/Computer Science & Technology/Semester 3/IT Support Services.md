@@ -4,49 +4,49 @@
 
 | # | Title | Duration | Link |
 |---|-------|----------|------|
-| 1 | নেটওয়ার্কিং বেসিকস | 23:14 | [Watch](https://youtu.be/qYyc9bKITK4) |
-| 2 | ইন্টারনেট ও এর রিসোর্সসমূহের বেসিকস | 24:27 | [Watch](https://youtu.be/BKN2RsI4vJs) |
-| 3 | অ্যাপিস্নকেশন সফটওয়্যার প্যাকেজের ফিচারসমূহ | 8:05 | [Watch](https://youtu.be/zhch98hPGZg) |
-| 4 | সফটওয়্যার বেসিকস | 24:35 | [Watch](https://youtu.be/vhYydntwXG0) |
-| 5 | হার্ডওয়‍্যার বেসিকস | 21:14 | [Watch](https://youtu.be/MBSLkCyHZF8) |
-| 6 | পার্সোনাল প্রোটেকটিভইকুইপমেন্ট PPE | 10:05 | [Watch](https://youtu.be/wWNSkEbO7q8) |
-| 7 | আউটপুট ডিভাইসের ফাংশনসমূহ | 15:11 | [Watch](https://youtu.be/px6AwuTFrYg) |
-| 8 | ইনপুট ডিভাইসের ফাংশনসমূহ | 14:23 | [Watch](https://youtu.be/UI9gmDHpy58) |
-| 9 | কম্পিউটার মেমোরি | 18:09 | [Watch](https://youtu.be/qg_C0ZenNkc) |
-| 10 | ডিজিটাল কম্পিউটার সিস্টেমের বেসিক অর্গানাইজেশন | 22:12 | [Watch](https://youtu.be/YFkss7Lolq4) |
-| 11 | আধুনিক ডিজিটাল কম্পিউটারের প্রকারভেদ | 23:09 | [Watch](https://youtu.be/42M4CBMpbWE) |
-| 12 | কম্পিউটারের বিবর্তন ও প্রজন্ম | 28:30 | [Watch](https://youtu.be/RdfYtkmtwyQ) |
-| 13 | Subject Guidelines | 9:19 | [Watch](https://youtu.be/5KBpHpYxfZI) |
-| 14 | নেটওয়ার্কিং এর ধারণা | 4:21 | [Watch](https://youtu.be/RFvrys1FimA) |
-| 15 | Internet & Resource Concept | 5:08 | [Watch](https://youtu.be/SlkcunmuMhQ) |
-| 16 | Application সফটওয়্যার প্যাকেজের বৈশিষ্ট্য | 6:01 | [Watch](https://youtu.be/TBeDVTIATIE) |
-| 17 | সফটওয়্যারের ধারণা | 6:19 | [Watch](https://youtu.be/U6FeyOWfmtE) |
-| 18 | হার্ডয়্যারের ধারণা | 4:02 | [Watch](https://youtu.be/A2bFI10gzm8) |
-| 19 | ব্যক্তিগত প্রতিরক্ষামূলক সরঞ্জাম | 2:14 | [Watch](https://youtu.be/WSwuQwbbsfQ) |
-| 20 | Output Device এর কার্যাবলি | 4:23 | [Watch](https://youtu.be/RXOULCx2lU8) |
-| 21 | Input Device এর কার্যাবলি অধ্যায়ে যা আলোচনা করা হবে | 5:26 | [Watch](https://youtu.be/L8x3E3fGH7M) |
-| 22 | Definition of Memory | 9:04 | [Watch](https://youtu.be/ExBAuunWhVs) |
-| 23 | Chapter road map | 4:35 | [Watch](https://youtu.be/Avr-PTZ2wOs) |
-| 24 | আধুনিক ডিজিটাল কম্পিউটারের প্রকারভেদ | 5:13 | [Watch](https://youtu.be/hNLozi4NdiY) |
-| 25 | Computer এর বিবর্তন ও প্রজন্ম | 2:16 | [Watch](https://youtu.be/ra8OFZyXGlQ) |
-| 26 | নেটওয়ার্ক টপোলজি কী বিভিন্ন প্রকার টোপোলজির বর্ণনা | 6:31 | [Watch](https://youtu.be/tZWt8RUelYQ) |
-| 27 | আউটপুট ডিভাইস সম্পর্কে আলোচনা | 18:11 | [Watch](https://youtu.be/tKnkNS_NOkk) |
-| 28 | কী বোর্ড এর প্রকারভেদ আলোচনা কর | 17:27 | [Watch](https://youtu.be/_7xM5Dl5Myc) |
-| 29 | বিভিন্ন প্রকার RAM এর বর্ণনা দাও | 16:24 | [Watch](https://youtu.be/K5EIF0uRXOg) |
-| 30 | হার্ডওয়্যার ও সফটওয়‍্যারের মধ্যে পার্থক্য লেখ | 20:22 | [Watch](https://youtu.be/2dkw4le7qTo) |
-| 31 | সার্ভার ও ওয়ার্কস্টেশনের মধ্যে পার্থক্য লেখ | 12:31 | [Watch](https://youtu.be/DTjEPBbrXjQ) |
-| 32 | Computer Network | 5:31 | [Watch](https://youtu.be/ShPm5WrVUcc) |
-| 33 | Internet | 24:12 | [Watch](https://youtu.be/R7RBV3gj8EI) |
-| 34 | Word প্রসেসিং সফটওয়্যার | 10:17 | [Watch](https://youtu.be/0YYicccbJIo) |
-| 35 | সফটয়্যার কাকে বলে | 11:01 | [Watch](https://youtu.be/FpjchYAyg9Y) |
-| 36 | হার্ডওয়্যার | 5:02 | [Watch](https://youtu.be/o4rpxa3kS3w) |
-| 37 | PPE এর ধারণা | 2:35 | [Watch](https://youtu.be/ck1we_kY2U4) |
-| 38 | Output Device এর সংজ্ঞা | 13:34 | [Watch](https://youtu.be/xz5wk_b1Km8) |
-| 39 | Input Device এর সংজ্ঞা | 6:07 | [Watch](https://youtu.be/572c0F5YBhg) |
-| 40 | মেমরির শ্রেণীবিভাগ | 6:35 | [Watch](https://youtu.be/0UGKjFXadjE) |
-| 41 | ডিজিটাল কম্পিউটারের মৌলিক Operation | 7:32 | [Watch](https://youtu.be/6kPCVVwgNn8) |
-| 42 | অ্যানালগ কম্পিউটারের বৈশিষ্ট্য নিয়ে আলোচনা | 5:22 | [Watch](https://youtu.be/Qo-StpWeXPY) |
-| 43 | কম্পিউটারের সংজ্ঞা | 14:13 | [Watch](https://youtu.be/vEmFFc-wemM) |
+| 1 | Subject Guidelines | 9:19 | [Watch](https://youtu.be/5KBpHpYxfZI) |
+| 2 | নেটওয়ার্কিং এর ধারণা | 4:21 | [Watch](https://youtu.be/RFvrys1FimA) |
+| 3 | Internet & Resource Concept | 5:08 | [Watch](https://youtu.be/SlkcunmuMhQ) |
+| 4 | Application সফটওয়্যার প্যাকেজের বৈশিষ্ট্য | 6:01 | [Watch](https://youtu.be/TBeDVTIATIE) |
+| 5 | সফটওয়্যারের ধারণা | 6:19 | [Watch](https://youtu.be/U6FeyOWfmtE) |
+| 6 | হার্ডয়্যারের ধারণা | 4:02 | [Watch](https://youtu.be/A2bFI10gzm8) |
+| 7 | ব্যক্তিগত প্রতিরক্ষামূলক সরঞ্জাম | 2:14 | [Watch](https://youtu.be/WSwuQwbbsfQ) |
+| 8 | Output Device এর কার্যাবলি | 4:23 | [Watch](https://youtu.be/RXOULCx2lU8) |
+| 9 | Input Device এর কার্যাবলি অধ্যায়ে যা আলোচনা করা হবে | 5:26 | [Watch](https://youtu.be/L8x3E3fGH7M) |
+| 10 | Definition of Memory | 9:04 | [Watch](https://youtu.be/ExBAuunWhVs) |
+| 11 | Chapter road map | 4:35 | [Watch](https://youtu.be/Avr-PTZ2wOs) |
+| 12 | আধুনিক ডিজিটাল কম্পিউটারের প্রকারভেদ | 5:13 | [Watch](https://youtu.be/hNLozi4NdiY) |
+| 13 | Computer এর বিবর্তন ও প্রজন্ম | 2:16 | [Watch](https://youtu.be/ra8OFZyXGlQ) |
+| 14 | নেটওয়ার্কিং বেসিকস | 23:14 | [Watch](https://youtu.be/qYyc9bKITK4) |
+| 15 | ইন্টারনেট ও এর রিসোর্সসমূহের বেসিকস | 24:27 | [Watch](https://youtu.be/BKN2RsI4vJs) |
+| 16 | অ্যাপিস্নকেশন সফটওয়্যার প্যাকেজের ফিচারসমূহ | 8:05 | [Watch](https://youtu.be/zhch98hPGZg) |
+| 17 | সফটওয়্যার বেসিকস | 24:35 | [Watch](https://youtu.be/vhYydntwXG0) |
+| 18 | হার্ডওয়‍্যার বেসিকস | 21:14 | [Watch](https://youtu.be/MBSLkCyHZF8) |
+| 19 | পার্সোনাল প্রোটেকটিভইকুইপমেন্ট PPE | 10:05 | [Watch](https://youtu.be/wWNSkEbO7q8) |
+| 20 | আউটপুট ডিভাইসের ফাংশনসমূহ | 15:11 | [Watch](https://youtu.be/px6AwuTFrYg) |
+| 21 | ইনপুট ডিভাইসের ফাংশনসমূহ | 14:23 | [Watch](https://youtu.be/UI9gmDHpy58) |
+| 22 | কম্পিউটার মেমোরি | 18:09 | [Watch](https://youtu.be/qg_C0ZenNkc) |
+| 23 | ডিজিটাল কম্পিউটার সিস্টেমের বেসিক অর্গানাইজেশন | 22:12 | [Watch](https://youtu.be/YFkss7Lolq4) |
+| 24 | আধুনিক ডিজিটাল কম্পিউটারের প্রকারভেদ | 23:09 | [Watch](https://youtu.be/42M4CBMpbWE) |
+| 25 | কম্পিউটারের বিবর্তন ও প্রজন্ম | 28:30 | [Watch](https://youtu.be/RdfYtkmtwyQ) |
+| 26 | Computer Network | 5:31 | [Watch](https://youtu.be/ShPm5WrVUcc) |
+| 27 | Internet | 24:12 | [Watch](https://youtu.be/R7RBV3gj8EI) |
+| 28 | Word প্রসেসিং সফটওয়্যার | 10:17 | [Watch](https://youtu.be/0YYicccbJIo) |
+| 29 | সফটয়্যার কাকে বলে | 11:01 | [Watch](https://youtu.be/FpjchYAyg9Y) |
+| 30 | হার্ডওয়্যার | 5:02 | [Watch](https://youtu.be/o4rpxa3kS3w) |
+| 31 | PPE এর ধারণা | 2:35 | [Watch](https://youtu.be/ck1we_kY2U4) |
+| 32 | Output Device এর সংজ্ঞা | 13:34 | [Watch](https://youtu.be/xz5wk_b1Km8) |
+| 33 | Input Device এর সংজ্ঞা | 6:07 | [Watch](https://youtu.be/572c0F5YBhg) |
+| 34 | মেমরির শ্রেণীবিভাগ | 6:35 | [Watch](https://youtu.be/0UGKjFXadjE) |
+| 35 | ডিজিটাল কম্পিউটারের মৌলিক Operation | 7:32 | [Watch](https://youtu.be/6kPCVVwgNn8) |
+| 36 | অ্যানালগ কম্পিউটারের বৈশিষ্ট্য নিয়ে আলোচনা | 5:22 | [Watch](https://youtu.be/Qo-StpWeXPY) |
+| 37 | কম্পিউটারের সংজ্ঞা | 14:13 | [Watch](https://youtu.be/vEmFFc-wemM) |
+| 38 | নেটওয়ার্ক টপোলজি কী বিভিন্ন প্রকার টোপোলজির বর্ণনা | 6:31 | [Watch](https://youtu.be/tZWt8RUelYQ) |
+| 39 | আউটপুট ডিভাইস সম্পর্কে আলোচনা | 18:11 | [Watch](https://youtu.be/tKnkNS_NOkk) |
+| 40 | কী বোর্ড এর প্রকারভেদ আলোচনা কর | 17:27 | [Watch](https://youtu.be/_7xM5Dl5Myc) |
+| 41 | বিভিন্ন প্রকার RAM এর বর্ণনা দাও | 16:24 | [Watch](https://youtu.be/K5EIF0uRXOg) |
+| 42 | হার্ডওয়্যার ও সফটওয়‍্যারের মধ্যে পার্থক্য লেখ | 20:22 | [Watch](https://youtu.be/2dkw4le7qTo) |
+| 43 | সার্ভার ও ওয়ার্কস্টেশনের মধ্যে পার্থক্য লেখ | 12:31 | [Watch](https://youtu.be/DTjEPBbrXjQ) |
 | 44 | Types of Computer Network | 8:31 | [Watch](https://youtu.be/q5kUgTqUhhk) |
 | 45 | Modem | 19:32 | [Watch](https://youtu.be/wTOx5SGU29Y) |
 | 46 | Word প্রসেসিং সফটওয়্যার প্যাকেজসমূহ | 11:20 | [Watch](https://youtu.be/4_n_vBwQrk0) |
